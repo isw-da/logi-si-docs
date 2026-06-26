@@ -1,0 +1,35 @@
+# Simba Intelligence
+
+## Docs
+
+- [Air Gapped Deployment](https://insightsoftware.mintlify.app/simba-intelligence/docs/deployment/installation-and-setup/Air-Gapped-Deployment.md)
+- [Helm Chart Reference](https://insightsoftware.mintlify.app/simba-intelligence/docs/deployment/installation-and-setup/Helm-Chart-Reference.md)
+- [Backup and Recovery](https://insightsoftware.mintlify.app/simba-intelligence/docs/deployment/operations-and-maintenance/Backup-and-Recovery.md)
+- [Monitoring and Alerting](https://insightsoftware.mintlify.app/simba-intelligence/docs/deployment/operations-and-maintenance/Monitoring-and-Alerting.md)
+- [Scheduled Tasks](https://insightsoftware.mintlify.app/simba-intelligence/docs/deployment/operations-and-maintenance/Scheduled-Tasks.md)
+- [Upgrade Procedures](https://insightsoftware.mintlify.app/simba-intelligence/docs/deployment/operations-and-maintenance/Upgrade-Procedures.md)
+- [Installation Guide](https://insightsoftware.mintlify.app/simba-intelligence/docs/getting-started/Installation-Guide.md)
+- [Product Overview](https://insightsoftware.mintlify.app/simba-intelligence/docs/getting-started/Product-Overview.md)
+- [Quick Start Guide](https://insightsoftware.mintlify.app/simba-intelligence/docs/getting-started/Quick-Start-Guide.md)
+- [System Requirements](https://insightsoftware.mintlify.app/simba-intelligence/docs/getting-started/System-Requirements.md)
+- [Administrator Guide](https://insightsoftware.mintlify.app/simba-intelligence/docs/guides/admin-guides/Administrator-Guide.md)
+- [Authentication and Security](https://insightsoftware.mintlify.app/simba-intelligence/docs/guides/admin-guides/Authentication-and-Security.md)
+- [LLM Provider Configuration](https://insightsoftware.mintlify.app/simba-intelligence/docs/guides/admin-guides/LLM-Provider-Configuration.md)
+- [MCP Server Guide](https://insightsoftware.mintlify.app/simba-intelligence/docs/guides/admin-guides/MCP-Server-Guide.md)
+- [Multi Tenancy Guide](https://insightsoftware.mintlify.app/simba-intelligence/docs/guides/admin-guides/Multi-Tenancy-Guide.md)
+- [API Usage Guide](https://insightsoftware.mintlify.app/simba-intelligence/docs/guides/user-guides/API-Usage-Guide.md)
+- [Data Agent User Guide](https://insightsoftware.mintlify.app/simba-intelligence/docs/guides/user-guides/Data-Agent-User-Guide.md)
+- [Data Connection Management](https://insightsoftware.mintlify.app/simba-intelligence/docs/guides/user-guides/Data-Connection-Management.md)
+- [Data Source Optimization Guide](https://insightsoftware.mintlify.app/simba-intelligence/docs/guides/user-guides/Data-Source-Optimization-Guide.md)
+- [Logging Configuration Guide](https://insightsoftware.mintlify.app/simba-intelligence/docs/guides/user-guides/Logging-Configuration-Guide.md)
+- [Playground User Guide](https://insightsoftware.mintlify.app/simba-intelligence/docs/guides/user-guides/Playground-User-Guide.md)
+- [Rules Management Guide](https://insightsoftware.mintlify.app/simba-intelligence/docs/guides/user-guides/Rules-Management-Guide.md)
+- [Release Notes](https://insightsoftware.mintlify.app/simba-intelligence/docs/reference/Release-Notes.md)
+- [Environment Variables Reference](https://insightsoftware.mintlify.app/simba-intelligence/docs/reference/supplementary-resources/Environment-Variables-Reference.md)
+- [Glossary](https://insightsoftware.mintlify.app/simba-intelligence/docs/reference/supplementary-resources/Glossary.md)
+- [Performance Tuning](https://insightsoftware.mintlify.app/simba-intelligence/docs/reference/supplementary-resources/Performance-Tuning.md)
+- [Security Best Practices](https://insightsoftware.mintlify.app/simba-intelligence/docs/reference/supplementary-resources/Security-Best-Practices.md)
+
+## OpenAPI Specs
+
+- [openapi](https://insightsoftware.mintlify.app/api-reference/openapi.json)
