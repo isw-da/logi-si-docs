@@ -39,7 +39,7 @@ Pick whichever fits the customer's stack.
 
 - The assistant retrieves, it does not know. Answer quality depends on what got indexed and how the question is phrased; it can still miss or fetch the wrong page.
 - This is a snapshot, dated below. Docs change. Re-run the pull to refresh.
-- The real Simba Intelligence API spec is not yet here. The SI docs site publishes a placeholder OpenAPI file, not the live one. The genuine SI spec has to come from a running SI instance, which is the remaining item to add.
+- Simba Intelligence publishes no OpenAPI spec for its own NLQ endpoints (`/api/v1/*`, session-authenticated), checked against a live instance. Those are documented in prose in `simba-intelligence/` (the API Usage Guide). The machine-readable spec that does exist is the Composer and discovery API in `composer-api/`, which is the backend SI queries. See `simba-intelligence/API-NOTES.md`.
 
 ## How it was built, and how to refresh
 
