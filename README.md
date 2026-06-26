@@ -23,6 +23,10 @@ Two sources.
 - `manifest.json`, one machine-readable index of all 15,712 articles (id, title, product, section, path, URL, date). Point a script or an agent at this to enumerate everything.
 - `llms.txt`, the same index in the llms.txt convention, grouped by product.
 
+`composer-api/` is the real Logi Composer REST API, the structured endpoint list rather than the prose.
+- `composer-openapi.json`, the live OpenAPI 3.1 spec pulled from a running Composer instance: 220 paths, 338 operations across 73 tags. This is the genuine API, feed it to any tool that reads OpenAPI.
+- `ENDPOINTS.md`, a readable index of every endpoint grouped by tag, for humans and for retrieval.
+
 ## How to use it
 
 Pick whichever fits the customer's stack.
@@ -35,13 +39,15 @@ Pick whichever fits the customer's stack.
 
 - The assistant retrieves, it does not know. Answer quality depends on what got indexed and how the question is phrased; it can still miss or fetch the wrong page.
 - This is a snapshot, dated below. Docs change. Re-run the pull to refresh.
-- The real Composer API spec (swagger) is not here. It lives on a running Composer instance at `/composer/swagger-ui.html` behind an admin login, so it has to be pulled from an instance, not a website. The prose how-to for Composer is included; the structured endpoint list is the one gap.
+- The real Simba Intelligence API spec is not yet here. The SI docs site publishes a placeholder OpenAPI file, not the live one. The genuine SI spec has to come from a running SI instance, which is the remaining item to add.
 
 ## How it was built, and how to refresh
 
 Simba Intelligence: pulled from `https://insightsoftware.mintlify.app` (`llms-full.txt`, `llms.txt`, and each page as `.md`).
 
 devnet: pulled through the public Zendesk Help Center API (no token needed; the token route in the Zendesk guides is for admin actions and does not apply to reading published articles). Page-number paging caps at 10,000 articles, so the pull uses cursor paging to get all 15,712, then converts each article to markdown.
+
+Composer API: pulled from a running Composer instance at `/composer/api-docs`, which serves the live OpenAPI spec.
 
 Snapshot taken 2026-06-26.
 
