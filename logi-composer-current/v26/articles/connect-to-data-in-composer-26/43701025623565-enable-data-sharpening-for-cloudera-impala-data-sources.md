@@ -1,0 +1,26 @@
+---
+title: "Enable Data Sharpening for Cloudera Impala Data Sources"
+id: 43701025623565
+section: "Connect to Data in Composer 26"
+product: "Logi Composer v26"
+url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701025623565-Enable-Data-Sharpening-for-Cloudera-Impala-Data-Sources
+updated_at: 2026-05-29T14:11:28Z
+---
+
+# Enable Data Sharpening for Cloudera Impala Data Sources
+
+# Enable Data Sharpening for Cloudera Impala Data Sources
+
+Data Sharpening works with certain partitioned Impala data sources. The partitioned field should be a time-based attribute and in a supported time format (for example, yyyy-MM-dd). Follow the steps below to set up Data Sharpening for an Impala data source.
+
+**Configure Data Sharpening for a Cloudera Impala data source configuration:**
+
+1. Log in (either as an administrator or as a user who has been assigned to a group with [data source management privileges](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference)).
+2. Select **Sources** on the [UI menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701160499853-The-Composer-UI-Menu) (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46243330374541)) or the [top-level navigation menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701115577869-The-Top-Level-Navigation-Banner), or select the **Sources** box on the [Home page](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701136935821-Home-Page). The [Sources](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701081381901-Data-Sources-Page) page appears.
+3. Select the appropriate data source configuration to edit it, then access the [Fields tab](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701116424973-Manage-Fields) of the data source.
+4. Locate and select the time field you want to use as the driving time field. Select an appropriate time granularity in the **Data Details** section of the **Settings** side bar menu, then **Save** your changes. Consider the 10% rule to ensure Data Sharpening runs when you want it to. See [When Data Sharpening Occurs](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701048625037-When-Data-Sharpening-Occurs) for more information.
+5. Select the **Global Settings** tab, and enable **Time Bar** if not enabled to access the data sharpening settings. See [Configure Time Bar Defaults](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701080606477-Configure-Time-Bar-Defaults).
+6. Select the time field you want to use as the driving time field in thedrop-downfor **Default Time Attribute**.
+7. Enable the **Prefer Sharpening** toggle to enable sharpening and sharpening settings.
+8. Optionally, use the **Max Queries** slider to specify the maximum number of queries used for Data Sharpening. The default maximum is 10 queries.
+9. When your changes are complete, select **Save Settings** to save your changes.

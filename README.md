@@ -18,7 +18,7 @@ Two sources.
 - `pages/`, the 27 SI pages as individual markdown files.
 - `openapi.json`, present but a placeholder only (it is the docs template's sample, with paths like `/plants`). It is not the real SI API. Kept and labelled so its state is obvious.
 
-`logi-devnet/` is the full insightsoftware devnet help centre, all 15,712 articles, covering Logi Composer, Logi Report, Logi Info, Dundas and the embedded products (Izenda, Exago), plus general and legacy entries.
+`logi-devnet/` is the full insightsoftware devnet help centre, all 15,712 articles, covering Logi Report, Logi Info, Dundas, the embedded products (Izenda, Exago), and the legacy v5/v6 era of Logi Composer, plus general entries. Note: the Composer content here is the older v5/v6 (Zoomdata-era) documentation. Current Composer docs are in `logi-composer-current/` below.
 - `articles/<product>/<section>/<id>-<title>.md`, every article as markdown, each with frontmatter (title, id, section, product, source URL, last-updated date).
 - `manifest.json`, one machine-readable index of all 15,712 articles (id, title, product, section, path, URL, date). Point a script or an agent at this to enumerate everything.
 - `llms.txt`, the same index in the llms.txt convention, grouped by product.
@@ -26,6 +26,10 @@ Two sources.
 `composer-api/` is the real Logi Composer REST API, the structured endpoint list rather than the prose.
 - `composer-openapi.json`, the live OpenAPI 3.1 spec pulled from a running Composer instance: 220 paths, 338 operations across 73 tags. This is the genuine API, feed it to any tool that reads OpenAPI.
 - `ENDPOINTS.md`, a readable index of every endpoint grouped by tag, for humans and for retrieval.
+
+`logi-composer-current/` is the current Logi Composer product documentation, pulled from the v25 and v26 help-centre sites, which the devnet help centre does not carry.
+- `v25/` and `v26/`, each with `articles/<section>/<id>-<title>.md` (877 and 871 articles), plus a `manifest.json` and `llms.txt` index per version.
+- This is where the current how-to lives, including the v26.1 feature enhancements. Use this over the legacy Composer content in `logi-devnet/` for anyone on Composer 25 or 26.
 
 ## How to use it
 
