@@ -1,0 +1,25 @@
+---
+title: "Modify Column Security Definitions"
+id: 4402955559319
+section: "Connect to Data in Composer v6"
+category: "Logi Composer"
+url: https://devnet.logianalytics.com/hc/en-us/articles/4402955559319-Modify-Column-Security-Definitions
+updated_at: 2021-08-07T17:30:50Z
+---
+
+# Modify Column Security Definitions
+
+# Modify Column Security Definitions
+
+To modify column security to restrict the data source fields that can be viewed or used by the group:
+
+1. Log into Composer as a Composer administrator, a user in a group that has been granted the **Can Administer Sources**[privilege](https://devnet.logianalytics.com/hc/en-us/articles/4402955416087-Group-Privilege-Reference), or a user in a group that has been granted the **Can Manage Source Permissions**[privilege](https://devnet.logianalytics.com/hc/en-us/articles/4402955416087-Group-Privilege-Reference)*and* who also has **read**[permission](https://devnet.logianalytics.com/hc/en-us/articles/4402955557783-About-Data-Source-Permissions) for the data source.
+
+   If the user name you log in with is also associated with other Composer accounts, verify that the correct account is selected. See [*Switch Accounts*](https://devnet.logianalytics.com/hc/en-us/articles/4402955425175-Switch-Accounts).
+2. Select **Sources** on the [top-level navigation banner](https://devnet.logianalytics.com/hc/en-us/articles/4402963039639-The-Top-Level-Navigation-Banner) or in the [UI menu](https://devnet.logianalytics.com/hc/en-us/articles/4402963040407-The-Composer-UI-Menu) (![](https://devnet.logianalytics.com/hc/article_attachments/4404952783767/hamburger.png)). The Sources page appears.
+3. Locate the data source and select ![](https://devnet.logianalytics.com/hc/article_attachments/4404952869271/security-col.png) in the **Column** column for the data source. The Column Security dialog appears.
+
+   ![](https://devnet.logianalytics.com/hc/article_attachments/4404952869527/col-security_384x260.png)
+4. To modify a column security definition, select it on the left side of the Column Security dialog. The settings for the definition appear in the Filter Details on the right side of the dialog and can be modified.
+5. Modify any of the information for the column security definition, as described in [*Add Column Security Definitions*](https://devnet.logianalytics.com/hc/en-us/articles/4402955558423-Add-Column-Security-Definitions). When you are finished, select ![](https://devnet.logianalytics.com/hc/article_attachments/4404952865943/save-blue-btn_34x18.png) to save the column security settings.
+6. When all column security definition modifications have been made, select ![](https://devnet.logianalytics.com/hc/article_attachments/4404959539863/close-btn_92x21.png) to close the Column Security dialog.

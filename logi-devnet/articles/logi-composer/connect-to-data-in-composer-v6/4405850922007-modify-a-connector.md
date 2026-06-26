@@ -1,0 +1,19 @@
+---
+title: "Modify a Connector"
+id: 4405850922007
+section: "Connect to Data in Composer v6"
+category: "Logi Composer"
+url: https://devnet.logianalytics.com/hc/en-us/articles/4405850922007-Modify-a-Connector
+updated_at: 2021-09-21T01:27:10Z
+---
+
+# Modify a Connector
+
+# Modify a Connector
+
+To modify a connector definition in the Composer environment:
+
+1. Log into the UI as a supervisor and select **Connectors** on the [supervisor menu](https://devnet.logianalytics.com/hc/en-us/articles/4405859441687-The-Composer-Supervisor-Menu) (![](https://devnet.logianalytics.com/hc/article_attachments/4406743720343/hamburger.png)).
+2. In the Connectors section of the Manage Connector Services page, locate the connector you want to modify and select its name. The Edit <connector-name > Connector page appears.
+3. On the Edit <connector-name> Connector page, change the connector settings. These settings are described in [*Define a New Connector*](https://devnet.logianalytics.com/hc/en-us/articles/4405859183255-Define-a-New-Connector).
+4. When you have made the required changes, select ![](https://devnet.logianalytics.com/hc/article_attachments/4406747400087/save-blue-btn.png). The new connector changes are saved and display, as appropriate, in the rest of the UI.

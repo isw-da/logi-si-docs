@@ -1,0 +1,29 @@
+---
+title: "Embedded Composer Component Controls"
+id: 4405851048727
+section: "Embed Composer Dashboards Into Applications using Composer v6"
+category: "Logi Composer"
+url: https://devnet.logianalytics.com/hc/en-us/articles/4405851048727-Embedded-Composer-Component-Controls
+updated_at: 2021-09-21T01:28:28Z
+---
+
+# Embedded Composer Component Controls
+
+# Embedded Composer Component Controls
+
+When Composer components are embedded in your applications, the way in which a user can interact with them is determined by settings established by the dashboard, the dashboard visuals, the user's Composer user definition, and the groups and accounts to which that user definition belongs.
+
+Specifically:
+
+* The mode setting of the dashboard controls whether your users can interact with a dashboard at all. If the dashboard mode is set to Read Only, the user will not be able to interact with the dashboard at all. See [*Generate an Embeddable Dashboard HTML Snippet*](https://devnet.logianalytics.com/hc/en-us/articles/4405859339543-Generate-an-Embeddable-Dashboard-HTML-Snippet) and [*Embedded Dashboard Properties and Objects*](https://devnet.logianalytics.com/hc/en-us/articles/4405851050647-Supported-Embedded-Dashboard-Properties-and-Objects).
+
+  ![](https://devnet.logianalytics.com/hc/article_attachments/4409054855575/noteicon.jpg) The mode setting is deprecated; use [dashboard interactivity](https://devnet.logianalytics.com/hc/en-us/articles/4405859265303-Control-How-Users-Interact-With-a-Dashboard) and [visual interactivity](https://devnet.logianalytics.com/hc/en-us/articles/4405859573143-Control-How-Users-Interact-With-a-Visual) settings instead.
+* The dashboard permissions for the dashboard determine whether a dashboard is even visible for a user, a group, or an account. They also control the permitted level (read, write, or delete) at which the user, group, or account can use the dashboard. See [*About Dashboard Permissions*](https://devnet.logianalytics.com/hc/en-us/articles/4405859259159-About-Dashboard-Permissions).
+* Data source permissions can restrict the use of data sources by Composer users, groups, or accounts. They also control the permitted level (read, write, or delete) at which the user, group, or account can use the data source. For example, if a dashboard is embedded that the user has permissions to read, write, and delete, but the user does not have permission to use the data source used by a visual on the dashboard, an error appears for the visual for that user when the dashboard is embedded. See [*About Data Source Permissions*](https://devnet.logianalytics.com/hc/en-us/articles/4405859328535-About-Data-Source-Permissions).
+* Data source row security can be used to filter the data in the data source used for a dashboard. Row security is applied to specific users, groups, or accounts. If row security is in place, you users will only see the data source data that meets the requirements of the row security filters. For example, your dashboard might show sales for many product categories, but the row security filter for the data source might limit the sales a given user can see to jewelry sales only. See [*Restrict Access to Data Using Row Security*](https://devnet.logianalytics.com/hc/en-us/articles/4405859333655-Restrict-Access-to-Data-Using-Row-Security).
+* Data source column security can restrict the fields within a data source visible to a given group of users. For example, if the group to which a user is assigned does not have access to the actual sales figures provided in the **Actual Sales** field of a sales dashboard, that field will not be visible on the dashboard for that user group when the dashboard is embedded. See [*Restrict Access to Fields Using Column Security*](https://devnet.logianalytics.com/hc/en-us/articles/4405851034007-Restrict-Access-to-Fields-Using-Column-Security).
+* The interactivity settings of the visuals in the embedded dashboard control many aspects concerning how a visual can be used, including controls for what appears on the [visual drop-down menu](https://devnet.logianalytics.com/hc/en-us/articles/4405851254295-Use-the-Visual-Menu). For example, you can restrict the ability of your end users to use the radial menu for a specific visual on a dashboard. A complete list of the controls available using visual interactivity settings is provided in [*Control How Users Interact With a Visual*](https://devnet.logianalytics.com/hc/en-us/articles/4405859573143-Control-How-Users-Interact-With-a-Visual).
+* The interactivity settings of the embedded dashboard control many aspects concerning how the dashboard and all of its visuals can be used, including controls for what appears on the [dashboard icon bar](https://devnet.logianalytics.com/hc/en-us/articles/4405850991127-Use-the-Dashboard-Icon-Bar). For example you can restrict the ability of your end users to add or remove visuals from the dashboard. A complete list of the controls available using dashboard interactivity settings is provided in [*Control How Users Interact With a Dashboard*](https://devnet.logianalytics.com/hc/en-us/articles/4405859265303-Control-How-Users-Interact-With-a-Dashboard).
+* [Cross-visual filters](https://devnet.logianalytics.com/hc/en-us/articles/4405859431447-Control-How-Cross-Visual-Filters-Interact-in-a-Dashboard) can be published or subscribed to. Use them to control how filters interact in a dashboard.
+
+  ![](https://devnet.logianalytics.com/hc/article_attachments/4409054855575/noteicon.jpg) When more than one dashboard is embedded in application, the cross-visual filters that are published for a visual on one of the dashboards can be subscribed to by any visual on any of the embedded dashboards. However, this is not true unless the dashboards are embedded in the same application. Visuals in a dashboard open in one window or tab cannot subscribe to cross-visual filters published by visuals in a different window or tab.

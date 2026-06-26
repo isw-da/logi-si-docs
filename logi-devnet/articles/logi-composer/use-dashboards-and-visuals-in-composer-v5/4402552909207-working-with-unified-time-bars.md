@@ -1,0 +1,79 @@
+---
+title: "Working with Unified Time Bars"
+id: 4402552909207
+section: "Use Dashboards and Visuals in Composer v5"
+category: "Logi Composer"
+url: https://devnet.logianalytics.com/hc/en-us/articles/4402552909207-Working-with-Unified-Time-Bars
+updated_at: 2021-09-15T02:22:42Z
+---
+
+# Working with Unified Time Bars
+
+# Working with Unified Time Bars
+
+When you work with your dashboard, you can apply the settings that you have configured on your time bar to multiple visuals from the same data source. This enables you to view and playback the data on different visuals for the same time period and filtered by the same time filter.
+The time bar shared by the visuals is called a *unified time bar*.
+
+![](https://devnet.logianalytics.com/hc/article_attachments/4406753437463/noteicon.jpg) You can only use a unified time bar for visuals for which the time bar has been enabled
+
+By default, new visuals from the same data source are applied to the same unified time bar on a dashboard, provided the dashboard has only one time bar configured for visuals using that data source.
+If the existing visuals on the dashboard use different time bars, new visuals are not assigned to the unified time bar and must be configured manually to do so.
+
+## Applying a Unified Time Bar to Multiple Visuals
+
+If you have several visuals from the same data source or your visuals contain [cross-source links](https://devnet.logianalytics.com/hc/en-us/articles/4402537728023-Using-Cross-Source-Links), you can use different time bar settings for different visuals.
+
+To apply a unified time bar to multiple visuals that use the same data source on your dashboard:
+
+1. Select a visual on the dashboard and configure the time bar settings, as described above.
+2. Select the time attribute on the left side of the time bar. The Time Bar dialog appears.
+3. In the Time Bar dialog, select the visuals from your dashboard you want to use a unified time bar. The available visuals are listed in the
+   **Applies to** section. The visuals selected will share a unified time bar. The unselected visuals will maintain their own individual time bars.
+
+   ![](https://devnet.logianalytics.com/hc/article_attachments/4406753437463/noteicon.jpg) If your dashboard contains visuals from different data sources, the
+   **Applies to** section lists the visuals separated by data source. The active section in the **Applies to** list depends on the visual selected in the dashboard.
+4. Save the dashboard.
+
+## Changing the Unified Time Bar Attribute
+
+To change the unified time bar attribute:
+
+1. Select a visual on the dashboard that is using the time bar.
+2. Select the time attribute on the left side of the time bar. The Time Bar dialog appears.
+3. In the Time Bar dialog, select a different time attribute. All of the visuals using the unified time bar will adjust to use the new time attribute.
+
+   ![](https://devnet.logianalytics.com/hc/article_attachments/4406753437463/noteicon.jpg) If your dashboard contains visuals from different data sources, the
+   **Applies to** section lists the visuals separated by data source. The active section in the **Applies to** list depends on the visual selected in the dashboard.
+4. Save the dashboard.
+
+## Changing the Unified Time Bar Range
+
+To change the unified time bar range:
+
+1. Select a visual on the dashboard that is using the time bar.
+2. Do one of the following:
+
+   * Select the range setting on the time bar and select a new static time range, dynamic time range, or preset time range for the time bar. See [*Adjusting the Time Bar Range*](https://devnet.logianalytics.com/hc/en-us/articles/4402552908439-Adjusting-the-Time-Bar-Range).
+   * Use the time bar sliders to adjust the range.
+3. Save the dashboard.
+
+## Removing a Visual from the Unified Time Bar
+
+To remove a visual from a unified time bar:
+
+1. Select the visual on the dashboard.
+2. Select the time attribute on the left side of the time bar. The Time Bar dialog appears.
+3. In the Time Bar dialog, clear the checkbox associated with the visual in the **Applies to** section. The visual will no longer share the unified time bar.
+
+   ![](https://devnet.logianalytics.com/hc/article_attachments/4406753437463/noteicon.jpg) If your dashboard contains visuals from different data sources, the
+   **Applies to** section lists the visuals separated by data source. The active section in the **Applies to** list depends on the visual selected in the dashboard.
+4. Save the dashboard.
+
+For example, suppose you need to filter the data in the
+***Sales by Hour*** visual by the
+***Inserted*** attribute for
+***JAN 10 2017 6 AM*** on the
+***Real Time Sales*** visual.
+When you select
+**Apply** to apply the filter, you will have to confirm breaking the unification. The
+***Real Time Sales*** visual is updated and the time bar changes accordingly.

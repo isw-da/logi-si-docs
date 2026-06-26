@@ -1,0 +1,59 @@
+---
+title: "Group By Multiple Fields"
+id: 4402955460503
+section: "Connect to Data in Composer v6"
+category: "Logi Composer"
+url: https://devnet.logianalytics.com/hc/en-us/articles/4402955460503-Group-By-Multiple-Fields
+updated_at: 2021-08-07T17:29:40Z
+---
+
+# Group By Multiple Fields
+
+# Group By Multiple Fields
+
+Many Composer connectors can group by more than one field in a query. Here is a sample SQL query:
+
+```
+select firstField, secondField, count(distinct otherField) from myCollection group by firstField, secondField
+```
+
+If multi-group querying is not supported, some visuals will be unavailable for a data source.
+
+Support for this feature by Composer connectors is shown in the following table.
+
+**Key:****Y** - Supported; **N** - Not Supported; N/A - not applicable
+
+| Connector | Supported? | | Notes |
+| --- | --- | --- | --- |
+| [Amazon Redshift](https://devnet.logianalytics.com/hc/en-us/articles/4402955471255-Manage-the-Amazon-Redshift-Connector) | **Y** | |  |
+| [Amazon S3](https://devnet.logianalytics.com/hc/en-us/articles/4402955471895-Manage-the-Amazon-S3-Connector) | **Y** | |  |
+| [Apache Drill](https://devnet.logianalytics.com/hc/en-us/articles/4402955472535-Manage-the-Apache-Drill-Connector) | **Y** | |  |
+| [Apache Phoenix](https://devnet.logianalytics.com/hc/en-us/articles/4402955473175-Manage-the-Apache-Phoenix-Connector) | **Y** | |  |
+| [Apache Phoenix Query Server (QS)](https://devnet.logianalytics.com/hc/en-us/articles/4402955473175-Manage-the-Apache-Phoenix-Connector) | **Y** | |
+| [Apache Solr](https://devnet.logianalytics.com/hc/en-us/articles/4402955473815-Manage-the-Apache-Solr-Connector) | **Y** | |  |
+| [BigQuery](https://devnet.logianalytics.com/hc/en-us/articles/4402955477655-Manage-the-BigQuery-Connector) | **Y** | |  |
+| [Cloudera Impala](https://devnet.logianalytics.com/hc/en-us/articles/4402955478935-Manage-the-Impala-Connector) | **Y** | |  |
+| [Cloudera Search](https://devnet.logianalytics.com/hc/en-us/articles/4402955479575-Manage-the-Cloudera-Search-Connector) | **N** | |  |
+| [Couchbase](https://devnet.logianalytics.com/hc/en-us/articles/4402955480215-Manage-the-Couchbase-Connector) | **Y** | |  |
+| [Dremio](https://devnet.logianalytics.com/hc/en-us/articles/4402955481111-Manage-the-Dremio-Connector) | **Y** | |  |
+| [Elasticsearch 6.0](https://devnet.logianalytics.com/hc/en-us/articles/4402962910999-Manage-the-Elasticsearch-Connector) | **Y** | |  |
+| [Elasticsearch 7.0](https://devnet.logianalytics.com/hc/en-us/articles/4402962910999-Manage-the-Elasticsearch-Connector) | **Y** | |
+| [Flat File](https://devnet.logianalytics.com/hc/en-us/articles/4402962915095-Upload-a-Flat-File-into-Composer) | **Y** | |  |
+| [HDFS](https://devnet.logianalytics.com/hc/en-us/articles/4402962915863-Manage-the-HDFS-Connector) | **Y** | |  |
+| [Hive](https://devnet.logianalytics.com/hc/en-us/articles/4402955487255-Manage-the-Hive-Connector) | **Y** | |  |
+| [MemSQL](https://devnet.logianalytics.com/hc/en-us/articles/4402962917527-Manage-the-MemSQL-Connector) | **Y** | |  |
+| [Microsoft SQL Server](https://devnet.logianalytics.com/hc/en-us/articles/4402962918423-Manage-the-Microsoft-SQL-Server-Connector) | **Y** | |  |
+| [MongoDB](https://devnet.logianalytics.com/hc/en-us/articles/4402955487895-Manage-the-MongoDB-Connector) | **Y** | |  |
+| [MySQL](https://devnet.logianalytics.com/hc/en-us/articles/4402955488535-Manage-the-MySQL-Connector) | **Y** | |  |
+| [Oracle](https://devnet.logianalytics.com/hc/en-us/articles/4402962919319-Manage-the-Oracle-Connector) | **Y** | |  |
+| [PostgreSQL](https://devnet.logianalytics.com/hc/en-us/articles/4402962920087-Manage-the-PostgreSQL-Connector) | **Y** | |  |
+| [Presto](https://devnet.logianalytics.com/hc/en-us/articles/4402955489303-Manage-the-Presto-Connector) | **Y** | |  |
+| [Real Time Sales](https://devnet.logianalytics.com/hc/en-us/articles/4402955489943-Manage-the-Real-Time-Sales-Demo-Source) | **Y** | |  |
+| [SAP Hana](https://devnet.logianalytics.com/hc/en-us/articles/4402955490583-Manage-the-SAP-Hana-Connector) | **Y** | |  |
+| [SAP IQ](https://devnet.logianalytics.com/hc/en-us/articles/4402955491223-Manage-the-SAP-IQ-Connector) | **Y** | |  |
+| [Snowflake](https://devnet.logianalytics.com/hc/en-us/articles/4402955491863-Manage-the-Snowflake-Connector) | **Y** | |  |
+| [Spark SQL](https://devnet.logianalytics.com/hc/en-us/articles/4402955492503-Manage-the-Spark-SQL-Connector) | **Y** | |  |
+| [Teradata](https://devnet.logianalytics.com/hc/en-us/articles/4402962923159-Manage-the-Teradata-Connector) | **Y** | |  |
+| [TIBCO DV](https://devnet.logianalytics.com/hc/en-us/articles/4402955493143-Manage-the-TIBCO-Data-Virtualization-TDV-Connector) | **Y** | |  |
+| [Upload API](https://devnet.logianalytics.com/hc/en-us/articles/4402962872599-Use-the-Upload-API) | **Y** | |  |
+| [Vertica](https://devnet.logianalytics.com/hc/en-us/articles/4402962927255-Manage-the-Vertica-Connector) | **Y** | |  |

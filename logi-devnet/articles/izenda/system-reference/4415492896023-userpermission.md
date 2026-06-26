@@ -1,0 +1,52 @@
+---
+title: "UserPermission"
+id: 4415492896023
+section: "System Reference"
+category: "Izenda"
+url: https://devnet.logianalytics.com/hc/en-us/articles/4415492896023-UserPermission
+updated_at: 2021-12-10T03:09:58Z
+---
+
+# UserPermission
+
+# UserPermission
+
+| Field | Null | Description | Note |
+| --- | --- | --- | --- |
+| **reportId**  string (GUID) | Y | The id of the report |  |
+| **dashboardId**  string (GUID) | Y | The id of the dashboard |  |
+| **assignedType**  integer |  | The assign type   * 1 = Everyone * 2 = Role * 3 = User |  |
+| **accessRightId**  string (GUID) | Y | The id of the access right |  |
+| **accessRight**  string |  | The access right |  |
+| **shareWith**  string |  | The name of the user or role or “Everyone” |  |
+| **position**  integer |  | The position |  |
+| **accessors**  array of strings (GUID) |  | The ids of users or roles |  |
+| **accessorNames**  array of strings |  | Names of the accessors |  |
+| **tempId**  string (GUID) |  | The temp id |  |
+| **reportAccessRightId**  string (GUID) | Y | Id of the report access right |  |
+| **reportAccessRights**  string |  | The report access right names |  |
+| **dashboardAccessRightId**  string (GUID) | Y | Id of the dashboard access right |  |
+| **dashboardAccessRights**  string |  | The dashboard access right names |  |
+| **assignedTypeName**  string |  | The assign type name |  |
+
+Inherited fields:
+
+## Entity
+
+| Field | NULL | Description | Note |
+| --- | --- | --- | --- |
+| **id**  string (GUID) |  | The id of this object   Example: `572bd576-8c92-4901-ab2a-b16e38144813` | Allow null incase insert a new entity |
+| **state**  integer |  | The entity state of this object   * 0 = None * 1 = Insert * 2 = Delete * 3 = Update |  |
+| **deleted**  boolean |  | Is this object deleted |  |
+| **inserted**  boolean |  | Is this object inserted |  |
+| **version**  string | Y | The version |  |
+| **created**  datetime in ISO 8601 format | Y | The created datetime |  |
+| **createdBy**  string |  | The creator |  |
+| **modified**  datetime in ISO 8601 format | Y | The modification datetime |  |
+| **modifiedBy**  string |  | The user who last modified this object |  |
+
+**Sample**:
+
+```
+{"reportId":null,"dashboardId":"89dca314-f66f-489d-a14c-117aa3ec875d","assignedType":1,"accessRightId":"13698ebf-3e8e-43e1-9e2b-ad3f17d7d008","accessRight":"View Only","shareWith":"Everyone","position":0,"accessors":[],"tempId":null,"reportAccessRightId":null,"reportAccessRights":"","dashboardAccessRightId":null,"dashboardAccessRights":"","id":"193c7f1b-5fcd-40ee-be09-0d7b96736115","state":0,"deleted":false,"inserted":true,"version":1,"created":"2016-10-18T07:24:41.387","createdBy":null,"modified":"2016-10-18T07:24:41.387","modifiedBy":null}
+```

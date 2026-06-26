@@ -1,0 +1,39 @@
+---
+title: "Handle OAuth 2.0 Invalid or Expired Access Tokens"
+id: 4402955668375
+section: "Composer v6 Developer Tools"
+category: "Logi Composer"
+url: https://devnet.logianalytics.com/hc/en-us/articles/4402955668375-Handle-OAuth-2-0-Invalid-or-Expired-Access-Tokens
+updated_at: 2024-04-24T03:44:18Z
+---
+
+# Handle OAuth 2.0 Invalid or Expired Access Tokens
+
+# Handle OAuth 2.0 Invalid or Expired Access Tokens
+
+![](https://devnet.logianalytics.com/hc/article_attachments/4404959473559/noteicon.jpg)Logi Analytics recommends using [Trusted Access](https://devnet.logianalytics.com/hc/en-us/articles/4402955672599-Trusted-Access) for all embed-related workflows.
+
+If an endpoint starts with `<host>:<port>/composer/api/` and you request it using an invalid or expired OAuth 2.0 access token, Composer produces one of the following responses:
+
+```
+HTTP/1.1 401 Unauthorized  
+WWW-Authenticate: Bearer realm="oauth", error="invalid_token", error_description="Access token expired: <token>"  
+  "error": "invalid_token",  
+  "error_description": "Access token expired: <token>"  
+}
+```
+
+**or**
+
+```
+HTTP/1.1 401 Unauthorized  
+WWW-Authenticate: Bearer realm="oauth", error="invalid_token", error_description="Invalid access token: <token>"  
+{  
+  "error": "invalid_token",  
+  "error_description": "Invalid access token: <token>"  
+}
+```
+
+If you request a public link to a dashboard with an invalid or expired access token, you will be redirected to Composer's login page.
+
+This behavior impacts all API endpoints if you are using the API.

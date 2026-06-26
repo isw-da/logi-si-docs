@@ -1,0 +1,26 @@
+---
+title: "Thinkspace - Setting Color Thresholds"
+id: 4419723306135
+section: "Use InfoGo/Discovery Module - Logi Info v14"
+category: "Logi Info"
+url: https://devnet.logianalytics.com/hc/en-us/articles/4419723306135-Thinkspace-Setting-Color-Thresholds
+updated_at: 2022-07-17T01:29:22Z
+---
+
+# Thinkspace - Setting Color Thresholds
+
+# Thinkspace - Setting Color Thresholds
+
+You can set data value thresholds that are indicated by chart colors. To do this, click a chart's column pill gear icon and select the **Colors** menu item:
+
+![](https://devnet.logianalytics.com/hc/article_attachments/4419700003095/dm30_workcharts_23.png)
+
+Using the Colors controls, select a comparison operator, enter a comparison value, and select a color, as shown above.
+
+Click the color swatch to show more colors and the *Show more* link to show additional colors. You can also enter color values directly as hex ("#CCCCCC"), RGB ("rgb(197, 95, 169)"), or text ("Blue") values.
+
+Click the ![](https://devnet.logianalytics.com/hc/article_attachments/4419699911063/plusminus.png) icons to add or remove thresholds. Click **Apply** to immediately apply the thresholds.
+
+![](https://devnet.logianalytics.com/hc/article_attachments/4419700003351/dm30_workcharts_24.png)
+
+The resulting chart, with just one threshold defined, will look similar to the one shown above. Note that the column pill has a colored threshold indicator displayed now.
