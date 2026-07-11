@@ -13,3 +13,5 @@ until the official docs catch up.
   (live-proven OAuth PKCE flow, tool surface, two-identity governance).
 - `llm-provider-compatibility.md` — Grok/OpenAI-direct via LiteLLM bridge; the
   GPT-5.6 chat-completions incompatibility; prospect-parity model choice (5.4).
+- `26.2-authoritative.md` — official release notes + Jira traceability + live findings, reconciled (2026-07-11).
+- `26.2-release-notes-official.md` — the official v26.2.0 notes mirrored from Confluence PJX (never published to Mintlify).
