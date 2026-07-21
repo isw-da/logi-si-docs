@@ -12,7 +12,7 @@ Two distinct in-Composer AI capabilities, gated by Composer feature flags
 | Capability | Flag | Default | State on our rig |
 |---|---|---|---|
 | SI chat assistant on dashboards ("Open Simba Intelligence Chat", sparkle icon) | `symphony-chat` | false | ENABLED (works) |
-| Inline "Create visual with AI" (+ menu, BETA) generating a rendered governed visual | `symphony-ai-visuals-flow` | none | DISABLED (needs a visual-generation chatflow id) |
+| "Create visual with AI" (+ menu, BETA badge) generating a rendered governed visual | frontend render-gate (feature on here) | — | WORKS. Item is disabled ONLY while the chat panel is open in build mode (p==="Visual") or under saas visual-limit; CLOSE the chat, then it is enabled |
 | AI SQL generation in source creation | `symphony-ai-sql-flow` | none | — |
 
 ## The SI chat assistant (verified working)
@@ -36,12 +36,19 @@ Two distinct in-Composer AI capabilities, gated by Composer feature flags
   must return `{"is_configured":true}` (precondition).
 - UX: paste then click the SEND arrow; Return alone does not submit in the panel.
 
-## "Create visual with AI" (BETA, disabled here)
+## "Create visual with AI" (BETA badge, but fully WORKING — verified live 21 Jul)
 
-- Present in the dashboard "+ / Add" menu as "Create visual with AI [BETA]", but
-  `bp3-disabled` on our instance because `symphony-ai-visuals-flow` = none. Enabling needs
-  a valid visual-generation chatflow id set on that flag (feature-toggle/DB change). Treat
-  as roadmap for a demo; do not enable on a live demo rig without testing.
+- CORRECTION to an earlier note: this is NOT globally disabled. The menu item
+  (`data-testid="add-new-visualization-ai-menu-item"`) renders when the feature gate is on
+  (it is, here) and is disabled ONLY when `(saasMode && visualLimitExhausted)` OR the chatbot
+  is already open in build mode (`p==="Visual"`). Every "disabled" observation had the chat
+  panel OPEN. With the chat CLOSED, the item is enabled.
+- Flow: close chat -> + / Add menu -> "Create visual with AI" -> opens the SI assistant in
+  build mode -> describe a chart in plain English -> it RENDERS a real governed bar chart
+  (correct governed numbers) titled from the query, with a "Save to Dashboard" button that
+  adds it to the dashboard as a governed widget.
+- Frontend logic (logi-composer.js `My`): `disabled: (c&&s) || "Visual"===p` where c=saasMode,
+  s=isLimitExhausted, p=current chatbot composer type.
 
 ## Capture harness note
 
