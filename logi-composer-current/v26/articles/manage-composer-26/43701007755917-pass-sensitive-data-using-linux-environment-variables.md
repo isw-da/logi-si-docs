@@ -4,7 +4,7 @@ id: 43701007755917
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701007755917-Pass-Sensitive-Data-Using-Linux-Environment-Variables
-updated_at: 2026-05-29T14:07:24Z
+updated_at: 2026-08-26T07:11:36Z
 ---
 
 # Pass Sensitive Data Using Linux Environment Variables
@@ -21,7 +21,7 @@ You can do this using either of two methods:
 * [Method 1: Use systemd Override Files (Less Secure)](#Method)
 * [Method 2: Use Parameters Passed to Microservices (More Secure)](#Method2)
 
-You can also encrypt sensitive property values. See [Encrypt Configuration Properties](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701037760653-Encrypt-Configuration-Properties).
+You can also encrypt sensitive property values. See [Encrypt Configuration Properties](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701037760653-Encrypt-Configuration-Properties) to ensure your environment meets the requirements to perform this task.
 
 ## Method 1: Use `systemd`Override Files (Less Secure)
 

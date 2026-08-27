@@ -4,7 +4,7 @@ id: 34932973843341
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932973843341-Data-Fusion-Join-Rules
-updated_at: 2026-05-26T22:09:27Z
+updated_at: 2026-08-24T20:32:38Z
 ---
 
 # Data Fusion Join Rules
@@ -17,7 +17,7 @@ You can explicitly specify the [type of join](https://www.w3schools.com/sql/sql_
 
 The following diagram depicts the relationship between the data entities you include in a Fusion data source and the join definitions and join conditions (mappings) you define in a Fusion data source.
 
-![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167194954637)
+![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373420011917)
 
 The following rules must be adhered to for data fusion joins:
 

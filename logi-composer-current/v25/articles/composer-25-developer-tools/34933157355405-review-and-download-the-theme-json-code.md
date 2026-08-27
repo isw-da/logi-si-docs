@@ -4,7 +4,7 @@ id: 34933157355405
 section: "Composer 25 Developer Tools"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933157355405-Review-and-Download-the-Theme-JSON-Code
-updated_at: 2026-05-26T22:08:06Z
+updated_at: 2026-08-24T20:31:23Z
 ---
 
 # Review and Download the Theme JSON Code

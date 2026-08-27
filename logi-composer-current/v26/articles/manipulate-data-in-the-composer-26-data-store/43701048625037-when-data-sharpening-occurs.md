@@ -4,7 +4,7 @@ id: 43701048625037
 section: "Manipulate Data In The Composer 26 Data Store"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701048625037-When-Data-Sharpening-Occurs
-updated_at: 2026-05-29T14:08:13Z
+updated_at: 2026-08-26T07:09:39Z
 ---
 
 # When Data Sharpening Occurs
@@ -15,7 +15,7 @@ When Composer connects to your data source for the first time, it runs an initia
 
 Bear in mind that Composer connects to and runs queries in your original data source and can be resource intensive. The full query runs in the background at the same time as a series of microqueries that sample data across partitions and refine estimates.
 
-When you create a visual, Composer determines whether Data Sharpening is necessary based on the visual style selected and the time attribute parameters that are set for it.
+When you create a visual, Composer determines whether Data Sharpening is necessary based on the visual type you select and the time attribute parameters you set for it.
 
 * For non-trend visuals (such as [bars](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701165163405-Bar-Chart-Styles), [donut charts](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701130594573-Donut-Charts), and [heat maps](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701178280461-Heat-Maps)), the granularity of the driving time field must be less than 10% of the range that is set in the time bar (determined by the MIN/MAX range set in the data source). The minimum granularity used by Composer will *always* be **minutes**. Thus, even if your driving time field granularity (DTFG) is **seconds**, Composer will use **minutes** when performing this 10% rule calculation.
 * For trend visuals (such as [line and bars trend](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701197459725-Edit-Line-Bar-Trend-Charts) and [line trend attribute value](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701130802829-Line-Trend-Attribute-Value-Charts) charts), Composer runs an internal check to determine whether Data Sharpening should execute. Similar to the non-trend visuals, a 10% criteria is used, but it is slightly modified for the trend visual scenario. If the granularity of the driving time field for the source is less than 10% of the time granularity used in the particular trend visual, then Data Sharpening executes.

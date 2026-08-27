@@ -4,7 +4,7 @@ id: 43701015148557
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701015148557-Activate-Admin-Defined-Functions
-updated_at: 2026-05-29T14:08:08Z
+updated_at: 2026-08-26T07:09:35Z
 ---
 
 # Activate Admin-Defined Functions

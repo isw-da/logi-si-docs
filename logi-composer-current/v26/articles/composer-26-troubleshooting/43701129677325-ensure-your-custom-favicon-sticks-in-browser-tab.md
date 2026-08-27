@@ -4,7 +4,7 @@ id: 43701129677325
 section: "Composer 26 Troubleshooting"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701129677325-Ensure-Your-Custom-Favicon-Sticks-in-Browser-Tab
-updated_at: 2026-05-29T14:09:34Z
+updated_at: 2026-08-26T07:10:15Z
 ---
 
 # Ensure Your Custom Favicon Sticks in Browser Tab

@@ -4,7 +4,7 @@ id: 34932779934605
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932779934605-Dashboard-Layouts
-updated_at: 2026-05-26T22:09:55Z
+updated_at: 2026-08-24T20:33:06Z
 ---
 
 # Dashboard Layouts
@@ -29,9 +29,9 @@ When you upgrade your environment, or import a dashboard from an earlier release
 2. Select the **Convert Now** option to convert the dashboard to responsive layout.
 
    Alternatively, select **X** to temporarily hide the conversion banner.
-3. Save ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167908757901) the dashboard to save the converted dashboard.
+3. Save ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374826525453) the dashboard to save the converted dashboard.
 
-   Alternatively, use ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167920054797) to save the converted dashboard using a new name. The original dashboard remains unconverted and unchanged.
+   Alternatively, use ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374826526605) to save the converted dashboard using a new name. The original dashboard remains unconverted and unchanged.
 
 **Note:** 
 Once converted, you can move, swap, and resize widgets more easily, [lock and unlock](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932815023885-Lock-and-Unlock-Widget-Positions) widgets, and enable or disable the responsive layout as needed.
@@ -44,4 +44,4 @@ API documentation is provided in your environment at this link: `https://<compos
 
 Use the property `suppressAutoLayoutWarning` to control visibility of the conversion banner. By default, this is set to `false`, making the banner visible. In embedded environments, set to `true` to hide the banner.
 
-If the banner is hidden, select the dashboard layout icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167920055181)) to make the banner and conversion option visible again.
+If the banner is hidden, select the dashboard layout icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374826527373)) to make the banner and conversion option visible again.

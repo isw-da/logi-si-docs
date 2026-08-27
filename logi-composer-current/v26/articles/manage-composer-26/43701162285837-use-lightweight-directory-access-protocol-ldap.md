@@ -4,7 +4,7 @@ id: 43701162285837
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701162285837-Use-Lightweight-Directory-Access-Protocol-LDAP
-updated_at: 2026-05-29T14:10:30Z
+updated_at: 2026-08-26T07:11:55Z
 ---
 
 # Use Lightweight Directory Access Protocol (LDAP)
@@ -33,6 +33,8 @@ The following LDAP configuration information is needed to configure LDAP in Comp
 | Query | LDAP query that will resolve a specific set of users group found in the search base to be imported into Composer. |
 | User ID attribute | Identifier attribute for users in LDAP implementation of your organization. The following user ID attributes are supported: **UID**, **CN**, **sAMAccountname**, and **userPrincipalName**. This attribute will determine how user names will be represented in Composer. |
 
+**Note:** In this release, when your admin enables the Enhanced Experience user interface, you will see changes to workflows you may have used in previous releases. If you are running an earlier release or your admin has not enabled the new interface, see [Configure LDAP (Earlier Releases)](#Configur).
+
 ## Configure LDAP
 
 **Configure LDAP**
@@ -41,9 +43,9 @@ The following LDAP configuration information is needed to configure LDAP in Comp
 
    **Note:** 
    The default **supervisor** user is no longer installed; add users to the **Supervisors** group instead.
-2. Select **Security** from the menu (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46243179331725)). The security tabs display.
+2. Select **Tools > Security** from the Administration menu. The security work area opens.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46243201234957)
+   ![configure your authentication settings here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417977262093 "security services work area")
 3. On the Security Services tab, make sure that the [LDAP security service is on](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701209060237-Enable-or-Disable-a-Security-Service). If it is not running, turn it on.
 4. Select the **LDAP Settings** tab. The LDAP Settings tab has five sections: **General Settings**, **LDAP Server**, **User Provisioning**, **Mappings**, and **Mappings to Custom User Attributes**.
 5. In the **General Settings** section, switch the **Enable LDAP** option on (slide it to the right).
@@ -80,7 +82,7 @@ Use the **Mappings** subtab to define mappings that bind the user attributes fro
 4. Full Name Mapping
 5. Email mapping
 6. If you want to import users and the groups which they are assigned to, in the **Group mapping attribute** box, type the name of the corresponding column in LDAP.
-7. If you want Composer to automatically create groups for users if they don't exist in your environment yet, turn on **Auto Create Groups** (slide the switch to the right).
+7. If you want Composer to automatically create groups for users if they do not exist in your environment yet, turn on **Auto Create Groups** (slide the switch to the right).
 
    After the credentials are verified, the user groups will be created in Composer and each user will be assigned to the corresponding group.
 
@@ -96,12 +98,12 @@ You can associate custom user attributes with a Composer user on the **Mappings 
 
    **Note:** 
    The default **supervisor** user is no longer installed; add users to the **Supervisors** group instead.
-2. Select **System Users** from the menu. The Manage Users work area opens.
-3. On the **Users** tab, select **Import Users**. A list of users in the LDAP directory is displayed.
+2. Navigate to the Users work area.
+3. Select **Import Users**. A list of users in the LDAP directory is displayed.
 4. To import specific users, select them from the list. To import all users, select **Select All**.
 5. Select **Import**.
 
-If needed, you can delete imported users using the Users list in the left pane.
+If needed, delete imported users using the **Users** list in the left pane.
 
 After users have been imported into Composer, they can be assigned groups and permissions. For an overview of how Composer manages users and groups and how to assign groups and permissions,
 see [Authorize Composer Access](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701020778765-Authorize-Composer-Access).
@@ -123,3 +125,30 @@ To use the secure LDAP connection, you need to import the certificate to your lo
 Now when using a secure connection to LDAP, the URL must be as follows:
 
 ldaps://<ldap\_server>:636
+
+## Configure LDAP (Earlier Releases)
+
+In environments where the [enhanced-experience](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701053868173-Server-Level-Variables#ui-toggle "enhanced-experience link") toggle has been enabled, the menu option **System Users** has been removed from the main menu UI. Users with appropriate privileges can instead access users using the **User** menu option, and groups using the **Groups** menu option.
+
+**Configure LDAP**
+
+1. Log in as a system [admin](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701036219149-Supplied-Users-and-User-Groups#The2) or a member of the Supervisors group.
+
+   **Note:** 
+   The default **supervisor** user is no longer installed; add users to the **Supervisors** group instead.
+2. Select **Security** from the menu (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417977273357)). The security tabs display.
+
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418135905933)
+3. On the Security Services tab, make sure that the [LDAP security service is on](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701209060237-Enable-or-Disable-a-Security-Service). If it is not running, turn it on.
+4. Select the **LDAP Settings** tab. The LDAP Settings tab has five sections: **General Settings**, **LDAP Server**, **User Provisioning**, **Mappings**, and **Mappings to Custom User Attributes**.
+5. In the **General Settings** section, switch the **Enable LDAP** option on (slide it to the right).
+6. Enter the LDAP connection URL (DNS or IP address) where the LDAP directory resides.
+7. Enter the Bind User and Bind Password credentials. The authorized LDAP administrator needs to provide these credentials.
+8. Specify the Search Base which is the DN or location in the LDAP directory tree where a search for registered users can begin. An example entry is provided in the text field: `OU=people,DC=zoomdata,DC=local`, where:
+
+   * OU means organizational unit
+   * DC means domain controller
+9. Provide a query string that can run to identify user nodes under the Search Base. An example is provided in the text field: `(objectclass=person`). Keep in mind that you can only import individual users into Composer. As a result, your query should be limited to objects that are designated as a “person” or “user.” Use a search engine to look up 'common LDAP query strings'.
+10. Optionally [enable user provisioning](#userprov), configure [mappings](#mappings) and [mappings to custom user attributes](#customattr).
+11. Manually import users from the LDAP directory. See [Manually Importing Users from the LDAP Directory](#import).
+12. To use the secure LDAP connection, import the certificate to your local  `jre` key store. See [Using the Secure LDAP Connection](#secureconn).

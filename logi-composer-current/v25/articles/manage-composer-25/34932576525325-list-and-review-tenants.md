@@ -4,7 +4,7 @@ id: 34932576525325
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932576525325-List-and-Review-Tenants
-updated_at: 2026-05-26T22:10:33Z
+updated_at: 2026-08-24T20:33:55Z
 ---
 
 # List and Review Tenants
@@ -14,7 +14,7 @@ updated_at: 2026-05-26T22:10:33Z
 ## List Tenants
 
 1. Log in as the supplied [admin user](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932621360909-Supplied-Users-and-User-Groups#The2), a system administrator, or a member of the Supervisors group.
-2. Select the UI menu (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167993765389)) then select **Multi-Tenancy**.
+2. Select the UI menu (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374919111309)) then select **Multi-Tenancy**.
 
    The Multi-Tenancy work area appears. It lists the defined tenants in your environment.
 3. When you have reviewed the list of tenants in your environment, select **Add Tenant** to add a new tenant, or navigate away from this work area by selecting an option from the menu.
@@ -22,7 +22,7 @@ updated_at: 2026-05-26T22:10:33Z
 ## Review Tenants
 
 1. Log in as the supplied [admin user](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932621360909-Supplied-Users-and-User-Groups#The2), a system administrator, or a member of the Supervisors group.
-2. Select the UI menu (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167993765389)) then select **Multi-Tenancy**.
+2. Select the UI menu (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374919111309)) then select **Multi-Tenancy**.
 
    The Multi-Tenancy work area appears. It lists the defined tenants in your environment.
 3. To review a tenant, select its name in the list.

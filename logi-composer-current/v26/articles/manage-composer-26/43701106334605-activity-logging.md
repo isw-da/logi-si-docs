@@ -4,7 +4,7 @@ id: 43701106334605
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701106334605-Activity-Logging
-updated_at: 2026-05-29T14:08:54Z
+updated_at: 2026-08-26T07:11:06Z
 ---
 
 # Activity Logging
@@ -66,7 +66,7 @@ To enable or disable logging for a specific activity by changing the appropriate
 
 ## Determine Whether an Activity Is Being Logged
 
-To determine whether a specific activity type is being logged in the log file, run the following cURL commsand:
+To determine whether a specific activity type is being logged in the log file, run the following cURL command:
 
 curl -u supervisor: <password> -XGET 'http://<host>:<port>/composer/api/system/activity/type/<activityType>'
 

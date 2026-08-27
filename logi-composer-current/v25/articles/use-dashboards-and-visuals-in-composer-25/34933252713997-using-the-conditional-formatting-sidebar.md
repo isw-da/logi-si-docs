@@ -4,7 +4,7 @@ id: 34933252713997
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933252713997-Using-the-Conditional-Formatting-Sidebar
-updated_at: 2026-05-26T22:08:41Z
+updated_at: 2026-08-24T20:31:48Z
 ---
 
 # Using the Conditional Formatting Sidebar

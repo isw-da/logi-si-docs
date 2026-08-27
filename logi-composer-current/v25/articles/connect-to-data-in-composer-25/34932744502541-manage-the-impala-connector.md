@@ -4,7 +4,7 @@ id: 34932744502541
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932744502541-Manage-the-Impala-Connector
-updated_at: 2026-05-26T22:10:15Z
+updated_at: 2026-08-24T20:33:36Z
 ---
 
 # Manage the Impala Connector
@@ -98,10 +98,10 @@ Time-based fields can be configured for partitioning in an Impala [data source c
 * No (partitioning to be done)
 * Date - this option is available for the Time field type. If you select this option, the list of the partitioned columns will be displayed in the Configure column.
 
-  ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167407619853)
+  ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373954670477)
 * Function - If you select this option, the list of the partitioned columns and supported MURMUR3\_HASH function will be displayed in the Configure column.
 
-  ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167437054989)
+  ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373954907405)
 
 Numeric and time-based fields can be edited using the Fields tab:
 

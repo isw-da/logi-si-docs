@@ -4,7 +4,7 @@ id: 34933107422477
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933107422477-Control-How-Cross-Visual-Filters-Interact-in-a-Dashboard
-updated_at: 2026-05-26T22:07:51Z
+updated_at: 2026-08-24T20:31:04Z
 ---
 
 # Control How Cross-Visual Filters Interact in a Dashboard

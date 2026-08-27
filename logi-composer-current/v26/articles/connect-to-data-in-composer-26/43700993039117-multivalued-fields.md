@@ -4,7 +4,7 @@ id: 43700993039117
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700993039117-Multivalued-Fields
-updated_at: 2026-05-29T14:07:27Z
+updated_at: 2026-08-26T07:09:04Z
 ---
 
 # Multivalued Fields
@@ -31,6 +31,7 @@ Support for this feature by connector is shown in the following table.
 | [Cloudera Search](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701009985933-Manage-the-Cloudera-Search-Connector) | **Y** |  |
 | [Couchbase](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701040183821-Manage-the-Couchbase-Connector) | N/A | The Couchbase connector supports multivalued fields with some limitations. See the detailed description in [Manage the Couchbase Connector](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701040183821-Manage-the-Couchbase-Connector). |
 | [Dremio](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701043446285-Manage-the-Dremio-Connector) | N/A |  |
+| [Dundas BI (Managed)](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/47441922925197-Manage-the-Dundas-BI-Managed-Connector) | source-dependent |  |
 | [Elasticsearch 7.0](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701025911309-Manage-the-Elasticsearch-Connector) | **Y** |  |
 | [Elasticsearch 8.0](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701025911309-Manage-the-Elasticsearch-Connector) | **Y** |
 | [File Upload](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701044052621-Manage-File-Uploads) | N/A |  |

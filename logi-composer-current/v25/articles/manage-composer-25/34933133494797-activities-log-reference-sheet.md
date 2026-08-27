@@ -4,7 +4,7 @@ id: 34933133494797
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933133494797-Activities-Log-Reference-Sheet
-updated_at: 2026-05-26T22:08:03Z
+updated_at: 2026-08-24T20:31:20Z
 ---
 
 # Activities Log Reference Sheet

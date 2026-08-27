@@ -4,7 +4,7 @@ id: 34933066060429
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933066060429-Date-Time-Formats-in-Cross-Visual-Filters
-updated_at: 2026-05-26T22:07:36Z
+updated_at: 2026-08-24T20:30:47Z
 ---
 
 # Date-Time Formats in Cross-Visual Filters

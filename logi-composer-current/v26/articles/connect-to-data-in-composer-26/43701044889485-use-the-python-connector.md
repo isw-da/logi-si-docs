@@ -4,7 +4,7 @@ id: 43701044889485
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701044889485-Use-the-Python-Connector
-updated_at: 2026-05-29T14:07:53Z
+updated_at: 2026-08-26T07:09:20Z
 ---
 
 # Use the Python Connector
@@ -46,13 +46,13 @@ The connector applies the following rules when reading values:
 | decimal.Decimal | DOUBLE |
 | datetime.date | DATE |
 | datetime.datetime | DATE |
-| arbitray object | STRING |
+| arbitrary object | STRING |
 
 ## Python Script Writing Tips
 
 Avoid using top level statements
 
-Top level statement are executed in a single thread for all users. You can add function calls in a top level statement to validate a connection, but don't call functions when you save your script. See [How the Connector Works](#How).
+Top level statement are executed in a single thread for all users. You can add function calls in a top level statement to validate a connection, but do not call functions when you save your script. See [How the Connector Works](#How).
 
 Avoid overriding internal names
 
@@ -93,7 +93,7 @@ Python code is executed using [JEP](https://github.com/ninia/jep) to interpret P
 
 New sub processes are created by [forking](https://docs.python.org/3/library/multiprocessing.html#contexts-and-start-methods) the Java process. Each request starts a new Python interpreter. Scripts are always interpreted first in one parent process. Limit top level statements to imports and function definitions for optimal performance.
 
-Function invocation happens in a separate process, so global variables aren't available. For example:
+Function invocation happens in a separate process, so global variables are not available. For example:
 
 x = 40
 def side\_effect():

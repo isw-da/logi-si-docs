@@ -4,7 +4,7 @@ id: 43701039382541
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701039382541-Enable-User-Delegation
-updated_at: 2026-05-29T14:11:30Z
+updated_at: 2026-08-26T07:11:30Z
 ---
 
 # Enable User Delegation
@@ -25,7 +25,7 @@ User delegation is currently supported by the following connectors: Apache Drill
    The default **supervisor** user is no longer installed; add users to the **Supervisors** group instead.
 2. Select **Security** from the menu. The security tabs display.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242735287437)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418034360717)
 3. Select the **LDAP Settings** tab. The LDAP Settings tab has five sections: **General Settings**, **LDAP Server**, **User Provisioning**, **Mappings**, and **Mappings to Custom User Attributes**.
 
    **Note:** 
@@ -39,7 +39,7 @@ User delegation is currently supported by the following connectors: Apache Drill
 8. Select **Connectors** on the supervisor menu. The Manage Connector Services page appears. This page has two tables: one for Connector Servers and one for Connectors.
 9. Scroll down to the Connectors table and select the appropriate connector from the list. The connector settings page displays.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242752436365)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418034392205)
 10. Scroll down to the Connector Parameters and verify that the checkbox in the **User Attribute** column for the **DO\_AS\_USER** parameter is selected. This ensures that the **DO\_AS\_USER** parameter is visible and can be set in your Impala connection.
 11. Select **Save**.
 

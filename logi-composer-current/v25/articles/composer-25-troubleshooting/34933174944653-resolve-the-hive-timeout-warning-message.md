@@ -4,7 +4,7 @@ id: 34933174944653
 section: "Composer 25 Troubleshooting"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933174944653-Resolve-the-Hive-Timeout-Warning-Message
-updated_at: 2026-05-26T22:08:29Z
+updated_at: 2026-08-24T20:31:35Z
 ---
 
 # Resolve the Hive Timeout Warning Message

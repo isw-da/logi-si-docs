@@ -4,7 +4,7 @@ id: 43701120362381
 section: "Install, Upgrade, and Remove Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701120362381-Windows-Bootstrap-Reference
-updated_at: 2026-05-29T14:08:45Z
+updated_at: 2026-08-26T07:11:19Z
 ---
 
 # Windows Bootstrap Reference
@@ -38,7 +38,7 @@ Other components:
 Add or remove other components or adjust optional components using bootstrap switches. For further help with the bootstrap script, run `Get-Help ./bootstrap-composer.ps1` for syntax help or `Get-Help ./bootstrap-composer.ps1 -Full` for extended parameter help.
 
 **Important:** 
-When you upgrade Composer, all services are stopped before the upgrade is installed, and can't be accessed by users until the upgrade is complete and services restarted.
+When you upgrade Composer, all services are stopped before the upgrade is installed, and can not be accessed by users until the upgrade is complete and services restarted.
 
 ## Installation Parameters
 

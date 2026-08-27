@@ -4,7 +4,7 @@ id: 43701211499277
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701211499277-Upgrade-Composer-with-Custom-Applications
-updated_at: 2026-05-29T14:09:41Z
+updated_at: 2026-08-26T07:10:12Z
 ---
 
 # Upgrade Composer with Custom Applications
@@ -39,7 +39,7 @@ Some key-value pairs are now wrapped in objects. Review the documentation for up
 
 ### Deprecated Objects and Methods
 
-Deprecated objects are methods are mentioned in the Release Notes.
+Deprecated objects are methods are mentioned in the [Release Notes](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701192423949-Logi-Composer-Version-26-Summary-of-Changes).
 
 ## Have You Created a Custom Connector?
 

@@ -4,7 +4,7 @@ id: 43701144196237
 section: "Composer 26 Reference Information"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701144196237-Preset-Time-Ranges
-updated_at: 2026-05-29T14:09:14Z
+updated_at: 2026-08-26T07:10:04Z
 ---
 
 # Preset Time Ranges
@@ -13,7 +13,7 @@ updated_at: 2026-05-29T14:09:14Z
 
 The following table describes all the preset time ranges available in Composer.
 
-**Note:** If you are using a field that has time zone information disabled (select **[Not Specified](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701080606477-Configure-Time-Bar-Defaults#Default_Time_Attribute)**), only the time-related information is shown in the user interface and exported with your data. Time zone labels are not included.
+**Note:** If you are using a field that has time zone information disabled (select **Not Specified**), only the time-related information is shown in the user interface and exported with your data. Time zone labels are not included.
 
 | Preset type | Data Cached? | Start date | End date |
 | --- | --- | --- | --- |

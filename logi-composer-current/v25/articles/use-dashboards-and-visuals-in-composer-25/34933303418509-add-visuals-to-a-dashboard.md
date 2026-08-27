@@ -4,7 +4,7 @@ id: 34933303418509
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933303418509-Add-Visuals-to-a-Dashboard
-updated_at: 2026-05-26T22:08:45Z
+updated_at: 2026-08-24T20:31:51Z
 ---
 
 # Add Visuals to a Dashboard
@@ -22,7 +22,7 @@ Local visuals exist only on the dashboard on which they were created. Convert to
 
    * Users with the [**Administer Dashboards** privilege](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932577846157-Group-Privilege-Reference) can create dashboards and add new local visuals to dashboards.
    * Users with Owner and Editor access levels to a dashboard can add new local visuals to the dashboard.
-2. Select the Add Visual icon ![add icon](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167822044301 "add icon") from the [dashboard icon bar](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932842163469-Use-the-Dashboard-Icon-Bars). A drop-down menu appears with two options: Add New Visual and Add Existing Visual.
+2. Select the Add Visual icon ![add icon](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374712090637 "add icon") from the [dashboard icon bar](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932842163469-Use-the-Dashboard-Icon-Bars). A drop-down menu appears with two options: Add New Visual and Add Existing Visual.
 3. Select **Add New Visual** to add a local visual to the dashboard. The Select a Source dialog appears.
 4. Select a data source on the **Step 1 of 2: Select a Source** dialog. The Select a Visual Type dialog appears.
 5. Select a visual style on the **Step 2 of 2: Select Visual Type** dialog. The visual is created and added to the dashboard.
@@ -45,7 +45,7 @@ Local visuals exist only on the dashboard on which they were created. Convert to
 
    * Users with the [**Administer Dashboards** privilege](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932577846157-Group-Privilege-Reference) can create dashboards and add visuals to dashboards.
    * Users with Owner and Editor access levels to a dashboard can add visuals they can access to the dashboard.
-2. Select Add Visual icon ![Add Visual icon](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167822044301 "Add Visual icon") from the [dashboard icon bar](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932842163469-Use-the-Dashboard-Icon-Bars). A drop-down menu appears with two options: Add New Visual and Add Existing Visual.
+2. Select Add Visual icon ![Add Visual icon](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374712090637 "Add Visual icon") from the [dashboard icon bar](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932842163469-Use-the-Dashboard-Icon-Bars). A drop-down menu appears with two options: Add New Visual and Add Existing Visual.
 3. Select **Add Existing Visual** to add an existing visual to the dashboard. The Select a Visual dialog appears.
 4. Select a visual from the Visual Gallery in the **Select a Visual** work area. The visual is added to the dashboard in a widget.
 5. [Modify](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933280606989-Edit-Visuals) the visual as needed.

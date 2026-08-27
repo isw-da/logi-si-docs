@@ -4,7 +4,7 @@ id: 34933253410445
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933253410445-Add-or-Remove-Table-Columns
-updated_at: 2026-05-26T22:08:40Z
+updated_at: 2026-08-24T20:31:47Z
 ---
 
 # Add or Remove Table Columns

@@ -4,7 +4,7 @@ id: 34932762394509
 section: "Composer 25 Developer Tools"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932762394509-Download-a-Custom-Chart
-updated_at: 2026-05-26T22:10:08Z
+updated_at: 2026-08-24T20:33:27Z
 ---
 
 # Download a Custom Chart
@@ -16,7 +16,7 @@ updated_at: 2026-05-26T22:10:08Z
 1. Log into the UI as an administrator.
 2. Access the Manage Custom Charts page. See [List Custom Charts](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932789895821-List-Custom-Charts).
 3. Locate the visual in the table of visuals.
-4. Select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167397725325) for the visual. The `.zip` file for the visual is downloaded.
+4. Select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373771634317) for the visual. The `.zip` file for the visual is downloaded.
 
 **Note:** 
 When you download the visual from the Manage Custom Charts page, the zip file includes a file called `version` that contains the version of the Composer server. If you later try to import this zip file to the Composer server using a different version an error will occur indicating that the versions do not match. An easy workaround is to modify the version in the `version` file before trying the import.

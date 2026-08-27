@@ -1,10 +1,10 @@
 ---
-title: "Composer\u00a0 Microservice Name Reference"
+title: "Composer  Microservice Name Reference"
 id: 34933143202829
 section: "Composer 25 Reference Information"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143202829-Composer-Microservice-Name-Reference
-updated_at: 2026-05-26T22:08:02Z
+updated_at: 2026-08-24T20:31:18Z
 ---
 
 # Composer  Microservice Name Reference

@@ -4,14 +4,14 @@ id: 43701139797901
 section: "Composer 26 Reference Information"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701139797901-Supplied-Color-Palettes
-updated_at: 2026-05-29T14:09:17Z
+updated_at: 2026-08-26T07:10:04Z
 ---
 
 # Supplied Color Palettes
 
 # Supplied Color Palettes
 
-Composer comes with a number of color palettes. You can add a color palette to your environment using themes. See [Manage UI Themes](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701163831053-Manage-UI-Themes).
+Composer comes with a number of color palettes. You can add a color palette to your environment using themes. See [Manage User Interface Themes](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701163831053-Manage-User-Interface-Themes).
 
 The following table lists the supplied color palettes that are available for use in visuals. If a palette name has `-accessible` appended to its name, it is colorblind friendly.
 

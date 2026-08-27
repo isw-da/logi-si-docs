@@ -4,7 +4,7 @@ id: 34932693640717
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932693640717-Obtain-Additional-Connector-Servers
-updated_at: 2026-05-26T22:06:22Z
+updated_at: 2026-08-24T20:29:18Z
 ---
 
 # Obtain Additional Connector Servers

@@ -4,7 +4,7 @@ id: 43701162606477
 section: "Install, Upgrade, and Remove Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701162606477-Disable-the-SSL-Certificate-in-Composer
-updated_at: 2026-05-29T14:09:26Z
+updated_at: 2026-08-26T07:10:53Z
 ---
 
 # Disable the SSL Certificate in Composer 

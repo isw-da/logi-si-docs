@@ -4,7 +4,7 @@ id: 43701078705933
 section: "Manipulate Data In The Composer 26 Data Store"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701078705933-Maintain-Derived-Fields
-updated_at: 2026-05-29T14:08:15Z
+updated_at: 2026-08-26T07:09:38Z
 ---
 
 # Maintain Derived Fields
@@ -31,6 +31,7 @@ Support for this feature by connector is shown in the following table.
 | [Cloudera Search](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701009985933-Manage-the-Cloudera-Search-Connector) | **N** |  |
 | [Couchbase](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701040183821-Manage-the-Couchbase-Connector) | **Y** |  |
 | [Dremio](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701043446285-Manage-the-Dremio-Connector) | **N** |  |
+| [Dundas BI (Managed)](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/47441922925197-Manage-the-Dundas-BI-Managed-Connector) | source-dependent |  |
 | [Elasticsearch 7.0](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701025911309-Manage-the-Elasticsearch-Connector) | **Y** |  |
 | [Elasticsearch 8.0](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701025911309-Manage-the-Elasticsearch-Connector) | **Y** |
 | [File Upload](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701044052621-Manage-File-Uploads) | **Y** |  |

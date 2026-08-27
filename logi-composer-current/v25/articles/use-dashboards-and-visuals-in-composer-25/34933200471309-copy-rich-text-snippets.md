@@ -4,7 +4,7 @@ id: 34933200471309
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933200471309-Copy-Rich-Text-Snippets
-updated_at: 2026-05-26T22:08:25Z
+updated_at: 2026-08-24T20:31:34Z
 ---
 
 # Copy Rich Text Snippets

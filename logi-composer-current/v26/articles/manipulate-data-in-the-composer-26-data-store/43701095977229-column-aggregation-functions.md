@@ -4,7 +4,7 @@ id: 43701095977229
 section: "Manipulate Data In The Composer 26 Data Store"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701095977229-Column-Aggregation-Functions
-updated_at: 2026-05-29T14:08:17Z
+updated_at: 2026-08-26T07:09:34Z
 ---
 
 # Column Aggregation Functions

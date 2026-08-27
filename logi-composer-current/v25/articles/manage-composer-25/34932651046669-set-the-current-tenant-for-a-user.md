@@ -4,7 +4,7 @@ id: 34932651046669
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932651046669-Set-the-Current-Tenant-for-a-User
-updated_at: 2026-05-26T22:06:03Z
+updated_at: 2026-08-24T20:28:56Z
 ---
 
 # Set the Current  Tenant for a User

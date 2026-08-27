@@ -4,7 +4,7 @@ id: 34932642763021
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932642763021-Enable-and-Disable-Users
-updated_at: 2026-05-26T22:06:05Z
+updated_at: 2026-08-24T20:28:59Z
 ---
 
 # Enable and Disable Users 

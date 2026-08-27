@@ -4,7 +4,7 @@ id: 43700989151885
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700989151885-Create-Your-Own-Chart-Container
-updated_at: 2026-05-29T14:07:14Z
+updated_at: 2026-08-26T07:09:03Z
 ---
 
 # Create Your Own Chart Container

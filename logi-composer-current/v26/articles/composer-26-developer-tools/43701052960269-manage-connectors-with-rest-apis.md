@@ -4,7 +4,7 @@ id: 43701052960269
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701052960269-Manage-Connectors-with-REST-APIs
-updated_at: 2026-05-29T14:11:39Z
+updated_at: 2026-08-26T07:10:43Z
 ---
 
 # Manage Connectors with REST APIs
@@ -13,20 +13,20 @@ updated_at: 2026-05-29T14:11:39Z
 
 The administrative REST APIs enable developers to manage connectors, connections, and data sources. Composer's data connectivity with data stores is organized in these segments, illustrated below.
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242772732557)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418005124365)
 
 There are two basic parts to the connectivity process. They are listed below along with the REST endpoints used to manage them.
 
 * [Composer registers a connector](#Registering), that is a *connector server* from which it requests data. Registering a connector server involves the following REST endpoints:
 
-  + `/api/connector-server/` - Use this endpoint to manage the Composer object that provides HTTP connectivity information about the connector server
-  + `/api/connectors/` - Use this endpoint to list functioning connector servers to validate that Composer has registered the connector server
-  + `/api/connection-type/` - Use this endpoint to manage the object that holds the data store parameters and connection parameters that the connector server needs to connect to a data store. This information commonly includes minimum and maximum supported version and connection parameters such as authentication information.
+  * `/api/connector-server/` - Use this endpoint to manage the Composer object that provides HTTP connectivity information about the connector server
+  * `/api/connectors/` - Use this endpoint to list functioning connector servers to validate that Composer has registered the connector server
+  * `/api/connection-type/` - Use this endpoint to manage the object that holds the data store parameters and connection parameters that the connector server needs to connect to a data store. This information commonly includes minimum and maximum supported version and connection parameters such as authentication information.
     A connection-type corresponds to an icon in the administrator's Sources page and makes it possible for end users to provide login credentials and make a data source from a data store.
 * [The connector server connects to a *data store*](#Connecting) such as a database, or file upload to create a subset of data called a *data source*. That data source serves as a source of data for end users to use with visuals. Connecting to a data store involves the following REST endpoints:
 
-  + `/api/connections/` - Use this endpoint to provide required parameters, often login credentials, that a connector server uses to access a data store following parameters set by the connection-type.
-  + `/api/sources/{id}` - Use this endpoint to create a data source using a connection to a data store. End users can see the date in this data source using visuals.
+  * `/api/connections/` - Use this endpoint to provide required parameters, often login credentials, that a connector server uses to access a data store following parameters set by the connection-type.
+  * `/api/sources/{id}` - Use this endpoint to create a data source using a connection to a data store. End users can see the date in this data source using visuals.
 
 ## Registering Composer with a Connector Server
 

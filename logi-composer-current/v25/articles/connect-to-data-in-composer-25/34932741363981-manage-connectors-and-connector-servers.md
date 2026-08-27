@@ -4,7 +4,7 @@ id: 34932741363981
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932741363981-Manage-Connectors-and-Connector-Servers
-updated_at: 2026-05-26T22:10:16Z
+updated_at: 2026-08-24T20:33:38Z
 ---
 
 # Manage Connectors and Connector Servers
@@ -32,7 +32,7 @@ Each connector server runs independently in the Composer environment. You can se
 
 This means that you are able to enable or disable any of these servers at any time, depending on the data stores that you use and need to use with Composer. The following figure provides a high level concept diagram of the Composer environment.
 
-![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167420490381)
+![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373963279501)
 
 The setup and management of connector servers in the Composer environment is handled on the Manage Connector Services page, which is accessible to supervisors. To make the actual connection between Composer and your data source after the connector server has been configured, log into Composer as an administrator and access the [Sources](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932895238669-Data-Sources-Page) page, accessible from the
 [UI menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu). See

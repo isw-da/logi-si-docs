@@ -4,7 +4,7 @@ id: 34932752100749
 section: "Composer 25 Developer Tools"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932752100749-Install-and-Configure-the-Custom-Chart-CLI
-updated_at: 2026-05-26T22:06:52Z
+updated_at: 2026-08-24T20:29:55Z
 ---
 
 # Install and Configure the Custom Chart CLI

@@ -4,7 +4,7 @@ id: 43701193920781
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701193920781-Configure-Client-Certificate-Authentication
-updated_at: 2026-05-29T14:09:23Z
+updated_at: 2026-08-26T07:10:56Z
 ---
 
 # Configure Client Certificate Authentication
@@ -46,11 +46,11 @@ Challenges you may run into:
 
 * User is never prompted to select a certificate:
 
-  + Make sure you have added at least one CA to the trust-store file.
-  + Verify `server.ssl.client-auth` is set to `want`.
+  * Make sure you have added at least one CA to the trust-store file.
+  * Verify `server.ssl.client-auth` is set to `want`.
 * Selecting login brings me back to the login page:
 
-  + Make sure the username matches the CN of the certificate being used.
-  + Make sure the client certificate is signed by a CA in the trust-store.
+  * Make sure the username matches the CN of the certificate being used.
+  * Make sure the client certificate is signed by a CA in the trust-store.
 
 For further troubleshooting assistance, contact  [Technical Support](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701072313613-Contact-Technical-Support).

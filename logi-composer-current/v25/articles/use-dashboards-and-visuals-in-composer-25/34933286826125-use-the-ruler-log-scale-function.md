@@ -4,7 +4,7 @@ id: 34933286826125
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933286826125-Use-the-Ruler-Log-Scale-Function
-updated_at: 2026-05-26T22:08:32Z
+updated_at: 2026-08-24T20:31:40Z
 ---
 
 # Use the Ruler Log Scale Function

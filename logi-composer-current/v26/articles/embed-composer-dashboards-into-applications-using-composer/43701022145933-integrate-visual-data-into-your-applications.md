@@ -4,7 +4,7 @@ id: 43701022145933
 section: "Embed Composer Dashboards Into Applications Using Composer"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701022145933-Integrate-Visual-Data-Into-Your-Applications
-updated_at: 2026-05-29T14:11:43Z
+updated_at: 2026-08-26T07:10:52Z
 ---
 
 # Integrate Visual Data Into Your Applications
@@ -25,7 +25,7 @@ You must be logged in as an administrator or as a user with the **Manage Action 
 
 The following diagram depicts action processing.
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242745233933)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418035437453)
 
 See the following topics:
 

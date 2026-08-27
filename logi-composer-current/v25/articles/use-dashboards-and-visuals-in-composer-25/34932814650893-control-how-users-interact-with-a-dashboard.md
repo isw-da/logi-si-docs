@@ -4,7 +4,7 @@ id: 34932814650893
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932814650893-Control-How-Users-Interact-With-a-Dashboard
-updated_at: 2026-05-26T22:10:02Z
+updated_at: 2026-08-24T20:33:14Z
 ---
 
 # Control How Users Interact With a  Dashboard
@@ -30,13 +30,13 @@ User attributes are not resolved when previewing interactivity settings, and def
 **Control user interactions with a dashboard and its visuals**
 
 1. Select the visual on the dashboard or in the Visual Gallery.
-2. Select the interactivity option (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167908808973)) to the left of the dashboard title.
+2. Select the interactivity option (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374810608397)) to the left of the dashboard title.
 
-   ![select the interactivity icon to adjust dashboard interactivty settings](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167385155853 "The dashboard interactivity icon")
+   ![select the interactivity icon to adjust dashboard interactivty settings](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373754610701 "The dashboard interactivity icon")
 
    The dashboard interactivity panel appears.
 
-   ![Adjust interactivity settings for a dashboard and its visuals here](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167400593549 "Dashboard Interactivity settings work area")
+   ![Adjust interactivity settings for a dashboard and its visuals here](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373754849677 "Dashboard Interactivity settings work area")
 
    By default, all interactivity settings are activated (enabled) for a dashboard. Each setting is controlled by a toggle switch. Slide the switch to the right to turn an interactivity setting on; slide them to the left to turn a setting off.
 

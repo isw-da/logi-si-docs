@@ -4,7 +4,7 @@ id: 34933153898637
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933153898637-Access-the-Composer-Service-Monitor
-updated_at: 2026-05-26T22:08:08Z
+updated_at: 2026-08-24T20:31:26Z
 ---
 
 # Access the Composer Service Monitor

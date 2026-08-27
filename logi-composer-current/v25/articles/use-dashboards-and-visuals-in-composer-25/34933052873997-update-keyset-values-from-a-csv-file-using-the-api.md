@@ -1,10 +1,10 @@
 ---
-title: "Update Keyset Values From a CSV\u00a0File Using the API"
+title: "Update Keyset Values From a CSV File Using the API"
 id: 34933052873997
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933052873997-Update-Keyset-Values-From-a-CSV-File-Using-the-API
-updated_at: 2026-05-26T22:07:26Z
+updated_at: 2026-08-24T20:30:37Z
 ---
 
 # Update Keyset Values From a CSV File Using the API

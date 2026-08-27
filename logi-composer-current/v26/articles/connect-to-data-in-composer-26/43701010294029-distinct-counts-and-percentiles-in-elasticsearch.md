@@ -4,7 +4,7 @@ id: 43701010294029
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701010294029-Distinct-Counts-and-Percentiles-in-Elasticsearch
-updated_at: 2026-05-29T14:07:39Z
+updated_at: 2026-08-26T07:09:10Z
 ---
 
 # Distinct Counts and Percentiles in Elasticsearch

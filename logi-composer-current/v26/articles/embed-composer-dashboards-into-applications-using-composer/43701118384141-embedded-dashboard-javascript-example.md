@@ -4,7 +4,7 @@ id: 43701118384141
 section: "Embed Composer Dashboards Into Applications Using Composer"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701118384141-Embedded-Dashboard-JavaScript-Example
-updated_at: 2026-05-29T14:08:34Z
+updated_at: 2026-08-26T07:09:52Z
 ---
 
 # Embedded  Dashboard JavaScript Example
@@ -79,7 +79,7 @@ const token = await getComposerToken(); // some function of the 3rd party app th
 const dashboards = await getUserDashboard(); // some function of the 3rd party app that retrieved dashboards for the user
 createOrGetEmbedManager(token);
 // if token is expired composer will raise next event
-document.addEventListener('composer-unathorized', async () => {
+document.addEventListener('composer-unauthorized', async () => {
 const token = await getComposerToken();
 const embedManager = createOrGetEmbedManager();
 refreshDashboard(token);

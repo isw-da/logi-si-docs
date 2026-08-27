@@ -4,7 +4,7 @@ id: 34932732148493
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932732148493-Insert-Variables-for-Connection-Parameters
-updated_at: 2026-05-26T22:10:15Z
+updated_at: 2026-08-24T20:33:36Z
 ---
 
 # Insert Variables for Connection Parameters
@@ -40,11 +40,11 @@ Details about specifying custom attribute values are provided in [Specify Custom
 
    For example:
 
-   ![Define your custom attributes if defined in your environment](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167428548365 "Add Connection work area")
+   ![Define your custom attributes if defined in your environment](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374000134541 "Add Connection work area")
 
    **Note:** 
    If the [connector](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932709865869-Define-a-New-Connector) associated with the connection type for the connection definition has been defined with the [**User Attribute** checkbox](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932716668301-Use-User-Attributes-for-Connection-Parameters) selected for the USER\_NAME or the PASSWORD parameters, a [custom user attribute](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932642529293-Specify-Custom-User-Attributes) **must** be defined for the user creating the connection and for any users using the connection. In this scenario, the Add Connection screen allows you to select the custom user attribute from a **Select Custom Attribute** drop-down menu, as shown below. Note that the custom attributes in this case are not shown using the same format as when you specify them manually. For complete information, see [Use User Attributes for Connection Parameters](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932716668301-Use-User-Attributes-for-Connection-Parameters).
 
-   ![Select custom attributes you have defined in your environment to use in connections](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167421197197 "Connection Details work area")
+   ![Select custom attributes you have defined in your environment to use in connections](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373964370189 "Connection Details work area")
 4. Select **Validate** to validate the connection. If the connection is valid, you can save the connection. If invalid, make changes, then select **Validate** again.
 5. Select **Save** to save the connection.

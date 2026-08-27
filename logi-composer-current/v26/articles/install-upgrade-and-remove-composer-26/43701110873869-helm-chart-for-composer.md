@@ -4,7 +4,7 @@ id: 43701110873869
 section: "Install, Upgrade, and Remove Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701110873869-Helm-Chart-for-Composer
-updated_at: 2026-05-29T14:08:52Z
+updated_at: 2026-08-26T07:11:12Z
 ---
 
 # Helm Chart for Composer
@@ -19,37 +19,37 @@ This topic covers:
 
 * [Prerequisites](#Prerequi)
 
-  + [Required Resources](#Required)
+  * [Required Resources](#Required)
 * [Working With Helm](#Working)
 
-  + [Obtain the Chart](#Obtain)
-  + [Install with the Default Config](#Install)
+  * [Obtain the Chart](#Obtain)
+  * [Install with the Default Config](#Install)
 
-    - [Default Config Caveats](#Default)
-  + [Customize the Chart Before Installing](#Customiz)
-  + [Upgrade a Release and Recover on Failure](#Upgrade)
-  + [Uninstall a Release](#Uninstal)
+    * [Default Config Caveats](#Default)
+  * [Customize the Chart Before Installing](#Customiz)
+  * [Upgrade a Release and Recover on Failure](#Upgrade)
+  * [Uninstall a Release](#Uninstal)
 
-    - [Persistent Resources Considerations](#Persiste)
-  + [Deep Chart Inspection and Customization](#Deep)
-  + [Debugging the Chart](#Debuggin)
+    * [Persistent Resources Considerations](#Persiste)
+  * [Deep Chart Inspection and Customization](#Deep)
+  * [Debugging the Chart](#Debuggin)
 * [Configuring the Chart](#Configur)
 
-  + [The Default Configuration](#The)
-  + [Deciding on the Configuration](#Deciding)
-  + [Injecting Composer Configuration Properties](#Injectin)
+  * [The Default Configuration](#The)
+  * [Deciding on the Configuration](#Deciding)
+  * [Injecting Composer Configuration Properties](#Injectin)
 
-    - [Application Properties](#Applicat)
+    * [Application Properties](#Applicat)
 
       * [Regular Application Properties](#Regular)
       * [Sensitive Application Properties](#Sensitiv)
       * [Enable the Data Gateway](#Enable)
       * [List of Properties Available as Helm Parameters](#List)
-    - [JVM Properties](#JVM)
+    * [JVM Properties](#JVM)
 
       * [Heap Size Configuration](#Heap)
       * [Passing Arbitrary Java Options to Services](#Passing)
-  + [Injecting Credentials](#Injectin2)
+  * [Injecting Credentials](#Injectin2)
 
 ## Prerequisites
 
@@ -74,7 +74,7 @@ Resource estimates for some common setups:
 | --- | --- | --- |
 | Mandatory services: Web Server, Query Engine, Consul.  Optional services: none.  Connectors: one arbitrary connector.  PostgreSQL metadata store location: [external](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701121372429-PostgreSQL-Metadata-Store-Configuration#External).  Footprint:   * CPU: 4.5 vCPU * RAM: 11.1 Gi * Storage: 11 Gi | Mandatory services: Web Server, Query Engine, Consul.  Optional services: Data Writer.  Connectors: PostgreSQL.  PostgreSQL metadata store location: [internal](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701121372429-PostgreSQL-Metadata-Store-Configuration#Internal).  Footprint:   * CPU: 5.3   vCPU * RAM: 12.1 Gi * Storage: 19 Gi | Mandatory services: Web Server, Query Engine, Consul.  Optional: Data Writer, Screenshot Service.  Connectors: two arbitrary connectors.  PostgreSQL metadata store location: [external](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701121372429-PostgreSQL-Metadata-Store-Configuration#External).  Footprint:   * CPU: 17.7 vCPU * RAM: 41.6 Gi * Storage: 31 Gi |
 
-For more exact estimates, you'll need to first [determine the set of required components](#Deciding), then sum up their resource limits specified in the chart.
+For more exact estimates, you will need to first [determine the set of required components](#Deciding), then sum up their resource limits specified in the chart.
 
 ## Working With Helm
 
@@ -167,8 +167,8 @@ Using `--keep-history` is optional. If you use it, you can better audit the clus
 
 Running `helm uninstall` on a release will remove most of the Kubernetes resources from the cluster. Some resources that constitute [Composer metadata](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701122518797-Metadata-Repository) and re-usable configs are preserved. This allows you to create another Composer release with the same metadata like Sources, Visuals, Dashboards, etc. The preserved resources are [PersistentVolumeClaims (PVC)](https://kubernetes.io/docs/concepts/storage/persistent-volumes/#persistentvolumeclaims) and corresponding [PersistenVolumes (PV)](https://kubernetes.io/docs/concepts/storage/persistent-volumes/) for:
 
-1. Composer [PostgreSQL metadata database](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701121372429-PostgreSQL-Metadata-Store-Configuration) folder. The PVC will have a name such as `data-<release-name>-postgresql-0` and the capacity of 8Gi. It will be `Bound` to a PV. These resources will be present only if the release was configured to create an [internal PostgreSQL instance](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701121372429-PostgreSQL-Metadata-Store-Configuration#Internal) (the default setting). If you don't intend to reuse the metadata, you can delete this PVC and PV with `kubectl delete`. See [PostgreSQL Metadata Store Configuration](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701121372429-PostgreSQL-Metadata-Store-Configuration) for information about reusing this metadata database in a new release.
-2. The volume with [connectors' drivers](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701120472333-Add-a-JDBC-Driver). The PVC will have the name `composer-shared-volume`. It will be `Bound` to the PV with the same name only if you configured Driver Drop-In for your connectors. If you did not configure this, it will be in the `Pending` state. If you don't intend to install a new release into the current namespace, you can delete the PVC. Delete the `composer-shared-volume` PV only if you don’t intend to install new Composer charts into this cluster.
+1. Composer [PostgreSQL metadata database](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701121372429-PostgreSQL-Metadata-Store-Configuration) folder. The PVC will have a name such as `data-<release-name>-postgresql-0` and the capacity of 8Gi. It will be `Bound` to a PV. These resources will be present only if the release was configured to create an [internal PostgreSQL instance](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701121372429-PostgreSQL-Metadata-Store-Configuration#Internal) (the default setting). If you do not intend to reuse the metadata, you can delete this PVC and PV with `kubectl delete`. See [PostgreSQL Metadata Store Configuration](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701121372429-PostgreSQL-Metadata-Store-Configuration) for information about reusing this metadata database in a new release.
+2. The volume with [connectors' drivers](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701120472333-Add-a-JDBC-Driver). The PVC will have the name `composer-shared-volume`. It will be `Bound` to the PV with the same name only if you configured Driver Drop-In for your connectors. If you did not configure this, it will be in the `Pending` state. If you do not intend to install a new release into the current namespace, you can delete the PVC. Delete the `composer-shared-volume` PV only if you don’t intend to install new Composer charts into this cluster.
 3. The volume with the [Consul](https://www.consul.io/) service metadata. The PVC will have a name such as `data-<namespace>-<release-name>-consul-server-0` and the capacity of 10Gi. It will be `Bound` to a PV. Composer can re-create the service discovery information stored in Consul upon a new release, you can safely delete these resources.
 
 ### Deep Chart Inspection and Customization
@@ -204,7 +204,7 @@ helm get manifest <release-name>
 
 ## Configuring the Chart
 
-The Composer platform has lots of configuration options and some optional components. While the out-of-the-box configuration of the Helm chart provides some meaningful defaults, most likely you'll need to customize some important aspects like the list of required connectors or the need for [horizontal autoscaling](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701106082701-Scaling-Configuration).
+The Composer platform has lots of configuration options and some optional components. While the out-of-the-box configuration of the Helm chart provides some meaningful defaults, most likely you will need to customize some important aspects like the list of required connectors or the need for [horizontal autoscaling](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701106082701-Scaling-Configuration).
 
 ### The Default Configuration
 
@@ -235,11 +235,12 @@ This list covers the main decisions and recommended actions that you’ll need t
    * [Change the default PostgreSQL passwords](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701121372429-PostgreSQL-Metadata-Store-Configuration#Configur) if using an internal instance.
 2. What is the list of data stores that you need to connect to? By default, only PostgreSQL connector is installed. Customize the list of connectors according to your needs.
 3. Do you want to enable [horizontal autoscaling](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701106082701-Scaling-Configuration)?
-4. Are you going to [schedule Dashboard Reports](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700998266509-About-Scheduled-Dashboard-Reports) that will deliver you dashboard screenshots periodically? If yes, enable the Screenshot Service component.
-5. Are you going to [upload flat files](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701044052621-Manage-File-Uploads) (e.g. CSV, JSON) for further analysis? If not, [disable the Data Writer](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701110764557-Data-Writer-Configuration) component to save cluster resources.
-6. Do you have special requirements for the Ingress configuration? If yes, [reconfigure our default Ingress](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701121221389-Ingress-Configuration).
-7. Do you have a license that you want to apply to this deployment? If yes, [inject the license](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701073826829-Apply-Licenses) during the chart installation.
-8. How do you want to integrate your software into your observability infrastructure?
+4. Are you going to [schedule Dashboard Reports](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700998266509-About-Scheduled-Reports) that will deliver you dashboard screenshots periodically? If yes, enable the Screenshot Service component. This is also required for sending self service reports if enabled in your environment.
+5. Will you offer [self service reports](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/46982003580173-Manage-Self-Service-Reports) and expanded export options to your users? If yes, [enable](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701053868173-Server-Level-Variables) self service reports and its [microservice](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/47077282029965-Self-Service-Report-Microservice). Minimum memory request for this service is 6Gi, with a limit of 9Gi and uses 1 CPU core.
+6. Are you going to [upload flat files](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701044052621-Manage-File-Uploads) (e.g. CSV, JSON) for further analysis? If not, [disable the Data Writer](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701110764557-Data-Writer-Configuration) component to save cluster resources.
+7. Do you have special requirements for the Ingress configuration? If yes, [reconfigure our default Ingress](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701121221389-Ingress-Configuration).
+8. Do you have a license that you want to apply to this deployment? If yes, [inject the license](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701073826829-Apply-Licenses) during the chart installation.
+9. How do you want to integrate your software into your observability infrastructure?
 
 Once you decide on your target configuration, prepare corresponding override values for the Helm chart and put them into your `values.yaml`. Override values fall into two categories:
 
@@ -325,7 +326,7 @@ enabled: true
 | `zoomdataWeb.userAuditingDbPassword` | User auditing database password | Secret | `user-auditing.destination.params.password` |
 | `zoomdataWeb.mailLogin` | Mail server login | Secret | `mail.login` |
 | `zoomdataWeb.mailPassword` | Mail server password | Secret | `mail.password` |
-| `zoomdataWeb.adminPassword` | Password for the built-in `admin` user. If not set, you'll be prompted to set it on the first login.  Supported in v23.2 and later only. Setting this value for earlier versions will have no effect. | Secret | `admin.password` |
+| `zoomdataWeb.adminPassword` | Password for the built-in `admin` user. If not set, you will be prompted to set it on the first login.  Supported in v23.2 and later only. Setting this value for earlier versions will have no effect. | Secret | `admin.password` |
 | `zoomdataWeb.supervisorPassword` | Password for the built-in `spervisor` user. Defaults to the value of `adminPassword`.  Supported in v23.2 and later only. Setting this value for earlier versions will have no effect. | Secret | `supervisor.password` |
 | **Query Engine** | | | |
 | `queryEngine.dbEnabled` | Use Query Engine database for storing query results cache when `true` |  |  |

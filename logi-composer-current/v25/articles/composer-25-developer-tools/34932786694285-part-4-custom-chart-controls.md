@@ -4,7 +4,7 @@ id: 34932786694285
 section: "Composer 25 Developer Tools"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932786694285-Part-4-Custom-Chart-Controls
-updated_at: 2026-05-26T22:10:11Z
+updated_at: 2026-08-24T20:33:31Z
 ---
 
 # Part 4: Custom Chart Controls
@@ -173,7 +173,7 @@ If you want your new chart to interact with other charts using [cross-visual fil
 
 In addition to the controls described elsewhere in this tutorial, Composer allows chart developers to show or hide controls on the chart’s menu:
 
-![options you can make available in the visual menu](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167397876877 "Visual Menu")
+![options you can make available in the visual menu](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373805264653 "Visual Menu")
 
 The display of these controls is configured using the CLI.
 

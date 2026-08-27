@@ -4,7 +4,7 @@ id: 34932798573197
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932798573197-Manage-the-SAP-Hana-Connector
-updated_at: 2026-05-26T22:06:45Z
+updated_at: 2026-08-24T20:29:45Z
 ---
 
 # Manage the SAP Hana Connector

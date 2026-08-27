@@ -4,7 +4,7 @@ id: 43701211456909
 section: "Install, Upgrade, and Remove Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701211456909-Upgrade-Steps-for-Composer
-updated_at: 2026-05-29T14:09:41Z
+updated_at: 2026-08-26T07:10:50Z
 ---
 
 # Upgrade Steps for Composer
@@ -31,7 +31,7 @@ If you have not received upgrade instructions, open a ticket with Composer Suppo
    [Access Logi Composer](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701052048397-Access-Logi-Composer).
 
    **Note:** 
-   If you notice some unusual behavior in the Composer UI after upgrading the Composer software (for example, if a drop-down menu doesn't open or the application doesn't react when you select a button), clear the browser cache and try again. If the problem persists, contact Support.
+   If you notice some unusual behavior in the Composer UI after upgrading the Composer software (for example, if a drop-down menu does not open or the application does not react when you select a button), clear the browser cache and try again. If the problem persists, contact Support.
 4. The upgrade script provided by [Technical Support](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701072313613-Contact-Technical-Support) assumes that your Postgres metadata store is running locally on the same machine as the Composer code and automatically adds the new databases required by Zoomdata 4.9 (or later) and Composer 5.7 (or later) to your local installation. If you have upgraded and your metadata store is installed on a different machine (not locally), you will need to manually create the following databases in your Postgres metadata store after the upgrade.
 
    * `zoomdata`

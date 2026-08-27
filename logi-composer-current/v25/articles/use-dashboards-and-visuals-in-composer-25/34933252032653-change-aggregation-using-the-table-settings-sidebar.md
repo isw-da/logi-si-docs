@@ -4,7 +4,7 @@ id: 34933252032653
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933252032653-Change-Aggregation-Using-the-Table-Settings-Sidebar
-updated_at: 2026-05-26T22:09:05Z
+updated_at: 2026-08-24T20:32:13Z
 ---
 
 # Change Aggregation Using the Table Settings Sidebar
@@ -18,9 +18,9 @@ updated_at: 2026-05-26T22:09:05Z
 3. If you are viewing the table in a dashboard, select **Settings** from the [visual drop-down menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933290868621-Use-the-Visual-Menu). The [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu) for the visual appears.
 
    If you are viewing the visual from the Visual Gallery, the sidebar appears to the right of the visual.
-4. Select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167807463053) on the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu). The Table Settings sidebar for the visual appears.
+4. Select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374652098189) on the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu). The Table Settings sidebar for the visual appears.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167818470541)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374684830733)
 5. In any of the metric fields in the **Columns** section of the sidebar, select the aggregation method you want. Possible aggregation methods include **None**, **Avg**, **Min**, **Max**, **Sum**, **Last Value**, **Count**, and **Distinct Count**. For information about aggregation methods, see [Metric Aggregation Functions](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932872742029-Metric-Aggregation-Functions).
 
    The selected aggregation method is applied to the metric.

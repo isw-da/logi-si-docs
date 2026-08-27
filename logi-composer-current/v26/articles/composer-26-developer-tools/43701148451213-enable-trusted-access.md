@@ -4,7 +4,7 @@ id: 43701148451213
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701148451213-Enable-Trusted-Access
-updated_at: 2026-05-29T14:10:30Z
+updated_at: 2026-08-26T07:11:54Z
 ---
 
 # Enable Trusted Access
@@ -23,9 +23,9 @@ If Trusted Access is not enabled, all Trusted Access client and token-related AP
 
    **Note:** 
    The default **supervisor** user is no longer installed; add users to the **Supervisors** group instead.
-2. Select **Security** from the menu.
+2. Select **Tools** > **Security** from the Administration menu.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242400329229)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417945784077)
 3. Switch the **Trusted Access**  setting to **OFF** to disable, or **ON** to enable.
 4. Select **Save**.
 5. Restart Composer. See  [Restart Microservices](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701119873037-About-Microservices#Restart).

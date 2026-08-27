@@ -1,10 +1,10 @@
 ---
-title: "Generate an Embeddable Dashboard HTML\u00a0Snippet"
+title: "Generate an Embeddable Dashboard HTML Snippet"
 id: 34932919505677
 section: "Embed Composer Dashboards Into Applications Using Composer"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932919505677-Generate-an-Embeddable-Dashboard-HTML-Snippet
-updated_at: 2026-05-26T22:09:46Z
+updated_at: 2026-08-24T20:33:01Z
 ---
 
 # Generate an Embeddable Dashboard HTML Snippet
@@ -20,9 +20,9 @@ For even more control, use JavaScript to embed the dashboard. See [Embed Compose
 1. Log into the UI as an administrator or as a user assigned to a group with the **Generate Embed Code** [privilege](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932577846157-Group-Privilege-Reference).
 2. Select **Library** on the [top-level navigation banner](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933120256397-The-Top-Level-Navigation-Banner) or select **Dashboard** on the [Home page](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933063528717-Home-Page). The [library](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932842461581-Use-the-Library-for-Dashboards) opens, displaying dashboards in a table (list) format.
 3. Locate the dashboard in the library list for which you want to generate an embeddable snippet.
-4. Select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167920742413) in the associated **Actions** column. The Embed Code dialog appears.
+4. Select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374816236813) in the associated **Actions** column. The Embed Code dialog appears.
 
-   ![embed code dialog](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167219686669 "embed code dialog")
+   ![embed code dialog](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373502965005 "embed code dialog")
 
    The **Code** section of this dialog shows the embeddable snippet. If you do not need to change any of the default settings on this page, simply select **Copy to Clipboard** and you can skip the rest of these steps and embed the copied snippet in your application.
 
@@ -38,4 +38,4 @@ For even more control, use JavaScript to embed the dashboard. See [Embed Compose
 8. Select a theme in the **Theme** box. By default, three possible themes are available: **Logi-Composer**, **Logi-Modern**, and **Logi-Dark**. However, if you add your own themes to the application, more options are available in this list. The default is **Logi-Composer**, which is the same as the **Logi-Modern** theme. For information on adding your own UI themes, see [Manage UI Themes](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933172226573-Manage-UI-Themes).
 9. When all the optional settings are specified as you need, select **Copy to Clipboard** to copy the embeddable dashboard snippet to the clipboard. You can then paste the embeddable HTML snippet into your application code.
 10. Close the Embed Code dialog by selecting the **x** in the upper right corner of the dialog.
-11. If you want to specify additional properties for your embedded dashboard, use Javascript. The supported dashboard properties are described in [Embedded Dashboard Properties and Objects](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932936668301-Embedded-Dashboard-Properties-and-Objects).
+11. If you want to specify additional properties for your embedded dashboard, use Javascript. The supported properties are described in [Embedded Dashboard Properties and Objects](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932936668301-Embedded-Dashboard-Properties-and-Objects).

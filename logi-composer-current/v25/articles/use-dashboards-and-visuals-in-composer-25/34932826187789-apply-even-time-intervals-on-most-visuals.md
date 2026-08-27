@@ -4,7 +4,7 @@ id: 34932826187789
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932826187789-Apply-Even-Time-Intervals-on-Most-Visuals
-updated_at: 2026-05-26T22:09:55Z
+updated_at: 2026-08-24T20:33:09Z
 ---
 
 # Apply Even Time Intervals on Most Visuals
@@ -19,11 +19,11 @@ For more information about even time intervals, see [Even Time Intervals](https:
 2. Select a time attribute for the visual Group (x-axis).
 3. Select the Time Granularity box on the x-axis.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167339915533)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373742080269)
 4. Slide **Include Blanks** on to request even time intervals. By default, the ability to show all values is disabled and only attributes with a value greater than NULL are displayed.
 
    If this is a line chart, you can also select the **Display null as zero** checkbox to request that null values display as zeros on the chart:
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167346043917)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373721121293)
 
 The dashboard updates to include all values from the data source.

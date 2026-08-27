@@ -4,14 +4,14 @@ id: 43701073088525
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701073088525-Scaling-Composer-Microservices
-updated_at: 2026-05-29T14:08:48Z
+updated_at: 2026-08-26T07:11:20Z
 ---
 
 # Scaling Composer Microservices
 
 # Scaling Composer Microservices
 
-Composer microservices allow you to scale your Composer installation, giving you expanded performance gains. As you roll out your microservices changes, you'll need to:
+Composer microservices allow you to scale your Composer installation, giving you expanded performance gains. As you roll out your microservices changes, you will need to:
 
 * [Estimate User and Microservice Loads](#Estimate "Estimate User and Microservice Loads details")
 * [Add or Remove Nodes in a High Availability Environment](#Add "Add or Remove Nodes in a High Availability Environment details")
@@ -42,7 +42,7 @@ Some examples of actions that load microservices are included in the table below
 | Live mode | composer web, connector, query engine |
 
 **Note:** 
-Horizontal scaling up of a microservice doesn't provide doubled performance gains due to sharing of PostreSQL resources and overlapping of microservices.
+Horizontal scaling up of a microservice does not provide doubled performance gains due to sharing of PostreSQL resources and overlapping of microservices.
 
 Start your scale planning based on an approximate number of services and expected number of users. See [Server Size Guidelines](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701073249037-Server-Size-Guidelines) for more information on services and user estimation.
 

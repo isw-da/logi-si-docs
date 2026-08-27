@@ -4,7 +4,7 @@ id: 43701113891213
 section: "Composer 26 Reference Information"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701113891213-Composer-Log-Unification
-updated_at: 2026-05-29T14:09:12Z
+updated_at: 2026-08-26T07:09:57Z
 ---
 
 # Composer Log Unification
@@ -60,7 +60,7 @@ Both Zoomdata-Web and Query Engine have properties you can adjust to suit your n
 | Name | Default Value | Description |
 | --- | --- | --- |
 | activity.log.file.count | `1` | Maximum number of activity log files . |
-| activity.log.file.size | `10` | The maximum size of the activity log file in MB. When that size is reached, the file is renamed using this pattern: `{log.file-name}-activty.log.%i`. |
+| activity.log.file.size | `10` | The maximum size of the activity log file in MB. When that size is reached, the file is renamed using this pattern: `{log.file-name}-activity.log.%i`. |
 | activity.logs.dir | n/a | The location of the activity log file. If no location is specified, `{logs.dir}` is used. |
 | websocket.log.file.size | `10` | The maximum size of the websocket log file in MB. When that size is reached, the file is renamed using this pattern: `{log.file-name}-websocket.log.%i`. |
 | websocket.log.file.count | `5` | Maximum number of websocket log files. |

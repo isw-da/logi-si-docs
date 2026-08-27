@@ -4,7 +4,7 @@ id: 34932890384781
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932890384781-Edit-a-Data-Source
-updated_at: 2026-05-26T22:09:42Z
+updated_at: 2026-08-24T20:32:54Z
 ---
 
 # Edit a Data Source
@@ -18,27 +18,27 @@ You can add additional [data entities](https://logi-composer-v25.insightsoftware
 **Edit a data source configuration**
 
 1. Log in as a user with the **Administer Sources** [privilege](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932577846157-Group-Privilege-Reference), or a user with **read** and **write** [permission](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932915596173-About-Source-Permissions) for the data source.
-2. Select **Sources** on the [UI menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167893777037)). The [Sources](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932895238669-Data-Sources-Page) page appears.
+2. Select **Sources** on the [UI menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374817865741)). The [Sources](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932895238669-Data-Sources-Page) page appears.
 3. On the [Sources](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932895238669-Data-Sources-Page) page, locate and select the data source configuration you want to edit. The Source Creation work area opens.
 4. Select and alter the settings on the tabs, as appropriate. Some changes can include, but are not limited to:
 
    * [Source Creation Tab](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932891763981-Source-Creation-Tab)
 
-     + Add or change data entities, files, or connections. If fields from the original source are in use in a visual, you can make a change if the same field is present in the new entity, file, or connection.
-     + Add or remove fields. Fields can't be removed if in use in a visual, but can be hidden on the Fields tab.
+     * Add or change data entities, files, or connections. If fields from the original source are in use in a visual, you can make a change if the same field is present in the new entity, file, or connection.
+     * Add or remove fields. Fields can't be removed if in use in a visual, but can be hidden on the Fields tab.
    * [Manage Fields](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932906721933-Manage-Fields)
 
-     + Hide fields, edit Settings of fields, derived fields, and custom metrics.
-     + Upload a translation file.
-     + Update field capabilities for your fields in bulk.
-     + Add or edit derived fields and custom metrics.
-     + Add hierarchy fields.
+     * Hide fields, edit Settings of fields, derived fields, and custom metrics.
+     * Upload a translation file.
+     * Update field capabilities for your fields in bulk.
+     * Add or edit derived fields and custom metrics.
+     * Add hierarchy fields.
    * [Cache Tab](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932891391629-Cache-Tab)
 
-     + Edit cache settings, including scheduling refresh jobs.
+     * Edit cache settings, including scheduling refresh jobs.
    * [Global Settings Tab](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932890843277-Global-Settings-Tab)
 
-     + Make changes to new and existing visuals.
+     * Make changes to new and existing visuals.
 
    See also [Define a Source](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932863719309-Define-a-Source).
 5. When your changes are complete, select **Save Source**.

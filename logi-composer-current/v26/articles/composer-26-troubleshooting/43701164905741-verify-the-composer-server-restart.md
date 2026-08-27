@@ -4,7 +4,7 @@ id: 43701164905741
 section: "Composer 26 Troubleshooting"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701164905741-Verify-the-Composer-Server-Restart
-updated_at: 2026-05-29T14:09:39Z
+updated_at: 2026-08-26T07:10:16Z
 ---
 
 # Verify the Composer Server Restart

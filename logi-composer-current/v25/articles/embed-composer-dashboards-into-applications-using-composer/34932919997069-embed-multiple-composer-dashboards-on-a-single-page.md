@@ -4,7 +4,7 @@ id: 34932919997069
 section: "Embed Composer Dashboards Into Applications Using Composer"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932919997069-Embed-Multiple-Composer-Dashboards-On-a-Single-Page
-updated_at: 2026-05-26T22:07:18Z
+updated_at: 2026-08-24T20:30:30Z
 ---
 
 # Embed Multiple Composer Dashboards On a Single Page

@@ -4,7 +4,7 @@ id: 34933257208973
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933257208973-Use-the-Visual-Style-Sidebar
-updated_at: 2026-05-26T22:08:57Z
+updated_at: 2026-08-24T20:32:05Z
 ---
 
 # Use the Visual Style Sidebar
@@ -23,7 +23,7 @@ A list filter visual cannot be converted to a different style. Likewise, other v
 
 1. Select the visual in the Visual Gallery or on a dashboard.
 2. If you selected the visual on a dashboard, select **Settings** on the [visual drop-down menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933290868621-Use-the-Visual-Menu) to access the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu) for the visual.
-3. Select the visual style option (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167822102925)) on the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu) for the visual. The Visual Style sidebar opens.
+3. Select the visual style option (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374649482637)) on the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu) for the visual. The Visual Style sidebar opens.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166941859981)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373011924109)
 4. Select a visual style from the list.

@@ -4,7 +4,7 @@ id: 34932880234765
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932880234765-Grant-Permissions-for-a-Source
-updated_at: 2026-05-26T22:09:40Z
+updated_at: 2026-08-24T20:32:51Z
 ---
 
 # Grant Permissions for a  Source
@@ -27,14 +27,14 @@ You can grant read, write, or delete data source configuration permissions for y
    * If you select **Tenant**, Read permission is selected for your tenant on the Source Permissions dialog.
 5. Select the tenant or any specific groups or users you want to permit to read, write, or delete the data source and select **Apply**. The Source Permissions dialog lists your selections.
 
-   ![use this work area to add or remove specific source permissions](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167230624013 "Source Permissions work area")
+   ![use this work area to add or remove specific source permissions](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373563110797 "Source Permissions work area")
 
    * Members of the Administrators group have data access, read, write, and delete permissions for every data source in the tenant.
    * The user who creates a data source is automatically selected and has **Data Access**, **Read**, **Write**, and **Delete** permissions.
 6. Select the **Data Access**, **Read**, **Write**, or **Delete** checkboxes for the tenant, groups, or users to indicate what users in them can do with the data source. **Data Access** permission is assumed and is always selected. If you clear (uncheck) the check box (revoke **Data Access** permission), permission for the entire data source is revoked for the tenant, group, or user after you save.
 7. Select **Save**. The Save Details dialog appears, listing the changes that you made.
 
-   ![confirm your selections before saving](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167230758669 "review your changes before saving")![review your changes before saving](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167291911309 "Save Details for Source Permissions work area")
+   ![confirm your selections before saving](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373547682573 "review your changes before saving")![review your changes before saving](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373571621645 "Save Details for Source Permissions work area")
 8. Review the changes and select **OK**. The source authorization permissions are set.
 
 **Permissions for imported objects**

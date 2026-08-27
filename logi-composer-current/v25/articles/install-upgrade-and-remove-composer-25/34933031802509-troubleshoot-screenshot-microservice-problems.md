@@ -4,7 +4,7 @@ id: 34933031802509
 section: "Install, Upgrade, and Remove Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933031802509-Troubleshoot-Screenshot-Microservice-Problems
-updated_at: 2026-05-26T22:07:33Z
+updated_at: 2026-08-24T20:30:46Z
 ---
 
 # Troubleshoot Screenshot Microservice Problems

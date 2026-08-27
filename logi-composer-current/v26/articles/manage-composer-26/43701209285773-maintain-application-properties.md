@@ -4,7 +4,7 @@ id: 43701209285773
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701209285773-Maintain-Application-Properties
-updated_at: 2026-05-29T14:10:29Z
+updated_at: 2026-08-26T07:11:54Z
 ---
 
 # Maintain Application Properties
@@ -21,7 +21,7 @@ After the Composer configuration microservice has been [configured](https://logi
 2. Log into the Service Monitor using the Service Monitor user name and password you defined when the Service Monitor was installed. See [Install and Configure the Composer Service Monitor](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701162883597-Install-and-Configure-the-Composer-Service-Monitor).
 3. Select **Properties** on the main menu bar.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242413705485)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417945686413)
 
    The Properties page appears.
 4. Select a Composer microservice in the **Service** drop-down list. The properties for the microservice are listed. The screenshot above lists all the properties in the `zoomdata.properties` file used by the `zoomdata` microservice.

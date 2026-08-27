@@ -4,7 +4,7 @@ id: 43701121297421
 section: "Install, Upgrade, and Remove Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701121297421-Horizontal-Pod-Autoscaling
-updated_at: 2026-05-29T14:08:55Z
+updated_at: 2026-08-26T07:11:08Z
 ---
 
 # Horizontal Pod Autoscaling
@@ -19,9 +19,9 @@ This topic covers:
 * [Composer's HPA Metrics](#'s)
 * [HPA Configuration](#HPA)
 
-  + [Enable HPA](#Enable)
-  + [Global and Per-Service HPA Configuration](#Global)
-  + [Additional Properties](#Addition)
+  * [Enable HPA](#Enable)
+  * [Global and Per-Service HPA Configuration](#Global)
+  * [Additional Properties](#Addition)
 * [Caveats of the Default Config](#Caveats)
 * [Cluster-wide Prometheus and Prometheus Adapter](#Cluster-)
 
@@ -43,7 +43,7 @@ These metrics work in conjunction to ensure optimal performance and resource uti
 
 ## HPA Configuration
 
-HPA is disabled by default. Once you've enabled it, it’s preconfigured with reasonable defaults.
+HPA is disabled by default. Once you have enabled it, it’s preconfigured with reasonable defaults.
 
 ### Enable HPA
 

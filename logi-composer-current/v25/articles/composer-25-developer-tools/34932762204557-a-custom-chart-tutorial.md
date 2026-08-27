@@ -4,7 +4,7 @@ id: 34932762204557
 section: "Composer 25 Developer Tools"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932762204557-A-Custom-Chart-Tutorial
-updated_at: 2026-05-26T22:06:47Z
+updated_at: 2026-08-24T20:29:46Z
 ---
 
 # A Custom Chart Tutorial

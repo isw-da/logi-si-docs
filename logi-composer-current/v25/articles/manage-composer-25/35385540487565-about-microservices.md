@@ -4,7 +4,7 @@ id: 35385540487565
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/35385540487565-About-Microservices
-updated_at: 2026-05-26T22:06:00Z
+updated_at: 2026-08-24T20:28:51Z
 ---
 
 # About  Microservices

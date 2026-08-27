@@ -4,7 +4,7 @@ id: 34932761891085
 section: "Composer 25 Developer Tools"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932761891085-Part-1-Custom-Chart-Basics
-updated_at: 2026-05-26T22:10:08Z
+updated_at: 2026-08-24T20:33:27Z
 ---
 
 # Part 1: Custom Chart Basics
@@ -80,7 +80,7 @@ This tutorial uses the default Single Group template — a chart skeleton with m
    cmp-chart init ./my-first-custom-chart
 2. The `init` command creates a directory in the specified path containing the files you need to get started. Here is a preview of the directory tree:
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167398574989)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373793454861)
 
    The following table describes the function of each of the files.
 
@@ -132,8 +132,8 @@ Throughout this tutorial, we continuously modify the code and preview the change
 Before you can preview the newly created chart in a dashboard in the Composer UI, you must enable it for a specific source.
 
 1. Log into the Composer UI as an administrator or a user with the **Administer Sources** privilege.
-2. Select **Sources** on the [UI menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167909801997)) or the [top-level navigation menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933120256397-The-Top-Level-Navigation-Banner), or select the **Sources** box on the [Home page](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933063528717-Home-Page). The [Sources](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932895238669-Data-Sources-Page) page appears.
-3. On the [Sources](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932895238669-Data-Sources-Page) page, locate a data source configuration to edit, and select the more menu (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167954652941)) button.
+2. Select **Sources** on the [UI menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374875037325)) or the [top-level navigation menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933120256397-The-Top-Level-Navigation-Banner), or select the **Sources** box on the [Home page](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933063528717-Home-Page). The [Sources](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932895238669-Data-Sources-Page) page appears.
+3. On the [Sources](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932895238669-Data-Sources-Page) page, locate a data source configuration to edit, and select the more menu (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374875038093)) button.
 4. Select **Available Visual Types**. The Available Visual Types work area for this source opens.
 5. Select the chart named "My First Custom Chart" and enable (toggle on) the custom chart in this data source. A message appears, confirming "My First Custom Chart" is enabled.
 6. When your changes are complete, close the Available Visual Types work area.
@@ -144,7 +144,7 @@ Now let’s take a look at the new chart in a Composer dashboard.
 2. Select **Library** on the [top-level navigation banner](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933120256397-The-Top-Level-Navigation-Banner) or the [UI menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu), or select the **Dashboards** box on the [Home page](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933063528717-Home-Page). The library displays.
 3. Select **Add Dashboard**. A blank dashboard appears showing options to add a new visual or place an existing visual.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167413850253)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373817344141)
 4. Select **Add Visual** to add a new visual to the dashboard. Select **Place Existing Visual** to place an existing visual on the dashboard.
 
    * If you select **Add Visual**, follow the procedure described in [Add Visuals to a Dashboard](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933303418509-Add-Visuals-to-a-Dashboard)
@@ -154,6 +154,6 @@ Now let’s take a look at the new chart in a Composer dashboard.
 
 Your chart should look similar to the following image:
 
-![basic custom chart example](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167398872973 "basic custom chart example")
+![basic custom chart example](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373855933709 "basic custom chart example")
 
 Cool! You have completed Part 1 of the custom chart tutorial. So far, you have learned how to install and configure the Composer custom chart CLI, how to create a new chart with sample code, and how to update its code and preview the results. Continue to [Part 2: Query Variables, Chart Defaults, Data Preview, and Data Accessors](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932755103245-Part-2-Query-Variables-Chart-Defaults-Data-Preview-and-Data-Accessors).

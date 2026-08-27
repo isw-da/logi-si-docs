@@ -4,14 +4,14 @@ id: 34933176360589
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933176360589-Use-the-Rich-Text-Snippet-Menu
-updated_at: 2026-05-26T22:09:13Z
+updated_at: 2026-08-24T20:32:23Z
 ---
 
 # Use the Rich Text Snippet Menu
 
 # Use the Rich Text Snippet Menu
 
-The rich text snippet menu includes options that help you modify and use rich text snippets in your dashboard. Access it by selecting![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167850127629) in the upper right corner of a rich text snippet widget.
+The rich text snippet menu includes options that help you modify and use rich text snippets in your dashboard. Access it by selecting![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374739461389) in the upper right corner of a rich text snippet widget.
 
 The menu options are described in the following table.
 

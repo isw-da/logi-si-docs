@@ -4,7 +4,7 @@ id: 34932595257613
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932595257613-Specify-General-User-Information
-updated_at: 2026-05-26T22:10:28Z
+updated_at: 2026-08-24T20:33:52Z
 ---
 
 # Specify General User Information

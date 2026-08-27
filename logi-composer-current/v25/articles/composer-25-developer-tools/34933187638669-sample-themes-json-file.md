@@ -1,10 +1,10 @@
 ---
-title: "Sample Themes JSON\u00a0File"
+title: "Sample Themes JSON File"
 id: 34933187638669
 section: "Composer 25 Developer Tools"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933187638669-Sample-Themes-JSON-File
-updated_at: 2026-05-26T22:08:04Z
+updated_at: 2026-08-24T20:31:20Z
 ---
 
 # Sample Themes JSON File

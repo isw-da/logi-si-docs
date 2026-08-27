@@ -4,7 +4,7 @@ id: 43701025595405
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701025595405-Manage-the-Impala-Connector
-updated_at: 2026-05-29T14:11:29Z
+updated_at: 2026-08-26T07:10:46Z
 ---
 
 # Manage the Impala Connector
@@ -85,7 +85,7 @@ When setting up an Impala connection, you need to provide the following.
 
    jdbc:hive2://<impala\_host>:<port>/;auth=noSas​l
 
-   To connect to multiple Impala nodes, specify the required JDBC URLs separated by commas. The URLs will be used in a round-robin fashion. Keep in mind that such a connection will be valid as long as there is at least one available node. If all the nodes can not be reached, then the connection won't be validated.
+   To connect to multiple Impala nodes, specify the required JDBC URLs separated by commas. The URLs will be used in a round-robin fashion. Keep in mind that such a connection will be valid as long as there is at least one available node. If all the nodes can not be reached, then the connection will not be validated.
 2. If Impala authentication has been set up, provide a user name and password.
 3. To allow for Impala user delegation, select the appropriate custom user attribute from the **Do As User** drop-down list (set up by the Composer supervisor or administrator).
    This basically allows Composer to pass along credentials for the specified user with access rights to Impala. See [Enable User Delegation](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701039382541-Enable-User-Delegation) and [Apply User Delegation to a Connection](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701039356557-Apply-User-Delegation-to-a-Connection).
@@ -98,10 +98,10 @@ Time-based fields can be configured for partitioning in an Impala [data source c
 * No (partitioning to be done)
 * Date - this option is available for the Time field type. If you select this option, the list of the partitioned columns will be displayed in the Configure column.
 
-  ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242734563469)
+  ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418034248589)
 * Function - If you select this option, the list of the partitioned columns and supported MURMUR3\_HASH function will be displayed in the Configure column.
 
-  ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242724035341)
+  ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418008011277)
 
 Numeric and time-based fields can be edited using the Fields tab:
 

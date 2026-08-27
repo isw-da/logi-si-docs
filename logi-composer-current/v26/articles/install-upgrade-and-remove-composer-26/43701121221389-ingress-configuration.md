@@ -4,7 +4,7 @@ id: 43701121221389
 section: "Install, Upgrade, and Remove Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701121221389-Ingress-Configuration
-updated_at: 2026-05-29T14:08:53Z
+updated_at: 2026-08-26T07:11:09Z
 ---
 
 # Ingress Configuration

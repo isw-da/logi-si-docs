@@ -4,7 +4,7 @@ id: 34933265735565
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933265735565-Use-the-Visual-Gallery
-updated_at: 2026-05-26T22:08:55Z
+updated_at: 2026-08-24T20:32:02Z
 ---
 
 # Use the Visual Gallery
@@ -22,9 +22,9 @@ Local visuals exist only on the dashboard on which they were created. Convert to
 
 ## Access the Visual Gallery
 
-To access the visual gallery, log into Composer as an administrator or as a user with the **Administer Visuals** [privilege](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932577846157-Group-Privilege-Reference). Select **Visual Gallery** on the [UI menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166887699853)) or the [top-level navigation menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933120256397-The-Top-Level-Navigation-Banner), or select the **Visuals** box on the [Home page](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933063528717-Home-Page). The Visuals page appears, and visuals are listed in a table format.
+To access the visual gallery, log into Composer as an administrator or as a user with the **Administer Visuals** [privilege](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932577846157-Group-Privilege-Reference). Select **Visual Gallery** on the [UI menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48372948188813)) or the [top-level navigation menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933120256397-The-Top-Level-Navigation-Banner), or select the **Visuals** box on the [Home page](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933063528717-Home-Page). The Visuals page appears, and visuals are listed in a table format.
 
-![use this work area to manage your visuals](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166932758029 "visual gallery with visuals listed")
+![use this work area to manage your visuals](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48372954368909 "visual gallery with visuals listed")
 
 **Note:** 
 You can select and open a visual in the visual gallery to make a copy of a visual if needed. See [Copy Visuals](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933264261261-Copy-Visuals).

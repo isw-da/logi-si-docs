@@ -4,7 +4,7 @@ id: 37515139658381
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/37515139658381-OpenSearch-Data-Source-Configuration-Notes
-updated_at: 2026-05-26T22:08:36Z
+updated_at: 2026-08-24T20:31:42Z
 ---
 
 # OpenSearch Data Source Configuration Notes
@@ -21,12 +21,12 @@ When setting up an OpenSearch [data source configuration](https://logi-composer-
 
      For this option, you can select one of the pattern types. Note that when no indices match the pattern while querying, your visuals are returned empty.
 
-     + **Native** - specify the pattern for index names. Use an asterisk (\*) to replace one character or a set of characters.
+     * **Native** - specify the pattern for index names. Use an asterisk (\*) to replace one character or a set of characters.
 
        For example, you want to get all the indices whose name starts with ***log*** and ends with ***16***. In this case, specify the following pattern:
 
        log\*16
-     + **Time Based** - set the time pattern to get the matching indices. [Check the supported date and time patterns](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932847234829-Convert-Attributes-to-Time-Fields-in-Data-Source-Field-Specifications).
+     * **Time Based** - set the time pattern to get the matching indices. [Check the supported date and time patterns](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932847234829-Convert-Attributes-to-Time-Fields-in-Data-Source-Field-Specifications).
 
        For example, the time pattern YYYY-MM will return all the indices, whose name will match the pattern in the following examples. Note that if the Index Name includes text with the time and date pattern, you need to enclose the text portion in brackets [ ]:
 
@@ -41,7 +41,7 @@ When setting up an OpenSearch [data source configuration](https://logi-composer-
 
        **Note:** 
        The fields for indexes are not refreshed. If new fields are added to your data source, they are added to Composer only after you select the
-       **Manual Refresh** (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166893064461)) button on the **Cache** tab of the [data source configuration](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932941009037-Manage-Data-Sources). If there are some changes in the existing fields (for example, if a field has been removed) they won't be applied.
+       **Manual Refresh** (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48372872267661)) button on the **Cache** tab of the [data source configuration](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932941009037-Manage-Data-Sources). If there are some changes in the existing fields (for example, if a field has been removed) they won't be applied.
 
    **Note:** 
    Filtering by type is not supported.

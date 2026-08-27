@@ -4,7 +4,7 @@ id: 34932749503629
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932749503629-Manage-the-PostgreSQL-Connector
-updated_at: 2026-05-26T22:06:39Z
+updated_at: 2026-08-24T20:29:40Z
 ---
 
 # Manage the PostgreSQL Connector

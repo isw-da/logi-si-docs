@@ -4,7 +4,7 @@ id: 34932637143949
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932637143949-Connector-Properties-and-Property-Files
-updated_at: 2026-05-26T22:06:19Z
+updated_at: 2026-08-24T20:29:15Z
 ---
 
 # Connector Properties and Property Files

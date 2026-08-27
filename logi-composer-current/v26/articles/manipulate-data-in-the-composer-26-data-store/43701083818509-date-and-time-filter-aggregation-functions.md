@@ -4,7 +4,7 @@ id: 43701083818509
 section: "Manipulate Data In The Composer 26 Data Store"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701083818509-Date-and-Time-Filter-Aggregation-Functions
-updated_at: 2026-05-29T14:08:18Z
+updated_at: 2026-08-26T07:09:37Z
 ---
 
 # Date and Time Filter Aggregation Functions
@@ -36,7 +36,7 @@ Specific parameters are needed for the `DateADD` and `DateSub` functions. The fo
 | --- | --- |
 | `time_period` | Supported time periods (with corresponding interval range): `YEAR`, `QUARTER`, `MONTH`, `WEEK`, `DAY`, `HOUR`, `MINUTE`, `SECOND`, `MILLISECOND` |
 | `interval` | Whole number integer. Negative numbers are supported for subtraction. |
-| `date` | * Current day operator: date() * Standard date and time formats supported include:    + `yyyy-MM-dd HH:mm:ss`   + `MM/dd/yy hh:mm aa`   + `yyyy` For all supported formats, see [Convert Attributes to Time Fields in Data Source Field Specifications](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701078376461-Convert-Attributes-to-Time-Fields-in-Data-Source-Field-Specifications). |
+| `date` | * Current day operator: date() * Standard date and time formats supported include:    * `yyyy-MM-dd HH:mm:ss`   * `MM/dd/yy hh:mm aa`   * `yyyy` For all supported formats, see [Convert Attributes to Time Fields in Data Source Field Specifications](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701078376461-Convert-Attributes-to-Time-Fields-in-Data-Source-Field-Specifications). |
 
 ## PreviousPeriod Function
 

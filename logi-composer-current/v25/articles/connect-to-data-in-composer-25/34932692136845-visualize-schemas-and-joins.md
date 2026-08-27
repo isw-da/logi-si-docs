@@ -4,7 +4,7 @@ id: 34932692136845
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932692136845-Visualize-Schemas-and-Joins
-updated_at: 2026-05-26T22:10:16Z
+updated_at: 2026-08-24T20:33:37Z
 ---
 
 # Visualize Schemas and Joins
@@ -19,7 +19,7 @@ When you create joins in a source, you can visualize and update your joins as we
 
 Users with appropriate permissions can view and edit the relationships using the Relationship tab for a supported connection. Select a schema from the list in the drop-down, then make and save any additions to the relationships as needed.
 
-![Use this work area to view and update relationships in available schemas](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167454169997 "Relationship tab for a connector")
+![Use this work area to view and update relationships in available schemas](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373992729229 "Relationship tab for a connector")
 
 **View or edit a schema for a connection**
 
@@ -39,7 +39,7 @@ Users with appropriate permissions can view and edit the relationships using the
 
 You can view the relationships present in schemas you're using in your sources that use a supported connection. The [Source Creation tab](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932891763981-Source-Creation-Tab) of the [source](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932941009037-Manage-Data-Sources) includes a Schema drop-down you can use to select a schema for the source, with a view button that opens the work area.
 
-![Use this work area to view relationships in available schemas](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167973282317 "view a schema work area")
+![Use this work area to view relationships in available schemas](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374850646029 "view a schema work area")
 
 **View a schema in a source**
 

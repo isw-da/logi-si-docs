@@ -4,7 +4,7 @@ id: 43701046187277
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701046187277-Visual-Type-Configuration-Properties
-updated_at: 2026-05-29T14:08:02Z
+updated_at: 2026-08-26T07:09:27Z
 ---
 
 # Visual Type Configuration Properties
@@ -44,7 +44,7 @@ You must be an administrator to manage custom visual types.
 | Undo | Allows users to undo changes they make to instances of this visualization. |
 
 **Note:** 
-Additional properties may be present in a visualization’s `controls` array but they may deprecated, irrelevant to a custom visual type that doesn't use the properties.
+Additional properties may be present in a visualization’s `controls` array but they may deprecated, irrelevant to a custom visual type that does not use the properties.
 
 `variables` - **array of objects**
 

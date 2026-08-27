@@ -4,7 +4,7 @@ id: 43701082580237
 section: "Manipulate Data In The Composer 26 Data Store"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701082580237-Custom-Metrics-Editor
-updated_at: 2026-05-29T14:11:11Z
+updated_at: 2026-08-26T07:10:27Z
 ---
 
 # Custom Metrics Editor
@@ -15,12 +15,12 @@ Composer provides a Custom Metrics Editor to help you create and test custom met
 
 To define custom metrics for a data source, you must have:
 
-* Read permission for the data source and the **Edit Calculation** privilege, or
+* Read permission for the data source and the [**Edit Calculations** privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference), or
 * Write permission for the data source.
 
 The Custom Metrics Editor is shown below. For every source added, the custom metric **Volume**, using a `Count(*)` expression is created.
 
-![Use this work area to build, test, and preview custom metrics](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242635486221 "Custom Metrics Editor work area")
+![Use this work area to build, test, and preview custom metrics](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418031617677 "Custom Metrics Editor work area")
 
 The numbered regions are:
 
@@ -38,14 +38,14 @@ Custom Metrics Editor Features:
 
   Parts of an expression are highlighted in different colors or with different text treatments:
 
-  + function names, both row level and aggregate
-  + fields and metrics
-  + keywords such as CASE and IN
-  + example parameters
-  + date period constants such as `year`
-  + values such as numbers and `true` or `false`
-  + strings
-  + arithmetic operators such as `+`
+  * function names, both row level and aggregate
+  * fields and metrics
+  * keywords such as CASE and IN
+  * example parameters
+  * date period constants such as `year`
+  * values such as numbers and `true` or `false`
+  * strings
+  * arithmetic operators such as `+`
 
   References to fields that do not exist in the data source or are otherwise not usable in an expression are interpreted as values. These are shown in black, alerting you to possible typos or other issues.
 * Limit the number of records shown in **Preview** by adjusting the **Rows per Page**.
@@ -60,9 +60,9 @@ Custom Metrics Editor Features:
 * Composer disables the **Save** button, preventing you from saving a custom metric unless it has a successfully run expression.
 * When you close the editor with unsaved changes, Composer displays a confirmation message.
 
-  + Select **Cancel** to continue editing or changing the text of the label for your custom metric.
-  + Select **Discard** to discard your changes. If you are editing an existing item, your last saved version remains in Composer.
-  + If you select **Discard** while creating a new expression, Composer returns you to the source work area.
+  * Select **Cancel** to continue editing or changing the text of the label for your custom metric.
+  * Select **Discard** to discard your changes. If you are editing an existing item, your last saved version remains in Composer.
+  * If you select **Discard** while creating a new expression, Composer returns you to the source work area.
 
 Access the Custom Metrics Editor in the following ways:
 

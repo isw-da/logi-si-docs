@@ -4,7 +4,7 @@ id: 43701067737741
 section: "Manipulate Data In The Composer 26 Data Store"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701067737741-Conditional-Functions
-updated_at: 2026-05-29T14:08:20Z
+updated_at: 2026-08-26T07:09:44Z
 ---
 
 # Conditional Functions

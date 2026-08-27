@@ -4,7 +4,7 @@ id: 43701042127373
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701042127373-Use-User-Attributes-for-Connection-Parameters
-updated_at: 2026-05-29T14:11:33Z
+updated_at: 2026-08-26T07:11:34Z
 ---
 
 # Use User Attributes for Connection Parameters
@@ -27,14 +27,14 @@ You can also insert variables directly in the connection parameters of a connect
 
    **Note:** 
    The default **supervisor** user is no longer installed; add users to the **Supervisors** group instead.
-2. Select **Connectors** from the menu (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46243315952397)). The Manage Connector Services page appears.
+2. Select the **Connection** card on your home page or **Connections** from the main menu. The [Connections work area](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701008155149-Connections-Page) appears. The Manage Connector Services page appears.
 3. In the Connectors section of the page, select connector parameters to review. Alternatively, you can create a new connector definition and review and modify the parameters in the new definition. See [Define a New Connector](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700993403661-Define-a-New-Connector).
 
    Either the Edit Connector or the Create New Connector page for the connector appears.
 4. Review the connector parameters that appear at the bottom of the Edit Connector or Create New Connector page.
 5. In the following Impala connector definition, the **User Attribute** checkbox is selected for the USER\_NAME and PASSWORD parameters. The user definitions in this instance must include custom attributes for these parameters (see [Step 2](#Step2)) and the connection definitions for this Impala connector must select the appropriate custom attributes as user credentials (see [Step 3](#Step3)).
 
-   ![Use this work area to customize the fields for this connector, including use of User Attributes](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242737008269 "Connector Parameters work area")
+   ![Use this work area to customize the fields for this connector, including use of User Attributes](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417954736781 "Connector Parameters work area")
 6. Alter the other connector parameters, as needed.
 
    * If a connector parameter is required, make sure its **Required** checkbox is selected. Depending on the connector server, some parameters are already selected because they are required.
@@ -67,7 +67,7 @@ The same custom attribute key name must be defined and used in all the user defi
 2. Create or edit a connection using the connector you updated in [Step 1](#Step). See [Add Data Store Connections](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700992503437-Add-Data-Store-Connections) and [Modify Data Store Connections](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701054605453-Modify-Data-Store-Connections).
 3. If a connection parameter is identified as a user attribute, up and down arrows appear in the connection parameter field on the Connections and Connection Details work areas. Use these arrows to select the custom attribute you want to use for the connection from list shown in the **Select Custom Attribute** drop-down menu.
 
-   ![Select custom attributes you have defined in your environment to use in connections](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46243299413261 "Connection Details work area")
+   ![Select custom attributes you have defined in your environment to use in connections](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418104168205 "Connection Details work area")
 
    **Note:** 
    If the [connector](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700993403661-Define-a-New-Connector) associated with the connection type for the connection definition has **not** been defined with the **User Attribute** checkbox selected (the **User Attribute** checkbox *was* selected in [Step 1](#Step)) for the USER\_NAME or PASSWORD parameters, the Select Custom Attribute drop-down menu is not available and you must manually enter the custom attribute in `${User.<custom-attribute-name>}` format. See [Insert Variables for Connection Parameters](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700993364749-Insert-Variables-for-Connection-Parameters). Note that the custom attributes in this case do not use the same format as when you select them from the drop-down menu.

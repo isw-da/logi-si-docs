@@ -4,7 +4,7 @@ id: 43701026372749
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701026372749-Manage-the-MongoDB-Connector
-updated_at: 2026-05-29T14:07:46Z
+updated_at: 2026-08-26T07:09:16Z
 ---
 
 # Manage the MongoDB Connector
@@ -58,15 +58,15 @@ MongoDB connectors support [derived fields](https://logi-composer-v26.insightsof
 
 * If you are running a version of MongoDB prior to version 4.0, the following [text row-level functions](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701031641229-Text-Functions) are not supported (these functions work for MongoDB version 4.0 and later):
 
-  + TEXT\_TO\_NUM
-  + TEXT\_TO\_TIME
-  + LTRIM
-  + RTRIM
+  * TEXT\_TO\_NUM
+  * TEXT\_TO\_TIME
+  * LTRIM
+  * RTRIM
 * The following restrictions apply to MongoDB 3.4:
 
-  + You cannot use a number field with a year pattern as a date field in a [row-level expression](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701116187533-Row-Level-Expressions).
-  + [TIME\_ADD](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701067903501-Time-Functions) intervals cannot be specified for YEAR, QUARTER, or MONTH.
-  + [TRUNCATE\_TIME](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701067903501-Time-Functions) cannot truncate date-time field values to YEAR or QUARTER granularities.
+  * You cannot use a number field with a year pattern as a date field in a [row-level expression](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701116187533-Row-Level-Expressions).
+  * [TIME\_ADD](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701067903501-Time-Functions) intervals cannot be specified for YEAR, QUARTER, or MONTH.
+  * [TRUNCATE\_TIME](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701067903501-Time-Functions) cannot truncate date-time field values to YEAR or QUARTER granularities.
 
 ## Connect to MongoDB with Configured SSL
 

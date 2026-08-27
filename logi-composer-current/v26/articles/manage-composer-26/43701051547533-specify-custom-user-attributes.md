@@ -4,7 +4,7 @@ id: 43701051547533
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701051547533-Specify-Custom-User-Attributes
-updated_at: 2026-05-29T14:07:07Z
+updated_at: 2026-08-26T07:11:49Z
 ---
 
 # Specify Custom User Attributes
@@ -21,7 +21,7 @@ A primary use of custom attributes is for user credential pass-through. Add cred
 
 Custom attributes are defined using the **Custom Attributes** tab when you edit the user.
 
-When you reference custom attributes in connecton definitions, action URLs, attribute definitions, or a data source's custom SQL, they take the form of `${User.<custom-attribute-name>}`.
+When you reference custom attributes in connection definitions, action URLs, attribute definitions, or a data source's custom SQL, they take the form of `${User.<custom-attribute-name>}`.
 
 This section covers the following topics:
 

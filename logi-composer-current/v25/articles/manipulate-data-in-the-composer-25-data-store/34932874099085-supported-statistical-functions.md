@@ -4,7 +4,7 @@ id: 34932874099085
 section: "Manipulate Data In The Composer 25 Data Store"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932874099085-Supported-Statistical-Functions
-updated_at: 2026-05-26T22:07:07Z
+updated_at: 2026-08-24T20:30:16Z
 ---
 
 # Supported Statistical Functions

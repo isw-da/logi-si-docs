@@ -4,7 +4,7 @@ id: 34932793437325
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932793437325-About-Scheduled-Dashboard-Reports
-updated_at: 2026-05-26T22:06:52Z
+updated_at: 2026-08-24T20:29:53Z
 ---
 
 # About Scheduled  Dashboard Reports

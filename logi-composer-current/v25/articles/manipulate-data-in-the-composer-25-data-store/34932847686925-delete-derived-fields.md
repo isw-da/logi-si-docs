@@ -4,7 +4,7 @@ id: 34932847686925
 section: "Manipulate Data In The Composer 25 Data Store"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932847686925-Delete-Derived-Fields
-updated_at: 2026-05-26T22:09:57Z
+updated_at: 2026-08-24T20:33:12Z
 ---
 
 # Delete Derived Fields
@@ -26,6 +26,6 @@ See[Fields Usage](https://logi-composer-v25.insightsoftware.com/hc/en-us/article
 2. Select the **Fields** tab.
 3. Locate the derived field in the Fields table that you would like to remove.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167273198605)
-4. Select the delete icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167334469901)) in the Actions column.
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373684314509)
+4. Select the delete icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373661963277)) in the Actions column.
 5. Select **Delete** in the pop-up confirmation dialog. The derived field is deleted if it is not in use.

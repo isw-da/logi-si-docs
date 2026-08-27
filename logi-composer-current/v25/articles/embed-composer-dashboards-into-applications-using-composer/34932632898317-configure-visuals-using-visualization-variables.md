@@ -4,7 +4,7 @@ id: 34932632898317
 section: "Embed Composer Dashboards Into Applications Using Composer"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932632898317-Configure-Visuals-Using-Visualization-Variables
-updated_at: 2026-05-26T22:06:13Z
+updated_at: 2026-08-24T20:29:08Z
 ---
 
 # Configure Visuals Using Visualization Variables

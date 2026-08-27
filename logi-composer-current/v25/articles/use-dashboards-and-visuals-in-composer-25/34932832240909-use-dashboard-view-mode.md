@@ -4,14 +4,14 @@ id: 34932832240909
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932832240909-Use-Dashboard-View-Mode
-updated_at: 2026-05-26T22:10:04Z
+updated_at: 2026-08-24T20:33:17Z
 ---
 
 # Use Dashboard View Mode
 
 # Use Dashboard View Mode
 
-Dashboard view mode allows you, as a dashboard owner or editor, to see the same layout and options for dashboards you share with users. Toggle between View and Edit modes using the dashboard view mode icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167924888461)).
+Dashboard view mode allows you, as a dashboard owner or editor, to see the same layout and options for dashboards you share with users. Toggle between View and Edit modes using the dashboard view mode icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374825707789)).
 
 See [Share a Dashboard with Users](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932824740749-Share-a-Dashboard-with-Users).
 

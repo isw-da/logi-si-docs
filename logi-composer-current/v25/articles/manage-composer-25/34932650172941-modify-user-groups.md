@@ -4,7 +4,7 @@ id: 34932650172941
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932650172941-Modify-User-Groups
-updated_at: 2026-05-26T22:10:28Z
+updated_at: 2026-08-24T20:33:51Z
 ---
 
 # Modify  User Groups
@@ -21,7 +21,7 @@ Management of the [supplied **Administrators** group](https://logi-composer-v25.
 1. Log in as a administrator or a user who has been assigned to a group with [group management privileges](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932577846157-Group-Privilege-Reference).
 
    If the user name you log in with is also associated with other tenants, verify that the correct tenant is selected. See [Switch Tenants](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932611967885-Switch-Tenants).
-2. Select **Users and Groups** on the [UI menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46168029573901)). The Users and Groups work area appears. It consists of two sections: **Users** and **Groups**.
+2. Select **Users and Groups** on the [UI menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374890134925)). The Users and Groups work area appears. It consists of two sections: **Users** and **Groups**.
 3. Select **Groups** to see a list of all the groups defined for this tenant.
 4. In the list of groups, locate the name of the group you want to modify. The group editor work area opens.
 5. Select the **General** tab to change the group name in the **Group Name** box. Optionally update the description of the group in the **Description** box.

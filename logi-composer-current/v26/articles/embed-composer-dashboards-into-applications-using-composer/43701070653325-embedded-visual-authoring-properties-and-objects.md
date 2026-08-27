@@ -4,7 +4,7 @@ id: 43701070653325
 section: "Embed Composer Dashboards Into Applications Using Composer"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701070653325-Embedded-Visual-Authoring-Properties-and-Objects
-updated_at: 2026-05-29T14:08:29Z
+updated_at: 2026-08-26T07:09:47Z
 ---
 
 # Embedded Visual Authoring Properties and Objects
@@ -53,7 +53,7 @@ The following table describes the available properties for `componentConfig`.
 
 | Property/Object | Default | Description |
 | --- | --- | --- |
-| `"theme":"dark"` | `composer` | The theme for the embedded visual. Valid values are `composer`, `modern`, or `dark`. The initial default theme, `composer`, is the same as the `modern` theme. However, if you [add your own themes](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701163831053-Manage-UI-Themes) to the application, more options are available in this list and you may have introduced a different default.  Type: string |
+| `"theme":"dark"` | `composer` | The theme for the embedded visual. Valid values are `d+a_light`, `__platform__`, `composer`, `modern`, `dark`. The initial default theme, `composer`, is the same as the `modern` theme. However, if you [add your own themes](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701163831053-Manage-User-Interface-Themes) to the application, more options are available in this list and you may have introduced a different default.  Type: string |
 
 The following table describes the available `header` properties.
 
@@ -95,7 +95,7 @@ The following table describes all of the available properties.
 | `"header.visible": false` | `true` | Indicates whether the visual header should be visible for the embedded visual.  Valid values are `true` or `false`.  Type: boolean |
 | `"interactivityOverrides"` | none | Specifies interactivity override settings for visual authoring.  The interactivity settings specified in this object will override any interactivity settings specified for the individual visuals.  For a list of visual interactivity settings you can specify, see [Control How Users Interact With a Visual](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701185104653-Control-How-Users-Interact-With-a-Visual).  Type: object |
 | `"source.visualId":"<id>"` | null | The source ID of a visual template, used for creating a new visual in visual authoring. This represents a predefined visual template. A valid source ID should be specified in quotes (`"<source-visual-ID>"`).  If neither `visualId` or `source.visualId` is specified, an empty visual authoring instance will be opened.  If both are provided, `visualId` is used.  Type: string |
-| `"theme":"dark"` | `composer` | The theme for the embedded visual. Valid values are `composer`, `modern`, or `dark`.  The initial default theme, `composer`, is the same as the `modern` theme.  However, if you [add your own themes](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701163831053-Manage-UI-Themes) to the application, more options are available in this list and you may have introduced a different default.  Type: string |
+| `"theme":"dark"` | `composer` | The theme for the embedded visual. Valid values are `d+a_light`, `__platform__`, `composer`, `modern`, `dark`. The initial default theme, `composer`, is the same as the `modern` theme. However, if you [add your own themes](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701163831053-Manage-User-Interface-Themes) to the application, more options are available in this list and you may have introduced a different default.  Type: string |
 | `"visualId":"<id>"` | null | The visual ID for an existing visual for visual authoring. A valid visual ID should be specified in quotes (`"<visual-ID>"`).  If neither `visualId` or `source.visualId` is specified, an empty visual authoring instance will be opened.  If both are provided, `visualId` is used.  Type: string |
 
 **Note:** 

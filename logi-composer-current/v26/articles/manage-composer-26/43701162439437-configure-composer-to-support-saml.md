@@ -4,7 +4,7 @@ id: 43701162439437
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701162439437-Configure-Composer-to-Support-SAML
-updated_at: 2026-05-29T14:10:30Z
+updated_at: 2026-08-26T07:11:53Z
 ---
 
 # Configure Composer to Support SAML
@@ -35,7 +35,7 @@ To enable Composer to support your organization's identity provider, first obtai
 
 **ACTION:** Obtain the XML metadata file from your organization’s IDP.
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242429691021)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417992215821)
 
 ### Generate a Key File and Configuring SAML with SSL
 
@@ -69,7 +69,7 @@ The key file is saved to your local hard drive. You will upload the key file int
 Access Composer and take the following steps to configure SAML Settings:
 
 1. Log in as an administrator or a member of the Supervisors group.
-2. Select **Tools > Security**. On the **Security Services** tab, make sure that the SAML SSO service is running. Otherwise, enable it, save your changes, and restart Composer for the changes to take effect. For more information, see
+2. Select **Tools > Security** from the Administration menu. On the **Security Services** tab, make sure that the SAML SSO service is running. Otherwise, enable it, save your changes, and restart Composer for the changes to take effect. For more information, see
    [Enable or Disable a Security Service](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701209060237-Enable-or-Disable-a-Security-Service).
 3. Select the **SAML Settings** tab.
 4. In the General Settings section enable SAML.
@@ -98,7 +98,7 @@ Access Composer and take the following steps to configure SAML Settings:
 14. In the **Full Name Mapping** box, specify the name of the SAML attribute containing users' full names.
 15. In the **Email Mapping** box, specify the name of the SAML attribute containing users' emails.
 16. In the **Group Mapping** box, specify the name of the SAML attribute containing the multivalue list of group names identifying user memberships.
-17. If you want Composer to automatically create groups for users if they don't exist in your environment yet, turn the **Auto Create Groups** on (slide the switch to the right).
+17. If you want Composer to automatically create groups for users if they do not exist in your environment yet, turn the **Auto Create Groups** on (slide the switch to the right).
 
     By default, groups created in Composer via SAML do not have any permissions or access to data sources. The Composer Administrator must manually assign privileges to the group.
 
@@ -112,11 +112,11 @@ Access Composer and take the following steps to configure SAML Settings:
 19. After you have set up all the necessary information on the Composer SAML Settings page and saved the configuration, the last step is to have Composer generate the metadata file that is imported into your organization's IDP.
 
     Download the metadata file by selecting the corresponding button. The metadata file is an XML file that you upload to your IDP. Successfully enabling SSO in Composer results in a change to the login screen.
-20. If you've already configured the SAML configuration and have made changes to the keystore, restart the Composer server for these changes to take effect.
+20. If you have already configured the SAML configuration and have made changes to the keystore, restart the Composer server for these changes to take effect.
 
 You still have the option to log into Composer without using single sign-on. Selecting the
 **Show Composer Authentication** option lets you log in using your Composer credentials. The first time that users log into Composer via SAML, Composer automatically creates the user profile in the
-**Users and Groups** administrative page. In addition, if the user is a member of one or more groups, the Group(s) are also created (as long as the Group Mapping was provided during setup).
+**Users** (formerly *Users and Groups*) administrative page. In addition, if the user is a member of one or more groups, the Group(s) are also created (as long as the Group Mapping was provided during setup).
 
 ### Mapping to Custom User Attribute
 

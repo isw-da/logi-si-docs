@@ -4,7 +4,7 @@ id: 43701070345997
 section: "Embed Composer Dashboards Into Applications Using Composer"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701070345997-Embedded-Dashboard-Properties-and-Objects
-updated_at: 2026-05-29T14:08:29Z
+updated_at: 2026-08-26T07:09:47Z
 ---
 
 # Embedded Dashboard Properties and Objects
@@ -154,7 +154,7 @@ The following table describes available options for these properties and objects
 
 | Property/Object | Default | Description |
 | --- | --- | --- |
-| `"theme":"dark"` | `composer` | The theme for the embedded dashboard. Valid values are `composer`, `modern`, or `dark`. The initial default theme, `composer`, is the same as the `modern` theme. However, if you [add your own themes](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701163831053-Manage-UI-Themes) to the application, more options are available in this list and you may have introduced a different default.  Type: string |
+| `"theme":"dark"` | `composer` | The theme for the embedded visual. Valid values are `d+a_light`, `__platform__`, `composer`, `modern`, `dark`. The initial default theme, `composer`, is the same as the `modern` theme. However, if you [add your own themes](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701163831053-Manage-User-Interface-Themes) to the application, more options are available in this list and you may have introduced a different default.  Type: string |
 
 Here is a sample embedding `"editor"`:
 

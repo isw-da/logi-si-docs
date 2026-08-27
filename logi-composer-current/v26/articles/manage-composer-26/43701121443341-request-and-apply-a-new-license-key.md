@@ -4,7 +4,7 @@ id: 43701121443341
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701121443341-Request-and-Apply-a-New-License-Key
-updated_at: 2026-05-29T14:08:53Z
+updated_at: 2026-08-26T07:11:13Z
 ---
 
 # Request and Apply a New License Key
@@ -14,7 +14,7 @@ updated_at: 2026-05-29T14:08:53Z
 Composer notifies you when your license key is about to expire.
 
 **Note:** 
-Use the DevNet License Manager to obtain license keys. These are provided to the person in your organization we term the License POC (Point of Contact). If you don't know who your License POC is, please reach out to your Account Manager.
+Use the DevNet License Manager to obtain license keys. These are provided to the person in your organization we term the License POC (Point of Contact). If you do not know who your License POC is, please reach out to your Account Manager.
 
 **Note:** 
 When a Composer standard or trial license expires, only system administrators can log in (to update the license). Regular users are shown a message that the license has expired.

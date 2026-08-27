@@ -4,7 +4,7 @@ id: 43701023618573
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701023618573-Update-Queries-with-Axis-Labels-or-Pickers
-updated_at: 2026-05-29T14:07:18Z
+updated_at: 2026-08-26T07:08:59Z
 ---
 
 # Update Queries with Axis Labels or Pickers

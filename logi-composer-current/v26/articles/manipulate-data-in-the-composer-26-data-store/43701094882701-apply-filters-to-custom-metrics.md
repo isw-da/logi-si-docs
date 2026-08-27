@@ -4,7 +4,7 @@ id: 43701094882701
 section: "Manipulate Data In The Composer 26 Data Store"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701094882701-Apply-Filters-to-Custom-Metrics
-updated_at: 2026-05-29T14:08:12Z
+updated_at: 2026-08-26T07:09:36Z
 ---
 
 # Apply Filters to Custom Metrics
@@ -40,16 +40,14 @@ where:
   | Filters | | |
   | --- | --- | --- |
   | Capability | Operators | Notes |
-  | Filtering on attribute options | NULL check: IS NULL, IS NOT NULL  Single value: =, !=, STARTS WITH, ENDS WITH, CONTAINS  Multiple values: IN(), NOT IN() | + Non-numeric fields such as Name, Address and State can be used as a filter. + References to an attribute in a field must be enclosed in single quotation marks. For example:  SUM(Sales) WHERE State = ‘Florida’ + Values specified for STARTS WITH, ENDS WITH, and CONTAINS are case-sensitive. The following example would show sales for states that include the lowercase letters `ia`, such as California and Louisiana (and others):  SUM(Sales) WHERE State CONTAINS 'ia' |
-  | Filtering on date field options | Date range operator: BETWEEN | + Standard date formats (see [Convert Attributes to Time Fields in Data Source Field Specifications](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701078376461-Convert-Attributes-to-Time-Fields-in-Data-Source-Field-Specifications)) are supported (such as 'yyyy-mm-dd', 'dd/mm/yyyy' including 'hh-mm-ss')   . + Date (‘01-01-2015’) must be enclosed in single quotation marks. + Supported time periods are YEAR, MONTH, WEEK, or DAY |
-  | Filtering on numeric fields and custom metric options | >, <, =, != | + References to a numeric field must be enclosed in single quotation marks + References can be made to other custom metrics (using the custom metric label) |
+  | Filtering on attribute options | NULL check: IS NULL, IS NOT NULL  Single value: =, !=, STARTS WITH, ENDS WITH, CONTAINS  Multiple values: IN(), NOT IN() | * Non-numeric fields such as Name, Address and State can be used as a filter. * References to an attribute in a field must be enclosed in single quotation marks. For example:  SUM(Sales) WHERE State = ‘Florida’ * Values specified for STARTS WITH, ENDS WITH, and CONTAINS are case-sensitive. The following example would show sales for states that include the lowercase letters `ia`, such as California and Louisiana (and others):  SUM(Sales) WHERE State CONTAINS 'ia' |
+  | Filtering on date field options | Date range operator: BETWEEN | * Standard date formats (see [Convert Attributes to Time Fields in Data Source Field Specifications](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701078376461-Convert-Attributes-to-Time-Fields-in-Data-Source-Field-Specifications)) are supported (such as 'yyyy-mm-dd', 'dd/mm/yyyy' including 'hh-mm-ss')   . * Date (‘01-01-2015’) must be enclosed in single quotation marks. * Supported time periods are YEAR, MONTH, WEEK, or DAY |
+  | Filtering on numeric fields and custom metric options | >, <, =, != | * References to a numeric field must be enclosed in single quotation marks * References can be made to other custom metrics (using the custom metric label) |
 * `<value>` is an appropriate value, based on the requirements of the [SQL-like expression](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701116252685-Supported-SQL-Like-Expressions). Values can be specific numbers or dates, or one of the [date and time filter aggregation functions](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701083818509-Date-and-Time-Filter-Aggregation-Functions).
 
 ## Examples
 
 The following table provides examples of filtered custom metrics.
-
-
 
 | Filtered Custom Metric Examples | |
 | --- | --- |

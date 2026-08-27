@@ -4,7 +4,7 @@ id: 34932860149645
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932860149645-Apply-Hierarchical-Filters-to-Visuals
-updated_at: 2026-05-26T22:09:43Z
+updated_at: 2026-08-24T20:32:52Z
 ---
 
 # Apply Hierarchical Filters to  Visuals
@@ -21,7 +21,7 @@ Hierarchical fields are enabled by default at the server level. Work with [Techn
 
    The default Operator, **Equals or Descendants Of**, is selected. When used in this filter, Logi Composer selects data for nodes equal to the selected node, and its descendants.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167299572237)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373648948493)
 3. Select one or more nodes to filter your data. At least one filter value is required.
 
    * Use the **Search** box to find specific nodes.

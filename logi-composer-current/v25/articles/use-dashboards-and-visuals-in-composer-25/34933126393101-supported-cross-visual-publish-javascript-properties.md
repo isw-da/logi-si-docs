@@ -4,7 +4,7 @@ id: 34933126393101
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933126393101-Supported-Cross-Visual-Publish-JavaScript-Properties
-updated_at: 2026-05-26T22:08:00Z
+updated_at: 2026-08-24T20:31:19Z
 ---
 
 # Supported Cross-Visual Publish JavaScript Properties

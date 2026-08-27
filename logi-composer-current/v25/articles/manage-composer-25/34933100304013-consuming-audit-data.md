@@ -4,7 +4,7 @@ id: 34933100304013
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933100304013-Consuming-Audit-Data
-updated_at: 2026-05-26T22:07:45Z
+updated_at: 2026-08-24T20:31:01Z
 ---
 
 # Consuming Audit Data

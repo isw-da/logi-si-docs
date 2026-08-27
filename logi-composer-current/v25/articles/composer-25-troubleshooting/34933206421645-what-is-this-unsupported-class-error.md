@@ -4,7 +4,7 @@ id: 34933206421645
 section: "Composer 25 Troubleshooting"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933206421645-What-Is-This-Unsupported-Class-Error
-updated_at: 2026-05-26T22:08:25Z
+updated_at: 2026-08-24T20:31:31Z
 ---
 
 # What Is This Unsupported Class Error?

@@ -4,7 +4,7 @@ id: 34932986213773
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932986213773-Apply-a-Group-Filter-from-a-Metric
-updated_at: 2026-05-26T22:09:37Z
+updated_at: 2026-08-24T20:32:50Z
 ---
 
 # Apply a Group Filter from a Metric
@@ -17,7 +17,7 @@ Group filters can only be applied from a specific visual or filter snippet. They
 
 **Create the group filter**
 
-1. Select the filter icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167891115789)) or select **Settings** from the [menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933290868621-Use-the-Visual-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167902505869)) and then select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167902506509) on the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu).
+1. Select the filter icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374768481805)) or select **Settings** from the [menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933290868621-Use-the-Visual-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374814482573)) and then select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374814484365) on the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu).
 
    The Filters sidebar appears showing any filters that have been applied.
 2. Select **Add Filter**. A work area opens for applying Row, Group, and Saved filters.

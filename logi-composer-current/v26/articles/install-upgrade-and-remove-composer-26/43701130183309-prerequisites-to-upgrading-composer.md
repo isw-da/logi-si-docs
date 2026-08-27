@@ -4,7 +4,7 @@ id: 43701130183309
 section: "Install, Upgrade, and Remove Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701130183309-Prerequisites-to-Upgrading-Composer
-updated_at: 2026-05-29T14:09:38Z
+updated_at: 2026-08-26T07:10:51Z
 ---
 
 # Prerequisites to Upgrading Composer
@@ -23,7 +23,7 @@ An option to install OpenJDK is included in the installation and upgrade scripts
 
 * RHEL 9 (Red Hat)
 * CentOS Stream 9
-* Ubuntu 22.04.
+* Ubuntu 22.04
 
   **Note:** Older versions of Ubuntu are nearing end of life (EOL) support. Composer 26.1 and later will require an operating system upgrade before you upgrade your Composer instance.
 * Windows Server versions 2016 and 2019 or higher.

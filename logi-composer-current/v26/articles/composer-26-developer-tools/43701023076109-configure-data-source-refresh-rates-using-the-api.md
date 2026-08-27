@@ -4,7 +4,7 @@ id: 43701023076109
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701023076109-Configure-Data-Source-Refresh-Rates-Using-the-API
-updated_at: 2026-05-29T14:07:12Z
+updated_at: 2026-08-26T07:09:01Z
 ---
 
 # Configure Data Source Refresh Rates Using the API

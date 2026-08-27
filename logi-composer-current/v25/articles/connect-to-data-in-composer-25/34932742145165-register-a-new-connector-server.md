@@ -4,7 +4,7 @@ id: 34932742145165
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932742145165-Register-a-New-Connector-Server
-updated_at: 2026-05-26T22:10:15Z
+updated_at: 2026-08-24T20:33:35Z
 ---
 
 # Register a New Connector Server
@@ -24,7 +24,7 @@ Connector servers are started and run as separate processes, and accept requests
 2. Select **Connectors** from the menu. The Managed Connector Services work area opens.
 3. In the Connector Servers section of the Manage Connector Services page, select **Add Connector Server**. The Register New Connector Server page appears.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167375173005)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373962821389)
 4. On the Register New Connector Server page, specify the following information in the input boxes.
 
    | Input Box | Description |

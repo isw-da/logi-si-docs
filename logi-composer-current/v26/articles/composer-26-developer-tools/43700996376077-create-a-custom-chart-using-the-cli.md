@@ -4,7 +4,7 @@ id: 43700996376077
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700996376077-Create-a-Custom-Chart-Using-the-CLI
-updated_at: 2026-05-29T14:11:26Z
+updated_at: 2026-08-26T07:10:45Z
 ---
 
 # Create a Custom Chart Using the CLI
@@ -13,7 +13,7 @@ updated_at: 2026-05-29T14:11:26Z
 
 A complete example of creating a custom chart using the custom chart CLI can be found in [A Custom Chart Tutorial](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701028307597-A-Custom-Chart-Tutorial).
 
-**Note:** Composer v24 Custom Chart CLI version 1 only supports the use of `vnd.composer.v3+json` as the `Content-Type` for API routes.
+**Note:** Composer Custom Chart CLI version 1 only supports the use of `vnd.composer.v3+json` as the `Content-Type` for API routes.
 
 **Create a custom chart locally using the custom chart CLI**
 
@@ -28,7 +28,7 @@ A complete example of creating a custom chart using the custom chart CLI can be 
 
 The `cmp-chart init` command creates a directory in the specified path containing the files you need to get started. Here is a preview of the directory tree:
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242715883789)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418019013645)
 
 The following table describes the function of each file in the tree:
 

@@ -4,7 +4,7 @@ id: 43700956497549
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700956497549-Change-a-Supervisor-Password
-updated_at: 2026-05-29T14:07:05Z
+updated_at: 2026-08-26T07:11:42Z
 ---
 
 # Change a Supervisor Password
@@ -24,7 +24,7 @@ Only a system administrator or users who are members of a group with [user manag
 **Change or reset password for Supervisors group members**
 
 1. Log in as user who has been assigned to a group with [user management privileges](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference).
-2. Select **Users and Groups** from the [UI menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701160499853-The-Composer-UI-Menu). A work area opens you can use to add and manage users. Select the **Users** tab if both the **Users** and **Groups** tabs are visible.
+2. Select **Users** (formerly *Users and Groups*) from the Administration menu. A work area opens you can use to add and manage users.
 3. Select the user from the list of users whose password you want to reset. The account details for that user appear on the right side of the page.
 4. On the **Info** tab, select **Change Password**.
 5. Type the new password in the **Password** and **Confirm Password** boxes.

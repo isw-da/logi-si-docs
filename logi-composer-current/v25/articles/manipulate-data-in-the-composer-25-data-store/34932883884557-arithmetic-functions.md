@@ -4,7 +4,7 @@ id: 34932883884557
 section: "Manipulate Data In The Composer 25 Data Store"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932883884557-Arithmetic-Functions
-updated_at: 2026-05-26T22:07:12Z
+updated_at: 2026-08-24T20:30:23Z
 ---
 
 # Arithmetic Functions

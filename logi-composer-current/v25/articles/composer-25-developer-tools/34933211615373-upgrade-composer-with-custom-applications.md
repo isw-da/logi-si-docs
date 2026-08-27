@@ -4,7 +4,7 @@ id: 34933211615373
 section: "Composer 25 Developer Tools"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933211615373-Upgrade-Composer-with-Custom-Applications
-updated_at: 2026-05-26T22:08:29Z
+updated_at: 2026-08-24T20:31:36Z
 ---
 
 # Upgrade Composer with Custom Applications

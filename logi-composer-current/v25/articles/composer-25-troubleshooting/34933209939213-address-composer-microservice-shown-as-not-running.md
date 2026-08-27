@@ -4,7 +4,7 @@ id: 34933209939213
 section: "Composer 25 Troubleshooting"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933209939213-Address-Composer-Microservice-Shown-as-Not-Running
-updated_at: 2026-05-26T22:08:11Z
+updated_at: 2026-08-24T20:31:26Z
 ---
 
 # Address Composer Microservice Shown as Not Running

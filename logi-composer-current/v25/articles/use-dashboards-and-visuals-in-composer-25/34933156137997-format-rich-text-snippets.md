@@ -4,7 +4,7 @@ id: 34933156137997
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933156137997-Format-Rich-Text-Snippets
-updated_at: 2026-05-26T22:09:10Z
+updated_at: 2026-08-24T20:32:19Z
 ---
 
 # Format Rich Text Snippets
@@ -15,7 +15,7 @@ Use rich text snippets to enhance your users' dashboard experience by describing
 
 As you add and update your text, use the undo and redo icons or keyboard shortcuts to undo and redo text changes. If you employ custom attributes in your Logi Composer environment, incorporate them into your snippets as needed.
 
-![use to format the look and feel of your rich text snippets](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167051133965 "Rich Text Snippets Format Menu")
+![use to format the look and feel of your rich text snippets](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373212451981 "Rich Text Snippets Format Menu")
 
 Format options include:
 

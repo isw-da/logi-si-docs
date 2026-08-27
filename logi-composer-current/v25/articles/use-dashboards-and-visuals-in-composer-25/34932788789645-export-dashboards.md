@@ -4,7 +4,7 @@ id: 34932788789645
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932788789645-Export-Dashboards
-updated_at: 2026-05-26T22:09:56Z
+updated_at: 2026-08-24T20:33:08Z
 ---
 
 # Export  Dashboards
@@ -28,15 +28,15 @@ Dashboards can be exported in the following formats:
 
 **Export a dashboard**
 
-1. On the dashboard, select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167942842253) on the dashboard icon bar. A drop-down menu appears.
+1. On the dashboard, select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374873615757) on the dashboard icon bar. A drop-down menu appears.
 
-   ![Select how you want your dashboard data exported](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167400895117 "Export Dashboard Menu")
+   ![Select how you want your dashboard data exported](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373784414861 "Export Dashboard Menu")
 2. Select an export file format.
 
    * When you select **Screenshot (PNG)**, Logi Composer creates a PNG file. This is downloaded to your browser.
    * When you select **PDF** format, the Export as PDF dialog appears.
 
-     ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167396408717)
+     ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373789413517)
 
      Optionally, specify a header and footer for the PDF. Slide the **Add Username** switch on (to the right) to add a user name to the PDF. Slide the **Add Timestamp** switch on (to the right) to add a time stamp to the PDF. Then select **Export**.
    * When you select **Configuration (JSON)** format, the JSON file is automatically downloaded to your browser.

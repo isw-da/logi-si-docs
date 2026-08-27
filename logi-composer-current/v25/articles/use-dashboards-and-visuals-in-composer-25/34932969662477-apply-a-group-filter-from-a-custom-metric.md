@@ -4,7 +4,7 @@ id: 34932969662477
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932969662477-Apply-a-Group-Filter-from-a-Custom-Metric
-updated_at: 2026-05-26T22:09:34Z
+updated_at: 2026-08-24T20:32:45Z
 ---
 
 # Apply a Group Filter from a Custom Metric
@@ -19,12 +19,12 @@ Since you do not have a custom metric created yet for average sales, one needs t
 
 1. Select the filter icon on the [visual](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932931145741-Apply-a-Row-Level-Filter-to-a-Visual-or-Filter-Snippet), [filter snippet](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933004164237-Manage-Filter-Snippets), or [dashboard](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932922987533-Apply-a-Row-Level-Filter-to-a-Dashboard) to access the appropriate filter sidebar.
 
-   * To access the filter sidebar, select its filter icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167875651469)) or select **Settings** from the [menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933290868621-Use-the-Visual-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167875657869)) and then select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167875659021) on the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu).
-   * To access the dashboard filter sidebar, select its filter icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167875660685)). The dashboard-level filter icon is available only when all the visuals are from the same data source.
+   * To access the filter sidebar, select its filter icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374800321805)) or select **Settings** from the [menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933290868621-Use-the-Visual-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374800323981)) and then select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374800324493) on the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu).
+   * To access the dashboard filter sidebar, select its filter icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374800324877)). The dashboard-level filter icon is available only when all the visuals are from the same data source.
 
    The Filters sidebar appears showing any filters that have been applied.
 2. Select **Add Filter**. A work area opens for applying Row, Group, and Saved filters.
-3. Select an add icon ![add icon](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167875665677 "add icon") and select **Add Custom Metric** from the resulting menu. The Custom Metrics Editor appears.
+3. Select an add icon ![add icon](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374800325773 "add icon") and select **Add Custom Metric** from the resulting menu. The Custom Metrics Editor appears.
 4. In the Function Library, double-select **AVG(field)**.
 5. In Fields, select **Sales**.
 6. Select **Run** to see a preview of the results.
@@ -37,8 +37,8 @@ Now that you have created and successfully saved the custom metric you want to u
 
 1. Select the filter icon on the [visual](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932931145741-Apply-a-Row-Level-Filter-to-a-Visual-or-Filter-Snippet), [filter snippet](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933004164237-Manage-Filter-Snippets), or [dashboard](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932922987533-Apply-a-Row-Level-Filter-to-a-Dashboard) to access the appropriate filter sidebar.
 
-   * To access the filter sidebar, select its filter icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167875651469)) or select **Settings** from the [menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933290868621-Use-the-Visual-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167875657869)) and then select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167875659021) on the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu).
-   * To access the dashboard filter sidebar, select its filter icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167875660685)). The dashboard-level filter icon is available only when all the visuals are from the same data source.
+   * To access the filter sidebar, select its filter icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374800321805)) or select **Settings** from the [menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933290868621-Use-the-Visual-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374800323981)) and then select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374800324493) on the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu).
+   * To access the dashboard filter sidebar, select its filter icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374800324877)). The dashboard-level filter icon is available only when all the visuals are from the same data source.
 
    The Filters sidebar appears showing any filters that have been applied.
 2. Select **Add Filter**.

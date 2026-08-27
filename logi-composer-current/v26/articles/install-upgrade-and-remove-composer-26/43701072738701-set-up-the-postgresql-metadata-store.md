@@ -4,7 +4,7 @@ id: 43701072738701
 section: "Install, Upgrade, and Remove Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701072738701--Set-Up-the-PostgreSQL-Metadata-Store
-updated_at: 2026-05-29T14:08:44Z
+updated_at: 2026-08-26T07:11:22Z
 ---
 
 #  Set Up the PostgreSQL Metadata Store

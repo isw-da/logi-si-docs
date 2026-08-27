@@ -4,7 +4,7 @@ id: 34933179586189
 section: "Composer 25 Troubleshooting"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933179586189-Basic-SAML-Troubleshooting
-updated_at: 2026-05-26T22:08:28Z
+updated_at: 2026-08-24T20:31:35Z
 ---
 
 # Basic SAML Troubleshooting

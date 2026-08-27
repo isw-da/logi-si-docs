@@ -4,7 +4,7 @@ id: 35385540530701
 section: "Install, Upgrade, and Remove Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/35385540530701-Set-Up-and-Use-the-Data-Gateway-Service
-updated_at: 2026-05-26T22:06:07Z
+updated_at: 2026-08-24T20:29:01Z
 ---
 
 # Set Up and Use the Data Gateway Service
@@ -25,18 +25,18 @@ First, enable the data gateway service in your environment. You must be the defa
 
 * Logi Composer installed in a Linux or Windows environment:
 
-  + Enable the data gateway in the zoomdata web service by including `data-gateway.client-api.enabled=true` in the properties file.
-  + Add properties, if needed, to control resource consumption in `dataGatewayService` in the property file.
-  + Start the service.
-  + Logi Composer listens for the service on port 80.
+  * Enable the data gateway in the zoomdata web service by including `data-gateway.client-api.enabled=true` in the properties file.
+  * Add properties, if needed, to control resource consumption in `dataGatewayService` in the property file.
+  * Start the service.
+  * Logi Composer listens for the service on port 80.
 * Logi Composer installed via Kubernetes:
 
-  + Enable `dataGatewayService` (set to `true`) in the [values.yaml](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933053804557-Helm-Chart-for-Composer) for Logi Composer. See [Enable the Data Gateway](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933053804557-Helm-Chart-for-Composer#Enable).
-  + Two services are added and exposed through the default [ingress](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933067333773-Ingress-Configuration) once you enable them:
+  * Enable `dataGatewayService` (set to `true`) in the [values.yaml](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933053804557-Helm-Chart-for-Composer) for Logi Composer. See [Enable the Data Gateway](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933053804557-Helm-Chart-for-Composer#Enable).
+  * Two services are added and exposed through the default [ingress](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933067333773-Ingress-Configuration) once you enable them:
 
-    - `data-gateway-service-external` - looks externally to accept websocket connections
-    - `data-gateway-service-internal` - looks internally to represent connecters inside the cluster
-  + Start the service.
+    * `data-gateway-service-external` - looks externally to accept websocket connections
+    * `data-gateway-service-internal` - looks internally to represent connecters inside the cluster
+  * Start the service.
 
 Once enabled, use the API to create data gateway clients, one for each connection you want to establish, using the `/api/data-gateway/clients` endpoint. Provide a name and description as needed. Logi Composer returns the client `id` and client `secret`, used to authenticate to Logi Composer.
 

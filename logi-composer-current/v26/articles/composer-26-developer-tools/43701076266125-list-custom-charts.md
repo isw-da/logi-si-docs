@@ -4,7 +4,7 @@ id: 43701076266125
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701076266125-List-Custom-Charts
-updated_at: 2026-05-29T14:08:03Z
+updated_at: 2026-08-26T07:09:29Z
 ---
 
 # List Custom Charts
@@ -15,8 +15,8 @@ Custom charts that have been imported into Composer are listed on the Manage Cus
 
 **Access the Manage Custom Charts page**
 
-1. Log into the UI as an administrator.
-2. Select **Custom Charts** from UI menu. The Manage Custom Charts page appears.
+1. Log into the user interface as an administrator.
+2. Select **Tools** > **Custom Charts** from the Administration menu. The Manage Custom Charts page appears.
 
 Your custom charts are listed in alphabetical order in the table on the Manage Custom Charts page.
 

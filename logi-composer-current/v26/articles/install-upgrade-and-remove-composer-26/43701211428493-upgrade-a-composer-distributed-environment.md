@@ -4,7 +4,7 @@ id: 43701211428493
 section: "Install, Upgrade, and Remove Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701211428493--Upgrade-a-Composer-Distributed-Environment
-updated_at: 2026-05-29T14:10:23Z
+updated_at: 2026-08-26T07:12:48Z
 ---
 
 #  Upgrade a Composer Distributed Environment
@@ -283,7 +283,7 @@ To deploy multiple Composer nodes (or instances) in a distributed environment, c
 
    export ZOOMDATA\_EDC\_PACKAGES='<edc>,<edc>[,<edc>]...'
 
-   where `<edc>` is the name of the data connector you'd like to install. You must install the PostgreSQL connector because it connects to the metadata store. Data connector names are the same as their connector microservice names without the `zoomdata-edc-` prefix. See [Data Connector Reference](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701113495693-Data-Connector-Reference).
+   where `<edc>` is the name of the data connector you would like to install. You must install the PostgreSQL connector because it connects to the metadata store. Data connector names are the same as their connector microservice names without the `zoomdata-edc-` prefix. See [Data Connector Reference](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701113495693-Data-Connector-Reference).
 4. Disable the automatic PostgreSQL metadata store upgrade by running the following command:
 
    export ZOOMDATA\_POSTGRES\_DISABLE\_UPGRADE=TRUE'
@@ -343,7 +343,7 @@ The following steps provide an example of setting up HAProxy as a load balancer.
    sudo vi cert.pem #Create and save an empty file  
    sudo chmod a+w cert.pem  
    sudo cat ca.key ca.crt > cert.pem
-4. In the same folder, replace the contents of the `haproxy.cfg` file with the contents of the [Composer haproxy configuration file](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242356664333). In the file, replace the `<node1-ip>` and `<node2-ip>` with the IP addresses of your servers. If you have more than two servers, add additional lines for each server.
+4. In the same folder, replace the contents of the `haproxy.cfg` file with the contents of the [Composer haproxy configuration file](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417926287629). In the file, replace the `<node1-ip>` and `<node2-ip>` with the IP addresses of your servers. If you have more than two servers, add additional lines for each server.
 5. Save your changes and exit the file.
 6. Start the HAProxy microservice
 

@@ -4,7 +4,7 @@ id: 34933004082701
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933004082701-Edit-or-Delete-Filter-Snippets
-updated_at: 2026-05-26T22:09:42Z
+updated_at: 2026-08-24T20:32:56Z
 ---
 
 # Edit or Delete Filter Snippets
@@ -24,7 +24,7 @@ Users with Viewer access can add custom values to the snippet to filter connecte
 ## Edit a Filter Snippet
 
 1. Select the snippet on the dashboard. A blue border appears around the snippet widget.
-2. Select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167210371853)**Settings** from the Show More menu (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167868723597)) to open the filter snippet sidebar menu.
+2. Select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373392282509)**Settings** from the Show More menu (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374799398413)) to open the filter snippet sidebar menu.
 3. Use the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932987838349-Use-The-Filter-Snippet-Sidebar-Menu) to update data settings, filter snippet settings, or widget settings.
 4. When you have finished making changes to the snippet, [save](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933292479117-Save-Visuals-With-Their-Current-Names) the dashboard.
 

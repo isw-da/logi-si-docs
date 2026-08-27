@@ -4,7 +4,7 @@ id: 43701053994893
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701053994893-Customize-the-Footer
-updated_at: 2026-05-29T14:11:36Z
+updated_at: 2026-08-26T07:10:42Z
 ---
 
 # Customize the Footer
@@ -21,9 +21,9 @@ The footer appears below the normal Composer UI page.
 
    **Note:** 
    The default **supervisor** user is no longer installed; add users to the **Supervisors** group instead.
-2. Select **Customize UI** from the menu (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46243348409229)). The Customize UI page appears. The following screen shows all the custom footer settings on the page.
+2. Select **Tools > Customize UI** from the Administration menu. The Customize UI work area opens. The following screen shows all the custom footer settings on the page.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242737673613)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418008705805)
 3. Under Custom Footer, enable the custom footer by sliding the **Custom Footer** slider to the right (on). You can always disable the custom footer by sliding the **Custom Footer** slider to the left (off). By default, the custom footer is off.
 4. In the box under the Custom Footer slider, specify HTML structures for your custom footer. You can either add inline styles or include the classes corresponding to your [custom CSS file](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700992070285-Customize-the-Application#Upload).
 5. In the **Custom Height in Pixels** box, specify the height (in pixels) of the footer. You can use the up and down arrows in the box to increment and decrement this value or you can type a value in the box.

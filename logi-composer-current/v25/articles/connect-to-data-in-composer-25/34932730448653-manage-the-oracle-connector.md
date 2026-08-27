@@ -4,7 +4,7 @@ id: 34932730448653
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932730448653-Manage-the-Oracle-Connector
-updated_at: 2026-05-26T22:10:07Z
+updated_at: 2026-08-24T20:33:25Z
 ---
 
 # Manage the Oracle Connector
@@ -130,7 +130,7 @@ Perform the following steps:
 
 4. If the proxy user requires a password, select **Add Custom Attribute** and specify the key and value for the password. You have to specify the reference name from the **Usage** column in the **Impersonation Password** field while creating the connection.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167406379533)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373944240141)
 
 ## Enable Access to Oracle Tables That Use the XML Data Type
 

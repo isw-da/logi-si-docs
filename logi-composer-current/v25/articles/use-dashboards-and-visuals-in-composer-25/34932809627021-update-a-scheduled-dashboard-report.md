@@ -4,7 +4,7 @@ id: 34932809627021
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932809627021-Update-a-Scheduled-Dashboard-Report
-updated_at: 2026-05-26T22:09:54Z
+updated_at: 2026-08-24T20:33:07Z
 ---
 
 # Update a Scheduled  Dashboard Report
@@ -18,9 +18,9 @@ After you create a scheduled dashboard report, you can go back and make updates 
 1. Log in as an administrator or a user with the **Create Scheduled Reports** [privilege](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932577846157-Group-Privilege-Reference).
 2. Select **Library** on the [top-level navigation banner](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933120256397-The-Top-Level-Navigation-Banner) or select **Dashboard** on the [Home page](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933063528717-Home-Page). The [library](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932842461581-Use-the-Library-for-Dashboards) opens, displaying dashboards in a table (list) format.
 3. Locate the dashboard in the library list containing the scheduled dashboard report you want to update.
-4. Select the schedule icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167908270221)) in the associated **Schedule** column. Composer displays the Scheduled Reports dialog box.
+4. Select the schedule icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374872546189)) in the associated **Schedule** column. Composer displays the Scheduled Reports dialog box.
 
-   ![Use this dialog box to schedule reports for you and other users.](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167331522445 "Scheduled Reports")
+   ![Use this dialog box to schedule reports for you and other users.](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373749919629 "Scheduled Reports")
 
    Scheduled dashboard reports for this dashboard that have already been defined appear on the left side of the dialog.
 5. Select the scheduled dashboard report that you want on the left side of the Scheduled Reports dialog box. Composer displays the settings.

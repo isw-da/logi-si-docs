@@ -4,7 +4,7 @@ id: 34932576715021
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932576715021-Add-and-Remove-Members-of-a-Group
-updated_at: 2026-05-26T22:10:33Z
+updated_at: 2026-08-24T20:33:55Z
 ---
 
 # Add and Remove Members of a Group
@@ -21,7 +21,7 @@ Management of the [supplied **Administrators** group](https://logi-composer-v25.
 1. Log in as an administrator or a user who has been assigned to a group with [group management privileges](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932577846157-Group-Privilege-Reference).
 
    If the user name you log in with is also associated with other tenants, verify you are working in the correct tenant. See [Switch Tenants](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932611967885-Switch-Tenants).
-2. Select **Users and Groups** on the [menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167969442701)). The Users and Groups work area appears. It consists of two sections: **Users** and **Groups**.
+2. Select **Users and Groups** on the [menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374906497549)). The Users and Groups work area appears. It consists of two sections: **Users** and **Groups**.
 3. Select **Groups** to see a list of all the groups you can edit.
 4. Select the group to which you want to add or remove members. The group editor work area opens.
 5. Select the **Members** tab.
@@ -36,5 +36,5 @@ Management of the [supplied **Administrators** group](https://logi-composer-v25.
 8. After making your changes, select **Apply**. The selected user(s) are added or removed in the editor, but the group must still be saved.
 
    **Note:** 
-   You can remove users from the group on this screen by selecting the remove (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167969443853) )icon next to a user name, and select **Delete** on the resulting confirmation dialog.
+   You can remove users from the group on this screen by selecting the remove (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374906498573) )icon next to a user name, and select **Delete** on the resulting confirmation dialog.
 9. Select **Save** to save the group and the membership changes. The selected user(s) are added or removed to the group. A save confirmation message displays.

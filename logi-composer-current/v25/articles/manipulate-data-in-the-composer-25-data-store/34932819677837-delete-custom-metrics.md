@@ -4,7 +4,7 @@ id: 34932819677837
 section: "Manipulate Data In The Composer 25 Data Store"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932819677837-Delete-Custom-Metrics
-updated_at: 2026-05-26T22:10:07Z
+updated_at: 2026-08-24T20:33:28Z
 ---
 
 # Delete Custom Metrics
@@ -26,7 +26,7 @@ See[Fields Usage](https://logi-composer-v25.insightsoftware.com/hc/en-us/article
 2. Select the **Fields** tab.
 3. Select **Custom Metrics** to open the Custom Metrics tab.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167907543437)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374840956173)
 4. Locate the custom metric in the Custom Metrics table that you would like to remove.
-5. Select the delete icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167907544845)) in the Actions column.
+5. Select the delete icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374824781837)) in the Actions column.
 6. Select **Delete** in the pop-up confirmation dialog. The custom metric is deleted if it is not in use.

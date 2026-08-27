@@ -4,7 +4,7 @@ id: 34932693283341
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932693283341-Connector-Graceful-Shutdown
-updated_at: 2026-05-26T22:06:24Z
+updated_at: 2026-08-24T20:29:18Z
 ---
 
 # Connector Graceful Shutdown

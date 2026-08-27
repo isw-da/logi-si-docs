@@ -4,7 +4,7 @@ id: 34933191632781
 section: "Composer 25 Troubleshooting"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933191632781-Reduce-Resource-Allocation-Due-to-Live-Mode
-updated_at: 2026-05-26T22:08:03Z
+updated_at: 2026-08-24T20:31:16Z
 ---
 
 # Reduce Resource Allocation Due to Live Mode

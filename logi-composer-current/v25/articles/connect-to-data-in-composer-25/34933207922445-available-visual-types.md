@@ -4,7 +4,7 @@ id: 34933207922445
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933207922445-Available-Visual-Types
-updated_at: 2026-05-26T22:09:09Z
+updated_at: 2026-08-24T20:32:18Z
 ---
 
 # Available Visual Types
@@ -19,14 +19,14 @@ If you have the **Administer Initial Visuals** [privilege](https://logi-compose
 **Define visual types for a source**
 
 1. Make sure you are logged in as a user with the **Administer Initial Visuals** [privilege](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932577846157-Group-Privilege-Reference).
-2. Select **Sources** on the [UI menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167853484813)). The [Sources](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932895238669-Data-Sources-Page) page appears.
-3. On the [Sources](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932895238669-Data-Sources-Page) page, locate a data source configuration to edit, and select the more menu (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167853491341)) button.
+2. Select **Sources** on the [UI menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374721194253)). The [Sources](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932895238669-Data-Sources-Page) page appears.
+3. On the [Sources](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932895238669-Data-Sources-Page) page, locate a data source configuration to edit, and select the more menu (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374721199373)) button.
 4. Select **Available Visual Types**. The Available Visual Types work area for this source opens.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166989109517)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373155133837)
 5. Select to enable and disable the visuals you want user to be able to use for this source. All Visual Types are shown by default: select Standard Visual Types or Custom Visual Types to edit those lists only, or use the search field to find a specific visual.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166989229069)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373125421709)
 
    If a visual type exists for this source that you later disable, existing visuals remain, but new visuals of that type can't be made. For example, disable Bar visual types for a source to prevent users from creating Bar visual types from that source. Existing Bar visuals from that source remain unchanged.
 6. After completing your changes, close the work area to save your changes for this source. All available data fields are automatically included in these default visual settings.

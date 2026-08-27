@@ -4,7 +4,7 @@ id: 34933053804557
 section: "Install, Upgrade, and Remove Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933053804557-Helm-Chart-for-Composer
-updated_at: 2026-05-26T22:07:38Z
+updated_at: 2026-08-24T20:30:52Z
 ---
 
 # Helm Chart for Composer
@@ -19,37 +19,37 @@ This topic covers:
 
 * [Prerequisites](#Prerequi)
 
-  + [Required Resources](#Required)
+  * [Required Resources](#Required)
 * [Working With Helm](#Working)
 
-  + [Obtain the Chart](#Obtain)
-  + [Install with the Default Config](#Install)
+  * [Obtain the Chart](#Obtain)
+  * [Install with the Default Config](#Install)
 
-    - [Default Config Caveats](#Default)
-  + [Customize the Chart Before Installing](#Customiz)
-  + [Upgrade a Release and Recover on Failure](#Upgrade)
-  + [Uninstall a Release](#Uninstal)
+    * [Default Config Caveats](#Default)
+  * [Customize the Chart Before Installing](#Customiz)
+  * [Upgrade a Release and Recover on Failure](#Upgrade)
+  * [Uninstall a Release](#Uninstal)
 
-    - [Persistent Resources Considerations](#Persiste)
-  + [Deep Chart Inspection and Customization](#Deep)
-  + [Debugging the Chart](#Debuggin)
+    * [Persistent Resources Considerations](#Persiste)
+  * [Deep Chart Inspection and Customization](#Deep)
+  * [Debugging the Chart](#Debuggin)
 * [Configuring the Chart](#Configur)
 
-  + [The Default Configuration](#The)
-  + [Deciding on the Configuration](#Deciding)
-  + [Injecting Composer Configuration Properties](#Injectin)
+  * [The Default Configuration](#The)
+  * [Deciding on the Configuration](#Deciding)
+  * [Injecting Composer Configuration Properties](#Injectin)
 
-    - [Application Properties](#Applicat)
+    * [Application Properties](#Applicat)
 
       * [Regular Application Properties](#Regular)
       * [Sensitive Application Properties](#Sensitiv)
       * [Enable the Data Gateway](#Enable)
       * [List of Properties Available as Helm Parameters](#List)
-    - [JVM Properties](#JVM)
+    * [JVM Properties](#JVM)
 
       * [Heap Size Configuration](#Heap)
       * [Passing Arbitrary Java Options to Services](#Passing)
-  + [Injecting Credentials](#Injectin2)
+  * [Injecting Credentials](#Injectin2)
 
 ## Prerequisites
 

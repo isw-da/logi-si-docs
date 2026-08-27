@@ -4,7 +4,7 @@ id: 43701106642445
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701106642445-Add-a-Materialized-View-Definition
-updated_at: 2026-05-29T14:10:38Z
+updated_at: 2026-08-26T07:12:00Z
 ---
 
 # Add a Materialized View Definition
@@ -27,7 +27,7 @@ Pre-aggregated data is not managed by Composer, so it should be maintained manua
 2. List the materialized views for the data source to which you want to add a materialized view. See [List Materialized View Definitions](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701111671949-List-Materialized-View-Definitions).
 3. Select **Add View**. The **New Materialized View (External)** dialog appears. This dialog is used to identify where the aggregated result from a query is stored so it can be quickly recalled in visuals.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242461822605)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417928489485)
 4. Specify a name for the materialized view in the **Name** field. This is required.
 5. Select an external target connection in the **Target Connection** field. This is required. The connections listed for this field match the list of connections defined for the Composer instance. The target connection is not required to be the same as the connection of the data source; it can be any other connection configured in Composer.
 
@@ -39,15 +39,15 @@ Pre-aggregated data is not managed by Composer, so it should be maintained manua
 7. Optionally supply a description in the **Description** field.
 8. Select **Add Count** to open the Select Count work area. Select a source field in the Source Metric list and a Target Column to list which source field should be used, then select **Apply** to apply your changes.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242427566861)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417978403597)
 9. Select **Add Metrics** to add metrics to your materialized view definition. The Count metric must be added because it is required. Other metrics are optional, but must match the metrics used in your visuals.
 
    **Note:** 
-   Materialized views only work if you specify the metrics and groups used by your visuals in the materialized view definition. For example, if you use Sales (SUM) as your metric and State as your group in a visual, be sure to add these metrics and groups to your materialized view definition. If they don't match, Composer will not use the materialized view to boost your visual rendering time.
+   Materialized views only work if you specify the metrics and groups used by your visuals in the materialized view definition. For example, if you use Sales (SUM) as your metric and State as your group in a visual, be sure to add these metrics and groups to your materialized view definition. If they do not match, Composer will not use the materialized view to boost your visual rendering time.
 
    The Select Metric dialog appears.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242462127629)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417997301645)
 
    Select a source field in the Source Metric list and a target column in the Target Column list to which the source field should be mapped. Aggregated data for the source field will be taken from the target column to provide the results of the query.
 
@@ -67,11 +67,11 @@ Pre-aggregated data is not managed by Composer, so it should be maintained manua
     Be sure that the target entity contains correct data for this materialized view. If there are more pre-aggregated group columns in the target entity than configured groups in the materialized view, the data for the query will be taken as-is from the target entity. This might result in incorrect data shown on the visual, (for example, non-unique group values and incorrect metrics).
 
     **Note:** 
-    Materialized views only work if you specify the metrics and groups used by your visuals in the materialized view definition. For example, if you use Sales (SUM) as your metric and State as your group in a visual, be sure to add these metrics and groups to your materialized view definition. If they don't match, Composer will not use the materialized view to boost your visual rendering time.
+    Materialized views only work if you specify the metrics and groups used by your visuals in the materialized view definition. For example, if you use Sales (SUM) as your metric and State as your group in a visual, be sure to add these metrics and groups to your materialized view definition. If they do not match, Composer will not use the materialized view to boost your visual rendering time.
 
     The Select Group dialog appears.
 
-    ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242473515533)
+    ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417997315725)
 
     Select a source field in the Source Column list and a target column in the Target Column list to which the source field should be mapped. Aggregated data for the source field will be taken from the target column to provide the results of the query.
 
@@ -82,11 +82,11 @@ Pre-aggregated data is not managed by Composer, so it should be maintained manua
 
     The Select Field dialog appears.
 
-    ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242442503309)
+    ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417967013645)
 
     * Select a source field for the filter. Use the search box at the top of the list to quickly locate a source field in the list. The Select Values dialog appears.
 
-      ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242473786509)
+      ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417928586637)
     * Select an operator for the filter in the Operator drop-down menu.
     * Optionally enter a custom value in the Customize field. The field name you supply is added and selected in the value list on the dialog.
     * Select one or more values in the value list. Use the search box at the top of the list to quickly locate a value in the list.

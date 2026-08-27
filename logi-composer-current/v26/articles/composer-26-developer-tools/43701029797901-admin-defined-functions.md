@@ -4,7 +4,7 @@ id: 43701029797901
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701029797901-Admin-Defined-Functions
-updated_at: 2026-05-29T14:08:09Z
+updated_at: 2026-08-26T07:09:34Z
 ---
 
 # Admin-Defined Functions
@@ -38,6 +38,7 @@ Support for this feature by connector is shown in the following table.
 | [Cloudera Search](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701009985933-Manage-the-Cloudera-Search-Connector) | **N** |
 | [Couchbase](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701040183821-Manage-the-Couchbase-Connector) | **Y** |
 | [Dremio](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701043446285-Manage-the-Dremio-Connector) | **N** |
+| [Dundas BI (Managed)](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/47441922925197-Manage-the-Dundas-BI-Managed-Connector) | source-dependent |
 | [Elasticsearch 7.0](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701025911309-Manage-the-Elasticsearch-Connector) | **N** |
 | [Elasticsearch 8.0](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701025911309-Manage-the-Elasticsearch-Connector) | **N** |
 | [File Upload](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701044052621-Manage-File-Uploads) | **Y** |

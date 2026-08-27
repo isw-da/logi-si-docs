@@ -4,7 +4,7 @@ id: 34932951431309
 section: "Embed Composer Dashboards Into Applications Using Composer"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932951431309-Embedded-Source-Editor
-updated_at: 2026-05-26T22:07:20Z
+updated_at: 2026-08-24T20:30:31Z
 ---
 
 # Embedded Source Editor

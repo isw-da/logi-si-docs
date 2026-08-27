@@ -4,7 +4,7 @@ id: 37515165139597
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/37515165139597-Tokenization-in-OpenSearch
-updated_at: 2026-05-26T22:05:58Z
+updated_at: 2026-08-24T20:28:50Z
 ---
 
 # Tokenization in OpenSearch 

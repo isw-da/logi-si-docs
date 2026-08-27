@@ -4,7 +4,7 @@ id: 43701098185613
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701098185613-Import-or-Export-Sources
-updated_at: 2026-05-29T14:10:56Z
+updated_at: 2026-08-26T07:12:16Z
 ---
 
 # Import or Export Sources
@@ -24,19 +24,21 @@ All users can view the **Sources** page.
 
   API documentation is provided in your environment at this link: `https://<composer-URL>/composer/swagger-ui.html`.
 
+**Note:** In this release, when your admin enables the Enhanced Experience user interface, you will see changes to workflows you may have used in previous releases.
+
 ## Import
 
 **Import one or more sources**
 
 1. Log in as a user with the **Manage Connections** privilege and the**Create New Data Sources** or **Administer Sources**  [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference). If you are logged in as a tenant admin, verify you're in or switch to the appropriate tenant.
-2. Select **Sources** on the [top-level navigation banner](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701115577869-The-Top-Level-Navigation-Banner) or the [UI menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701160499853-The-Composer-UI-Menu), or select the **Sources** box on the [Home page](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701136935821-Home-Page). The Sources work area opens.
+2. Select the **Sources** card on your home page or **Data Sources** from the main menu. The Sources work area opens.
 3. Select **Import Source** in the Sources work area. The Import Source dialog opens.
 4. Browse to and choose the `json` file for the sources you want to import, then select
    **Open**.
 
    The Import Sources dialog populates with information about the objects that make up your sources and the settings you can use to define how your software inserts each object.
 
-   ![Use this work are to define what JSON file to import, for which tenants, using what insertion strategies, tags, and access](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242527997197 "Import Sources work area with JSON file selected")
+   ![Use this work are to define what JSON file to import, for which tenants, using what insertion strategies, tags, and access](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418014532109 "Import Sources work area with JSON file selected")
 5. Add and remove tenants by selecting the **Tenants** field. Add or remove them from the list or field.
 
    **Note:** Only system admins or members of the Content Distributors group see the Tenants field. If this field is not shown, the content is imported into the tenant you are currently working in.
@@ -60,7 +62,7 @@ All users can view the **Sources** page.
    * **Update existing objects**: Select to update (overwrite) an existing object with the same name or unique ID. If an object with the same name does not exist, an object is created.
 8. Use the default **Matching Strategy** or select the appropriate strategies for your sources in the order you want the strategies to be processed. See  [Matching Strategies](#Matchin).
 9. Enable **Share Default Access With All Users** to immediately give your users access to the items you import.
-10. After you've confirmed your choices, select **Import**. The visuals are imported and a success message is returned if objects import successfully or with accepted warnings. Any items imported with warnings have your selected tags applied
+10. After you have confirmed your choices, select **Import**. The visuals are imported and a success message is returned if objects import successfully or with accepted warnings. Any items imported with warnings have your selected tags applied
 
 **Note:** 
 If you import an exported source that has an associated translation file, you must re-upload the translation for that source.
@@ -91,6 +93,22 @@ When you import objects into Logi Composer, combine these matching strategies wi
 
 **Export one or more sources**
 
-1. Log in a user who has **read** [permissions](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701101615373-About-Source-Permissions) and the **Manage Connections** privilege for the sources you want to export..
-2. Select to export one or more sources by selecting the checkbox for a source to export. The **Export Selected Items** button becomes active.
-3. Select **Export Selected Items**. You browser downloads the selected items in JSON format, placing them in the location you select or the default location for your browser downloads.
+1. Log in a user who has **read** [permissions](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701101615373-About-Source-Permissions) and the **Manage Connections** privilege for the sources you want to export.
+2. Navigate to the Source Library work area.
+3. Select to export one or more sources by selecting the checkbox for a source to export. The **Export Selected Items** button becomes active.
+4. Select **Export Selected Items**.
+5. Your source is prepared in JSON format and downloaded by your browser.
+
+**Export a single source  from the library**
+
+1. Log in a user who has **read** [permissions](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701101615373-About-Source-Permissions) and the **Manage Connections** privilege for the sources you want to export.
+2. Navigate to the Source Library work area, locate a data source, then select the more menu icon.
+3. A menu opens with the options **Available Visual Types** and **Export Source**. Select **Export Source**.
+4. Your source is prepared in JSON format and downloaded by your browser.
+
+**Export a single source**
+
+1. Log in a user who has **read** [permissions](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701101615373-About-Source-Permissions) and the **Manage Connections** privilege for the sources you want to export.
+2. Open the source you want to export. If you edit the data source, you must save your changes to make the **Export Source** icon available.
+3. Select **Export Source**.
+4. Your source is prepared in JSON format and downloaded by your browser.

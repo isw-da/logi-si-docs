@@ -4,7 +4,7 @@ id: 34933026022925
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933026022925-Add-a-New-Node-to-Existing-Composer-Multi-Node-Deployments
-updated_at: 2026-05-26T22:07:28Z
+updated_at: 2026-08-24T20:30:42Z
 ---
 
 # Add a New Node to Existing Composer Multi-Node Deployments
@@ -14,8 +14,8 @@ updated_at: 2026-05-26T22:07:28Z
 ## Environment Prerequisites
 
 * You must have previously configured your Composer multi-node deployment. `zoomdata-consul` and `postgresql`, configured as clusters external to the nodes, must be configured to accept incoming connections.
-  + See <https://www.consul.io/commands/join> (`zoomdata-consul join <ip-address>`).
-  + See <https://www.postgresql.org/docs/12/high-availability.html>.
+  * See <https://www.consul.io/commands/join> (`zoomdata-consul join <ip-address>`).
+  * See <https://www.postgresql.org/docs/12/high-availability.html>.
 * You must have Linux machines where additonal Composer components will be installed.
 
 ## Node Installation and Configuration

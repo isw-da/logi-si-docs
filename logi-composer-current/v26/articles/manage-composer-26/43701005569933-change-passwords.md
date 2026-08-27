@@ -4,7 +4,7 @@ id: 43701005569933
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005569933-Change-Passwords
-updated_at: 2026-05-29T14:07:04Z
+updated_at: 2026-08-26T07:11:47Z
 ---
 
 # Change Passwords
@@ -17,7 +17,7 @@ Only users who are members of the Administrators group or the Supervisors group,
 ## Change or Reset a Password
 
 1. Log in as user who has been assigned to a group with [user management privileges](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference).
-2. Select **Users and Groups** from the [UI menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701160499853-The-Composer-UI-Menu). A work area opens you can use to add and manage users. Select the **Users** tab if both the **Users** and **Groups** tabs are visible.
+2. Select **Users** (formerly *Users and Groups*) from the Administration menu. A work area opens you can use to add and manage users.
 3. Select the user from the list of users whose password you want to reset. The account details for that user appear on the right side of the page.
 4. On the **Info** tab, select **Change Password**.
 5. Type the new password in the **Password** and **Confirm Password** boxes.

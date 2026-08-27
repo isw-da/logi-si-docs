@@ -4,7 +4,7 @@ id: 34933069793933
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933069793933-User-Auditing-for-Multi-Tenancy-Environments
-updated_at: 2026-05-26T22:07:52Z
+updated_at: 2026-08-24T20:31:07Z
 ---
 
 # User Auditing for Multi Tenancy Environments
@@ -37,7 +37,7 @@ You can define this level of separation in the database in one of several ways, 
 * If tenant users don't have permission to create new connections, add a user attribute value, then make the data available by applying the appropriate row level filter to that value.
 * If tenant users do have permission to create new connections, you must set up database-level access control mechanisms.
 
-  + Views per tenant: Define a tenant attribute, then define what user audit data users can access, using specific views and database access rights.
-  + Database level row level security: Define a tenant attribute, then configure row level security for the audit table data, allowing users access to appropriate user audit data through individual user database accounts.
+  * Views per tenant: Define a tenant attribute, then define what user audit data users can access, using specific views and database access rights.
+  * Database level row level security: Define a tenant attribute, then configure row level security for the audit table data, allowing users access to appropriate user audit data through individual user database accounts.
 
 See [Enable User Audit Data for Multi Tenant Accounts](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933055842189-Enable-User-Audit-Data-for-Multi-Tenant-Accounts#Enable).

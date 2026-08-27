@@ -4,7 +4,7 @@ id: 34932919325197
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932919325197-Distributed-Tracing-for-Composer
-updated_at: 2026-05-26T22:09:36Z
+updated_at: 2026-08-24T20:32:47Z
 ---
 
 # Distributed Tracing for Composer
@@ -32,7 +32,7 @@ Install an OTel collector to act as a proxy between Composer microservices and y
 
 After installation, configure your collector or collectors to export tracing information to the tracing server.
 
-![diagram of otel  collector in use in a Composer environment](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167251885069 "diagram of otel  collector in use in a Composer environment")
+![diagram of otel  collector in use in a Composer environment](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373518066061 "diagram of otel  collector in use in a Composer environment")
 
 ## Configure the Collector
 

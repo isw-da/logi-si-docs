@@ -4,7 +4,7 @@ id: 34933236349453
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933236349453-Use-the-Context-Menu
-updated_at: 2026-05-26T22:09:06Z
+updated_at: 2026-08-24T20:32:13Z
 ---
 
 # Use the Context Menu
@@ -15,7 +15,7 @@ Users can use the context menu on all visuals to view more information about spe
 
 To access the context menu, select any data point in the visual, grouped or ungrouped, to explore or drill down into that data element.
 
-![use the context menu to drill deeper into text for any available data element](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166986370317 "Context Menu in a bar chart")
+![use the context menu to drill deeper into text for any available data element](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373135511053 "Context Menu in a bar chart")
 
 Define how to embed the context menu in your Composer instance by specifying default options for right and left mouse selection. If needed, you can also add custom controls to the context menu for embedded visuals. See [Control How Users Interact With a Visual](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933282294029-Control-How-Users-Interact-With-a-Visual).
 
@@ -36,7 +36,7 @@ The following options are available in the context menu:
 
 To display additional information about specific data elements, select **Details**. The details for the element are displayed in a table.
 
-![view the details that make up this element](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167014784781 "Data Details work area")
+![view the details that make up this element](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373163064205 "Data Details work area")
 
 The table header contains the following:
 
@@ -80,7 +80,7 @@ Use **Zoom** to zoom into the selected data point and filter the data for that d
 
 For example, if you wanted to see the real time sales for every city in Florida, select Florida in the bar chart to bring up the context menu, select **Zoom**, and then select the City attribute from the resulting menu. The result set in the bar chart might look like this:
 
-![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167010581133 "Zoomed in data element")
+![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373146073613 "Zoomed in data element")
 
 ## Link
 

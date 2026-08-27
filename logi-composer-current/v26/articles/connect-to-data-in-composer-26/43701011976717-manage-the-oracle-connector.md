@@ -4,7 +4,7 @@ id: 43701011976717
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701011976717-Manage-the-Oracle-Connector
-updated_at: 2026-05-29T14:11:27Z
+updated_at: 2026-08-26T07:10:21Z
 ---
 
 # Manage the Oracle Connector
@@ -113,24 +113,22 @@ You must specify the user attributes for each Composer user that will access the
 
 Perform the following steps:
 
-1. Select Settings and then select
-   **Users and Groups**.
-2. Select a user from the list and select the
+1. Log in as an administrator or member of the supervisors group for your instance or selected tenant.
+2. Select **Users** from the menu. The Users work area appears, listing all users in your instance or selected tenant.
+3. Select a user from the list and select their
    **Custom Attributes** tab.
-3. Select
+4. Select
    **Add Custom Attribute**. Specify credentials for a user as follows:
 
-* Key - specify the login attribute for proxy user. Corresponding reference name is listed in the
+* **Key** - specify the login attribute for proxy user. Corresponding reference name is listed in the
   **Usage** column. You have to specify the value from the
   **Usage** column in the
   **Impersonation****Username** field while creating a connection.
-* Value - specify the actual name of the oracle user, that you want to use as proxy user.
+* **Value** - specify the actual name of the oracle user that you want to use as proxy user.
 * Select the checkbox in the
   **Secure** column to encrypt the value of the key.
 
 4. If the proxy user requires a password, select **Add Custom Attribute** and specify the key and value for the password. You have to specify the reference name from the **Usage** column in the **Impersonation Password** field while creating the connection.
-
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242703743885)
 
 ## Enable Access to Oracle Tables That Use the XML Data Type
 

@@ -4,7 +4,7 @@ id: 34932658600845
 section: "Composer 25 Developer Tools"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932658600845-React-to-Resize-Events
-updated_at: 2026-05-26T22:06:09Z
+updated_at: 2026-08-24T20:28:59Z
 ---
 
 # React to Resize Events

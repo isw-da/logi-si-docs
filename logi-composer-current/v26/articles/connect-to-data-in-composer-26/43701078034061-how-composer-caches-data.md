@@ -4,7 +4,7 @@ id: 43701078034061
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701078034061-How-Composer-Caches-Data
-updated_at: 2026-05-29T14:11:10Z
+updated_at: 2026-08-26T07:10:32Z
 ---
 
 # How Composer Caches Data
@@ -23,7 +23,7 @@ Available cache settings and options include:
 * **Statistics Cache**: When enabled, field metadata, such as minimum, maximum, and distinct values numbers are cached. This toggle also controls the availability of the Field Statistics Configuration option and scheduled refresh settings.
 * **Field Statistics Configuration**: When enabled, you can enable or disable caching and scheduling for individual fields, or manually refresh the cached data for individual fields. Fields that include a statistics override that prevents refreshing are indicated by an exclamation point in a triangle.
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46243239400077)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418102921101)
 
 * **Schedule Refresh Settings**: Enable and define Periodic or Advanced refreshing of fields with **Schedule Refresh** enabled. If you disable Schedule Refresh Settings, any schedule you had set up previously is deleted.
 

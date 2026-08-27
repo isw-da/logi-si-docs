@@ -4,7 +4,7 @@ id: 34933278713485
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933278713485-Configure-Number-Formatting-for-Visuals
-updated_at: 2026-05-26T22:08:51Z
+updated_at: 2026-08-24T20:31:58Z
 ---
 
 # Configure Number Formatting for Visuals
@@ -21,10 +21,10 @@ You can also override formatting for the Time attribute at the visual level. See
 1. Select the visual with time attributes you want to format in a dashboard or the visual gallery.
 2. Select a Metric, X or Y axis, Group, Color, Trend line, size, or other available measure. A dialog for your selection opens.
 
-   ![Select Format to format a numeric attribute](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166949101709 "Number metric work area")
-3. Locate your number field using **Search**, or navigate to the field or fields you want to format. Select the menu ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167822219277) for a field, then select Format. The **Format: <field>** work area opens.
+   ![Select Format to format a numeric attribute](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373007228429 "Number metric work area")
+3. Locate your number field using **Search**, or navigate to the field or fields you want to format. Select the menu ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374634543117) for a field, then select Format. The **Format: <field>** work area opens.
 
-   ![Use this work area to format your numeric field attribute on a visual metric](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166905343245 "Format Number Attribute Work Area")
+   ![Use this work area to format your numeric field attribute on a visual metric](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373012341133 "Format Number Attribute Work Area")
 4. Define your format options, and select **Apply** to apply to this field.
 5. Repeat for all fields you want to modify.
 

@@ -4,7 +4,7 @@ id: 34932636844045
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932636844045-Server-Level-Variables
-updated_at: 2026-05-26T22:10:31Z
+updated_at: 2026-08-24T20:33:53Z
 ---
 
 # Server-Level Variables

@@ -1,13 +1,13 @@
 ---
-title: "Add and Remove  Tenants "
+title: "Add and Remove Tenants "
 id: 34932575943309
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932575943309-Add-and-Remove-Tenants
-updated_at: 2026-05-26T22:10:33Z
+updated_at: 2026-08-24T20:33:55Z
 ---
 
-# Add and Remove  Tenants 
+# Add and Remove Tenants 
 
 # Add and Remove Tenants
 
@@ -43,7 +43,7 @@ API documentation is provided in your environment at this link: `https://<compos
 2. Select the UI menu then select **Multi-Tenancy**.
 
    The Manage Tenants page appears. It lists the tenants that have been defined.
-3. In the list of tenants, locate the tenant you want to delete and select the ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167476972557) in the **Delete** column.
+3. In the list of tenants, locate the tenant you want to delete and select the ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374011746573) in the **Delete** column.
 
    A warning dialog appears that prompts you to confirm that you want to delete the tenant.
 4. Select **Delete** on the warning dialog to remove the tenant. All users, data source configurations, data source connections, and custom dashboards that are not associated with other tenants are removed.

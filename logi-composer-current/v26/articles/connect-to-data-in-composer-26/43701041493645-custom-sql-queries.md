@@ -1,10 +1,10 @@
 ---
-title: "Custom SQL\u00a0Queries"
+title: "Custom SQL Queries"
 id: 43701041493645
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701041493645-Custom-SQL-Queries
-updated_at: 2026-05-29T14:07:26Z
+updated_at: 2026-08-26T07:09:07Z
 ---
 
 # Custom SQL Queries
@@ -43,6 +43,7 @@ Support for this feature by connector is shown in the following table.
 | [Cloudera Search](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701009985933-Manage-the-Cloudera-Search-Connector) | N/A |
 | [Couchbase](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701040183821-Manage-the-Couchbase-Connector) | **N** |
 | [Dremio](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701043446285-Manage-the-Dremio-Connector) | **Y** |
+| [Dundas BI (Managed)](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/47441922925197-Manage-the-Dundas-BI-Managed-Connector) | source-dependent |
 | [Elasticsearch 7.0](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701025911309-Manage-the-Elasticsearch-Connector) | N/A |
 | [Elasticsearch 8.0](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701025911309-Manage-the-Elasticsearch-Connector) | N/A |
 | [File Upload](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701044052621-Manage-File-Uploads) | **Y** |

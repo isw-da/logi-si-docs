@@ -4,7 +4,7 @@ id: 43701136219917
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701136219917-Manage-Activity-Logs
-updated_at: 2026-05-29T14:08:55Z
+updated_at: 2026-08-26T07:11:11Z
 ---
 
 # Manage Activity Logs

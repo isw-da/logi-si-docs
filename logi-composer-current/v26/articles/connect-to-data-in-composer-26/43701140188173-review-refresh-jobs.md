@@ -4,7 +4,7 @@ id: 43701140188173
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701140188173-Review-Refresh-Jobs
-updated_at: 2026-05-29T14:10:32Z
+updated_at: 2026-08-26T07:11:53Z
 ---
 
 # Review Refresh Jobs
@@ -16,7 +16,7 @@ Administrators can monitor data source refresh jobs using the Console of Refresh
 **Access the Console of Refreshing Jobs**
 
 1. Log in as an administrator.
-2. Select **Console** on the [UI menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701160499853-The-Composer-UI-Menu) (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46243181425165)). The Console of Refreshing Jobs page appears. It shows a table of refresh jobs that are in progress or that have completed.
+2. Select **Tools > Console** from the Administration menu. The Console of Refreshing Jobs page appears. It shows a table of refresh jobs that are in progress or that have completed.
 
 Refresh jobs are identified in the table by the data source configuration name. The columns in this work area include:
 
@@ -31,4 +31,4 @@ Refresh jobs are identified in the table by the data source configuration name. 
 
 By default, the table is sorted in order by the Last Finished date and time. You can sort the table by selecting any of the following column headings: **Data Source**, **Job Type**, **Status**, or **Last Finished**. If you select a heading once, the table data sorts in reverse lexicographical order by the selected column heading. Select the heading a second time to sort the data in lexicographical order. The table sort order is automatically reset to the default order every time the table is refreshed.
 
-You can filter the list using any of the column headings. Select the filter icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242445861005) in the column heading to select for specify an appropriate filter on a pop-up dialog. For example, the pop-up dialog for the Data Source column allows you to select data sources you want to see in the list.
+You can filter the list using any of the column headings. Select the filter icon in the column heading to select for specify an appropriate filter on a pop-up dialog. For example, the pop-up dialog for the Data Source column allows you to select data sources you want to see in the list.

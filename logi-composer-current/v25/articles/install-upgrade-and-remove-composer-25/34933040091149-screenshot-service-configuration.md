@@ -4,7 +4,7 @@ id: 34933040091149
 section: "Install, Upgrade, and Remove Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933040091149--Screenshot-Service-Configuration
-updated_at: 2026-05-26T22:07:35Z
+updated_at: 2026-08-24T20:30:48Z
 ---
 
 #  Screenshot Service Configuration

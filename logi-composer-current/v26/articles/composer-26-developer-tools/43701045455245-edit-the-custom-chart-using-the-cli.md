@@ -4,7 +4,7 @@ id: 43701045455245
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701045455245-Edit-the-Custom-Chart-Using-the-CLI
-updated_at: 2026-05-29T14:07:58Z
+updated_at: 2026-08-26T07:09:23Z
 ---
 
 # Edit the Custom Chart Using the CLI
@@ -25,4 +25,4 @@ After running the edit command, follow the prompts to update the visual's contro
 
 When all edits are finished, be sure to rebuild the visual before pushing it to the server. See [Install Dependencies and Build the Custom Chart Using the CLI](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700996327181-Install-Dependencies-and-Build-the-Custom-Chart-Using-the-CLI).
 
-**Note:** Composer v24 Custom Chart CLI version 1 only supports the use of `vnd.composer.v3+json` as the `Content-Type` for API routes.
+**Note:** Composer Custom Chart CLI version 1 only supports the use of `vnd.composer.v3+json` as the `Content-Type` for API routes.

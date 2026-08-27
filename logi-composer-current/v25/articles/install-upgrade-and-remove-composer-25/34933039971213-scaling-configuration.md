@@ -4,7 +4,7 @@ id: 34933039971213
 section: "Install, Upgrade, and Remove Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933039971213-Scaling-Configuration
-updated_at: 2026-05-26T22:07:34Z
+updated_at: 2026-08-24T20:30:48Z
 ---
 
 # Scaling Configuration
@@ -18,8 +18,8 @@ This topic covers:
 * [Horizontal Autoscaling](#Horizont)
 * [Manual Scaling](#Manual)
 
-  + [Manual Horizontal Scaling](#Manual2)
-  + [Manual Vertical Scaling](#Manual3)
+  * [Manual Horizontal Scaling](#Manual2)
+  * [Manual Vertical Scaling](#Manual3)
 
 ## Horizontal Autoscaling
 

@@ -4,7 +4,7 @@ id: 43701121656845
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701121656845-Enable-User-Audit-Data-for-Multi-Tenant-Accounts
-updated_at: 2026-05-29T14:08:59Z
+updated_at: 2026-08-26T07:11:07Z
 ---
 
 # Enable User Audit Data for Multi Tenant Accounts
@@ -20,7 +20,7 @@ Database tables that contain user audit data are created automatically when you 
 
 ## Tenants Without Connection Creation Permissions
 
-In environments where tenants don't have permission to create connections, you can set up and use user attribute value, such as `${User.tenant}` define row level filters to limit access to user audit data.
+In environments where tenants do not have permission to create connections, you can set up and use user attribute value, such as `${User.tenant}` define row level filters to limit access to user audit data.
 
 1. Set up an attribute for each user, such as `${User.tenant}`, to identify the tenant for each user.
 2. Add the attribute name to the `zoomdata.properties` file. In this example, add `tenant`: `user-auditing.tenant.attribute=tenant`.

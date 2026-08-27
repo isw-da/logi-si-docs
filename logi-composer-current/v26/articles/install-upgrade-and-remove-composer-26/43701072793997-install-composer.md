@@ -4,7 +4,7 @@ id: 43701072793997
 section: "Install, Upgrade, and Remove Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701072793997-Install-Composer
-updated_at: 2026-05-29T14:08:44Z
+updated_at: 2026-08-26T07:11:22Z
 ---
 
 # Install Composer
@@ -17,7 +17,7 @@ For information about the difference between a clean installation of Composer an
 
 #### Upgrade and Migration Considerations
 
-* Windows Server 2012R2 is not compatible with both Java17 binaries and the latest releases of Composer (23.2 and later). We recommend you use Windows 2016 or later to run Composer 23.2 and later.
+* Windows Server 2012R2 is not compatible with both Java17 binaries and the latest releases of Composer (23.2 and later). We recommend you use Windows 2019 or later to run Composer 26.2 and later.
 * In general, you can upgrade directly to the latest version of Composer from a prior version.
 * If you are upgrading to a newer version of Composer and you also want to change your encryption mode, perform the upgrade first and then complete the steps described in [Change the Encryption Mode](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701175423245-Change-the-Encryption-Mode).
 

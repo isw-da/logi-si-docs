@@ -4,7 +4,7 @@ id: 34933206540045
 section: "Composer 25 Troubleshooting"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933206540045-Verify-the-Composer-Server-Restart
-updated_at: 2026-05-26T22:08:25Z
+updated_at: 2026-08-24T20:31:30Z
 ---
 
 # Verify the Composer Server Restart

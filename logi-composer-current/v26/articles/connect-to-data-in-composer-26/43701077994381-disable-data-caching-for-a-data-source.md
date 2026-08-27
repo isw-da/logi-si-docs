@@ -4,7 +4,7 @@ id: 43701077994381
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701077994381-Disable-Data-Caching-for-a-Data-Source
-updated_at: 2026-05-29T14:11:10Z
+updated_at: 2026-08-26T07:10:31Z
 ---
 
 # Disable Data Caching for a Data Source
@@ -16,13 +16,13 @@ The Composer data cache is a temporary storage area containing the aggregated da
 **Disable data caching**
 
 1. Make sure you are logged in as a user with the **Administer Sources** [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference), or a user with **read** and **write** [permission](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701101615373-About-Source-Permissions) for the data source.
-2. Select **Sources** on the [UI menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701160499853-The-Composer-UI-Menu) (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46243278882957)). The [Data Sources](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701081381901-Data-Sources-Page) page appears.
+2. Select the **Source** card on your home page or **Data Sources** from the main menu. The [Data Sources](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701081381901-Data-Sources-Page) page appears.
 3. On the [Sources](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701081381901-Data-Sources-Page) page, locate and select the data source configuration you want to edit. The Source Creation work area opens.
 4. Select the **Cache** tab. All the fields from your data source are listed.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242624652813)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418005274893)
 5. Disable (toggle off) **Data Cache**. Data caching is disabled for the data source configuration. Data will be freshly loaded into the Composer cache the next time it is requested from the data source.
 6. Optionally, Disable (toggle off) **Statistics Cache**. Field metadata caching is disabled for the data source configuration.  Data will be freshly loaded into the cache the next time it is requested from the data source.
 
    If you have [set up refresh jobs](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701140447885-Set-Up-a-Data-Source-Refresh-Job) for this data source, a warning appears that the jobs are disabled and the schedule deleted for this data source. Select **Ok** to continue disabling Statistics Cache and delete the schedule.
-7. Exit the source data configuration when you've finished making your changes.
+7. Exit the source data configuration when you have finished making your changes.

@@ -4,7 +4,7 @@ id: 43701043446285
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701043446285-Manage-the-Dremio-Connector
-updated_at: 2026-05-29T14:07:43Z
+updated_at: 2026-08-26T07:09:17Z
 ---
 
 # Manage the Dremio Connector
@@ -71,4 +71,4 @@ To create a Dremio connector, you must provide three parameters:
 
 Dremio supports reflections instead of indices. For more information about Dremio reflections, see <https://docs.dremio.com/acceleration/>. Because Dremio does not support indices, Composer cannot accurately determine which date and number fields are playable, so it treats **all** date and time fields as playable, by default. Consequently, use livemode and playback judiciously when you are working with large data sets. Switch playback and live mode on only for visuals you know that the corresponding SQL queries are covered by a reflection and can be accelerated.
 
-If you don't use Dremio reflections and are concerned that the default playability of all date and number fields might be misused and impact performance, you can switch this feature off using the connector configuration property: `metadata.detection.mark-all-date-and-int-fields-playable`. Valid values are `true` (on) and `false` (off). The default setting for this property is `true`.
+If you do not use Dremio reflections and are concerned that the default playability of all date and number fields might be misused and impact performance, you can switch this feature off using the connector configuration property: `metadata.detection.mark-all-date-and-int-fields-playable`. Valid values are `true` (on) and `false` (off). The default setting for this property is `true`.

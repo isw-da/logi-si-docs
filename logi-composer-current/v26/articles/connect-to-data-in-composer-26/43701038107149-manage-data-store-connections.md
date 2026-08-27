@@ -4,7 +4,7 @@ id: 43701038107149
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701038107149-Manage-Data-Store-Connections
-updated_at: 2026-05-29T14:07:25Z
+updated_at: 2026-08-26T07:11:34Z
 ---
 
 # Manage  Data Store Connections
@@ -16,7 +16,9 @@ Data store connections define the connection strings and options necessary to co
 **Note:** 
 You must be logged in as an administrator or as a user with the [group privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference) **Manage Connections** to manage data store connection definitions.
 
-To manage existing data store connections or add new ones, select **Connections** on the [top-level navigation banner](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701115577869-The-Top-Level-Navigation-Banner) or the [UI menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701160499853-The-Composer-UI-Menu) or select the **Connections** box on the [Home page](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701136935821-Home-Page). The [Connections page](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701008155149-Connections-Page) appears.
+**Note:** In this release, when your admin enables the Enhanced Experience user interface, you will see changes to workflows you may have used in previous releases.
+
+To manage existing data store connections or add new ones, select the **Connection** card on your home page or **Connections** from the main menu. The [Connections page](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701008155149-Connections-Page) appears.
 
 Review the following links for information on managing your data store connection definitions.
 

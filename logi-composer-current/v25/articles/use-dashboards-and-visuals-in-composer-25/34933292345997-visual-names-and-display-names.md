@@ -4,7 +4,7 @@ id: 34933292345997
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933292345997-Visual-Names-and-Display-Names
-updated_at: 2026-05-26T22:08:49Z
+updated_at: 2026-08-24T20:31:56Z
 ---
 
 # Visual Names and Display Names
@@ -29,7 +29,7 @@ If a display or visual name is not unique, Composer generally saves your visual 
 
 Change the Visual Name for a visual gallery visual in the Visual Gallery at any time. This does not affect the display name for visuals included in existing dashboards.
 
-![change the visual name for a visual in the visual gallery](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166885630989 "visual information work area")
+![change the visual name for a visual in the visual gallery](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48372928129293 "visual information work area")
 
 Visual names must be unique.
 
@@ -40,7 +40,7 @@ Visual names must be unique.
 
 Change the Display Name for a visual in a dashboard at any time, using [visual information sidebar](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933236861197-Modify-Visual-Names-Display-Names-and-Descriptions), or by editing the name in the header of the visual. This only affects this specific instance of the visual in this dashboard, and does not affect the Visual Name field for visual gallery visuals.
 
-![edit the display name here](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166896951693 "Display Name for a Visual in a dashboard")
+![edit the display name here](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48372962945549 "Display Name for a Visual in a dashboard")
 
 The following table describes the behavior for specifying or changing a visual name or display name.
 

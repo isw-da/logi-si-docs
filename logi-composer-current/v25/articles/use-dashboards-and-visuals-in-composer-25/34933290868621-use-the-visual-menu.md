@@ -4,7 +4,7 @@ id: 34933290868621
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933290868621-Use-the-Visual-Menu
-updated_at: 2026-05-26T22:08:49Z
+updated_at: 2026-08-24T20:31:56Z
 ---
 
 # Use the Visual Menu
@@ -13,7 +13,7 @@ updated_at: 2026-05-26T22:08:49Z
 
 Composer's visual canvas provides a comprehensive suite of tools to help you tailor visuals quickly so they provide the information you need in the best way for you to analyze your data. These tools are available from the visual drop-down menu or from the [visual sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu). This topic discusses the drop-down menu.
 
-The visual drop-down menu lists options that help you modify and use your visuals more effectively. Access by selecting the Visual Menu, labeled as the Show more menu (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167837864077)) icon in the upper right corner of a visual.
+The visual drop-down menu lists options that help you modify and use your visuals more effectively. Access by selecting the Visual Menu, labeled as the Show more menu (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374665458061)) icon in the upper right corner of a visual.
 
 The menu options are described in the following table. Some options are only available for specific visual styles. Some options are available when you are working with a visual in a dashboard and are not available when you are working with a visual in the Visual Gallery. Controls for some of these options are available on the interactivity sidebar. See [Control How Users Interact With a Visual](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933282294029-Control-How-Users-Interact-With-a-Visual).
 

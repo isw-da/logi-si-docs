@@ -4,7 +4,7 @@ id: 43701175061389
 section: "Logi Composer  26 Release Notes Overview"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701175061389-Logi-Composer-26-Release-Notes-Overview
-updated_at: 2026-05-29T14:09:21Z
+updated_at: 2026-08-26T07:10:58Z
 ---
 
 # Logi Composer  26 Release Notes Overview
@@ -17,6 +17,8 @@ To purchase this product, contact [insightsoftware Sales](mailto:loginewbusiness
 
 ## Individual Release Pages
 
+* [Logi Composer 26.2 Release Notes](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/46968204192141-Logi-Composer-26-2-Release-Notes)
+* [Logi Composer 26.2 Feature Enhancements](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/46968199924109-Logi-Composer-26-2-Feature-Enhancements)
 * [Logi Composer 26.1 Release Notes](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701161443469-Logi-Composer-26-1-Release-Notes)
 * [Logi Composer 26.1 Feature Enhancements](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701146985741-Logi-Composer-26-1-Feature-Enhancements)
 

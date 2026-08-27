@@ -4,7 +4,7 @@ id: 34933077830669
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933077830669-Enable-and-Disable-Materialized-View-Definitions
-updated_at: 2026-05-26T22:09:22Z
+updated_at: 2026-08-24T20:32:32Z
 ---
 
 # Enable and Disable Materialized View Definitions
@@ -27,7 +27,7 @@ This is an experimental feature.
 1. Make sure you are logged in as a user with the **Administer Sources**  or the **Create New Data Sources**[privilege](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932577846157-Group-Privilege-Reference).
 2. List the materialized views for the data source. See [List Materialized View Definitions](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933057267725-List-Materialized-View-Definitions).
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167137030157)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373338522125)
 3. Locate the materialized view in the list of materialized view definitions and slide the switch in the **Enabled** column for the definition to the left (off).
 
    The definition is disabled.
@@ -37,7 +37,7 @@ This is an experimental feature.
 1. Make sure you are logged in as a user with the **Administer Sources** or the **Create New Data Sources** [privilege](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932577846157-Group-Privilege-Reference).
 2. List the materialized views for the data source. See [List Materialized View Definitions](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933057267725-List-Materialized-View-Definitions).
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167137030157)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373338522125)
 3. Locate the materialized view in the list of materialized view definitions and slide the switch in the **Enabled** column for the definition to the right (on).
 
    The definition is enabled.

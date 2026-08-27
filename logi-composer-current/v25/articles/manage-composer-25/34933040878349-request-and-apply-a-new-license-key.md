@@ -4,7 +4,7 @@ id: 34933040878349
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933040878349-Request-and-Apply-a-New-License-Key
-updated_at: 2026-05-26T22:07:44Z
+updated_at: 2026-08-24T20:30:59Z
 ---
 
 # Request and Apply a New License Key

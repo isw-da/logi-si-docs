@@ -4,7 +4,7 @@ id: 40908692123789
 section: "Logi Composer  25 Release Notes Overview"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/40908692123789-Software-Updates-Through-Composer-25
-updated_at: 2026-05-26T22:06:01Z
+updated_at: 2026-08-24T20:28:51Z
 ---
 
 # Software Updates Through Composer 25 
@@ -19,22 +19,22 @@ To purchase this product, contact [insightsoftware Sales](mailto:loginewbusiness
 
 * [Feature Enhancements](#Feature)
 
-  + [Composer v25](#v25)
-  + [Composer v24](#v24)
-  + [Composer v23](#v23)
-  + [Composer v22](#v22)
-  + [Composer v8.4 and Earlier](#v8)
-  + [Composer v7.10 and Earlier](#v7)
-  + [Composer v6.9 and Earlier](#v6)
+  * [Composer v25](#v25)
+  * [Composer v24](#v24)
+  * [Composer v23](#v23)
+  * [Composer v22](#v22)
+  * [Composer v8.4 and Earlier](#v8)
+  * [Composer v7.10 and Earlier](#v7)
+  * [Composer v6.9 and Earlier](#v6)
 * [Resolved Issues](#Resolved)
 
-  + [Composer v25](#v253)
-  + [Composer v24](#v243)
-  + [Composer v23](#v233)
-  + [Composer v22](#v223)
-  + [Composer v8.4 and Earlier](#v843)
-  + [Composer v7.10 and Earlier](#v7103)
-  + [Composer v6.9 and Earlier](#v693)
+  * [Composer v25](#v253)
+  * [Composer v24](#v243)
+  * [Composer v23](#v233)
+  * [Composer v22](#v223)
+  * [Composer v8.4 and Earlier](#v843)
+  * [Composer v7.10 and Earlier](#v7103)
+  * [Composer v6.9 and Earlier](#v693)
 
 ## Feature Enhancements
 
@@ -42,6 +42,8 @@ To purchase this product, contact [insightsoftware Sales](mailto:loginewbusiness
 
 | Title | Description |
 | --- | --- |
+| **25.4.5 Feature Enhancements** | |
+| None. |  |
 | **25.4.4 Feature Enhancements** | |
 | None. |  |
 | **25.4.3 Feature Enhancements** | |
@@ -63,6 +65,8 @@ To purchase this product, contact [insightsoftware Sales](mailto:loginewbusiness
 
 | Title | Description |
 | --- | --- |
+| **25.3.8 Feature Enhancements** | |
+| None. |  |
 | **25.3.7 Feature Enhancements** | |
 | None. |  |
 | **25.3.6 Feature Enhancements** | |
@@ -78,7 +82,7 @@ To purchase this product, contact [insightsoftware Sales](mailto:loginewbusiness
 | **25.3.1 Feature Enhancements** | |
 | None. |  |
 | **25.3 Feature Enhancements** | |
-| [Scheduled Dashboard Reports - Tenants](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/39704284909453-Logi-Composer-25-3-Feature-Enhancements#Schedule) | Users with appropriate permissions can specify a "Reply-To" and "Sender Display Name" for the emails generated for your scheduled dashboard reports.  This flexibility allows you to direct replies to your selected recipient and include a user-friendly sender display name for ease of use by your end users. If not defined, this defaults to the system values.  Additionally, the Accounts API has been updated so you can retrieve and define all tenant configuration information, including SFTP file drop and STMP details.  See [API Updates](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/39704257646989-Logi-Composer-25-3-Release-Notes#API_Updates). |
+| [Scheduled Dashboard Reports - Tenants](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/39704284909453-Logi-Composer-25-3-Feature-Enhancements#Schedule) | Users with appropriate permissions can specify a "Reply-To" and "Sender Display Name" for the emails generated for your scheduled dashboard reports.  This flexibility allows you to direct replies to your selected recipient and include a user-friendly sender display name for ease of use by your end users. If not defined, this defaults to the system values.  Additionally, the Accounts API has been updated so you can retrieve and define all tenant configuration information, including SFTP file drop and SMTP details.  See [API Updates](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/39704257646989-Logi-Composer-25-3-Release-Notes#API_Updates). |
 | [User Interface Flexibility](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/39704284909453-Logi-Composer-25-3-Feature-Enhancements#User) | We have introduced a number of flexible improvements to the user interface. When you work in some pop-up modals, you can resize some common columns to see more of the information about the resources you are using. Use your cursor to grab a column header break to adjust as needed.  These pop-ups include Dashboard Alerts, Dashboard Sharing, and Permissions for Sources, Visuals, and Dashboards. |
 | [Customize Label Color](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/39704284909453-Logi-Composer-25-3-Feature-Enhancements#Customiz) | You can now customize the label color for the combo chart visual in Composer if you do not want to use the themed color. Disable **Inherit from theme** in the Colors sidebar menu, then select the color you wish to use. |
 
@@ -155,6 +159,8 @@ To purchase this product, contact [insightsoftware Sales](mailto:loginewbusiness
 
 | Title | Description |
 | --- | --- |
+| **Composer 24.4.16 Feature Enhancements** | |
+| None. |  |
 | **Composer 24.4.15 Feature Enhancements** | |
 | None. |  |
 | **Composer 24.4.14 Feature Enhancements** | |
@@ -289,7 +295,7 @@ To purchase this product, contact [insightsoftware Sales](mailto:loginewbusiness
 | Enhanced Filter Security Capabilities | We have expanded the filter capabilities to present data more securely to your users. Filter values can be shown in masked format if you want to filter based on confidential data.   * To enable, disable **Filtering** for fields in a data source for one or more data columns on the **Fields** tab of that data source. * Next, set the Value and Display fields in your filter snippets based on your needs. * When you view tool tips or hover over fields that have Filtering disabled, you will not see the actual values. Instead, you will see a generic reference, such as a count of "filter values" or a series of asterisks `******`.   **Important:** Applied filter values that later have **Filtering** disabled to not automatically mask or hide those fields. You must recreate the filter that uses these values.  You can now set and apply filters to filter snippets. Select a source to apply the filter in the filter snippet.  See [Filter Data With Masked Fields](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932973019789-Filter-Data-With-Masked-Fields). |
 | Lite Dashboard for Self-Service Environments | We have added a simplified lite dashboard to your Composer environment. You can now embed a lite dashboard complete with its own interactivity settings, designed to get your users up and running quickly and easily.  Users can create dashboards with the default visual format as a table visual. Once created, users can:   * Edit the visual's fields and settings, and optionally change the visual type to an available visual type. * Select an available visual type if the data source does not support a table visual, then edit the visual as needed.   Available visual types include: Table (default), Bars, Bars:Multiple Metrics, Donut, KPI, Packed Bubbles, Pie. Customize this list further in your embed code as needed to add or remove other visual types. |
 | Suppress Time Zone Labels | You can now opt to suppress time zone labels in the Composer user interface.  After upgrading to this version, you can [update the Data Details](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932906721933-Manage-Fields#Settings) of your time fields in a data source and suppress the labels. Select **Not Specified** instead of a time zone to hide time zone information in the user interface and when users export data. |
-| Content Migration Flow Improvements and Breaking Changes Management Expansion | * You can now import and export visuals directly in the Visual Gallery user interface. Import and export one or more visuals in bulk. Import and Export includes any supporting objects the visuals are dependent on, such as data sources and connections. * When you import dashboards, visuals, and sources, Content Distributor group members and other users with appropriate privileges can enable **Share Default Access With All Users**. When enabled, in the UI or as an API option, users in the tenants you selected for import can access to these resources immediately based on default access levels. * View improved real-time import validation results, address errors, and suppress warnings for later handling with more options to correct issues in your environment. * The import process now considers an `origin.id` when importing objects: it is stored for every imported object on the target system.    + When you import using the API, you can select a matching strategy for reusing and updating objects. * When you select **Ignore Warnings** during import, a Tags field is added to the Import work area. Add or create tags to apply to objects that do not import cleanly.    + If errors occur during import, Composer adds the tags you select to affected objects.   + Use these tags to find the dashboards, visuals, filter snippets, or sources you need to fix. * You can also create or add tags for items that do not import cleanly when you import via API. |
+| Content Migration Flow Improvements and Breaking Changes Management Expansion | * You can now import and export visuals directly in the Visual Gallery user interface. Import and export one or more visuals in bulk. Import and Export includes any supporting objects the visuals are dependent on, such as data sources and connections. * When you import dashboards, visuals, and sources, Content Distributor group members and other users with appropriate privileges can enable **Share Default Access With All Users**. When enabled, in the UI or as an API option, users in the tenants you selected for import can access to these resources immediately based on default access levels. * View improved real-time import validation results, address errors, and suppress warnings for later handling with more options to correct issues in your environment. * The import process now considers an `origin.id` when importing objects: it is stored for every imported object on the target system.    * When you import using the API, you can select a matching strategy for reusing and updating objects. * When you select **Ignore Warnings** during import, a Tags field is added to the Import work area. Add or create tags to apply to objects that do not import cleanly.    * If errors occur during import, Composer adds the tags you select to affected objects.   * Use these tags to find the dashboards, visuals, filter snippets, or sources you need to fix. * You can also create or add tags for items that do not import cleanly when you import via API. |
 
 [Return to top](#top "return to top")
 
@@ -384,8 +390,8 @@ To purchase this product, contact [insightsoftware Sales](mailto:loginewbusiness
 | Cloudmade for Map Visuals | Cloudmade’s tile support is no longer available, and has been removed from map visuals.  Existing visuals that use the Cloudmade Tile Provider are migrated to Open Street Maps when you upgrade to this release or later. |
 | Hierarchical Pivot Improvements | You now have greater control over your hierarchical groups; when you select a hierarchical field as a row group, you can now define the number of levels to expand in your pivot table in the sidebar menu. When you select the column header menu for your field, new options are available:   * Collapse all rows - visible if your rows are expanded; select to collapse * Expand all rows - visible if your rows are collapsed; select to expand * Levels to expand - visible if Expand all rows is unchecked; provide a numeric value to define a default number of levels to be expanded.   For greater visibility, the root level of each hierarchical field is now presented in bold type. |
 | Improved Object Deletion | Composer now displays the names of dependent objects when you try to delete a visual, dashboard, dashboard link, connection, data source, or data source field. |
-| Security for Connection Types | Supervisor users can add access restrictions to connection types on a per Account basis in the UI or by appropriate APIs.   * When a connection type has no restrictions, users with appropriate permissions in all Accounts can add new connections of that type, and edit existing connections of that type. * When you add Accounts to the list of Allowed accounts for a specific connection type:    + Users in allowed Accounts can add and edit connections of that type   + Users in other Accounts cannot add or edit existing connections of that type |
-| Filter Snippet Expanded Options | We have made a number of improvements to filter snippets.   * New options for Operators include **Contains** and **Does Not Contain** for more flexible filtering. * Simplify cross-source filtering when your data contains mismatched field names. Select a source for the filter snippet, then select a field to use as a **Value Column**. Next, select a different field, as needed, as a **Display Column**.    + If you prefer to use your value as the display, enable the **Use Value Column as Display Column** toggle.   + The new options, Value Column and Display Column, replace the Field column used in previous releases. * Simplify cross-source filtering when your data contains mismatched field names. Select a source for the filter snippet, then select a field to use as a **Value Column**. Next, select a different field, as needed, as a **Display Column**.    + If you prefer to use your value as the display, enable the **Use Value Column as Display Column** toggle.   + The new options, **Value Column** and **Display Column**, replace the Field column used in previous releases. * You can now sort the data in your filter, based on your **Display Column** selection. After selecting a Source and Display Column field, you can select sort options based on the field type: **A-Z** and **Z-A** orders, **Chronological**, or **Ascending** and **Descending**.    + Any values you add manually are not affected by this sort order.   + If you select an order, Static Overrides for a field won’t be applied. * Set a display option for Time fields: **Fixed List**, **Dropdown List**, and **Range**. If you select Range, you can give users the option to use static and dynamic time, or disable mode switching to require them to use static or dynamic time. * Connect multiple widgets from the same source quickly and easily. Select a **Widget Name** and **Field**, then select the **Copy** icon to add a new entry based on the same widget and field, then select a new field as needed. Repeat until all desired fields are included. * **Min** and **Max** ranges for date fields have been removed to make the filter snippet more compact. |
+| Security for Connection Types | Supervisor users can add access restrictions to connection types on a per Account basis in the UI or by appropriate APIs.   * When a connection type has no restrictions, users with appropriate permissions in all Accounts can add new connections of that type, and edit existing connections of that type. * When you add Accounts to the list of Allowed accounts for a specific connection type:    * Users in allowed Accounts can add and edit connections of that type   * Users in other Accounts cannot add or edit existing connections of that type |
+| Filter Snippet Expanded Options | We have made a number of improvements to filter snippets.   * New options for Operators include **Contains** and **Does Not Contain** for more flexible filtering. * Simplify cross-source filtering when your data contains mismatched field names. Select a source for the filter snippet, then select a field to use as a **Value Column**. Next, select a different field, as needed, as a **Display Column**.    * If you prefer to use your value as the display, enable the **Use Value Column as Display Column** toggle.   * The new options, Value Column and Display Column, replace the Field column used in previous releases. * Simplify cross-source filtering when your data contains mismatched field names. Select a source for the filter snippet, then select a field to use as a **Value Column**. Next, select a different field, as needed, as a **Display Column**.    * If you prefer to use your value as the display, enable the **Use Value Column as Display Column** toggle.   * The new options, **Value Column** and **Display Column**, replace the Field column used in previous releases. * You can now sort the data in your filter, based on your **Display Column** selection. After selecting a Source and Display Column field, you can select sort options based on the field type: **A-Z** and **Z-A** orders, **Chronological**, or **Ascending** and **Descending**.    * Any values you add manually are not affected by this sort order.   * If you select an order, Static Overrides for a field won’t be applied. * Set a display option for Time fields: **Fixed List**, **Dropdown List**, and **Range**. If you select Range, you can give users the option to use static and dynamic time, or disable mode switching to require them to use static or dynamic time. * Connect multiple widgets from the same source quickly and easily. Select a **Widget Name** and **Field**, then select the **Copy** icon to add a new entry based on the same widget and field, then select a new field as needed. Repeat until all desired fields are included. * **Min** and **Max** ranges for date fields have been removed to make the filter snippet more compact. |
 | Improved Data Types Conversion in the Python Connector | In this release of Composer, data types resolution in Python connector has changed. All values returned from public functions are implicitly converted to the [Pandas Dataframe](https://pandas.pydata.org/docs/reference/frame.html "Pandas dataframe link"). |
 | Restrict Dashboard Report Scheduling to External Users | Control your users' ability to schedule dashboards reports to users without Composer accounts and prevent your users from report scheduling to external emails. Work with your Technical Support to disable this capability via server-level variable. |
 | Restrict Dashboard Report Scheduling to External Users | The previous limit of a maximum of 4,000 symbols in an LDAP query has been removed, and now you can add LDAP queries with the unlimited amount of symbols as needed. |
@@ -1131,6 +1137,8 @@ To purchase this product, contact [insightsoftware Sales](mailto:loginewbusiness
 
 | Title | Description |
 | --- | --- |
+| **25.4.5 Resolved Issues** | |
+| Spring Boot | Spring Boot Actuator diagnostic endpoints are restricted to authenticated Logi Composer administrators only. |
 | **25.4.4 Resolved Issues** | |
 | Updates | This service pack includes various internal fixes. |
 | **25.4.3 Resolved Issues** | |
@@ -1150,6 +1158,8 @@ To purchase this product, contact [insightsoftware Sales](mailto:loginewbusiness
 
 | Title | Description |
 | --- | --- |
+| **25.3.8 Resolved Issues** | |
+| Spring Boot | Spring Boot Actuator diagnostic endpoints are restricted to authenticated Logi Composer administrators only. |
 | **25.3.7 Resolved Issues** | |
 | Updates | This service pack includes various internal fixes. |
 | **25.3.6 Resolved Issues** | |
@@ -1263,6 +1273,8 @@ To purchase this product, contact [insightsoftware Sales](mailto:loginewbusiness
 
 | Title | Description |
 | --- | --- |
+| **24.4.16 Resolved Issues** | |
+| Interactivity Settings | Interactivity settings now apply consistently to all users, regardless of their role or administrative privileges. This prevents these settings from being overridden by user permissions. |
 | **24.4.15 Resolved Issues** | |
 | Time Zone Display | Fixed an issue where the Time Bar's From and To values could display mismatched time zones in visuals. |
 | **24.4.14 Resolved Issues** | |

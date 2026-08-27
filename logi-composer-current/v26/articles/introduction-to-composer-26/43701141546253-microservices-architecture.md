@@ -4,7 +4,7 @@ id: 43701141546253
 section: "Introduction to Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701141546253-Microservices-Architecture
-updated_at: 2026-05-29T14:09:03Z
+updated_at: 2026-08-26T07:11:02Z
 ---
 
 # Microservices Architecture
@@ -25,13 +25,14 @@ Separately, Composer centralizes its metadata store in a relational database and
 For more information about individual microservices, see:
 
 * Composer server microservice for its [Web-Based User Interface](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701141717261-Web-Based-User-Interface)
+* [Configuration Microservice](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701136628877-Configuration-Microservice)
 * [Query Engine Microservice](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701107051277-Query-Engine-Microservice)
 * [Data Connector Microservices](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701111816461-Data-Connector-Microservices)
 * [Data Writer Microservice](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701106979981-Data-Writer-Microservice)
 * [Service Monitor Microservice](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701141622029-Service-Monitor-Microservice)
-* [Configuration Microservice](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701136628877-Configuration-Microservice)
 * [Service Discovery Microservice](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701124841229-Service-Discovery-Microservice)
-* [Screenshot Microservice](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701124923917-Screenshot-Microservice)
+* [Self Service Report Microservice](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/47077282029965-Self-Service-Report-Microservice)
+* [Screenshot Microservice](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701073104013-Screenshot-Microservice)
 * [Distributed Tracing for Composer](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701081617549-Distributed-Tracing-for-Composer)
 
 The following links provide general information about all Composer microservices:

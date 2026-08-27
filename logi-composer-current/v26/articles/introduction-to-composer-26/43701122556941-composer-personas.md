@@ -4,7 +4,7 @@ id: 43701122556941
 section: "Introduction to Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701122556941-Composer-Personas
-updated_at: 2026-05-29T14:09:06Z
+updated_at: 2026-08-26T07:11:01Z
 ---
 
 # Composer Personas
@@ -17,10 +17,10 @@ The successful implementation and use of Composer requires the completion of tas
 * Somebody who manages licensing of the product.
 * One or more people to manage product security, including:
 
-  + Your organization's authentication tools (X.509, SAML, Kerberos, or LDAP) and their integration into Composer
-  + The Composer accounts, users, and groups required by your organization.
+  * Your organization's authentication tools (X.509, SAML, Kerberos, or LDAP) and their integration into Composer
+  * The Composer accounts, users, and groups required by your organization.
 * One or more people to manage configuration of the product. Among other things, configuration can include tasks such as setting up logging, creating and managing custom charts and admin-defined functions, or tailoring the theme and other features of the UI as needed by your organization. Typically, this would be a system developer.
 * Somebody who manages the Composer connectors and connector server definitions needed by Composer for your data stores. This person would also create the Composer connection definitions needed to access those data stores. Typically, this is a database administrator.
 * Somebody to define Composer data source configurations from the data available in your data stores. This person must understand the data in your data stores and how it will be used. They must also understand who should have access to the data in each data source and whether access should be controlled by column or row. This person may be referred to as a *data author*.
-* One or more people who can create meaningful dashboards and visuals that help your organization analyze the data you've collected. These people need to be able to specify who should have access to the dashboard data and the dashboard functions available for end users to interact with after the dashboard is embedded in your application. This person may be referred to as a *content author*.
+* One or more people who can create meaningful dashboards and visuals that help your organization analyze the data you have collected. These people need to be able to specify who should have access to the dashboard data and the dashboard functions available for end users to interact with after the dashboard is embedded in your application. This person may be referred to as a *content author*.
 * One or more people to embed your dashboards into your applications. Typically, this is an application developer.
