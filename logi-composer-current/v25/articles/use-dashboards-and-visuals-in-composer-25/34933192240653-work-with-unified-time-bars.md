@@ -4,7 +4,7 @@ id: 34933192240653
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933192240653-Work-with-Unified-Time-Bars
-updated_at: 2026-05-26T22:08:31Z
+updated_at: 2026-08-24T20:31:39Z
 ---
 
 # Work with Unified Time Bars

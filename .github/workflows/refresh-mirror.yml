@@ -1,0 +1,70 @@
+name: Refresh documentation mirror
+
+# Runs unattended. Every source is a public, unauthenticated Zendesk Help Centre
+# API, so this needs no secrets. On a public repository GitHub Actions minutes
+# are free, which is why this runs here rather than on a laptop or a box that
+# has to be switched on.
+on:
+  schedule:
+    # 06:00 UTC every Monday. The upstream corpus moves in bulk republishes
+    # rather than continuously, so daily would burn minutes to find nothing.
+    - cron: '0 6 * * 1'
+  workflow_dispatch:        # so it can be run on demand without waiting a week
+
+permissions:
+  contents: write           # the job commits what it fetched
+
+concurrency:
+  group: refresh-mirror     # never let two refreshes race on the same branch
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install the converter
+        run: pip install -r requirements-refresh.txt
+
+      - name: Show the delta before writing anything
+        run: python scripts/refresh.py --dry-run
+
+      - name: Refresh
+        run: python scripts/refresh.py
+
+      - name: Commit if anything moved
+        run: |
+          set -euo pipefail
+          git config user.name  "logi-si-docs bot"
+          git config user.email "noreply@github.com"
+          if git diff --quiet && git diff --cached --quiet && [ -z "$(git status --porcelain)" ]; then
+            echo "nothing changed upstream"
+            exit 0
+          fi
+          NEW=$(git status --porcelain | grep -c '^??' || true)
+          MOD=$(git status --porcelain | grep -c '^ M' || true)
+          git add -A
+          git commit -m "Automated mirror refresh: ${NEW} new, ${MOD} updated
+
+          Fetched from the upstream Zendesk Help Centre APIs by
+          scripts/refresh.py. Sources and counts are in the job log."
+          git push
+
+      - name: Summary
+        if: always()
+        run: |
+          {
+            echo "### Mirror refresh"
+            echo ""
+            echo "Run at $(date -u +'%Y-%m-%d %H:%M UTC')."
+            echo ""
+            echo "\`composer-api/\` is NOT refreshed here. Those specs come from a running"
+            echo "Composer instance rather than a docs site, and CI cannot reach one."
+            echo "They are pulled by hand and each is named for the instance it came from."
+          } >> "$GITHUB_STEP_SUMMARY"

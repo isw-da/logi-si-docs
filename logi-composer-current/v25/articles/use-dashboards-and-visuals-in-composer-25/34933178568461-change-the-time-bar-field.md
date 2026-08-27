@@ -4,7 +4,7 @@ id: 34933178568461
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933178568461-Change-the-Time-Bar-Field
-updated_at: 2026-05-26T22:09:17Z
+updated_at: 2026-08-24T20:32:28Z
 ---
 
 # Change the Time Bar Field
@@ -28,7 +28,7 @@ When you switch between these fields on the time bar, the ranges and playback se
 
 1. Select the visual in the dashboard or in the Visual Gallery.
 2. If you selected the visual on a dashboard, select **Settings** on the [visual drop-down menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933290868621-Use-the-Visual-Menu) to access the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu) for the visual.
-3. Select the visual time bar icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167855753357)) on the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu) for the visual. The [Time Bar sidebar](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933257208973-Use-the-Visual-Style-Sidebar) opens.
+3. Select the visual time bar icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374691149453)) on the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu) for the visual. The [Time Bar sidebar](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933257208973-Use-the-Visual-Style-Sidebar) opens.
 4. Select a new time field on the **Time Bar** sidebar.
    The
    **None (Time Bar is Off)** option is not available for the

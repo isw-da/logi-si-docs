@@ -4,7 +4,7 @@ id: 34933022064781
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933022064781-Composer-System-Metrics
-updated_at: 2026-05-26T22:09:30Z
+updated_at: 2026-08-24T20:32:41Z
 ---
 
 # Composer System Metrics
@@ -103,4 +103,4 @@ Install [statsd](https://github.com/statsd/statsd#installation-and-configuration
 
 Example of a Graphite dashboard with metrics collected by statsd:
 
-![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167130236685)
+![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373367317133)

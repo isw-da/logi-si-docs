@@ -4,7 +4,7 @@ id: 34933219403405
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933219403405-Modify-Bar-Charts
-updated_at: 2026-05-26T22:09:20Z
+updated_at: 2026-08-24T20:32:33Z
 ---
 
 # Modify Bar Charts
@@ -15,7 +15,7 @@ When you first create a standard bar chart or a multiple metric bar chart, the d
 
 Use the Settings sidebar to further refine your selected bar chart.
 
-![Adjust settings for your bar chart here](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167012343437 "Settings sidebar menu, bar chart")
+![Adjust settings for your bar chart here](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373133779469 "Settings sidebar menu, bar chart")
 
 | Setting | Description |
 | --- | --- |

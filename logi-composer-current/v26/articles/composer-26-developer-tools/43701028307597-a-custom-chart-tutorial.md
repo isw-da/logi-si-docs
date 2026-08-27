@@ -4,7 +4,7 @@ id: 43701028307597
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701028307597-A-Custom-Chart-Tutorial
-updated_at: 2026-05-29T14:08:04Z
+updated_at: 2026-08-26T07:09:27Z
 ---
 
 # A Custom Chart Tutorial
@@ -13,7 +13,7 @@ updated_at: 2026-05-29T14:08:04Z
 
 As an administrator, you can create custom charts (custom visuals) using the custom chart CLI. Download, import, and delete custom charts in the Composer user interface (UI). Make custom charts visible on various menus in the Composer user interface (UI).
 
-This tutorial guides you through the process of developing a new custom chart from scratch. If you have some experience with JavaScript and you want to learn about connecting your data to charts, you are in the right place, we'll walk you through the rest.
+This tutorial guides you through the process of developing a new custom chart from scratch. If you have some experience with JavaScript and you want to learn about connecting your data to charts, you are in the right place, we will walk you through the rest.
 
 **Note:** 
 You must be an administrator to manage custom visual types.

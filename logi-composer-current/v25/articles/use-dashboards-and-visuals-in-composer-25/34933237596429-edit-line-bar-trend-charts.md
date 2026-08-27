@@ -1,10 +1,10 @@
 ---
-title: "Edit Line &\u00a0Bar Trend Charts"
+title: "Edit Line & Bar Trend Charts"
 id: 34933237596429
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933237596429-Edit-Line-Bar-Trend-Charts
-updated_at: 2026-05-26T22:09:06Z
+updated_at: 2026-08-24T20:32:14Z
 ---
 
 # Edit Line & Bar Trend Charts
@@ -30,14 +30,14 @@ For information on setting even time intervals, see [Even Time Intervals](https:
 1. Edit the visual you want to modify. See [Edit Visuals](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933280606989-Edit-Visuals).
 2. If you are editing the visual in a dashboard, select **Settings** from the [chart drop-down menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933290868621-Use-the-Visual-Menu). The [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu) for the visual appears. If you are editing the visual from the Visual Gallery, the sidebar appears to the right of the visual.
 
-   Select the color icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167819128077)) on the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu). The Color sidebar for the visual appears.
+   Select the color icon on the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu). The Color sidebar for the visual appears.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166969213325)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373099461773)
 3. Configure the color settings as described below. As you change the color settings, the legend at the top of the Color sidebar shows how the legend will appear on the visual. Supported color specifications are described in [Specify Colors](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932703126541-Specify-Colors).
 
    | Setting | Description |
    | --- | --- |
-   | Y2 Color | Select a color for the Y2 line on your visual. |
-   | Y1 Color | Select a color for the Y1 bars on your visual. |
+   | Y2 Color | Select a color for the Y2 line on your visual. Select to clear the **Inherit from theme** checkbox to define a different color manually. |
+   | Y1 Color | Select a color for the Y1 bars on your visual. Select to clear the **Inherit from theme** checkbox to define a different color manually. |
 4. Close the Color sidebar and the color settings are dynamically applied to the visual.
-5. Select the save icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167819130893)) to save the dashboard and the visual with its updated settings.
+5. Select the save icon to save the dashboard and the visual with its updated settings.

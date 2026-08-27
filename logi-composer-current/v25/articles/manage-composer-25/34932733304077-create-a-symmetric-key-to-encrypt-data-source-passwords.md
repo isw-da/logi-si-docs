@@ -4,7 +4,7 @@ id: 34932733304077
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932733304077-Create-a-Symmetric-Key-to-Encrypt-Data-Source-Passwords
-updated_at: 2026-05-26T22:06:31Z
+updated_at: 2026-08-24T20:29:32Z
 ---
 
 # Create a Symmetric Key to Encrypt Data Source Passwords

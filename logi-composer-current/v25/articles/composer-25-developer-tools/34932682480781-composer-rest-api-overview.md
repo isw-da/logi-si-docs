@@ -1,10 +1,10 @@
 ---
-title: "Composer  REST\u00a0API Overview"
+title: "Composer  REST API Overview"
 id: 34932682480781
 section: "Composer 25 Developer Tools"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932682480781-Composer-REST-API-Overview
-updated_at: 2026-05-26T22:06:11Z
+updated_at: 2026-08-24T20:29:05Z
 ---
 
 # Composer  REST API Overview

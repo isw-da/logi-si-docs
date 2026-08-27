@@ -4,7 +4,7 @@ id: 34933056898701
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933056898701-Delete-a-Materialized-View-Definition
-updated_at: 2026-05-26T22:09:16Z
+updated_at: 2026-08-24T20:32:23Z
 ---
 
 # Delete a Materialized View Definition
@@ -25,8 +25,8 @@ Deleting a materialized view does not affect the underlying pre-aggregated data.
 1. Make sure you are logged in as a user with the **Administer Sources**  [privilege](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932577846157-Group-Privilege-Reference) or that you have [**read**, **write**, and permission for the data source](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932915596173-About-Source-Permissions).
 2. List the materialized views for the data source. See [List Materialized View Definitions](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933057267725-List-Materialized-View-Definitions).
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167871954829)
-3. Locate the materialized view definition you want to delete and select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167882164621) in the Delete column for the definition.
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374730989197)
+3. Locate the materialized view definition you want to delete and select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374761587597) in the Delete column for the definition.
 
    A warning dialog appears, prompting you to confirm the deletion.
 4. Select **Delete** on the warning dialog.

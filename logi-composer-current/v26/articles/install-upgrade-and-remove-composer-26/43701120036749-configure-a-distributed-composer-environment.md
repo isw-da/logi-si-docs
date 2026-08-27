@@ -4,7 +4,7 @@ id: 43701120036749
 section: "Install, Upgrade, and Remove Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701120036749-Configure-a-Distributed-Composer-Environment
-updated_at: 2026-05-29T14:10:42Z
+updated_at: 2026-08-26T07:12:05Z
 ---
 
 # Configure a Distributed Composer Environment
@@ -23,7 +23,7 @@ A metadata store is also needed to store Composer's metadata, application config
 
 The microservices and metadata store are depicted in the following diagram:
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242481406349)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417993770381)
 
 You have two options for setting up a distributed Composer environment:
 
@@ -36,7 +36,7 @@ You have two options for setting up a distributed Composer environment:
 
   A high-availability load balancer is required to distribute the network traffic across your user-facing Composer nodes. If only a single load balancer is deployed in a high availability environment, you will not be able to access any of the Composer nodes behind it if the load balancer should fail. Microservice load balancing and failover occur automatically within the Composer nodes themselves.
 
-  For more information, see [Configure a High Availability Environment](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701105065613-Configure-a-High-Availability-Environment).
+  For more information, see [Configure a High Availability Environment](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701072400141-Configure-a-High-Availability-Environment).
 
 Both load balancing and high availability require a centralized metadata store and a multi-node license. In a high availability environment, the metadata store can be clustered.
 

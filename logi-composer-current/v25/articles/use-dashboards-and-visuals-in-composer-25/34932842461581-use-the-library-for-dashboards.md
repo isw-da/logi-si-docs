@@ -4,7 +4,7 @@ id: 34932842461581
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932842461581-Use-the-Library-for-Dashboards
-updated_at: 2026-05-26T22:10:05Z
+updated_at: 2026-08-24T20:33:24Z
 ---
 
 # Use the Library for Dashboards
@@ -17,9 +17,9 @@ If you have not been given access to dashboards, you will see no dashboards in t
 
 ## Access the Dashboard Library
 
-To access the library, select **Library** on the [UI menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167941937549)) or the [top-level navigation menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933120256397-The-Top-Level-Navigation-Banner), or select **Dashboards** on the [Home page](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933063528717-Home-Page). The dashboard library appears. The dashboards display in a table (list) format.
+To access the library, select **Library** on the [UI menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374857664141)) or the [top-level navigation menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933120256397-The-Top-Level-Navigation-Banner), or select **Dashboards** on the [Home page](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933063528717-Home-Page). The dashboard library appears. The dashboards display in a table (list) format.
 
-![use to manage your dashboards](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167346188429 "dashboard library")
+![use to manage your dashboards](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373712616333 "dashboard library")
 
 ## Search Field
 

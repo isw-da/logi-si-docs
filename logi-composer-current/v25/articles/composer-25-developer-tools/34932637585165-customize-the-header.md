@@ -4,7 +4,7 @@ id: 34932637585165
 section: "Composer 25 Developer Tools"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932637585165-Customize-the-Header
-updated_at: 2026-05-26T22:10:20Z
+updated_at: 2026-08-24T20:33:41Z
 ---
 
 # Customize the Header
@@ -21,9 +21,9 @@ The header appears above the Composer banner in the UI.
 
    **Note:** 
    The default **supervisor** user is no longer installed; add users to the **Supervisors** group instead.
-2. Select **Customize UI** from the menu(![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167989468941)). The Customize UI page appears. The following screen shows all the custom header settings on the page.
+2. Select **Customize UI** from the menu(![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374852072205)). The Customize UI page appears. The following screen shows all the custom header settings on the page.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167454559373)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374016036493)
 3. Under Custom Header, enable the custom header by sliding the **Custom Header** slider to the right (on). You can always disable the custom header by sliding the **Custom Header** slider to the left (off). By default, the custom header is off.
 4. In the box under the **Custom Header** slider, specify HTML structures for your custom header. You can either add inline styles or include the classes corresponding to your [custom CSS file](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932670712205-Customize-the-Application#Upload).
 5. In the **Custom Height in Pixels** box, specify the height (in pixels) of the header. You can use the up and down arrows in the box to increment and decrement this value or you can type a value in the box.

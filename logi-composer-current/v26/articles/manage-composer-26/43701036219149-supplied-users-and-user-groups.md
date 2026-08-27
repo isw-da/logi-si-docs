@@ -4,7 +4,7 @@ id: 43701036219149
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701036219149-Supplied-Users-and-User-Groups
-updated_at: 2026-05-29T14:07:07Z
+updated_at: 2026-08-26T07:11:45Z
 ---
 
 # Supplied Users and User Groups
@@ -16,7 +16,7 @@ Composer supplies one user: **[admin](#The2)**. The admin is the default system 
 **Note:** 
 If you are installing or upgrading to v23.4 or later, the default admin user (system administrator) can perform all functions the former supervisor user previously performed, and provide authentication for embedded use cases.
 
-After you've install and deployed Composer in your operating environment, access the application as the admin user from a web browser (see [System Requirements](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701105740685-System-Requirements) for details).
+After you have install and deployed Composer in your operating environment, access the application as the admin user from a web browser (see [System Requirements](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701105740685-System-Requirements) for details).
 
 ## admin User
 
@@ -43,7 +43,7 @@ The Administrators group is an integral part of Composer management. Users in th
 **Note:** 
 Management of the supplied **Administrators** group can only be performed by a member of that group or by a user in a group with *all* the following [privileges](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference): **Administer Users**, **Administer Groups**, and **Administer Dashboards**.
 
-See [Add Users](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701051525645-Add-Users), [About Supplied Groups](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701021357837-About-Supplied-Groups), [Group Privilege Reference](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference), and[The Composer UI Menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701160499853-The-Composer-UI-Menu).
+See [Add Users](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701051525645-Add-Users), [About Supplied Groups](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701021357837-About-Supplied-Groups), [Group Privilege Reference](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference), and[The Main Menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701160499853-The-Main-Menu).
 
 ## Administrators Group (Tenant Admins)
 
@@ -66,12 +66,12 @@ Assign users to the Supervisors group to allow those users to:
 * Manage connectors.
 * Enable security privileges, and more.
 
-If you'd like a user to be a full system admin, add them to this group and the Content Distributors group as well. See [About Supplied Groups.](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701021357837-About-Supplied-Groups)
+If you would like a user to be a full system admin, add them to this group and the Content Distributors group as well. See [About Supplied Groups.](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701021357837-About-Supplied-Groups)
 
 ## Content Distributors Group
 
 The Content Distributors group is part of the Visual Data Discovery tenant. Members can create, maintain, and distribute content and objects such as sources and connections to all tenants in your environment.
 
-If you'd like a user to be a full system admin, add them to this group and the Supervisors group as well. See [About Supplied Groups.](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701021357837-About-Supplied-Groups)
+If you would like a user to be a full system admin, add them to this group and the Supervisors group as well. See [About Supplied Groups.](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701021357837-About-Supplied-Groups)
 
 See [About Supplied Groups.](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701021357837-About-Supplied-Groups)

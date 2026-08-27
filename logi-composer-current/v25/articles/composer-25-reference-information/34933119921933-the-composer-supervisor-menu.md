@@ -4,7 +4,7 @@ id: 34933119921933
 section: "Composer 25 Reference Information"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933119921933-The-Composer-Supervisor-Menu
-updated_at: 2026-05-26T22:09:17Z
+updated_at: 2026-08-24T20:32:26Z
 ---
 
 # The Composer Supervisor Menu
@@ -16,7 +16,7 @@ When you log in as a user that belongs to the Supervisors group, you have defaul
 **Note:** 
 The default **supervisor** user is no longer installed; add users to the **Supervisors** group instead.
 
-Navigate to the menu by selecting the UI menu icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167896984333)) in the upper right corner your software. The table below describes menu options available to members of the Supervisors group.
+Navigate to the menu by selecting the UI menu icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374741800845)) in the upper right corner your software. The table below describes menu options available to members of the Supervisors group.
 
 | Menu Option | Select this option to... | Supervisors Group |
 | --- | --- | --- |

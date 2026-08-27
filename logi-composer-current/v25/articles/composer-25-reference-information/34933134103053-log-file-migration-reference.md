@@ -4,7 +4,7 @@ id: 34933134103053
 section: "Composer 25 Reference Information"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933134103053-Log-File-Migration-Reference
-updated_at: 2026-05-26T22:07:54Z
+updated_at: 2026-08-24T20:31:10Z
 ---
 
 # Log File Migration Reference

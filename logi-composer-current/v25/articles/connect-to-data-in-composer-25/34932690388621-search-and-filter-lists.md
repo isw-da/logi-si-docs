@@ -4,7 +4,7 @@ id: 34932690388621
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932690388621-Search-and-Filter-Lists
-updated_at: 2026-05-26T22:10:19Z
+updated_at: 2026-08-24T20:33:42Z
 ---
 
 # Search and Filter Lists
@@ -86,5 +86,5 @@ Two options you can use to filter are not tags. They are listed at the top of th
 * **Select All (*n*)**: Use Select All to quickly select or deselect all tags in the list by filling or clearing the checkbox.
 * **[NONE]**: Use NONE to return all items in the list that do not have associated tags.
 
-  + If you select NONE while any or all tags are selected, those selections are cleared, and only items with no tags are shown.
-  + If you select any other tag while NONE is selected, the NONE checkbox is cleared, and only items with selected tags are shown.
+  * If you select NONE while any or all tags are selected, those selections are cleared, and only items with no tags are shown.
+  * If you select any other tag while NONE is selected, the NONE checkbox is cleared, and only items with selected tags are shown.

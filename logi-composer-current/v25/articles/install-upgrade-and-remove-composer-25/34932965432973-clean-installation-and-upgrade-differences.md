@@ -4,7 +4,7 @@ id: 34932965432973
 section: "Install, Upgrade, and Remove Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932965432973-Clean-Installation-and-Upgrade-Differences
-updated_at: 2026-05-26T22:07:21Z
+updated_at: 2026-08-24T20:30:33Z
 ---
 
 # Clean Installation and Upgrade Differences

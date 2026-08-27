@@ -4,7 +4,7 @@ id: 34932685439501
 section: "Install, Upgrade, and Remove Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932685439501-Configure-the-Composer-Server-Behind-a-Load-Balancer
-updated_at: 2026-05-26T22:10:24Z
+updated_at: 2026-08-24T20:33:45Z
 ---
 
 # Configure the Composer Server Behind a Load Balancer
@@ -15,7 +15,7 @@ Load balancing helps you to scale Composer to hundreds of users. You can use loa
 
 The following diagram depicts a classic load balancing setup.
 
-![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167429762061)
+![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374016926349)
 
 Composer has tested active-active load balancing configuration, which is the particular setup used in the steps below. In addition, the instructions provided below take into account that Composer, when it runs standalone, uses its own dedicated PostgreSQL server as the metadata store (in other words, PostgreSQL was installed as part of the Composer installation process). If you are running in a high availability environment, you will need to use a high availability (clustered) PostgreSQL data store. See [Configure a High Availability Environment](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933027142285-Configure-a-High-Availability-Environment).
 
@@ -41,8 +41,8 @@ If this is the first time you have installed Composer, and you want to set up a 
 
      The instructions to set up PostgreSQL as Composer's metadata store differ depending on the Linux operating system used by the target server. Select a topic below:
 
-     + [PostgreSQL Setup for CentOS Environments](#PostgreS)
-     + [PostgreSQL Setup for Ubuntu Environments](#PostgreS2)
+     * [PostgreSQL Setup for CentOS Environments](#PostgreS)
+     * [PostgreSQL Setup for Ubuntu Environments](#PostgreS2)
 
      ## PostgreSQL Setup for CentOS Environments
 
@@ -273,7 +273,7 @@ The following steps provide an example of setting up HAProxy as a load balancer.
    sudo vi cert.pem #Create and save an empty file  
    sudo chmod a+w cert.pem  
    sudo cat ca.key ca.crt > cert.pem
-4. In the same folder, replace the contents of the `haproxy.cfg` file with the contents of the [Composer haproxy configuration file](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167966138893). In the file, replace the `<node1-ip>` and `<node2-ip>` with the IP addresses of your servers. If you have more than two servers, add additional lines for each server.
+4. In the same folder, replace the contents of the `haproxy.cfg` file with the contents of the [Composer haproxy configuration file](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374852420493). In the file, replace the `<node1-ip>` and `<node2-ip>` with the IP addresses of your servers. If you have more than two servers, add additional lines for each server.
 5. Save your changes and exit the file.
 6. Start the HAProxy microservice
 

@@ -4,7 +4,7 @@ id: 34933102723341
 section: "Introduction to Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933102723341-Service-Monitor-Microservice
-updated_at: 2026-05-26T22:07:50Z
+updated_at: 2026-08-24T20:31:06Z
 ---
 
 # Service Monitor Microservice

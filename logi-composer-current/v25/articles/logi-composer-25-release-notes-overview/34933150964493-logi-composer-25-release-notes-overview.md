@@ -4,7 +4,7 @@ id: 34933150964493
 section: "Logi Composer  25 Release Notes Overview"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933150964493-Logi-Composer-25-Release-Notes-Overview
-updated_at: 2026-05-26T22:08:36Z
+updated_at: 2026-08-24T20:31:42Z
 ---
 
 # Logi Composer  25 Release Notes Overview

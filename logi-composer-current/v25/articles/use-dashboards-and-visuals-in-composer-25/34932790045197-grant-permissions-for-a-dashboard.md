@@ -4,7 +4,7 @@ id: 34932790045197
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932790045197-Grant-Permissions-for-a-Dashboard
-updated_at: 2026-05-26T22:09:57Z
+updated_at: 2026-08-24T20:33:10Z
 ---
 
 # Grant Permissions for a  Dashboard
@@ -19,7 +19,7 @@ You can grant read, write, or delete dashboard permissions for your tenant, grou
 2. Select **Library** on the [top-level navigation banner](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933120256397-The-Top-Level-Navigation-Banner) or the [UI menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu), or select the **Dashboards** box on the [Home page](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933063528717-Home-Page) The library displays the list of dashboards.
 3. Locate the row for the dashboard in the list and select the permissions icon in the Permissions column. The Dashboard Permissions dialog appears.
 
-   ![set permissions for users in this work area](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167379651085 "Dashboard Permissions work area")
+   ![set permissions for users in this work area](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373770737165 "Dashboard Permissions work area")
 4. Select **Add** on the Dashboard Permissions dialog and then select **Groups**, **Users**, or **Tenant** from the drop-down menu.
 
    * If you select **Groups**, the Add Groups dialog appears, listing all the groups available in your tenant. The [supplied groups](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932609516941-About-Supplied-Groups) are not shown; permissions can not be changed for those groups.
@@ -29,11 +29,11 @@ You can grant read, write, or delete dashboard permissions for your tenant, grou
    * The user who creates a data source is automatically selected and has **Data Access**, **Read**, **Write**, and **Delete** permissions unless you revoke these permissions.
 5. Select tenants or any specific groups or users you want to permit to read, write, or delete the dashboard and select **Apply**. The Dashboard Permissions dialog lists your selections.
 
-   ![set dashboard permissions dialog](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167412649485 "set dashboard permissions dialog")
+   ![set dashboard permissions dialog](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373815308557 "set dashboard permissions dialog")
 6. Select the **Read**, **Comment**, **Write**, or **Delete** checkboxes for a tenant, groups, or users to indicate what they can do with the dashboard. **Read** permission is assumed and is always selected. If you clear (uncheck) the **Read** box (revoke **Read** permission), permission for the entire dashboard is revoked for the tenant, group, or user after you save.
 7. Select **Save**. The Save Details dialog appears, listing the changes that you made.
 
-   ![confirm your changes and save](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167386981645 "Save Details for permissions dialog")
+   ![confirm your changes and save](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373804648717 "Save Details for permissions dialog")
 8. Review the changes and select **OK**. The dashboard permissions are set.
 
 **Permissions for imported objects**

@@ -4,7 +4,7 @@ id: 43701081617549
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701081617549-Distributed-Tracing-for-Composer
-updated_at: 2026-05-29T14:10:55Z
+updated_at: 2026-08-26T07:12:18Z
 ---
 
 # Distributed Tracing for Composer
@@ -32,7 +32,7 @@ Install an OTel collector to act as a proxy between Composer microservices and y
 
 After installation, configure your collector or collectors to export tracing information to the tracing server.
 
-![diagram of otel  collector in use in a Composer environment](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242536758669 "diagram of otel  collector in use in a Composer environment")
+![diagram of otel  collector in use in a Composer environment](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417980687885 "diagram of otel  collector in use in a Composer environment")
 
 ## Configure the Collector
 
@@ -64,7 +64,7 @@ After you have installed and configured the OTel collector, install and configur
 
 ## Configure Composer Microservice Tracing
 
-You must install and configure the OTel java agent to trace Composer microservices. Optionally, next configure the Composer front end for tracing. After these steps are complete and you've restarted the microservices, you can extract the traceID in a REST request or from a web socket outbound message.
+You must install and configure the OTel java agent to trace Composer microservices. Optionally, next configure the Composer front end for tracing. After these steps are complete and you have restarted the microservices, you can extract the traceID in a REST request or from a web socket outbound message.
 
 * [Install the Java Agent](#Install4)
 * [Configure the Collector](#Configur)
@@ -86,7 +86,7 @@ Some application performance monitoring tools provide their own java agents that
 
 ### Configure the Java Agent
 
-After you've installed the java agent, specify backend configuration properties for the agent using required and optional configuration properties. Include in the SERVICE\_NAME.jvm or use environment variables. See <https://opentelemetry.io/docs/instrumentation/java/automatic/agent-config/> and <https://opentelemetry.io/docs/reference/specification/sdk-environment-variables/>.
+After you have installed the java agent, specify backend configuration properties for the agent using required and optional configuration properties. Include in the SERVICE\_NAME.jvm or use environment variables. See <https://opentelemetry.io/docs/instrumentation/java/automatic/agent-config/> and <https://opentelemetry.io/docs/reference/specification/sdk-environment-variables/>.
 
 #### Required Configuration Properties
 
@@ -101,7 +101,7 @@ After you've installed the java agent, specify backend configuration properties 
 
 ### Configure the Composer Front End
 
-After you've provided back end configuration properties for tracking, provide any needed variables for the Composer front end as well.
+After you have provided back end configuration properties for tracking, provide any needed variables for the Composer front end as well.
 
 Enable tracing and provide environment variables by specifying the fe.env configuration property for the zoomdata-web microservice using the following format: `fe.env=ENV_VARIABLE1=value1;ENV_VARIABLE2=value2;ENV_VARIABLE3=value3`.
 

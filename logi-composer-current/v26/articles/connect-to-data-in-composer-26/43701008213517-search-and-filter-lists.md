@@ -4,7 +4,7 @@ id: 43701008213517
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701008213517-Search-and-Filter-Lists
-updated_at: 2026-05-29T14:11:34Z
+updated_at: 2026-08-26T07:11:32Z
 ---
 
 # Search and Filter Lists
@@ -15,6 +15,8 @@ If there are many items included in your work area, you may need to search and f
 
 You can use the search bar to perform a search, and a filter to filter all items or your search results, using built in filters or content tags.
 
+![Use a search field to search by an available column](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418008499853 "An expanded search field")![Use a search field to search by an available column](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418008540173 "An expanded search field")![Use a search field to search by an available column](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417954830221 "An expanded search field")![Use a search field to search by an available column](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418034831757 "An expanded search field")
+
 ## Use The Search Field
 
 You can search many of the columns in your list to find what you need. Select **All** to search all searchable columns, or select an option available from the drop-down menu, such as **Author**, **Name**, or **Type**. Some work areas also allow you to search the text of a **Description** associated with an item.
@@ -22,7 +24,7 @@ You can search many of the columns in your list to find what you need. Select **
 **Note:** 
 The columns you can search vary by work area.
 
-Enter some characters into the search field. Logi Composer hides items that don't match your partial search criteria. Narrow the results further by entering a complete search term or character string, or by performing a more complex search.
+Enter some characters into the search field. Logi Composer hides items that do not match your partial search criteria. Narrow the results further by entering a complete search term or character string, or by performing a more complex search.
 
 To perform a complex search, you can include the following special characters in the Search field:
 
@@ -37,7 +39,7 @@ Searches are performed from left to right, with no logical preference or groupin
 Optionally, use these column keywords in complex searches and map to columns in the list.
 
 **Note:** 
-A column keyword is not searchable in a list that does not contain that column. For example, dashboards do not include a **Type** column.
+A column keyword is not searchable in a list that does not contain that column. For example, dashboards and reports do not include a **Type** column.
 
 | Keyword | Use to identify a search for ... |
 | --- | --- |
@@ -66,11 +68,11 @@ You can search for specific items using the search field, and narrow your return
 
 ## Filter Lists and Search Results Using Tags
 
-After you've added tags to one or more sources, visuals, or dashboards , you can filter your view of these items by selecting one or more tags (or select items that do not have a tag, specifically).
+After you have added tags to one or more sources, visuals, dashboards, or self service reports, you can filter your view of these items by selecting one or more tags (or select items that do not have a tag, specifically).
 
 **Filter your items using tags**
 
-1. Navigate to the work area you want to filter or search and filter (Sources, Visual Gallery, Library ).
+1. Navigate to the work area you want to filter or search and filter (Sources, Visual Gallery, Library (either the Dashboards or Reports tab)).
 2. Optionally, enter a search term in the **Search** field to find items in your list that match that search query.
 3. Select the filter icon for the **Tags** column header to open a drop-down selection list.
 4. Select one or more tags in the list by selecting (checking) the checkbox. The list changes to reflect items that included your selected tags criteria.
@@ -79,12 +81,12 @@ After you've added tags to one or more sources, visuals, or dashboards , you can
 
 ### Tags Drop-Down Selection List Options
 
-The tags shown in your list are determined by the available tags in your environment. Tags are shared among sources, Visual Gallery visuals, and dashboards . For example, if the sources in your instance only have two associated tags, while visuals and dashboards have a broader range of associated tags, you'll see all available tags in the drop-down selection list.
+The tags shown in your list are determined by the available tags in your environment. Tags are shared among sources, Visual Gallery visuals, dashboards, and self service reports. For example, if the sources in your instance only have two associated tags, while visuals dashboards, and self service reports have a broader range of associated tags, you will see all available tags in the drop-down selection list.
 
 Two options you can use to filter are not tags. They are listed at the top of the drop-down selection list: **Select All (*n*)** and **[NONE]**.
 
 * **Select All (*n*)**: Use Select All to quickly select or deselect all tags in the list by filling or clearing the checkbox.
 * **[NONE]**: Use NONE to return all items in the list that do not have associated tags.
 
-  + If you select NONE while any or all tags are selected, those selections are cleared, and only items with no tags are shown.
-  + If you select any other tag while NONE is selected, the NONE checkbox is cleared, and only items with selected tags are shown.
+  * If you select NONE while any or all tags are selected, those selections are cleared, and only items with no tags are shown.
+  * If you select any other tag while NONE is selected, the NONE checkbox is cleared, and only items with selected tags are shown.

@@ -4,7 +4,7 @@ id: 34933075105293
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933075105293-Enable-Unified-Logging-in-Composer-Using-Fluentd
-updated_at: 2026-05-26T22:07:45Z
+updated_at: 2026-08-24T20:31:00Z
 ---
 
 # Enable Unified Logging in Composer  Using Fluentd

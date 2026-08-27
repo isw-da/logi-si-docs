@@ -4,7 +4,7 @@ id: 34932926822157
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932926822157-Download-the-Diagnostics-Bundle
-updated_at: 2026-05-26T22:09:38Z
+updated_at: 2026-08-24T20:32:49Z
 ---
 
 # Download the Diagnostics Bundle
@@ -21,11 +21,11 @@ After the Composer Service Monitor microservice is installed and running, you ca
 2. Log into the Service Monitor using the Service Monitor user name and password you defined when the Service Monitor was installed. See [Install and Configure the Composer Service Monitor](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933159112589-Install-and-Configure-the-Composer-Service-Monitor).
 3. Select **Downloads** on the main menu bar.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167258762893)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373507058829)
 
    A screen appears that you can use to download the diagnostics bundle:
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167252399757)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373532411149)
 4. Optionally enter a trace ID in the Trace ID box.
 
    If the tracing service is not configured, the Trace ID box will be disabled, with a relevant error message. When this happens, the diagnostic bundle contains only log files.

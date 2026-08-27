@@ -4,7 +4,7 @@ id: 43701110764557
 section: "Install, Upgrade, and Remove Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701110764557-Data-Writer-Configuration
-updated_at: 2026-05-29T14:08:52Z
+updated_at: 2026-08-26T07:11:14Z
 ---
 
 # Data Writer Configuration

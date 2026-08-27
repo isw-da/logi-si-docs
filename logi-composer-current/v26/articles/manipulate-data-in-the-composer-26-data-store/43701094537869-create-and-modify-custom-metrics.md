@@ -4,7 +4,7 @@ id: 43701094537869
 section: "Manipulate Data In The Composer 26 Data Store"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701094537869-Create-and-Modify-Custom-Metrics
-updated_at: 2026-05-29T14:08:10Z
+updated_at: 2026-08-26T07:09:36Z
 ---
 
 # Create and Modify Custom Metrics

@@ -4,7 +4,7 @@ id: 43701042404749
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701042404749-Manage-Connectors-and-Connector-Servers
-updated_at: 2026-05-29T14:11:32Z
+updated_at: 2026-08-26T07:11:33Z
 ---
 
 # Manage Connectors and Connector Servers
@@ -28,23 +28,21 @@ Management of connector microservices is split into two sections:
 * Connector Servers
 * Connectors
 
-Each connector server runs independently in the Composer environment. You can set up a connection type for each connector server and manage the ones to be available to users in the Composer account.
+Each connector server runs independently in the Composer environment. You can set up a connection type for each connector server and manage the ones to be available to users in the Composer tenant account.
 
 This means that you are able to enable or disable any of these servers at any time, depending on the data stores that you use and need to use with Composer. The following figure provides a high level concept diagram of the Composer environment.
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242742098189)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418008267917)
 
-The setup and management of connector servers in the Composer environment is handled on the Manage Connector Services page, which is accessible to supervisors. To make the actual connection between Composer and your data source after the connector server has been configured, log into Composer as an administrator and access the [Sources](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701081381901-Data-Sources-Page) page, accessible from the
-[UI menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701160499853-The-Composer-UI-Menu). See
+The setup and management of connector servers in the Composer environment is handled on the Manage Connector Services page, which is accessible to administrators and members of the Supervisors group. To make the actual connection between Composer and your data source after the connector server has been configured, log into Composer as an administrator and access the [Sources](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701081381901-Data-Sources-Page) page, accessible from the main menu. See
 [Connect Composer  to Data Stores](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701042501517-Connect-Composer-to-Data-Stores).
 
-The Manage Connector Services page (available to supervisors) lets you register or remove connector servers that are not available out-of-the-box in the Composer instance. You can also use this page to maintain, enable, and disable connector definitions based on the connector servers defined in the Composer instance. See [Manage Connector Services Page](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701025161229-Manage-Connector-Services-Page).
+The Manage Connector Services work area (available to administrators and members of the Supervisors group) lets you register or remove connector servers that are not available out-of-the-box in the Composer instance. You can also use this page to maintain, enable, and disable connector definitions based on the connector servers defined in the Composer instance. See [Manage Connector Services Page](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701025161229-Manage-Connector-Services-Page).
 
 The [Connections](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701008155149-Connections-Page) page (available to administrators and users with appropriate [privileges](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference)) lets you define the connection for a connector between Composer and a data store. See [Connect Composer  to Data Stores](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701042501517-Connect-Composer-to-Data-Stores).
 
 **Note:** 
-If you try to delete a visual, filter snippet, dashboard, dashboard link, source, or source field, Composer displays an error message naming any objects dependent on the item you’re trying to delete. You can delete the item after you’ve removed the association from the dependent object.
-See[Fields Usage](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701095792013-Fields-Usage).
+If you try to delete a visual, filter snippet, dashboard, self service report, dashboard link, source, or source field, Composer displays an error message naming any objects dependent on the item you’re trying to delete. You can delete the item after you’ve removed the association from the dependent object. See [Fields Usage](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701095792013-Fields-Usage).
 
 See the following topics:
 

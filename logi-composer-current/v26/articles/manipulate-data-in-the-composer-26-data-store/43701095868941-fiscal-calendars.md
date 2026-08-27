@@ -4,7 +4,7 @@ id: 43701095868941
 section: "Manipulate Data In The Composer 26 Data Store"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701095868941-Fiscal-Calendars
-updated_at: 2026-05-29T14:08:16Z
+updated_at: 2026-08-26T07:09:36Z
 ---
 
 # Fiscal Calendars
@@ -22,5 +22,5 @@ API documentation is provided in your environment at this link: `https://<compos
 
 Once defined, you can assign a fiscal calendar for use in specific sources and convert a time field into a new a derived field you can use as a time field in the data source.
 
-* [S Define a Fiscal Calendar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701030979853-S-Define-a-Fiscal-Calendar)
+* [Define a Fiscal Calendar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701030979853-Define-a-Fiscal-Calendar)
 * [Use a Fiscal Calendar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701095928333-Use-a-Fiscal-Calendar)

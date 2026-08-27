@@ -4,7 +4,7 @@ id: 34932824740749
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932824740749-Share-a-Dashboard-with-Users
-updated_at: 2026-05-26T22:09:55Z
+updated_at: 2026-08-24T20:33:08Z
 ---
 
 # Share a  Dashboard with Users
@@ -31,7 +31,7 @@ Share dashboards with:
 2. Open the dashboard you wish to share from the [list of available](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932842461581-Use-the-Library-for-Dashboards) dashboards.
 3. Select Share Dashboard icon. The **Share [Dashboard Name]** work area opens with a **Select Users** work area visible. In a multi-tenant environment, several tabbed work areas are shown: **Select Users**, **Select Groups**, and **Share with everyone**.
 
-   ![Share Dashboards work area](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167331255437 "Share Dashboards work area")
+   ![Share Dashboards work area](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373757291789 "Share Dashboards work area")
 4. Select and add users using the work area.
 5. Enter a full or partial user or group name in the search field to find and select existing users and groups.
 

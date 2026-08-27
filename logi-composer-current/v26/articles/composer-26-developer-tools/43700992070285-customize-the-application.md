@@ -4,7 +4,7 @@ id: 43700992070285
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700992070285-Customize-the-Application
-updated_at: 2026-05-29T14:11:37Z
+updated_at: 2026-08-26T07:10:46Z
 ---
 
 # Customize the Application
@@ -23,10 +23,10 @@ You can customize the Composer application title. The application title is displ
 
    **Note:** 
    The default **supervisor** user is no longer installed; add users to the **Supervisors** group instead.
-2. Select **Customize UI** on the [supervisor menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701139705997-The-Composer-Supervisor-Menu) (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46243348485901)). The Customize UI page appears.
+2. Select **Tools > Customize UI** from the Administration menu. The Customize UI work area opens.
 3. Under Application, locate the **Page Title** box. Specify a new title in the box. By default, the title is set to Composer.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242754633101)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418008730253)
 4. Select **Save** to save and apply your changes.
 
 ## Customize the Application Favicon
@@ -39,7 +39,7 @@ You can customize the favicon used by the Composer application. The favicon is d
 
    **Note:** 
    The default **supervisor** user is no longer installed; add users to the **Supervisors** group instead.
-2. Select **Customize UI** from the menu (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46243348485901)). The Customize UI page appears.
+2. Select **Tools > Customize UI** from the Administration menu. The Customize UI work area opens.
 3. Under Application, locate the **Favicon** box. Select **Browse** to browse for and select a new icon. The icon must be in `.ico` format with a recommended size of 32 x 32 pixels.
 
    The selected icon is rendered on the Customize UI page after it is selected.
@@ -57,10 +57,10 @@ A custom CSS file can be uploaded to modify the default Composer skin.
 
    **Note:** 
    The default **supervisor** user is no longer installed; add users to the **Supervisors** group instead.
-2. Select **Customize UI** from the menu (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46243348485901)). The Customize UI page appears.
+2. Select **Tools > Customize UI** from the Administration menu. The Customize UI work area opens.
 3. Under Application, locate the **Custom CSS** box. Select **Browse** to browse for and select a CSS file.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242754633101)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418008730253)
 4. Select **Save** to save and apply your changes.
 
 ## Upload a Custom JS File
@@ -73,8 +73,8 @@ A custom JavaScript (`.js`) file can be uploaded to include on every page of the
 
    **Note:** 
    The default **supervisor** user is no longer installed; add users to the **Supervisors** group instead.
-2. Select **Customize UI** on the [supervisor menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701139705997-The-Composer-Supervisor-Menu) (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46243348485901)). The Customize UI page appears.
+2. Select **Tools > Customize UI** from the Administration menu. The Customize UI work area opens.
 3. Under Application, locate the **Custom JS** box. Select **Browse** to browse for and select a JavaScript file.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242754633101)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418008730253)
 4. Select **Save** to save and apply your changes.

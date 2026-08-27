@@ -4,7 +4,7 @@ id: 34933097277069
 section: "Composer 25 Reference Information"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933097277069-Composer-Log-Files-Reference
-updated_at: 2026-05-26T22:07:53Z
+updated_at: 2026-08-24T20:31:09Z
 ---
 
 # Composer Log Files Reference

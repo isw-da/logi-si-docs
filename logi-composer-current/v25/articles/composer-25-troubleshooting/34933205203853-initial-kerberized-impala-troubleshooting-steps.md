@@ -4,7 +4,7 @@ id: 34933205203853
 section: "Composer 25 Troubleshooting"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933205203853-Initial-Kerberized-Impala-Troubleshooting-Steps
-updated_at: 2026-05-26T22:08:26Z
+updated_at: 2026-08-24T20:31:32Z
 ---
 
 # Initial Kerberized Impala Troubleshooting Steps
@@ -23,6 +23,6 @@ After configuring Composer to connect to a kerberized Impala data source per [Co
   2. Download the archive `jce_policy-8.zip`.
   3. Extract the `jce/local_policy.jar` and `jce/US_export_policy.jar` files from the archive to the appropriate directory. Overwrite the files already present in the directory.
 
-     + Linux: `/opt/zoomdata/jre/lib/security/`
-     + Windows: `<install-path>/jre/lib/security/`
+     * Linux: `/opt/zoomdata/jre/lib/security/`
+     * Windows: `<install-path>/jre/lib/security/`
   4. Restart Composer.

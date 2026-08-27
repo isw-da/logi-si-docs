@@ -4,7 +4,7 @@ id: 34932903743117
 section: "Manipulate Data In The Composer 25 Data Store"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932903743117-Interpolation-for-User-Attributes-in-Expressions
-updated_at: 2026-05-26T22:07:06Z
+updated_at: 2026-08-24T20:30:13Z
 ---
 
 # Interpolation for User Attributes in Expressions
@@ -43,8 +43,8 @@ You need to keep several limitations in mind when writing an expression.
 * The data type of the whole expression must not change based on the substituted value. For example, if your expression returns a `NUMBER` value, it must do so if it uses the user attribute value or the default value. If your expression doesn't do this, an error is returned.
 * A type of expression used can't be changed.
 
-  + If you create a row-level expression, such as a derived field, the result should remain a row-level expression.
-  + If you create an aggregate-level expression, such as a custom metric, the result should remain an aggregate-level expression.
+  * If you create a row-level expression, such as a derived field, the result should remain a row-level expression.
+  * If you create an aggregate-level expression, such as a custom metric, the result should remain an aggregate-level expression.
 * Secure user attributes can't be used; when an attribute is marked as secure, the default value is substituted by Logi Composer instead.
 
 ## Interpolation in Expressions - Default Values

@@ -4,7 +4,7 @@ id: 34932690166541
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932690166541-Connections-Page
-updated_at: 2026-05-26T22:10:17Z
+updated_at: 2026-08-24T20:33:37Z
 ---
 
 # Connections Page
@@ -19,7 +19,7 @@ You must be logged in as a user with the [group privilege](https://logi-composer
 **Access the Connections page**
 
 1. Log in as an administrator or as a user with the **Manage Connections** [privilege](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932577846157-Group-Privilege-Reference).
-2. Select **Connections** on the [top-level navigation banner](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933120256397-The-Top-Level-Navigation-Banner) or the [UI menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167988455693)) or select the **Connections** box on the [Home](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933063528717-Home-Page) [page](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933063528717-Home-Page).
+2. Select **Connections** on the [top-level navigation banner](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933120256397-The-Top-Level-Navigation-Banner) or the [UI menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374851286413)) or select the **Connections** box on the [Home](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933063528717-Home-Page) [page](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933063528717-Home-Page).
     The Connections page appears.
 
 The Connections page shows a table listing all the connection definitions available. Several of these columns can be used to sort the list: select the column header to sort first to last and again to sort last to first. You can search for items by the contents of several columns. See [Search and Filter Lists](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932690388621-Search-and-Filter-Lists).

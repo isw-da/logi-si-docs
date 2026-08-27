@@ -4,7 +4,7 @@ id: 34933120256397
 section: "Composer 25 Reference Information"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933120256397-The-Top-Level-Navigation-Banner
-updated_at: 2026-05-26T22:09:18Z
+updated_at: 2026-08-24T20:32:27Z
 ---
 
 # The Top-Level Navigation Banner
@@ -13,7 +13,7 @@ updated_at: 2026-05-26T22:09:18Z
 
 The top-level navigation banner appears in the Composer UI when you are logged in as a user. This menu provides easy access to connection definitions, data source configuration definitions, and the dashboards in the UI. It looks like this:
 
-![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167113921421)
+![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373332443917)
 
 Each option is described in the following table.
 

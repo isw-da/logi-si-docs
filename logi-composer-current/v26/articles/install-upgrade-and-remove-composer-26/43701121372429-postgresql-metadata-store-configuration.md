@@ -1,10 +1,10 @@
 ---
-title: "PostgreSQL\u00a0Metadata Store Configuration"
+title: "PostgreSQL Metadata Store Configuration"
 id: 43701121372429
 section: "Install, Upgrade, and Remove Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701121372429-PostgreSQL-Metadata-Store-Configuration
-updated_at: 2026-05-29T14:08:56Z
+updated_at: 2026-08-26T07:11:08Z
 ---
 
 # PostgreSQL Metadata Store Configuration
@@ -13,8 +13,8 @@ updated_at: 2026-05-29T14:08:56Z
 
 * [Internal PostgreSQL Metadata Store](#Internal)
 
-  + [Configuring Credentials](#Configur)
-  + [Reusing Existing Internal Metadata Database for New Release](#Reusing)
+  * [Configuring Credentials](#Configur)
+  * [Reusing Existing Internal Metadata Database for New Release](#Reusing)
 * [External PostgreSQL Metadata Store](#External)
 
 Composer stores its metadata in a PostgreSQL database. The Helm chart lets you customize the location of the metadata store database. You have two options:

@@ -4,7 +4,7 @@ id: 34932922987533
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932922987533-Apply-a-Row-Level-Filter-to-a-Dashboard
-updated_at: 2026-05-26T22:09:30Z
+updated_at: 2026-08-24T20:32:41Z
 ---
 
 # Apply a Row-Level Filter to a Dashboard
@@ -15,11 +15,11 @@ When all the visuals in a dashboard use data from the same data source, you can 
 
 **Apply a row-level filter to a dashboard**
 
-1. Select the filter icon ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167891734285) on the dashboard (to the left of the dashboard title). The dashboard-level filter icon is available only when all the visuals are from the same data source.
+1. Select the filter icon ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374787240589) on the dashboard (to the left of the dashboard title). The dashboard-level filter icon is available only when all the visuals are from the same data source.
 
    The Dashboard Filters sidebar appears showing any dashboard filters that have been applied.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167215350285)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373469631757)
 
    Two tabs are available on the Dashboard Filters sidebar, allowing you to create a row-level filter or a saved filter. If these tabs do not appear, select **Add Filter** to see them.
 
@@ -33,5 +33,5 @@ When all the visuals in a dashboard use data from the same data source, you can 
    * If you select a numeric field, see [Set a Numeric Field Filter](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932957895565-Set-a-Numeric-Field-Filter).
    * If you select a time field, see [Set a Time Field Filter](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932958685197-Set-a-Time-Field-Filter).
 
-   You can also select the add icon ![add icon](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167903098765 "add icon") to access the [Derived Field Editor](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932882620813-Derived-Field-Editor) or the [Custom Metrics Editor](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932820475405-Custom-Metrics-Editor) to create or modify derived fields and custom metrics to be used as filters. See [Access the Derived Field Editor from the Filters Sidebar](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932881853581-Access-the-Derived-Field-Editor-from-the-Filters-Sidebar) and [Access the Custom Metrics Editor from the Filters Sidebar](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932813600525-Access-the-Custom-Metrics-Editor-from-the-Filters-Sidebar).
+   You can also select the add icon ![add icon](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374801026573 "add icon") to access the [Derived Field Editor](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932882620813-Derived-Field-Editor) or the [Custom Metrics Editor](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932820475405-Custom-Metrics-Editor) to create or modify derived fields and custom metrics to be used as filters. See [Access the Derived Field Editor from the Filters Sidebar](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932881853581-Access-the-Derived-Field-Editor-from-the-Filters-Sidebar) and [Access the Custom Metrics Editor from the Filters Sidebar](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932813600525-Access-the-Custom-Metrics-Editor-from-the-Filters-Sidebar).
 3. After the filter specifics have been defined, select **Continue**. The filter is applied to all the visuals in the dashboard. Note that a number appears in a green circle next to the filter icon on the visuals to which the filter has been applied. The number represents the number of filters applied to the visual. After confirming your changes, select **Apply**.

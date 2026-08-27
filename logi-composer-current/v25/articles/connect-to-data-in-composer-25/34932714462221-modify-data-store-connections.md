@@ -4,7 +4,7 @@ id: 34932714462221
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932714462221-Modify-Data-Store-Connections
-updated_at: 2026-05-26T22:10:17Z
+updated_at: 2026-08-24T20:33:39Z
 ---
 
 # Modify  Data Store Connections
@@ -19,11 +19,11 @@ You must be logged in as an administrator or as a user with the [group privilege
 **Modify a data store connection definition:**
 
 1. Make sure you are logged in as a user with the [group privilege](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932577846157-Group-Privilege-Reference) **Manage Connections**.
-2. Select **Connections** on the [top-level navigation banner](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933120256397-The-Top-Level-Navigation-Banner) or the [UI menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167964982413)) or select the **Connections** option on the [Home page](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933063528717-Home-Page). The [Connections page](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932690166541-Connections-Page) appears. Search the list to locate the data store connection definition you want to modify. See [Search and Filter Lists](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932690388621-Search-and-Filter-Lists).
+2. Select **Connections** on the [top-level navigation banner](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933120256397-The-Top-Level-Navigation-Banner) or the [UI menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374914117261)) or select the **Connections** option on the [Home page](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933063528717-Home-Page). The [Connections page](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932690166541-Connections-Page) appears. Search the list to locate the data store connection definition you want to modify. See [Search and Filter Lists](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932690388621-Search-and-Filter-Lists).
 
    The Connections page lists the data store connections you have defined and identifies how many data source configurations each connection uses.
 3. Select the data store connection definition you want to modify. The **Connection Details** tab opens.
-4. Select the edit icon ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167959627021) next to the name at the top of the page to change the name of this connection. The field is now editable.
+4. Select the edit icon ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374914121485) next to the name at the top of the page to change the name of this connection. The field is now editable.
 
    Change the name and select **Save**.
 5. Use the fields on the Connection Details tab to alter the URL and other connection details and, if applicable, the authentication credentials (**User Name** and **Password** fields) required to connect to the data store. Any connection requirements for a specific data store are described in the connector documentation for that data store. See the [Data Connector Reference](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933117968525-Data-Connector-Reference).

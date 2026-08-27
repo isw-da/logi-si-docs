@@ -4,7 +4,7 @@ id: 34932950694029
 section: "Embed Composer Dashboards Into Applications Using Composer"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932950694029-Token-Related-Configuration-Properties
-updated_at: 2026-05-26T22:07:15Z
+updated_at: 2026-08-24T20:30:24Z
 ---
 
 # Token-Related Configuration Properties

@@ -4,7 +4,7 @@ id: 43700956182925
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700956182925-Manage-Composer-Tenants
-updated_at: 2026-05-29T14:07:03Z
+updated_at: 2026-08-26T07:11:44Z
 ---
 
 # Manage Composer Tenants
@@ -17,6 +17,14 @@ Use tenants to separate resources as necessary. Assign users to multiple tenants
 
 **Note:** 
 The default **supervisor** user is no longer installed; add users to the **Supervisors** group instead.
+
+## How Tenants Differ from Groups
+
+You can create and use [groups](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701035505293-Manage-User-Groups) in your environment in the default tenant, Visual Data Discovery, to give users different rights, privileges, and access to specific resources.
+
+You can [create additional tenants](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701020823181-Add-and-Remove-Tenants) to further separate users and resources, and use [groups](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701035505293-Manage-User-Groups) within each tenant to give users different rights, privileges, and access to specific resources. Multiple tenant environments can be run within one organization for intentional user experience silos, or to support multiple, separate user experience silos across multiple organizations.
+
+When a [system administrator](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701036219149-Supplied-Users-and-User-Groups#The2) or a tenant administrator creates a user within a tenant, the Login Name is checked against the list of all users across all tenants in the Composer instance. If a user account with that Login Name exists in the Visual Data Discovery tenant or any other tenant, an error message is returned indicating the user account cannot be created. Create the desired user account by selecting another Login Name.
 
 See the following topics:
 

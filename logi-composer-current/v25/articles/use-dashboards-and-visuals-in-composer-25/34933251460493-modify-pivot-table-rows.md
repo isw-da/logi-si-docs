@@ -4,7 +4,7 @@ id: 34933251460493
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933251460493-Modify-Pivot-Table-Rows
-updated_at: 2026-05-26T22:09:06Z
+updated_at: 2026-08-24T20:32:15Z
 ---
 
 # Modify Pivot Table Rows
@@ -17,17 +17,17 @@ updated_at: 2026-05-26T22:09:06Z
 2. If you are editing the visual in a dashboard, select **Settings** from the [visual drop-down menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933290868621-Use-the-Visual-Menu). The [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu) for the visual appears.
 
    If you are editing the visual from the Visual Gallery, the sidebar appears to the right of the visual.
-3. Select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167807676045) on the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu). The Pivot Table Settings sidebar for the visual appears.
+3. Select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374715046669) on the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu). The Pivot Table Settings sidebar for the visual appears.
 
-   ![Use this area to define row groups, column groups, metrics, totals, and display settings](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167818704397 "Pivot Table settings work area")
+   ![Use this area to define row groups, column groups, metrics, totals, and display settings](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374669060237 "Pivot Table settings work area")
 4. To modify the rows in the pivot table:
 
-   * Select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167008020621) in the Rows area of the Pivot Table Settings sidebar. The sidebar changes to show all the possible rows for the table.
+   * Select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373107898509) in the Rows area of the Pivot Table Settings sidebar. The sidebar changes to show all the possible rows for the table.
    * Select the rows you want to add and clear the ones you want to remove. If you want to select all the rows, select **Select All**.
 
      Use the search bar to search for a field in the table. Use the buttons under the search bar to limit the fields you see in the list.
 
-     ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167818705933)
+     ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374715047693)
 
      | Select | To |
      | --- | --- |

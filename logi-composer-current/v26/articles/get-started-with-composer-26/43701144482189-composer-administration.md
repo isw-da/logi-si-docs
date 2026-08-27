@@ -4,7 +4,7 @@ id: 43701144482189
 section: "Get Started With Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701144482189-Composer-Administration
-updated_at: 2026-05-29T14:09:14Z
+updated_at: 2026-08-26T07:11:01Z
 ---
 
 # Composer Administration
@@ -34,7 +34,7 @@ If you would like to use another PostgreSQL instance, contact [Technical Support
 
 You do other tasks only as needed.
 
-* Configure a [high availability](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701105065613-Configure-a-High-Availability-Environment) environment.
+* Configure a [high availability](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701072400141-Configure-a-High-Availability-Environment) environment.
 * [Manage connectors](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701042404749-Manage-Connectors-and-Connector-Servers) and [data source configurations](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701068934669-Manage-Data-Sources).
 * [Create custom metrics and derived fields](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701030223373--Maintain-Custom-Metrics).
 * Manage [tenants](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700956182925-Manage-Composer-Tenants), [groups](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701035505293-Manage-User-Groups),and [users](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701051820941-Manage-Users).
@@ -42,6 +42,6 @@ You do other tasks only as needed.
 * [Start](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701119873037-About-Microservices#Start) and [stop](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701119873037-About-Microservices#Stop) the Composer microservices.
 * [Uninstall Composer.](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701120892685-Uninstall-Composer)
 
-You'll need to do some maintenance tasks at regular intervals.
+you will need to do some maintenance tasks at regular intervals.
 
 * [Review activity logs](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701136219917-Manage-Activity-Logs).

@@ -4,7 +4,7 @@ id: 43701113495693
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701113495693-Data-Connector-Reference
-updated_at: 2026-05-29T14:09:11Z
+updated_at: 2026-08-26T07:11:55Z
 ---
 
 # Data Connector Reference
@@ -27,6 +27,7 @@ Composer data connectors are used to connect to your data stores. Each data conn
 | [Cloudera Search](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701009985933-Manage-the-Cloudera-Search-Connector) | `zoomdata-edc-cloudera-search` | 4.10 - 7.4 | 8201 |  |
 | [Couchbase](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701040183821-Manage-the-Couchbase-Connector) | `zoomdata-edc-couchbase` | 6.0.1 | 8138 | Includes Couchbase Community Edition 6.0.0. |
 | [Dremio](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701043446285-Manage-the-Dremio-Connector) | `zoomdata-edc-dremio` | 4.1 through 4.8 | 8142 |  |
+| [Dundas BI (formerly Managed) Connector](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/47441922925197-Manage-the-Dundas-BI-Managed-Connector) | `zoomdata-edc-managed` | Dundas BI 26.2 and later | 8013\* | \*The default port is 8013, or depending on your configuration, set to 8080. Verify the exact port in use in the environment hosting the data source.  The user interface to interact with this connector must be enabled. See [Server-Level Variables](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701053868173-Server-Level-Variables). |
 | [Elasticsearch 7.0](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701025911309-Manage-the-Elasticsearch-Connector) | `zoomdata-edc-elasticsearch-7.0` | 7.0 - 7.17 | 8139 |  |
 | [Elasticsearch 8.0](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701025911309-Manage-the-Elasticsearch-Connector) | `zoomdata-edc-elasticsearch-8-0` | 8.1 - 8.3 | 8147 |  |
 | [HDFS](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700995161101-Manage-the-HDFS-Connector) | `zoomdata-edc-hdfs` |  | 8126 | Separate download. |

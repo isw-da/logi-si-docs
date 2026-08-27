@@ -4,7 +4,7 @@ id: 43701010802957
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701010802957-Support-of-X-Pack-for-Elasticsearch
-updated_at: 2026-05-29T14:07:45Z
+updated_at: 2026-08-26T07:09:11Z
 ---
 
 # Support of X-Pack for Elasticsearch
@@ -73,7 +73,7 @@ To download and enable the transport-required libraries:
 
    **Note:** insightsoftware discourages changing properties in the `/opt/zoomdata/conf` directory (Linux) or `<install-path>/conf` (Windows). Copy the files you want to change to the `/etc/zoomdata` directory (Linux) or `<install-path>/conf-modify` (Windows) and change them there. This will ensure that your changes are not overwritten when Composer is next upgraded.
 
-   Quickly determine what changes you've made to a properties file using `diff` in Linux. For example:
+   Quickly determine what changes you have made to a properties file using `diff` in Linux. For example:
 
    diff /opt/zoomdata/conf/edc-<connector-name>.properties /etc/zoomdata/<edc-<connector-name>.properties
 

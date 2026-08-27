@@ -4,7 +4,7 @@ id: 34932814514061
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932814514061-Import-Dashboards
-updated_at: 2026-05-26T22:10:00Z
+updated_at: 2026-08-24T20:33:12Z
 ---
 
 # Import  Dashboards
@@ -21,7 +21,7 @@ updated_at: 2026-05-26T22:10:00Z
 
    The Import Dashboards dialog populates with information about the objects that make up your dashboards and the settings you can use to define how your software inserts each object.
 
-   ![Use this work are to define what JSON file to import, for which tenants, using what insertion strategies, matching strategies, tags, and access levels](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167396111117 "Import Dashboards work area with JSON file selected")
+   ![Use this work are to define what JSON file to import, for which tenants, using what insertion strategies, matching strategies, tags, and access levels](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373762334989 "Import Dashboards work area with JSON file selected")
 5. Add and remove tenants by selecting the **Tenants** field. Add or remove them from the list or field.
 
    **Note:** Only system admins or members of the Content Distributors group see the Tenants field. If this field is not shown, the content is imported into the tenant you are currently working in.

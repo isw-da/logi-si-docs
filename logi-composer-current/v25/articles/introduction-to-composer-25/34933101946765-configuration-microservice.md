@@ -4,7 +4,7 @@ id: 34933101946765
 section: "Introduction to Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933101946765-Configuration-Microservice
-updated_at: 2026-05-26T22:07:43Z
+updated_at: 2026-08-24T20:30:57Z
 ---
 
 # Configuration Microservice

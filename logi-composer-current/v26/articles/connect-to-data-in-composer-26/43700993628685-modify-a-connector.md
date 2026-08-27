@@ -4,7 +4,7 @@ id: 43700993628685
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700993628685-Modify-a-Connector
-updated_at: 2026-05-29T14:07:30Z
+updated_at: 2026-08-26T07:11:30Z
 ---
 
 # Modify a Connector

@@ -4,7 +4,7 @@ id: 34933114491533
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933114491533-Configure-an-Advanced-Refresh-Job
-updated_at: 2026-05-26T22:09:12Z
+updated_at: 2026-08-24T20:32:21Z
 ---
 
 # Configure an Advanced Refresh Job
@@ -16,11 +16,11 @@ Using cron expressions, you can specify a more complicated schedule for refresh 
 **Configure an advanced refresh job for a data source configuration using a cron expression**
 
 1. Log in as a user with the **Administer Sources** [privilege](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932577846157-Group-Privilege-Reference), or a user with **read** and **write** [permission](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932915596173-About-Source-Permissions) for the data source.
-2. Select **Sources** on the [UI menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167857761805)). The [Sources](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932895238669-Data-Sources-Page) page appears.
+2. Select **Sources** on the [UI menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374771590285)). The [Sources](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932895238669-Data-Sources-Page) page appears.
 3. On the [Sources](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932895238669-Data-Sources-Page) page, locate and select the data source configuration you want to edit. The Source Creation work area opens.
 4. Select the **Cache** tab, then enable enable **Schedule Refresh Settings** and select **Advanced** in the pop up. The settings work area for an Advanced refresh job appear.
 
-   ![use the work area to scheudule the refresh settings for your data by creating your own Cron Expression](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167091608077 "Schedule Refresh Settings Advanced work area")
+   ![use the work area to scheudule the refresh settings for your data by creating your own Cron Expression](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373221089549 "Schedule Refresh Settings Advanced work area")
 5. In the box provided, enter a cron expression that sets the schedule using a string of six fields, each separated by a blank space. The format for the cron expression is:
 
    <seconds> <minutes> <hours> <days of the month> <months> <days of the week>

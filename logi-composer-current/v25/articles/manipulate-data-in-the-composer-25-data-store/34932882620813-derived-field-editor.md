@@ -4,7 +4,7 @@ id: 34932882620813
 section: "Manipulate Data In The Composer 25 Data Store"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932882620813-Derived-Field-Editor
-updated_at: 2026-05-26T22:09:58Z
+updated_at: 2026-08-24T20:33:14Z
 ---
 
 # Derived Field Editor
@@ -22,7 +22,7 @@ To define derived fields for a data source, you must have:
 
 The Derived Field Editor:
 
-![Build, edit, and test a derived field here](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167317927821 "Derived Field work area")
+![Build, edit, and test a derived field here](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373673947277 "Derived Field work area")
 
 The numbered regions are:
 
@@ -40,14 +40,14 @@ Derived Field Editor Features:
 
   Parts of an expression are highlighted in different colors or with different text treatments:
 
-  + function names, both row level and aggregate
-  + fields and metrics
-  + keywords such as CASE and IN
-  + example parameters
-  + date period constants such as `year`
-  + values such as numbers and `true` or `false`
-  + strings
-  + arithmetic operators such as `+`
+  * function names, both row level and aggregate
+  * fields and metrics
+  * keywords such as CASE and IN
+  * example parameters
+  * date period constants such as `year`
+  * values such as numbers and `true` or `false`
+  * strings
+  * arithmetic operators such as `+`
 
   References to fields that do not exist in the data source or are otherwise not usable in an expression are interpreted as values. These are shown in black, alerting you to possible typos or other issues.
 * Row Level Functions and Fields sections always appear in the Expression Builder.
@@ -61,9 +61,9 @@ Derived Field Editor Features:
 * Composer disables the **Save** button, preventing you from saving a derived field unless it has a successfully run expression.
 * When you close the editor with unsaved changes, Composer displays a confirmation message.
 
-  + Select **Cancel** to continue editing or changing the text of the label for your derived field.
-  + Select **Discard** to discard your changes. If you are editing an existing item, your last saved version remains in Composer.
-  + If you select **Discard** while creating a new expression, Composer returns you to the source work area.
+  * Select **Cancel** to continue editing or changing the text of the label for your derived field.
+  * Select **Discard** to discard your changes. If you are editing an existing item, your last saved version remains in Composer.
+  * If you select **Discard** while creating a new expression, Composer returns you to the source work area.
 
 Access the Derived Field Editor in the following ways:
 

@@ -4,7 +4,7 @@ id: 34933080383501
 section: "Introduction to Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933080383501-Composer-Personas
-updated_at: 2026-05-26T22:07:49Z
+updated_at: 2026-08-24T20:31:04Z
 ---
 
 # Composer Personas
@@ -17,8 +17,8 @@ The successful implementation and use of Composer requires the completion of tas
 * Somebody who manages licensing of the product.
 * One or more people to manage product security, including:
 
-  + Your organization's authentication tools (X.509, SAML, Kerberos, or LDAP) and their integration into Composer
-  + The Composer accounts, users, and groups required by your organization.
+  * Your organization's authentication tools (X.509, SAML, Kerberos, or LDAP) and their integration into Composer
+  * The Composer accounts, users, and groups required by your organization.
 * One or more people to manage configuration of the product. Among other things, configuration can include tasks such as setting up logging, creating and managing custom charts and admin-defined functions, or tailoring the theme and other features of the UI as needed by your organization. Typically, this would be a system developer.
 * Somebody who manages the Composer connectors and connector server definitions needed by Composer for your data stores. This person would also create the Composer connection definitions needed to access those data stores. Typically, this is a database administrator.
 * Somebody to define Composer data source configurations from the data available in your data stores. This person must understand the data in your data stores and how it will be used. They must also understand who should have access to the data in each data source and whether access should be controlled by column or row. This person may be referred to as a *data author*.

@@ -4,7 +4,7 @@ id: 34933277553805
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933277553805-Configure-the-Ruler-Y-Axis-Range-Settings
-updated_at: 2026-05-26T22:08:34Z
+updated_at: 2026-08-24T20:31:40Z
 ---
 
 # Configure the Ruler Y-Axis Range Settings

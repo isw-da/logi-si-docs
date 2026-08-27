@@ -4,14 +4,14 @@ id: 43701020778765
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701020778765-Authorize-Composer-Access
-updated_at: 2026-05-29T14:07:03Z
+updated_at: 2026-08-26T07:11:48Z
 ---
 
 # Authorize Composer Access
 
 # Authorize Composer Access
 
-Your users can access Composer after you've defined their user accounts, added users to groups, and optionally, added users to tenants to grant access to content creation, content management, content access, and use.
+Your users can access Composer after you have defined their user accounts, added users to groups, and optionally, added users to tenants to grant access to content creation, content management, content access, and use.
 
 Composer supports several approaches to authenticating users, including SAML and LDAP. Choose the best approach given your existing constraints and objectives. A complete list of authentication tools supported is provided in [Supported Authentication Tools](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701127697165-Supported-Authentication-Tools).
 

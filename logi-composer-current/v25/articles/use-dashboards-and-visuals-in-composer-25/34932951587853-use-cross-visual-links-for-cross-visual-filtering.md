@@ -4,7 +4,7 @@ id: 34932951587853
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932951587853-Use-Cross-Visual-Links-for-Cross-Visual-Filtering
-updated_at: 2026-05-26T22:09:40Z
+updated_at: 2026-08-24T20:32:53Z
 ---
 
 # Use Cross-Visual Links for Cross-Visual Filtering
@@ -31,7 +31,7 @@ To view the filters applied to a visual, see [Viewing the Applied Filters for a 
 
 1. After cross-visual links are created, select an area of the visual that uses a linked field. The [context menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933236349453-Use-the-Context-Menu) for that area of the visual displays:
 
-   ![Select to filter your data](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167234597133 "The context menu with filter option")
+   ![Select to filter your data](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373476864013 "The context menu with filter option")
 
    **Note:** 
    Filters for cross-source and same-source links must be defined using the [context menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933236349453-Use-the-Context-Menu). You cannot create a link filter from the [Filters sidebar](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932968609677-The-Filters-Sidebar). Filters created from the sidebar apply only to the selected visual. Filters for cross-source and same-source links are called *cross-visual filters* and are listed in the [Filters sidebar](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932968609677-The-Filters-Sidebar) separately from filters that are applied from the Filters sidebar.
@@ -48,7 +48,7 @@ To apply a cross-visual filter from the time bar, a same-source or cross-source 
 
 1. After cross-visual links are created, select the time field in the time bar. The Time Bar dialog appears.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167217260941)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373469910157)
 2. Select the linked time field you have defined in the **Time Attribute** section of the Time Bar dialog.
 3. Select the visuals to which you want the time filter applied in the **Applies to** section. The **Applies to** section lists all the visuals in the dashboard that use data from:
 

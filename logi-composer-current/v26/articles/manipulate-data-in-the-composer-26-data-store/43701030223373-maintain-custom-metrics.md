@@ -4,14 +4,14 @@ id: 43701030223373
 section: "Manipulate Data In The Composer 26 Data Store"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701030223373--Maintain-Custom-Metrics
-updated_at: 2026-05-29T14:08:12Z
+updated_at: 2026-08-26T07:09:42Z
 ---
 
 #  Maintain Custom Metrics
 
 # Maintain Custom Metrics
 
-*Custom metrics*, formerly called *calculations*, serve as additional metrics to use with your visuals to help you analyze your data. When you define a [data source configuration](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701068934669-Manage-Data-Sources), you can create custom metrics for it. After custom metrics are defined, they are listed with the other metrics in your visuals and dashboards that use the data source and can be used just as any other metric.
+*Custom metrics*, formerly called *calculations*, serve as additional metrics to use with your visuals to help you analyze your data. When you define a [data source configuration](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701068934669-Manage-Data-Sources), you can create custom metrics for it. After custom metrics are defined, they are listed with the other metrics in your visuals and dashboards that use the data source and can be used just as any other metric. Access is defined by the[**Edit Calculations** privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference).
 
 You can use custom metrics to aggregate data in different ways, whether from an entire data source or from a selected subset and, as needed, applying arithmetic or trigonometric operators to them. Because a custom metric represents aggregated data, it must be created using an [aggregate function](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701096111373-Supported-Aggregation-Functions). Data can be aggregated on a [column-wide scope](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701095977229-Column-Aggregation-Functions), a [table scope](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701031264653-Table-Aggregation-Functions), or a [window scope](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701079047437-Window-Aggregation-Functions). For more information, see [Supported Aggregation Functions](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701096111373-Supported-Aggregation-Functions).
 

@@ -4,7 +4,7 @@ id: 43701072458637
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701072458637-Add-a-New-Node-to-Existing-Composer-Multi-Node-Deployments
-updated_at: 2026-05-29T14:08:41Z
+updated_at: 2026-08-26T07:11:23Z
 ---
 
 # Add a New Node to Existing Composer Multi-Node Deployments
@@ -14,15 +14,23 @@ updated_at: 2026-05-29T14:08:41Z
 ## Environment Prerequisites
 
 * You must have previously configured your Composer multi-node deployment. `zoomdata-consul` and `postgresql`, configured as clusters external to the nodes, must be configured to accept incoming connections.
-  + See <https://www.consul.io/commands/join> (`zoomdata-consul join <ip-address>`).
-  + See <https://www.postgresql.org/docs/12/high-availability.html>.
+  * See <https://www.consul.io/commands/join> (`zoomdata-consul join <ip-address>`).
+  * See <https://www.postgresql.org/docs/12/high-availability.html>.
 * You must have Linux machines where additional Composer components will be installed.
 
 ## Node Installation and Configuration
 
 Each process described here must be performed on each additional node of your Composer multi-node deployment.
 
-### Install A Java 17 Distribution
+### Install A Java 21 Distribution (v26.2 and later)
+
+Supported options include:
+
+* Oracle: [download here](https://www.oracle.com/java/technologies/downloads/#java21)
+* OpenJDK: [download here](https://openjdk.org/projects/jdk/21/)
+* AWS Corretto: [download here](https://docs.aws.amazon.com/corretto/latest/corretto-21-ug/downloads-list.html)
+
+### Install A Java 17 Distribution (Earlier Releases)
 
 Supported options include:
 
@@ -32,11 +40,11 @@ Supported options include:
 
 ### Add an OS Package Repository
 
-You'll need to include an OS package repository of your version of Composer.
+you will need to include an OS package repository of your version of Composer.
 
 **CentOS/RHEL**`/etc/yum.repos.d/zoomdata.repo`
 
-**Note:** `<COMPOSER-VERSION` must be replaced by the same trunk version (such as 22.4 or 23.2) as your other Composer cluster nodes are equipped with. `RHEL-RELEASE` must be replaced by the supported version of CentOS/RHEL.
+**Note:** `<COMPOSER-VERSION` must be replaced by the same trunk version (such as 25.4 or 26.2) as your other Composer cluster nodes are equipped with. `RHEL-RELEASE` must be replaced by the supported version of CentOS/RHEL.
 
 [zoomdata-stable]
 baseurl=https://composer-repo.logianalytics.com/<COMPOSER-VERSION>/yum/redhat/<RHEL-RELEASE>/x86\_64/stable
@@ -53,7 +61,7 @@ enabled=1
 
 **Ubuntu**`/etc/apt/sources.list.d/zoomdata.list`
 
-**Note:** `<COMPOSER-VERSION` must be replaced by the same trunk version (such as 6.9 or 7.10) as your other Composer cluster nodes are equipped with. `UBUNTU-CODENAME` must be replaced by one of the supported versions of Ubuntu.
+**Note:** `<COMPOSER-VERSION` must be replaced by the same trunk version (such as 25.4 or 26.2) as your other Composer cluster nodes are equipped with. `UBUNTU-CODENAME` must be replaced by one of the supported versions of Ubuntu.
 
 **Important:** Call `apt update` after adding the additional repository list.
 

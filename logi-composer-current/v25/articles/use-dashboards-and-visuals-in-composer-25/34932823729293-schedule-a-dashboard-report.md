@@ -4,7 +4,7 @@ id: 34932823729293
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932823729293-Schedule-a-Dashboard-Report
-updated_at: 2026-05-26T22:09:59Z
+updated_at: 2026-08-24T20:33:13Z
 ---
 
 # Schedule a Dashboard Report
@@ -18,9 +18,9 @@ Logi Composer sends dashboard reports to you and/or other persons you want, on a
 1. Log into as an administrator or a user with the **Create Scheduled Reports** [privilege](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932577846157-Group-Privilege-Reference).The [Home page](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933063528717-Home-Page) opens.
 2. Select **Library** on the [top-level navigation banner,](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933120256397-The-Top-Level-Navigation-Banner) or select **Dashboard** on the [Home page](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933063528717-Home-Page). The [library](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932842461581-Use-the-Library-for-Dashboards) opens, displaying dashboards in a table (list) format.
 3. Locate the dashboard you want.
-4. Select the schedule icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167925195277)) in the associated **Schedule** column. The Scheduled Reports work area opens. Any defined scheduled reports are listed on the left side of the work area.
+4. Select the schedule icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374794006925)) in the associated **Schedule** column. The Scheduled Reports work area opens. Any defined scheduled reports are listed on the left side of the work area.
 
-   ![Use this work area to schedule dashboard reports](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167947366797 "Scheduled Reports dialog")
+   ![Use this work area to schedule dashboard reports](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374858296461 "Scheduled Reports dialog")
 
    * If there are no schedules defined for this dashboard, select **New Schedule** to create a new schedule.
 

@@ -4,7 +4,7 @@ id: 34933145790093
 section: "Logi Composer  25 Release Notes Overview"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933145790093-Removed-Features
-updated_at: 2026-05-26T22:08:37Z
+updated_at: 2026-08-24T20:31:43Z
 ---
 
 # Removed Features
@@ -17,6 +17,8 @@ The following features have been removed from Composer. These features were depr
 
 | Title | Description |
 | --- | --- |
+| **25.4.5 Removed Features** | |
+| None. |  |
 | **25.4.4 Removed Features** | |
 | None. |  |
 | **25.4.3 Removed Features** | |

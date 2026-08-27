@@ -4,7 +4,7 @@ id: 34932853898637
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932853898637-Apply-Hierarchical-Filters-to-a-Pivot-Table-Visual
-updated_at: 2026-05-26T22:09:41Z
+updated_at: 2026-08-24T20:32:52Z
 ---
 
 # Apply Hierarchical Filters to a Pivot Table Visual
@@ -24,7 +24,7 @@ Hierarchical fields are enabled by default at the server level. Work with [Techn
 
    If you select the Operator **includes**, Composer selects data for nodes equal to the selected node, and its descendants. You can select multiple nodes in a hierarchical filter, and optionally deselect child nodes.
 
-   ![Select a node to filter your hierarchical data](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167317756685 "Select Values work area")
+   ![Select a node to filter your hierarchical data](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373645915021 "Select Values work area")
 4. Select one or more nodes to filter your data. At least one filter value is required.
 
    * Use the **Search** box to find specific nodes.

@@ -4,7 +4,7 @@ id: 34933077179789
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933077179789-Add-a-Materialized-View-Definition
-updated_at: 2026-05-26T22:09:22Z
+updated_at: 2026-08-24T20:32:29Z
 ---
 
 # Add a Materialized View Definition
@@ -27,7 +27,7 @@ Pre-aggregated data is not managed by Composer, so it should be maintained manua
 2. List the materialized views for the data source to which you want to add a materialized view. See [List Materialized View Definitions](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933057267725-List-Materialized-View-Definitions).
 3. Select **Add View**. The **New Materialized View (External)** dialog appears. This dialog is used to identify where the aggregated result from a query is stored so it can be quickly recalled in visuals.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167126795533)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373335400973)
 4. Specify a name for the materialized view in the **Name** field. This is required.
 5. Select an external target connection in the **Target Connection** field. This is required. The connections listed for this field match the list of connections defined for the Composer instance. The target connection is not required to be the same as the connection of the data source; it can be any other connection configured in Composer.
 
@@ -39,7 +39,7 @@ Pre-aggregated data is not managed by Composer, so it should be maintained manua
 7. Optionally supply a description in the **Description** field.
 8. Select **Add Count** to open the Select Count work area. Select a source field in the Source Metric list and a Target Column to list which source field should be used, then select **Apply** to apply your changes.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167126994573)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373325770765)
 9. Select **Add Metrics** to add metrics to your materialized view definition. The Count metric must be added because it is required. Other metrics are optional, but must match the metrics used in your visuals.
 
    **Note:** 
@@ -47,7 +47,7 @@ Pre-aggregated data is not managed by Composer, so it should be maintained manua
 
    The Select Metric dialog appears.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167151678989)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373355698573)
 
    Select a source field in the Source Metric list and a target column in the Target Column list to which the source field should be mapped. Aggregated data for the source field will be taken from the target column to provide the results of the query.
 
@@ -71,7 +71,7 @@ Pre-aggregated data is not managed by Composer, so it should be maintained manua
 
     The Select Group dialog appears.
 
-    ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167143444621)
+    ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373347595661)
 
     Select a source field in the Source Column list and a target column in the Target Column list to which the source field should be mapped. Aggregated data for the source field will be taken from the target column to provide the results of the query.
 
@@ -82,11 +82,11 @@ Pre-aggregated data is not managed by Composer, so it should be maintained manua
 
     The Select Field dialog appears.
 
-    ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167143647245)
+    ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373326528269)
 
     * Select a source field for the filter. Use the search box at the top of the list to quickly locate a source field in the list. The Select Values dialog appears.
 
-      ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167159039501)
+      ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373348027661)
     * Select an operator for the filter in the Operator drop-down menu.
     * Optionally enter a custom value in the Customize field. The field name you supply is added and selected in the value list on the dialog.
     * Select one or more values in the value list. Use the search box at the top of the list to quickly locate a value in the list.

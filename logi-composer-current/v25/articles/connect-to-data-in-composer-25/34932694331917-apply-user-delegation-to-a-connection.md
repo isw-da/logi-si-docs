@@ -4,7 +4,7 @@ id: 34932694331917
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932694331917-Apply-User-Delegation-to-a-Connection
-updated_at: 2026-05-26T22:10:14Z
+updated_at: 2026-08-24T20:33:35Z
 ---
 
 # Apply User Delegation to a Connection
@@ -18,7 +18,7 @@ Supervisors group members [enables user delegation](https://logi-composer-v25.in
 
 User delegation processing is depicted in the following diagram.
 
-![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167374900493)
+![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373947884301)
 
 User delegation occurs in this manner:
 
@@ -27,7 +27,7 @@ User delegation occurs in this manner:
    The Composer custom user attribute is referenced by its name, prefaced by the word `User`. For example, if your Composer custom user attribute is named `XXXUserName`, you would reference it as `User.XXXUserName`.
 2. The Composer administrator references the custom user attribute in the appropriate data source connection definition using the connection's **Do As User** box. For example:
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167452813837)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373969270157)
 3. When a user submits a query using the data source, the Composer connector sends the user identified by the **Do As User** parameter (or as interpreted by the setting in that parameter) to the data store when it connects on behalf of the query.
 
    Assuming user proxy (user delegation) features are set up properly on the data store, the data store runs the query on behalf of the user. For information on setting up user proxy, user impersonation, or user delegation features in each data store, see the following links.

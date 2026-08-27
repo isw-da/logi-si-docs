@@ -4,7 +4,7 @@ id: 43701101615373
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701101615373-About-Source-Permissions
-updated_at: 2026-05-29T14:08:27Z
+updated_at: 2026-08-26T07:09:45Z
 ---
 
 # About Source Permissions
@@ -14,14 +14,13 @@ updated_at: 2026-05-29T14:08:27Z
 As a Composer user assigned to a group with the **Administer Sources** [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference) or with the **Manage Source Permissions** [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference), you can enable users to work with data sources by enabling **Data Access**, **Read**, **Write**, and **Delete** permissions for sources.
 
 **Note:** 
-If you try to delete a visual, filter snippet, dashboard, dashboard link, source, or source field, Composer displays an error message naming any objects dependent on the item you’re trying to delete. You can delete the item after you’ve removed the association from the dependent object.
-See[Fields Usage](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701095792013-Fields-Usage).
+If you try to delete a visual, filter snippet, dashboard, self service report, dashboard link, source, or source field, Composer displays an error message naming any objects dependent on the item you’re trying to delete. You can delete the item after you’ve removed the association from the dependent object. See [Fields Usage](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701095792013-Fields-Usage).
 
 Users who create a data source can always modify or remove it, unless their permissions are revoked. Users who belong to a group with the **Administer Sources** [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference) enabled have **Data Access**, **Read**, **Write**, and **Delete** permissions for any source in Composer.
 
 You can grant data source access to users who do not belong to a group with [privileges](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference) enabled by defining **Data Access**, **Read**, **Write**, and **Delete** permissions for individual sources.
 
-**Data Access** is a separate permission for sources. It can be set directly on sources for users, groups, and tenants, and is enabled for users, groups, and tenants when you assign **Read** permission for a visual that uses that source. Unless they are granted Read permission to the source as well, they can't see the source listed on the Source page, or select the source to create a new visual (for users with the **Create Visuals** or **Administer Visuals** [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference)).
+**Data Access** is a separate permission for sources. It can be set directly on sources for users, groups, and tenants, and is enabled for users, groups, and tenants when you assign **Read** permission for a visual that uses that source. Unless they are granted Read permission to the source as well, they can not see the source listed on the Source page, or select the source to create a new visual (for users with the **Create Visuals** or **Administer Visuals** [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference)).
 
 #### Privilege Considerations
 
@@ -34,7 +33,7 @@ To manage permission settings for a source, a user must meet **one** of the foll
   In addition, you may be restricted in which permissions you can assign. You can only assign permissions equivalent to your own. For example, if your user account has read permission for a source, you can grant and revoke the read option available on the Source Permissions panel. If you have write permission for a source, you can grant and revoke the write option on the Source Permissions panel.
 
   **Note:** 
-  If your user account does not have read permission for a source, you can't see the source on the Sources page.
+  If your user account does not have read permission for a source, you can not see the source on the Sources page.
 
 Source permissions are determined using a most permissive model. For more information, see [How Source Permissions Are Determined](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701097731725-How-Source-Permissions-Are-Determined).
 

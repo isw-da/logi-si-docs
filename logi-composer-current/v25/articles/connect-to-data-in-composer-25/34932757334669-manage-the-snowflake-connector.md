@@ -4,7 +4,7 @@ id: 34932757334669
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932757334669-Manage-the-Snowflake-Connector
-updated_at: 2026-05-26T22:06:40Z
+updated_at: 2026-08-24T20:29:41Z
 ---
 
 # Manage the Snowflake Connector
@@ -98,8 +98,8 @@ If connecting using basic authentication, provide:
 * The JDBC URL.
 * Each Snowflake connection you use must be associated with a database.
 
-  + The database can be the one specified in the JDBC URL, or
-  + The default database of the connecting user (if no database is specified in the JDBC URL).
+  * The database can be the one specified in the JDBC URL, or
+  * The default database of the connecting user (if no database is specified in the JDBC URL).
 * The username and password. Only simple username and password authentication is supported.
 
 For connecting via OAuth 2.0, fill in the specific parameters:

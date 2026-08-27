@@ -4,7 +4,7 @@ id: 34932995107213
 section: "Install, Upgrade, and Remove Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932995107213-Configure-a-Composer-Distributed-Environment
-updated_at: 2026-05-26T22:09:25Z
+updated_at: 2026-08-24T20:32:34Z
 ---
 
 # Configure a Composer Distributed Environment
@@ -23,7 +23,7 @@ A metadata store is also needed to store Composer's metadata, application config
 
 The microservices and metadata store are depicted in the following diagram:
 
-![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167174971021)
+![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373374133645)
 
 You have two options for setting up a distributed Composer environment:
 

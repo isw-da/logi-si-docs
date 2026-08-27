@@ -4,7 +4,7 @@ id: 43700988890125
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700988890125-Get-Started-with-the-Composer-Application-Framework
-updated_at: 2026-05-29T14:11:39Z
+updated_at: 2026-08-26T07:10:50Z
 ---
 
 # Get Started with the Composer Application Framework
@@ -46,7 +46,7 @@ Linking the zoomdata-client.js file into your web application gives you access t
 `ZoomdataSDK`
 object. The main purpose of the ZoomdataSDK object is to create a Composer
 client
-for your application. Typically, one Composer client is enough, but if you need to access multiple Composer servers, you'll need one client for each one.
+for your application. Typically, one Composer client is enough, but if you need to access multiple Composer servers, you will need one client for each one.
 
 ## Typical Workflows
 

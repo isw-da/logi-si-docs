@@ -4,7 +4,7 @@ id: 43701037846797
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701037846797-Manage-the-Composer-Query-Engine
-updated_at: 2026-05-29T14:07:23Z
+updated_at: 2026-08-26T07:11:38Z
 ---
 
 # Manage the Composer Query Engine

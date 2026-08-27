@@ -4,7 +4,7 @@ id: 43701097318925
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701097318925-Field-Capabilities
-updated_at: 2026-05-29T14:11:04Z
+updated_at: 2026-08-26T07:12:19Z
 ---
 
 # Field Capabilities
@@ -13,11 +13,11 @@ updated_at: 2026-05-29T14:11:04Z
 
 When you create your source or create fields in a source, Logi Composer defines default field capabilities for your data. You can adjust the predefined capabilities of native and derived fields on the Fields tab of your source, [enabling or disabling capabilities](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701116297741-Update-Field-Capabilities) as needed. If you update a source, any field capabilities you set remain unchanged.
 
-![search and filter your fields, then enable or disable options as needed, including Details, Filtering, Grouping, Metrics, Playing, and Raw Data](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242621402893 "Bulk Update Field Capabilities work area")
+![search and filter your fields, then enable or disable options as needed, including Details, Filtering, Grouping, Metrics, Playing, and Raw Data](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418031113741 "Bulk Update Field Capabilities work area")
 
 Use **Search** to find specific fields by **Label**, or use the provided filtering options to narrow the list of visible fields:
 
-* Filter by data type: Show **All** data type fields: Attribute (**ABC**), Number (**1.23**) or Time (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242632846093)).
+* Filter by data type: Show **All** data type fields: Attribute (**ABC**), Number (**1.23**) or Time (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418001473421)).
 * Filter by type: **All**, **Native**, or **Derived**.
 
 **Note:** 
@@ -33,7 +33,7 @@ If your source data does not contain enough data for a field capability, enablin
 | Capability | Description |
 | --- | --- |
 | **Details** | When enabled, the field is visible in detailed data views.   * **Native fields:** Enabled by default if **Raw Data** is not enabled for a field. If Raw Data is enabled, you can enable Details if needed. * **Derived fields:** Enabled by default. |
-| **Filtering** | When enabled, you can filter data using this field in filters and filter snippets.  When disabled, you can't use this field in filters. You can use this field to filter data in filter snippets when you pair it with a Display Column. This also masks the data users see, and masks the data in exports of the data. See [Filter Data With Masked Fields](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701108947981-Filter-Data-With-Masked-Fields).   * **Native fields:** Enabled by default. * **Derived fields:** Enabled by default.   **Important:** Applied filter values that later have **Filtering** disabled to not automatically mask or hide those fields. You must recreate the filter that uses these values. |
+| **Filtering** | When enabled, you can filter data using this field in filters and filter snippets.  When disabled, you can not use this field in filters. You can use this field to filter data in filter snippets when you pair it with a Display Column. This also masks the data users see, and masks the data in exports of the data. See [Filter Data With Masked Fields](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701108947981-Filter-Data-With-Masked-Fields).   * **Native fields:** Enabled by default. * **Derived fields:** Enabled by default.   **Important:** Applied filter values that later have **Filtering** disabled to not automatically mask or hide those fields. You must recreate the filter that uses these values. |
 | **Grouping** | When enabled, the field can be included in grouping.   * **Native fields:** Enabled by default if a `GROUP_ONLY` is not defined for a field. * **Derived fields:** Enabled by default.   See [Using the Raw Data Capability](#raw_data) for more information on using Grouping and Raw Data together. |
 | **Metrics** | When enabled, metrics are provided for this field.   * **Native fields:** Enabled by default if the `GROUP_ONLY` flag is not defined for a field. * **Derived fields:** Enabled by default. |
 | **Playing** | When enabled, the data can be played in the visual.   * **Native fields:** Enabled by default if a `PLAYABLE` is defined for a field. * **Derived fields:** Disabled by default. |
@@ -46,7 +46,7 @@ If your source data does not contain enough data for a field capability, enablin
 Use the **Raw Data** option to control the visibility of raw data for your fields. This allows you to prevent export or use of specific fields that may contain sensitive information. It's enabled by default; disable to prevent export, views, and use of data fields as needed.
 
 **Note:** 
-If you disable Raw Data for a field used in an existing visual, the field remains visible in the visual, but cannot be exported with the visual in any format. Once you remove a field from a visual that has Raw Data disabled, you can't add it back in.
+If you disable Raw Data for a field used in an existing visual, the field remains visible in the visual, but cannot be exported with the visual in any format. Once you remove a field from a visual that has Raw Data disabled, you can not add it back in.
 
 | Field Capability Options | Field Behaviors |
 | --- | --- |

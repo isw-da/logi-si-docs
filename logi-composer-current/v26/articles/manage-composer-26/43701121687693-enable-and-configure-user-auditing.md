@@ -4,7 +4,7 @@ id: 43701121687693
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701121687693-Enable-and-Configure-User-Auditing
-updated_at: 2026-05-29T14:08:58Z
+updated_at: 2026-08-26T07:11:10Z
 ---
 
 # Enable and Configure User Auditing
@@ -60,4 +60,4 @@ Restart Composer to begin capturing audit events.
 
 If you used the bootstrap script to install Composer and audit setup, the audit database table is created when the first event is logged. Test your setup by performing any of the event-triggering actions. See [User Audit Events](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701136325645-User-Audit-Events).
 
-If you've set up your database manually, set up the [Data Writer microservice](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701106979981-Data-Writer-Microservice) to support the user audit processes.
+If you have set up your database manually, set up the [Data Writer microservice](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701106979981-Data-Writer-Microservice) to support the user audit processes.

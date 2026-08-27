@@ -4,7 +4,7 @@ id: 43700991515917
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700991515917-Add-Composer-Tooltips
-updated_at: 2026-05-29T14:07:13Z
+updated_at: 2026-08-26T07:09:02Z
 ---
 
 # Add Composer Tooltips

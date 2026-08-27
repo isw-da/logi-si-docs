@@ -4,7 +4,7 @@ id: 34933145504013
 section: "Logi Composer  25 Release Notes Overview"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933145504013-Logi-Composer-Version-25-Summary-of-Changes
-updated_at: 2026-05-26T22:08:37Z
+updated_at: 2026-08-24T20:31:43Z
 ---
 
 # Logi Composer Version 25 Summary of Changes
@@ -93,6 +93,8 @@ The following features were removed from Logi Composer v24 to make way for impro
 
 | Title | Description |
 | --- | --- |
+| **25.4.5 Removed Features** | |
+| None. |  |
 | **25.4.4 Removed Features** | |
 | None. |  |
 | **25.4.3 Removed Features** | |
@@ -189,6 +191,8 @@ This table provides a breakdown of all reported updates in Logi Composer v25.
 
 | Endpoint | Method | Description |
 | --- | --- | --- |
+| **25.4.5 API Updates** | | |
+| None. |  |  |
 | **25.4.4 API Updates** | | |
 | None. |  |  |
 | **25.4.3 API Updates** | | |
@@ -204,6 +208,8 @@ This table provides a breakdown of all reported updates in Logi Composer v25.
 
 | Endpoint | Method | Description |
 | --- | --- | --- |
+| **25.3.8 API Updates** | | |
+| None. |  |  |
 | **25.3.7 API Updates** | | |
 | None. |  |  |
 | **25.3.6 API Updates** | | |

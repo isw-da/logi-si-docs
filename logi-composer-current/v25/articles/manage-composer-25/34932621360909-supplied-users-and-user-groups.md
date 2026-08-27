@@ -4,7 +4,7 @@ id: 34932621360909
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932621360909-Supplied-Users-and-User-Groups
-updated_at: 2026-05-26T22:06:03Z
+updated_at: 2026-08-24T20:28:54Z
 ---
 
 # Supplied Users and User Groups

@@ -4,7 +4,7 @@ id: 43700988421773
 section: "Embed Composer Dashboards Into Applications Using Composer"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700988421773-Enable-and-Disable-an-Action-Template
-updated_at: 2026-05-29T14:11:41Z
+updated_at: 2026-08-26T07:10:24Z
 ---
 
 # Enable and Disable an Action Template
@@ -19,7 +19,7 @@ You must be logged in as an administrator or as a user with the **Manage Action 
 ## Enable an Action Template
 
 1. Log in as an administrator or a user with the **Manage Action Templates** [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference).
-2. Select **Actions** on the [UI menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701160499853-The-Composer-UI-Menu) (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46243365543821)). The Actions page appears.
+2. Select **Tools > Actions** from the Administration menu. The Actions page appears.
 
    The Actions page is split into two parts. Action templates (if any) you have defined are listed on the left. When you select an action template on the left, its details appear on the right.
 3. Locate and select the action template you want to enable in the list on the left.
@@ -31,7 +31,7 @@ You must be logged in as an administrator or as a user with the **Manage Action 
 ## Disable an Action Template
 
 1. Log in as an administrator or a user with the **Manage Action Templates** [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference).
-2. Select **Actions** on the [UI menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701160499853-The-Composer-UI-Menu) (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46243365543821)). The Actions page appears.
+2. Select **Tools > Actions** from the Administration menu. The Actions page appears.
 
    The Actions page is split into two parts. Action templates (if any) you have defined are listed on the left. When you select an action template on the left, its details appear on the right.
 3. Locate and select the action template you want to disable in the list on the left.

@@ -4,7 +4,7 @@ id: 34933033783821
 section: "Install, Upgrade, and Remove Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933033783821-Change-Metadata-Store-Authentication-to-MD5
-updated_at: 2026-05-26T22:07:34Z
+updated_at: 2026-08-24T20:30:47Z
 ---
 
 # Change Metadata Store Authentication to MD5

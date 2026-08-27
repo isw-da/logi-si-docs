@@ -1,10 +1,10 @@
 ---
-title: "Upload Keyset Data From a CSV\u00a0File Using the API"
+title: "Upload Keyset Data From a CSV File Using the API"
 id: 34933047829773
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933047829773-Upload-Keyset-Data-From-a-CSV-File-Using-the-API
-updated_at: 2026-05-26T22:07:28Z
+updated_at: 2026-08-24T20:30:38Z
 ---
 
 # Upload Keyset Data From a CSV File Using the API

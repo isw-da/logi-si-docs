@@ -4,7 +4,7 @@ id: 43701100844557
 section: "Manipulate Data In The Composer 26 Data Store"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701100844557-Source-Field-Migration
-updated_at: 2026-05-29T14:08:24Z
+updated_at: 2026-08-26T07:09:49Z
 ---
 
 # Source Field Migration
@@ -19,13 +19,13 @@ Scenario: You have a `date_year` field defined as an integer in your original da
 
 * Logi Composer (previous releases):
 
-  + `date_year` is defined as a number or integer (dependent on your version).
-  + You set the `type` as Time with Custom Pattern `yyyy`.
-  + Composer treats the field as a `time` field.
+  * `date_year` is defined as a number or integer (dependent on your version).
+  * You set the `type` as Time with Custom Pattern `yyyy`.
+  * Composer treats the field as a `time` field.
 * Logi Composer, on upgrade, will now have two fields for each affected field in your source.
 
-  + Field 1: `date_year_original`. The Label text is appended with `Original`. The field type is set to `number` and the field is not visible (Visible toggle disabled in the Fields tab).
-  + Field 2: `date_year` as in your original source. The Label text and other settings are unchanged. This is a derived field, using the expression `year_to_time(date_year_original)`
+  * Field 1: `date_year_original`. The Label text is appended with `Original`. The field type is set to `number` and the field is not visible (Visible toggle disabled in the Fields tab).
+  * Field 2: `date_year` as in your original source. The Label text and other settings are unchanged. This is a derived field, using the expression `year_to_time(date_year_original)`
 
 **Note:** 
 If you create a new data source that uses the `date_year` integer from your source, you can create a derived field to change the `number` into `time`, using the expression `year_to_time(date_year)`.

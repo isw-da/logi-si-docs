@@ -4,7 +4,7 @@ id: 43701117720077
 section: "Embed Composer Dashboards Into Applications Using Composer"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701117720077-Embedded-Component-Prerequisites
-updated_at: 2026-05-29T14:08:31Z
+updated_at: 2026-08-26T07:09:51Z
 ---
 
 # Embedded Component Prerequisites

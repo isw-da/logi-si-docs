@@ -4,7 +4,7 @@ id: 43700990553101
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700990553101-Enable-and-Disable-the-Supplied-Supervisor-User
-updated_at: 2026-05-29T14:07:08Z
+updated_at: 2026-08-26T07:11:41Z
 ---
 
 # Enable and Disable the Supplied Supervisor User
@@ -22,7 +22,7 @@ Enabling or disabling the supplied supervisor user definition can only be done b
 
 ## Disable the Supplied Supervisor User
 
-1. Log into Composer as a supervisor who is not the supplied supervisor user (make sure you have selected **superaccount**).
+1. Log into Composer as a supervisor who is not the supplied supervisor user (make sure you have selected **superaccount** or **Visual Data Discovery**).
 2. On the left side of the page, select the **supervisor** user. The supervisor user information appears on the right side of the page.
 3. Select (check) the **Disable User** checkbox at the bottom of the **Info** tab.
 4. Select **Save** to save the supervisor definition.

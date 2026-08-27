@@ -4,7 +4,7 @@ id: 43701084425613
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701084425613-Hierarchical-Fields-and-Structures
-updated_at: 2026-05-29T14:08:22Z
+updated_at: 2026-08-26T07:09:40Z
 ---
 
 # Hierarchical Fields and Structures

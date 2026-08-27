@@ -4,7 +4,7 @@ id: 34932960626957
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932960626957-Create-a-Saved-Filter
-updated_at: 2026-05-26T22:09:33Z
+updated_at: 2026-08-24T20:32:44Z
 ---
 
 # Create a Saved Filter
@@ -21,8 +21,8 @@ Cross-visual filters that have been applied from same-source and cross-source li
 
 1. Select the filter icon on the [visual](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932931145741-Apply-a-Row-Level-Filter-to-a-Visual-or-Filter-Snippet), filter snippet, or [dashboard](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932922987533-Apply-a-Row-Level-Filter-to-a-Dashboard) to access the appropriate filter sidebar.
 
-   * To access the filter sidebar, select its filter icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167885651725)) or select **Settings** from the [menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933290868621-Use-the-Visual-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167885652493)) and then select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167875481101) on the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu).
-   * To access the dashboard filter sidebar, select its filter icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167875482125)). The dashboard-level filter icon is available only when all the visuals are from the same data source.
+   * To access the filter sidebar, select its filter icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374736013069)) or select **Settings** from the [menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933290868621-Use-the-Visual-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374800109581)) and then select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374800109965) on the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu).
+   * To access the dashboard filter sidebar, select its filter icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374800111373)). The dashboard-level filter icon is available only when all the visuals are from the same data source.
 
    The Filters sidebar appears showing any filters that have been applied. If no filters have been applied, create one that you want to save. See [Apply Row-Level Filters](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932930630157-Apply-Row-Level-Filters), [Set a Numeric Field Filter](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932957895565-Set-a-Numeric-Field-Filter), and [Set a Time Field Filter](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932958685197-Set-a-Time-Field-Filter).
 2. Select **Save Filters** on the Filters sidebar. The Save Filter Set dialog appears.

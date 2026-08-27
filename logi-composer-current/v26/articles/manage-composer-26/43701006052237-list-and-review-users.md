@@ -4,7 +4,7 @@ id: 43701006052237
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701006052237-List-and-Review-Users
-updated_at: 2026-05-29T14:11:44Z
+updated_at: 2026-08-26T07:11:44Z
 ---
 
 # List and Review Users
@@ -13,9 +13,13 @@ updated_at: 2026-05-29T14:11:44Z
 
 A system [admin user](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701036219149-Supplied-Users-and-User-Groups#The2) and users who are assigned to a group with [user management privileges](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference) can review users in Composer and tenants.
 
-## List and review all users in your environment (Supervisors Group Members)
+## List and Review All Users in Your Environment (Supervisors Group Members)
 
-1. Log in as a member of the Supervisors group, and select **System Users** from the menu. The Manage Users work area opens, listing all users in your environment, from all tenants.
+1. Log in as a member of the Supervisors group, and select **Users** (formerly *System Users*) from the Administration menu. The Users work area opens, listing all users in your environment, from all tenants.
+
+   **Note:**
+
+   In environments where the [enhanced-experience](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701053868173-Server-Level-Variables#ui-toggle "enhanced-experience link") toggle has been enabled, the menu option **System Users** has been removed from the main menu UI. Users with appropriate privileges can instead access users using the **User** menu option, and groups using the **Groups** menu option.
 2. Select a user name on the left side of the page. A work area opens that includes three tabs of user details you can edit as needed.
 
    You can:
@@ -30,7 +34,7 @@ A system [admin user](https://logi-composer-v26.insightsoftware.com/hc/en-us/art
 1. Log in as a user who has been assigned to a group with [user management privileges](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference).
 
    If the user name you log in with is also associated with other Composer tenants, verify you are using the *Visual Data Discovery* tenant to see all users, or a specific tenant to see only the users in that tenant. See [Switch Tenants](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701052090125-Switch-Tenants).
-2. Select **Users and Groups** on the [UI menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701160499853-The-Composer-UI-Menu) (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46243384573581)). A work area opens you can use to manage users. Select the **Users** tab if both the **Users** and **Groups** tabs are visible.
+2. Select **Users** (formerly *Users and Groups*) from the Administration menu. The Users work area opens, listing all users in your environment, from all tenants.
 3. Select a user name on the left side of the page. A work area opens that includes three tabs of user details you can edit as needed.
 
    You can:

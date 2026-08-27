@@ -4,7 +4,7 @@ id: 37515138873485
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/37515138873485-Manage-the-OpenSearch-Connector
-updated_at: 2026-05-26T22:08:35Z
+updated_at: 2026-08-24T20:31:41Z
 ---
 
 # Manage the OpenSearch Connector

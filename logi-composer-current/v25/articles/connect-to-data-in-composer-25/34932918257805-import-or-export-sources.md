@@ -4,7 +4,7 @@ id: 34932918257805
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932918257805-Import-or-Export-Sources
-updated_at: 2026-05-26T22:10:33Z
+updated_at: 2026-08-24T20:33:56Z
 ---
 
 # Import or Export Sources
@@ -36,7 +36,7 @@ All users can view the **Sources** page.
 
    The Import Sources dialog populates with information about the objects that make up your sources and the settings you can use to define how your software inserts each object.
 
-   ![Use this work are to define what JSON file to import, for which tenants, using what insertion strategies, tags, and access](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167239509645 "Import Sources work area with JSON file selected")
+   ![Use this work are to define what JSON file to import, for which tenants, using what insertion strategies, tags, and access](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373526778893 "Import Sources work area with JSON file selected")
 5. Add and remove tenants by selecting the **Tenants** field. Add or remove them from the list or field.
 
    **Note:** Only system admins or members of the Content Distributors group see the Tenants field. If this field is not shown, the content is imported into the tenant you are currently working in.

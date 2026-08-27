@@ -4,7 +4,7 @@ id: 34932973019789
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932973019789-Filter-Data-With-Masked-Fields
-updated_at: 2026-05-26T22:09:34Z
+updated_at: 2026-08-24T20:32:46Z
 ---
 
 # Filter Data With Masked Fields
@@ -31,9 +31,9 @@ Users then can view filtered data based on those fields, but the values and name
 **Create a new filter snippet**
 
 1. Open and [edit](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932763603597-Edit-a-Dashboard) a dashboard.
-2. Select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167168180493) on the [dashboard icon bar](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932842163469-Use-the-Dashboard-Icon-Bars). A new filter snippet is added in a widget on the dashboard, ready to edit.
-3. Select **Settings** from the more menu (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167901920909)) to open the filter snippet sidebar menu. See [Use The Filter Snippet Sidebar Menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932987838349-Use-The-Filter-Snippet-Sidebar-Menu).
-4. Open ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167184748685)**Data Settings** in the filter sidebar menu, then select your **Source**. A Value Column field appears, but you can't add your Filtered field to it.
+2. Select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373430522637) on the [dashboard icon bar](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932842163469-Use-the-Dashboard-Icon-Bars). A new filter snippet is added in a widget on the dashboard, ready to edit.
+3. Select **Settings** from the more menu (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374799339149)) to open the filter snippet sidebar menu. See [Use The Filter Snippet Sidebar Menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932987838349-Use-The-Filter-Snippet-Sidebar-Menu).
+4. Open ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373400337677)**Data Settings** in the filter sidebar menu, then select your **Source**. A Value Column field appears, but you can't add your Filtered field to it.
 5. Disable **Use Value Column as Display Column**. With this disabled, you can select your **Filtered** field as the **Value Column**.
 6. Select a different field to use as the value for the **Display Column**.
 7. Continue creating the filter snippet by connecting widgets as needed. Select **Apply** to apply your changes.

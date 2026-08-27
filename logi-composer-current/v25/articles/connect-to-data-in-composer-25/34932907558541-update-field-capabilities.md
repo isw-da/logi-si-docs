@@ -4,7 +4,7 @@ id: 34932907558541
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932907558541-Update-Field-Capabilities
-updated_at: 2026-05-26T22:09:49Z
+updated_at: 2026-08-24T20:33:02Z
 ---
 
 # Update Field Capabilities
@@ -20,11 +20,11 @@ When you create your source or create fields in a source, Logi Composer defines 
 1. Access the [Fields tab](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932906721933-Manage-Fields) for your source.
 2. Select the **Output**, then select **Update Field Capabilities** from the **Options** menu. The Bulk Update Field Capabilities work area opens.
 
-   ![search and filter your fields, then enable or disable options as needed, including Details, Filtering, Grouping, Metrics, Playing, and Raw Data](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167928918669 "Bulk Update Field Capabilities work area")
+   ![search and filter your fields, then enable or disable options as needed, including Details, Filtering, Grouping, Metrics, Playing, and Raw Data](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374790027149 "Bulk Update Field Capabilities work area")
 
    Use **Search** to find specific fields by **Label**, or use the provided filtering options to narrow the list of visible fields:
 
-   * Filter by data type: Show **All** data type fields: Attribute (**ABC**), Number (**1.23**) or Time (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167928919821)).
+   * Filter by data type: Show **All** data type fields: Attribute (**ABC**), Number (**1.23**) or Time (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374790029197)).
    * Filter by type: **All**, **Native**, or **Derived**.
 
    **Note:** 
@@ -39,7 +39,7 @@ When you create your source or create fields in a source, Logi Composer defines 
 
 1. Access the [Fields tab](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932906721933-Manage-Fields) for your source and select **Update Field Capabilities**. The Bulk Update Field Capabilities work area opens.
 
-   ![search and filter your fields, then enable or disable options as needed, including Details, Filtering, Grouping, Metrics, Playing, and Raw Data](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167298900749 "Bulk Update Field Capabilities work area")
+   ![search and filter your fields, then enable or disable options as needed, including Details, Filtering, Grouping, Metrics, Playing, and Raw Data](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373659367565 "Bulk Update Field Capabilities work area")
 2. Only visible fields are shown in this work area. **Search** for an individual field by name, or filter the fields by data type (attribute, numeric, date) or type (native, derived).
 3. Enable or disable the field capabilities for all visible fields in the source. Capabilities include: **Details**, **Filtering**, **Grouping**, **Metrics**, **Playing**, and **Raw Data**. See [Field Capabilities Options](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932887622285-Field-Capabilities#Field).
 4. **Save** your changes.

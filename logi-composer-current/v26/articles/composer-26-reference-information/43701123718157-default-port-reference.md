@@ -4,7 +4,7 @@ id: 43701123718157
 section: "Composer 26 Reference Information"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701123718157-Default-Port-Reference
-updated_at: 2026-05-29T14:09:14Z
+updated_at: 2026-08-26T07:11:56Z
 ---
 
 # Default Port Reference
@@ -19,10 +19,11 @@ The following table lists the default ports used by Composer, sorted by port num
 | 443 | `zoomdata` | Composer server web communication.  For HTTPS requests, configure your firewall to map port 443 to either port 8443 or port 8080. |
 | 5432 | `zoomdata-postgres` | Composer [metadata repository](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701122518797-Metadata-Repository). |
 | 5580 | `zoomdata-query-engine` | Composer [query engine](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701037846797-Manage-the-Composer-Query-Engine) microservice. |
+| 8013\* | `zoomdata-edc-managed` | [Dundas BI (Managed) Connector](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/47441922925197-Manage-the-Dundas-BI-Managed-Connector) to communicate with Dundas BI managed resources. \*The default port is 8013, or depending on your configuration, set to 8080. Verify the exact port in use in the environment hosting the data source.  The user interface to interact with this connector must be enabled. See [Server-Level Variables](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701053868173-Server-Level-Variables). |
 | 8050 | `zoomdata-admin-server` | [Service Monitor](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701149014925-Composer-Service-Monitor). |
 | 8080 | `zoomdata` | Composer server. |
 | 8081 | `zoomdata-data-writer` | Composer [Data Writer](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701106979981-Data-Writer-Microservice) microservice. |
-| 8083 | `zoomdata-screenshot-service` | Composer [Screenshot](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701073104013-Set-Up-the-Screenshot-Microservice) microservice. |
+| 8083 | `zoomdata-screenshot-service` | Composer [Screenshot](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701073104013-Screenshot-Microservice) microservice. |
 | 8093 | `zoomdata-edc-bigquery` | [BigQuery](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701009802509-Manage-the-BigQuery-Connector) connector. |
 | 8095 | `zoomdata-edc-drill` | [Apache Drill](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701042973581-Manage-the-Apache-Drill-Connector) connector. |
 | 8098 | `zoomdata-edc-impala` | [Cloudera Impala](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701025595405-Manage-the-Impala-Connector) connector. |

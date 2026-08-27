@@ -1,10 +1,10 @@
 ---
-title: "Themes API\u00a0Endpoint"
+title: "Themes API Endpoint"
 id: 43701163688205
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701163688205-Themes-API-Endpoint
-updated_at: 2026-05-29T14:09:29Z
+updated_at: 2026-08-26T07:10:06Z
 ---
 
 # Themes API Endpoint

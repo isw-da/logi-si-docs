@@ -4,7 +4,7 @@ id: 34932891763981
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932891763981-Source-Creation-Tab
-updated_at: 2026-05-26T22:09:47Z
+updated_at: 2026-08-24T20:33:00Z
 ---
 
 # Source Creation Tab
@@ -19,7 +19,7 @@ Use the Source Creation tab in the Sources work area to define new sources, edit
 
 If you are upgrading from an earlier version of Composer, you may temporarily see the earlier interface until you create, edit, or update a source. See [Source Creation Tab (Earlier Releases)](#v25.3) for interface information.
 
-![Use this work area to create or update a source](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167265796749 "Source Creation work area")
+![Use this work area to create or update a source](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373605663117 "Source Creation work area")
 
 **Note:** 
 You must be logged in as user with the **Administer Sources** or **Create New Data Sources** [privilege](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932577846157-Group-Privilege-Reference) to see the Source Creation tab, or have **Read** and **Write** permissions on the source.
@@ -39,13 +39,13 @@ The general structure of the Source Creation tab includes:
 
 Drag and drop data entities to build your source. After adding a data entity or making changes, select **Save Source** to save your changes, or **Preview Source** to preview your data.
 
-![drag and drop entities to this left panel source  work area to define one or more data entities for your source](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167265948813 "source work area (left pane)")
+![drag and drop entities to this left panel source  work area to define one or more data entities for your source](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373622524941 "source work area (left pane)")
 
 ### Connections Panel
 
 Available connections are listed in the Connections panel. Select the arrows to open and find entities and indices to drag and drop to the source work area. The added entity is represented visually, making it easier for you to make direct changes or create joins when multiple entitles are included in the source.
 
-![drag and drop your entity and schema to the work area](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167265796749 "drag and drop your entity and schema to the work area")
+![drag and drop your entity and schema to the work area](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373605663117 "drag and drop your entity and schema to the work area")
 
 **Note:** Alternatively, select **Add SQL Entity** to use Custom SQL to define your entities and indices in this source.
 
@@ -63,7 +63,7 @@ Each entity you add is given a unique **Entity Name**, appended by a number. Sel
 **Note:** 
 Depending on the your source, different options are available to define it.
 
-![Use this work area to define your entity, schema, connection, available fields, and more along with caching settings, if available.](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167266090893 "Entity Details Properties Panel")
+![Use this work area to define your entity, schema, connection, available fields, and more along with caching settings, if available.](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373617142541 "Entity Details Properties Panel")
 
 Details you can define can include:
 
@@ -72,23 +72,23 @@ Details you can define can include:
 * **Select Schema**: If a Schema is available for your connection, you can select a schema to filter a list of entities for this connection. See [Connector Feature Support](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932704861453-Connector-Feature-Support). Visualize your schema by selecting the view option. See [View Relationships of a Schema in a Source](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932692136845-Visualize-Schemas-and-Joins#View).
 * **Select Indices**: ElasticSearch connections support Indices: select one or more to include.
 
-  + **Indice Selection**: Select **Manually** to create a merged list of fields from selected indices, or **Automatically** to select a pattern that automatically selects indices.
+  * **Indice Selection**: Select **Manually** to create a merged list of fields from selected indices, or **Automatically** to select a pattern that automatically selects indices.
 
-    ![Supported connections allow you to use automatic or manual index selection here](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167293907469 "Indec Selection work area")
+    ![Supported connections allow you to use automatic or manual index selection here](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373630562829 "Indec Selection work area")
 * **Existing Entity** and **Custom SQL**:
 
-  + Select **Existing Entity** to use an available entity from your source.
-  + **Custom SQL**: Select to define a custom SQL to retrieve the data you want from your source. **Select Entity** is not available if you select Custom SQL.
+  * Select **Existing Entity** to use an available entity from your source.
+  * **Custom SQL**: Select to define a custom SQL to retrieve the data you want from your source. **Select Entity** is not available if you select Custom SQL.
 * **Select Entity**: Select an available entity.
 
-  + **Available Fields**: All fields available from this source are included by default. Disable (uncheck) specific fields to exclude them from the source. The fields, when disabled, are not included for your users. If you attempt to remove a field currently in use by a visual or other object, Composer will prevent you from saving your changes to the data source.
-  + **Entity Preview** table: Select the Preview icon in the Available Fields work area. This opens an **Entity Preview** dialog pop up. This preview includes all of the fields in the entity (no matter your selections) to help you decide what to include or exclude.
+  * **Available Fields**: All fields available from this source are included by default. Disable (uncheck) specific fields to exclude them from the source. The fields, when disabled, are not included for your users. If you attempt to remove a field currently in use by a visual or other object, Composer will prevent you from saving your changes to the data source.
+  * **Entity Preview** table: Select the Preview icon in the Available Fields work area. This opens an **Entity Preview** dialog pop up. This preview includes all of the fields in the entity (no matter your selections) to help you decide what to include or exclude.
 
     **Note:** The Preview icon next to the Save Source button opens a Source Preview. This preview only includes what fields you have made available after applying your field selections and saving your work.
 
     In the example shown here, the **credit\_limit** field is deselected in Available Fields. It is visible in the Entity Preview table, but not the Source Preview table.
 
-    ![Entity Preview includes all fields. Source preview only includes fileds selected for inclusion.](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167294060685 "Entity and Source Preview tables")
+    ![Entity Preview includes all fields. Source preview only includes fileds selected for inclusion.](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373606476045 "Entity and Source Preview tables")
 
 Select **Apply** to apply your changes, or add another data entity to [create joins for a Fusion source](#Join "create joins for a Fusion source details").
 
@@ -101,7 +101,7 @@ Table visuals and Details dialogs display fields in the order they are retrieved
 **Important:** 
 Custom SQL queries are a powerful tool for performing complex data queries. However, be careful when creating custom SQL queries because it is easy to define a heavy query or a query that may overwhelm your database. Use this feature carefully.
 
-![enter the custom SQL for your entity](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167310719245 "Entity Details work area")
+![enter the custom SQL for your entity](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373590774541 "Entity Details work area")
 
 **Note:** Use the grab bars at the corner of the editing field to expand your viewable area.
 
@@ -113,7 +113,7 @@ SELECT \* FROM Orders WHERE state = '${User.state|Alabama}'
 
 Each entity you add is given a unique **Entity Name**, appended by a number. Select an entity to edit its properties in the Properties panel, and manage details of how the information is accessed and presented.
 
-![edit and manage data provided from a file](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167278821901 "Data Entity Details work area")
+![edit and manage data provided from a file](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373623253517 "Data Entity Details work area")
 
 When you select a File to use for your data source, the details you can define can include:
 
@@ -130,11 +130,11 @@ Create joins between pairs of data entities to create a [Fusion](https://logi-co
 
 To create a new join, select **Joins** to add a join object to your work area.
 
-![select to add a joins object to your data source](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167893477901 "Joins button")
+![select to add a joins object to your data source](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374789495053 "Joins button")
 
 Select the join object to define how the entities use a join type to connect specific fields. Select **Apply** to finish creating the join.
 
-![use this area to create and edit joins](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167893478797 "Join Definition work area")
+![use this area to create and edit joins](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374789498253 "Join Definition work area")
 
 When you create a join, settings you can define can include:
 
@@ -149,7 +149,7 @@ You can also view the relationships of your joins and add more joins in a visual
 
 ## Source Creation Tab (Earlier Releases)
 
-![Use this work area to create or update a source](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167311109005 "Source Creation work area")
+![Use this work area to create or update a source](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373631310989 "Source Creation work area")
 
 **Note:** 
 You must be logged in as user with the **Administer Sources** or **Create New Data Sources** [privilege](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932577846157-Group-Privilege-Reference) to see the Source Creation tab, or have **Read** and **Write** permissions on the source.
@@ -167,7 +167,7 @@ The general structure of this tab includes:
 
 Define basic information about this source.
 
-![update source definition information in this section of the work area](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167267277197 "Source Creation work tab")
+![update source definition information in this section of the work area](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373623700493 "Source Creation work tab")
 
 ## Source Definition
 
@@ -177,7 +177,7 @@ Add and edit the unique **Name** and optional **Description** of your source.
 
 Add and edit data entities for this source. After adding a data entity or making changes, select **Save Source** to save your changes, or **Preview Source** to preview your data.
 
-![use this work area to define one or more data entities to create your source](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167267483789 "Data Entity Definition work area")
+![use this work area to define one or more data entities to create your source](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373623896333 "Data Entity Definition work area")
 
 ### Entities
 
@@ -202,22 +202,22 @@ When you select **From Connection**, details you can define can include:
 * **Select Schema**: If a Schema is available for your connection, you can select a schema to filter a list of entities for this connection. See [Connector Feature Support](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932704861453-Connector-Feature-Support). Visualize your schema by selecting the view option. See [View Relationships of a Schema in a Source](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932692136845-Visualize-Schemas-and-Joins#View).
 * **Select Indices**: ElasticSearch connections support Indices: select one or more to include.
 
-  + **Indice Selection**: Select **Manually** to create a merged list of fields from selected indices, or **Automatically** to select a pattern that automatically selects indices.
+  * **Indice Selection**: Select **Manually** to create a merged list of fields from selected indices, or **Automatically** to select a pattern that automatically selects indices.
 
-    ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167267654029)
+    ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373631959437)
 * **Existing Entity** and **Custom SQL**:
 
-  + Select **Existing Entity** to use an available entity from your source.
-  + **Custom SQL**: Select to define a custom SQL to retrieve the data you want from your source. **Select Entity** is not available if you select Custom SQL.
+  * Select **Existing Entity** to use an available entity from your source.
+  * **Custom SQL**: Select to define a custom SQL to retrieve the data you want from your source. **Select Entity** is not available if you select Custom SQL.
 * **Select Entity**: Select an available entity. A list of all native fields from this entity populates **Available Fields** and the **Preview** table.
 
-  + **Available Fields**: All fields available from this source are included by default. Disable (uncheck) specific fields to exclude them from the source. The fields, when disabled, are not included in any work areas of the source. If you attempt to remove a field in use by a visual or other object, Composer will prevent you from saving your changes to the source configuration.
-  + Data Entity **Preview** table: A preview of the data from the source for all fields, even if deselected in **Available Fields**.
-  + Source **Preview** table: A preview of data from the source as defined in **Available Fields**. Select **Preview Source** to preview your selected data.
+  * **Available Fields**: All fields available from this source are included by default. Disable (uncheck) specific fields to exclude them from the source. The fields, when disabled, are not included in any work areas of the source. If you attempt to remove a field in use by a visual or other object, Composer will prevent you from saving your changes to the source configuration.
+  * Data Entity **Preview** table: A preview of the data from the source for all fields, even if deselected in **Available Fields**.
+  * Source **Preview** table: A preview of data from the source as defined in **Available Fields**. Select **Preview Source** to preview your selected data.
 
     In the example shown here, the **date** field is deselected in Available Fields. It is visible in the Data Entity Preview table, but not the Source Preview table.
 
-    ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167267825165)
+    ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373632164621)
 
 Select **Apply** to apply your changes, or add another data entity to [create joins for a Fusion source](#Join "create joins for a Fusion source details").
 
@@ -230,7 +230,7 @@ Table visuals and Details dialogs display fields in the order they are retrieved
 **Important:** 
 Custom SQL queries are a powerful tool for performing complex data queries. However, be careful when creating custom SQL queries because it is easy to define a heavy query or a query that may overwhelm your database. Use this feature carefully.
 
-![enter the custom SQL for your entity](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167312146701 "Data Entity Definition work area")
+![enter the custom SQL for your entity](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373637949453 "Data Entity Definition work area")
 
 Variables (specified as custom user attributes) can be inserted in custom SQL. See [Specify Custom User Attributes](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932642529293-Specify-Custom-User-Attributes). In addition, you can use a vertical bar (|) in the SQL to separate the custom attribute name from a default value used for user definitions that do not have the custom user attribute defined. For example, the following custom SQL uses the value of the `state` customer user attribute to filter source data for records from whatever state the user's `state` custom user attribute is set to. If a `state` custom user attribute is not defined for a user, a default of Alabama is used.
 
@@ -240,7 +240,7 @@ SELECT \* FROM Orders WHERE state = '${User.state|Alabama}'
 
 Define a unique **Data Entity Name**, then define the details for how the information is accessed and presented.
 
-![edit and manage data provided from a file](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167312272013 "Data Entity Details work area")
+![edit and manage data provided from a file](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373632644109 "Data Entity Details work area")
 
 When you select **From File**, details you can define can include:
 
@@ -257,15 +257,15 @@ Create joins between pairs of data entities to create a [Fusion](https://logi-co
 
 To create a new join, select **Add**, then define the entities, join type, and fields. Select **Apply** to finish creating the join.
 
-![use this area to create and edit joins](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167301889037 "Join Definition work area")
+![use this area to create and edit joins](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373632863885 "Join Definition work area")
 
 When you create a join, settings you can define can include:
 
 * **Entity Left**: Select an available entity from the data entities you defined.
 * **Join Type**: Select Left, Inner, or Full Outer.
 * **Entity Right**: Select an available entity from the data entities you defined.
-* **Enable Dimension Entity**: Select the gear (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167893488013)) icon to enable dimension for one or both entities. This improves the performance of queries execution by removing unused data entities from the join.
-* **Field Left**: Select at least one field from this entity. You can add multiple fields by selecting the add field ![add icon](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167893488525 "add icon") button.
-* **Field Right**: Select at least one field from this entity. You can add multiple fields by selecting the add field ![add icon](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167893488525 "add icon") button.
+* **Enable Dimension Entity**: Select the gear (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374789504653)) icon to enable dimension for one or both entities. This improves the performance of queries execution by removing unused data entities from the join.
+* **Field Left**: Select at least one field from this entity. You can add multiple fields by selecting the add field ![add icon](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374789505677 "add icon") button.
+* **Field Right**: Select at least one field from this entity. You can add multiple fields by selecting the add field ![add icon](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374789505677 "add icon") button.
 
 You can also view the relationships of your joins and add more joins in a visualization. See [Create a Fusion Source](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932990526221-Create-a-Fusion-Source).

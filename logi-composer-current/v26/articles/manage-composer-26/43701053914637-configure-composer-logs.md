@@ -4,7 +4,7 @@ id: 43701053914637
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701053914637-Configure-Composer-Logs
-updated_at: 2026-05-29T14:07:18Z
+updated_at: 2026-08-26T07:11:41Z
 ---
 
 # Configure Composer Logs
@@ -48,7 +48,7 @@ Enable logging to the console and append the desired corresponding value of the 
 * Use `log.console.level=ERROR` to route only duplicates of errors to the console.
 * Alternatively, use `log.console.level=ALL` and `log.console.level=ERROR` to have all logs in files and errors duplicated to the console.
 
-Adjust the values to meet your needs, then restart the service after you've edited the config.
+Adjust the values to meet your needs, then restart the service after you have edited the config.
 
 **Note:** Composer services have two config files, `*properties` and `*.jvm`. If you add log configuration properties to both files, the priority of `*.jvm` is higher than `*. properties`.
 

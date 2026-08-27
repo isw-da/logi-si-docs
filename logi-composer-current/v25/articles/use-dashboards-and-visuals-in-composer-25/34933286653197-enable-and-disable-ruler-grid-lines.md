@@ -4,7 +4,7 @@ id: 34933286653197
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933286653197-Enable-and-Disable-Ruler-Grid-Lines
-updated_at: 2026-05-26T22:08:32Z
+updated_at: 2026-08-24T20:31:39Z
 ---
 
 # Enable and Disable Ruler Grid Lines

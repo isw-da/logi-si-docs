@@ -4,7 +4,7 @@ id: 34932733001741
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932733001741-Delete-a-Connector-Server
-updated_at: 2026-05-26T22:10:13Z
+updated_at: 2026-08-24T20:33:34Z
 ---
 
 # Delete a Connector Server
@@ -21,7 +21,7 @@ You can delete a connector server that you manually configured. However, before 
    The default **supervisor** user is no longer installed; add users to the **Supervisors** group instead.
 2. Select **Connectors** from the menu. The Managed Connector Services work area opens.
 3. On the **Manage Connector Services** page, locate the connector server you want to delete in the Connector Servers table.
-4. Select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167442390669) for the connector server.
+4. Select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373976654349) for the connector server.
 5. The connector server is removed from the Composer instance.
 
 **Note:** 

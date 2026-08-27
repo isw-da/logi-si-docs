@@ -4,19 +4,19 @@ id: 34933240876045
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933240876045-Table-Context-Menu
-updated_at: 2026-05-26T22:09:05Z
+updated_at: 2026-08-24T20:32:14Z
 ---
 
 # Table Context Menu
 
 # Table Context Menu
 
-The column headings of a table and pivot table include a context menu you can use to perform various functions on the table, as described below. Select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167818163213) next to the column heading name to access the table context menu. The context menu has two tabs:
+The column headings of a table and pivot table include a context menu you can use to perform various functions on the table, as described below. Select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374687038861) next to the column heading name to access the table context menu. The context menu has two tabs:
 
-* The ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167818163213) tab lists the functions you can perform.
-* The ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167818165773) tab lists all the available fields in the data source.
+* The ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374687038861) tab lists the functions you can perform.
+* The ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374700584589) tab lists all the available fields in the data source.
 
-![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167818166157)![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166961594253)![select to format numbers in a table column](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167818168205 "table context menu with number formatting") or ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167818168717)![select show and hide metric or timezone options](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166992592141 "select show and hide metric or timezone options")![select show and hide metric or timezone options](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166955307917 "select show and hide metric or timezone options")
+![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374700587277)![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373039564941)![select to format numbers in a table column](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374687048205 "table context menu with number formatting") or ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374687052685)![select show and hide metric or timezone options](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373070671117 "select show and hide metric or timezone options")![select show and hide metric or timezone options](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373086098701 "select show and hide metric or timezone options")
 
 Possible menu options on the table context menu tab are described below.
 
@@ -37,4 +37,4 @@ Possible menu options on the table context menu tab are described below.
 | Ungroup <field> | This option removes grouping by the table column. See [Group and Ungroup Table Data](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933242142605-Group-and-Ungroup-Table-Data). |
 | Wrap Column | Select to wrap the text or data in a column to improve readability. |
 
-You can also select and hide a column from a table using the ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167818165773) tab on the table context menu. See [Select Columns Using the Table Context Menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933268424333-Select-Columns-Using-the-Table-Context-Menu) and [Hide Columns Using the Table Context Menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933225215501-Hide-Columns-Using-the-Table-Context-Menu).
+You can also select and hide a column from a table using the ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374700584589) tab on the table context menu. See [Select Columns Using the Table Context Menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933268424333-Select-Columns-Using-the-Table-Context-Menu) and [Hide Columns Using the Table Context Menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933225215501-Hide-Columns-Using-the-Table-Context-Menu).

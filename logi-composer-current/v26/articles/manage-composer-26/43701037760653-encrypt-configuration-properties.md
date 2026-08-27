@@ -4,7 +4,7 @@ id: 43701037760653
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701037760653-Encrypt-Configuration-Properties
-updated_at: 2026-05-29T14:07:24Z
+updated_at: 2026-08-26T07:11:37Z
 ---
 
 # Encrypt Configuration Properties
@@ -19,23 +19,24 @@ You can encrypt sensitive property values in Composer's property files, if neede
 
 See also [Change the Encryption Mode](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701175423245-Change-the-Encryption-Mode).
 
-You can also pass sensitive property values to Composer using Linux environment variables, rather than hard coding the values in Composer property files. See [Pass Sensitive Data Using Linux Environment Variables](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701007755917-Pass-Sensitive-Data-Using-Linux-Environment-Variables).
+You can also pass sensitive property values using Linux environment variables, rather than hard coding the values in Composer property files. See [Pass Sensitive Data Using Linux Environment Variables](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701007755917-Pass-Sensitive-Data-Using-Linux-Environment-Variables).
 
 ## Prerequisites
 
 Before you can encrypt property values, your Composer environment must meet the following requirements.
 
-* You must have the full-strength Java Cryptography Extension (JCE) installed in your Java virtual machine (it's not there by default). You can download the JCE Unlimited Strength Jurisdiction Policy Files from Oracle at the following link: <https://www.oracle.com/java/technologies/javase-jce8-downloads.html>.
+* Previously, you were required to install the full-strength Java Cryptography Extension (JCE) installed on your Java virtual machine. Supported versions of Composer include a version of Java that covers this requirement.
+* Install or upgrade to Spring Cloud CLI version 2.0.0. This specific version is required. Review the installation and upgrade guidance here: <https://docs.spring.io/spring-boot/docs/2.0.0.RELEASE/reference/html/getting-started-installing-spring-boot.html#getting-started-installing-the-cli>.
 
-Follow the installation instructions in the README.txt file (essentially replacing the two policy files in the JRE `lib/security` directory with the ones that you downloaded).
-
-* Install or upgrade to Spring Cloud CLI version 2.0.0. This specific version is required. Review the installation and upgrade guidance here: <https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#cli>. To install the Spring Cloud CLI, follow the instructions here: <https://cloud.spring.io/spring-cloud-static/spring-cloud-cli/2.0.0.RELEASE/single/spring-cloud-cli.html>.
+  * Manual installation link: [https://github.com/spring-projects/spring-boot/releases/tag/v2.0.0.RELEASE](https://github.com/spring-projects/spring-boot/releases/tag/v2.0.0.RELEASE "spring manual install link")
+  * The command referenced for setup is `sdk install springboot 2.0.0`.
+  * To install, use the command `spring install org.springframework.cloud:spring-cloud-cli:2.0.0.RELEASE`.
 
 ## Encrypting a Property
 
 **Encrypt an individual configuration property**
 
-1. Ensure your environment meets the prerequisites listed in  [Prerequisites](#Prerequi).
+1. Ensure your environment meets the prerequisites listed in [Prerequisites](#Prerequi).
 2. Use the following Spring Cloud CLI 2.0.0 command to encrypt a property value with a specified encryption key:
 
    spring encrypt <property-value> --key <encryption-key>
@@ -49,12 +50,12 @@ Follow the installation instructions in the README.txt file (essentially replaci
 
    The output of this command is the encrypted property. For example:
 
-   711448026e2c6a977b2be1b22f13649cc938366397fbd345113d2a50e27c348f)
+   711448026e2c6a977b2be1b22f13642cc938366397fbd3451a3d2a50e27c348f
 3. Add the following to the properties file in which the encrypted property value will be stored:
 
    * The encrypted property you obtained in Step 2, prepended with `{cipher}`. The `{cipher}` prefix allows Spring Cloud to recognize encrypted properties. For example:
 
-     encrypted.property={cipher}711448026e2c6a977b2be1b22f13649cc938366397fbd345113d2a50e27c348f
+     encrypted.property={cipher}711448026e2c6a977b2be1b22f13642cc938366397fbd3451a3d2a50e27c348f
    * A new property (once per property file) that identifies the encryption key used. For example:
 
      ENCRYPT.KEY=<encryption-key>

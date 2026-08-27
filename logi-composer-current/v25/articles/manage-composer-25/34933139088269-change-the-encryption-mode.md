@@ -4,7 +4,7 @@ id: 34933139088269
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933139088269-Change-the-Encryption-Mode
-updated_at: 2026-05-26T22:08:03Z
+updated_at: 2026-08-24T20:31:21Z
 ---
 
 # Change the Encryption Mode
@@ -21,9 +21,7 @@ If you are upgrading to a newer version of Composer and you also want to change 
 **Note:** 
 You must have system administration privileges to change the encryption mode.
 
-You must have the full-strength Java Cryptography Extension (JCE) installed in your Java virtual machine (it's not there by default). You can download the JCE Unlimited Strength Jurisdiction Policy Files from Oracle at the following link: <https://www.oracle.com/java/technologies/javase-jce8-downloads.html>.
-
-See also [Encrypt Configuration Properties](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932702533901-Encrypt-Configuration-Properties).
+See also [Encrypt Configuration Properties](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932702533901-Encrypt-Configuration-Properties) to ensure your environment meets the requirements to perform this task.
 
 **Change the encryption mode**
 

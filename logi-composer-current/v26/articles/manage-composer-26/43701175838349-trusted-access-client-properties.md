@@ -4,7 +4,7 @@ id: 43701175838349
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701175838349-Trusted-Access-Client-Properties
-updated_at: 2026-05-29T14:09:25Z
+updated_at: 2026-08-26T07:10:54Z
 ---
 
 # Trusted Access Client Properties

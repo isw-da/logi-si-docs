@@ -4,7 +4,7 @@ id: 43701104724621
 section: "Get Started With Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701104724621-Get-Started-With-Composer-26
-updated_at: 2026-05-29T14:08:38Z
+updated_at: 2026-08-26T07:11:24Z
 ---
 
 # Get Started With Composer 26
@@ -19,7 +19,7 @@ API documentation is provided in your environment at this link: `https://<compos
 
 [1. Product Installation](#)
 
-1. Verify you have a server available that meets the sizing requirements of Composer. See [Server Size Guidelines](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701073249037-Server-Size-Guidelines) and [System Requirements](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701105740685-System-Requirements) and [Installation Prerequisites](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701135037709-Installation-Prerequisites).
+1. Verify you have a server environment available that meets the sizing requirements of Composer. See [Server Size Guidelines](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701073249037-Server-Size-Guidelines), [System Requirements](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701105740685-System-Requirements)[Installation Prerequisites](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701135037709-Installation-Prerequisites) and [Supported Technologies Reference](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/48298359669517-Supported-Technologies-Reference).
 2. Install Composer using the supplied bootstrap script. See [Installation Steps](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701120422797-Installation-Steps). Optionally, install the product and its metadata store manually (see [Install Composer Manually](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701105134605-Install-Composer-Manually)).
 3. Optionally, configure Composer servers in a distributed environment (either a load balanced environment or a high availability environment). See [Configure a Distributed Composer Environment](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701120036749-Configure-a-Distributed-Composer-Environment).
 4. License the product, if a new license is required. See [Request and Apply a New License Key](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701121443341-Request-and-Apply-a-New-License-Key).
@@ -40,7 +40,7 @@ API documentation is provided in your environment at this link: `https://<compos
 1. Activate logging. (regular -- Fluentd optional) See [Activity Logging](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701106334605-Activity-Logging), [Manage Activity Logs](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701136219917-Manage-Activity-Logs), and [Set Up Unified Logging Using Fluentd](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701136195213-Set-Up-Unified-Logging-Using-Fluentd).
 2. Optionally, create custom charts needed by your organization. [Manage Custom Charts](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701046331405-Manage-Custom-Charts).
 3. Optionally, create admin-defined functions needed for your environment. [Admin-Defined Functions](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701029797901-Admin-Defined-Functions).
-4. Optionally, configure a different theme for the your environment's UI. See [Manage UI Themes](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701163831053-Manage-UI-Themes).
+4. Optionally, configure a different theme for the your environment's UI. See [Manage User Interface Themes](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701163831053-Manage-User-Interface-Themes).
 5. Optionally, customize the UI for your environment. See [Customize the User Interface](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701054077581-Customize-the-User-Interface).
 
 [5. Data Authoring](#)
@@ -50,19 +50,19 @@ API documentation is provided in your environment at this link: `https://<compos
 3. Optionally, configure row and column security for your data sources. See [Restrict Access to Data Using Row Security](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701069473293-Restrict-Access-to-Data-Using-Row-Security) and [Restrict Access to Fields Using Column Security](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701069320333-Restrict-Access-to-Fields-Using-Column-Security).
 4. Optionally, configure permissions for each data source. See [About Source Permissions](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701101615373-About-Source-Permissions).
 
-[6. Dashboard and Visual Creation](#)
+[6. Visual, Dashboard, and Report Creation](#)
 
-1. Configure the dashboards and visuals needed to analyze your data. See [Manage Dashboards](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701029082893-Manage-Dashboards) and [Manage Visuals](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701171638925-Manage-Visuals).
+1. Configure visuals, dashboards, and enable reports your users need to analyze your data. See [Manage Visuals](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701171638925-Manage-Visuals), [Manage Dashboards](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701029082893-Manage-Dashboards), and [Manage Self Service Reports](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/46982003580173-Manage-Self-Service-Reports).
 2. Optionally, configure permissions for each dashboard. See [About Dashboard Permissions](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701076423437-About-Dashboard-Permissions).
 3. Optionally, specify how each visual can be interacted with when embedded. See [Control How Users Interact With a Visual](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701185104653-Control-How-Users-Interact-With-a-Visual).
-4. Optionally, share dashboards with other users in your tenant. See [Share a Dashboard with Users](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701077162637-Share-a-Dashboard-with-Users).
-5. Optionally, export a dashboard. See [Export Dashboards](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701076601229-Export-Dashboards).
-6. Optionally, schedule a dashboard report. See [About Scheduled Dashboard Reports](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700998266509-About-Scheduled-Dashboard-Reports).
+4. Optionally, share dashboards with other users in your tenant. See [Share a Dashboard or Self Service Report with Users](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701077162637-Share-a-Dashboard-or-Self-Service-Report-with-Users).
+5. Optionally, export a dashboard or report. See [Export Dashboards](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701076601229-Export-Dashboards) and [Export Your Self Service Report](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/46982018753165-Create-Self-Service-Reports#Export2).
+6. Optionally, schedule a self service report or dashboard report. See [About Scheduled Reports](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700998266509-About-Scheduled-Reports).
 
 [7. Dashboard Embedding](#)
 
 1. Set up Trusted Access and register your application as a client. See [Trusted Access](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701128164493-Trusted-Access).
-2. Embed dashboards in your applications. See [Embed Components Into Your Application](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701093407501-Embed-Components-Into-Your-Application).
+2. Embed dashboards or self service reports in your applications. See [Embed Components Into Your Application](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701093407501-Embed-Components-Into-Your-Application).
 3. Optionally, enable embedded dashboard access from other sites using cross-origin sharing (CORS). See [Enable Composer Component Access From Other Sites Using Cross-Origin Resource Sharing (CORS)](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701054098061-Enable-Composer-Component-Access-From-Other-Sites-Using-Cross-Origin-Resource-Sharing-CORS).
 
 The following additional topics may also be helpful.

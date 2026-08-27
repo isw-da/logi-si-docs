@@ -4,7 +4,7 @@ id: 43700991808269
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700991808269-Manage-Composer-Microservices-Using-the-Command-Line-Utility
-updated_at: 2026-05-29T14:07:17Z
+updated_at: 2026-08-26T07:11:40Z
 ---
 
 # Manage Composer Microservices Using the Command Line Utility

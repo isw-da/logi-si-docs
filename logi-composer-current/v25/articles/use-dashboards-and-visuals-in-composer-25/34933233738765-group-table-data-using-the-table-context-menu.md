@@ -4,7 +4,7 @@ id: 34933233738765
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933233738765-Group-Table-Data-Using-the-Table-Context-Menu
-updated_at: 2026-05-26T22:09:01Z
+updated_at: 2026-08-24T20:32:10Z
 ---
 
 # Group Table Data Using the Table Context Menu
@@ -18,9 +18,9 @@ When you group table data, summarized totals are provided for numeric fields in 
 **Group table data using the table context menu**
 
 1. View the table visual in a dashboard or from the Visual Gallery. Determine which field you want to use to group the data. For example, you might want to group sales data by state.
-2. Locate the field in the table and select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167829563789) next to its column heading to access the table context menu.
+2. Locate the field in the table and select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374667802253) next to its column heading to access the table context menu.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166950859021)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48372999976717)
 3. Select **Group by <field>** on the context menu.
 
    The table is grouped by that field.

@@ -4,7 +4,7 @@ id: 43701046425997
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701046425997-Part-3-Third-Party-Charting-Library-Integration
-updated_at: 2026-05-29T14:11:22Z
+updated_at: 2026-08-26T07:10:40Z
 ---
 
 # Part 3: Third-Party Charting Library Integration
@@ -60,7 +60,7 @@ You can use third-party libraries to assist with the rendering and formatting re
    console.log(echarts ? 'The library is defined.' : 'The library is undefined');const groupAccessor = controller.dataAccessors['Group By'];const metricAccessor = controller.dataAccessors.Size;//...
 5. Check the contents of the browser console after adding the updated chart to a dashboard. The following image shows what the console should look like:
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242699976333)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418018707725)
 6. Once you confirm that the global variable is defined, you can remove the `console.log` statement.
 
 ## Step 4. Create a Chart Container
@@ -132,7 +132,7 @@ In[Part 2: Query Variables, Chart Defaults, Data Preview, and Data Accessors](ht
 
    A pie chart renders similar to this:
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242713019917)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418007264525)
 
    Unfortunately, the pie chart is slightly cut off at the bottom, so the window needs to be resized. Read on.
 

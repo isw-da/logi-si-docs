@@ -4,7 +4,7 @@ id: 34932715662093
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932715662093-Multivalued-Fields
-updated_at: 2026-05-26T22:06:26Z
+updated_at: 2026-08-24T20:29:22Z
 ---
 
 # Multivalued Fields

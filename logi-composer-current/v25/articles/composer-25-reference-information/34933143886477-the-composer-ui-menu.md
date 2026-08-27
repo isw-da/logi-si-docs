@@ -4,14 +4,14 @@ id: 34933143886477
 section: "Composer 25 Reference Information"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu
-updated_at: 2026-05-26T22:09:23Z
+updated_at: 2026-08-24T20:32:34Z
 ---
 
 # The Composer UI Menu
 
 # The Composer UI Menu
 
-Navigate to the user interface (UI) menu by selecting the hamburger icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167836222861)) in the upper right corner your software. Menu options vary: users who are members of the Supervisors or Administrators group, and users with specific group [privileges](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932577846157-Group-Privilege-Reference) have access to different options.
+Navigate to the user interface (UI) menu by selecting the hamburger icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374757855757)) in the upper right corner your software. Menu options vary: users who are members of the Supervisors or Administrators group, and users with specific group [privileges](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932577846157-Group-Privilege-Reference) have access to different options.
 
 The table below describes menu options available to user groups in Composer in v23.4 and later.
 

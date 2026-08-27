@@ -4,7 +4,7 @@ id: 43701135279757
 section: "Install, Upgrade, and Remove Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701135279757-Install-the-Screenshot-Microservice
-updated_at: 2026-05-29T14:08:48Z
+updated_at: 2026-08-26T07:11:11Z
 ---
 
 # Install the Screenshot Microservice
@@ -23,7 +23,9 @@ updated_at: 2026-05-29T14:08:48Z
    In Ubuntu environments:
 
    sudo dpkg -i <filename>.deb
-3. Install the correct version of ChromeDriver. Refer to the [ChromeDriver documentation](http://chromedriver.chromium.org/downloads) for more information.
+3. **DCD-224 replace this step 3**
+
+   Install the correct version of ChromeDriver. Refer to the [ChromeDriver documentation](http://chromedriver.chromium.org/downloads) for more information.
 
    Run the script `install-dependencies.sh` (located in the `/opt/zoomdata/docs/screenshot-service/` installation directory) or enter the following commands on the command line (for all operating systems):
 

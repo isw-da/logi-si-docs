@@ -4,7 +4,7 @@ id: 43701009802509
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701009802509-Manage-the-BigQuery-Connector
-updated_at: 2026-05-29T14:11:30Z
+updated_at: 2026-08-26T07:11:28Z
 ---
 
 # Manage the BigQuery Connector
@@ -69,11 +69,11 @@ To authorize the BigQuery connection, you need to create a security key for it. 
 
 1. Login to your Google API Console.
 2. Select the required project from the list.
-3. Make sure that current account is linked to a billing account. To check this, select the menu (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242740588173)) icon and then select
+3. Make sure that current account is linked to a billing account. To check this, select the menu (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417954403469)) icon and then select
    **Billing**.
 4. On the API Manager page, select **Credentials**:
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242755698445)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418008089869)
 5. On the Credentials page, select **Manage service accounts**.
 6. On the Service Accounts page, select **Create Service Account** and specify the following:
 
@@ -81,7 +81,7 @@ To authorize the BigQuery connection, you need to create a security key for it. 
    * Role - grant this microservice account role based access to the project. From the list, select the **BigQuery** category and then select **BigQuery Data Viewer** and **BigQuery User** roles.
    * Service account ID
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242735177485)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418004408205)
 7. Select **Create**.
 
 After you have created an account, create a security key for it.

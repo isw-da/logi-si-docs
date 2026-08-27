@@ -4,7 +4,7 @@ id: 34932644914061
 section: "Embed Composer Dashboards Into Applications Using Composer"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932644914061-Define-an-Action-Template
-updated_at: 2026-05-26T22:10:26Z
+updated_at: 2026-08-24T20:33:47Z
 ---
 
 # Define an Action Template
@@ -19,10 +19,10 @@ You must be logged in as an administrator or as a user with the **Manage Action 
 ## Define a New Action Template
 
 1. Log in as a n administrator or a user with the **Manage Action Templates** [privilege](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932577846157-Group-Privilege-Reference).
-2. Select **Actions** on the [UI menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167978216973)). The Actions page appears.
+2. Select **Actions** on the [UI menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374904845965)). The Actions page appears.
 
    The Actions page is split into two parts. Action templates (if any) you have defined are listed on the left. When you select an action template on the left, its details appear on the right.
-3. Select the add icon ![add icon](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46168005031309 "add icon"). Action properties are listed on the right side of the page.
+3. Select the add icon ![add icon](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374917325325 "add icon"). Action properties are listed on the right side of the page.
 4. Specify appropriate action properties on the right side of the page, as described below.
 
    | Action Property | Description |

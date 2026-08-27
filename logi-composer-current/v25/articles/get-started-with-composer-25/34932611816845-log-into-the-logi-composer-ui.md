@@ -4,7 +4,7 @@ id: 34932611816845
 section: "Get Started With Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932611816845-Log-Into-the-Logi-Composer-UI
-updated_at: 2026-05-26T22:10:26Z
+updated_at: 2026-08-24T20:33:48Z
 ---
 
 # Log Into the Logi Composer UI 
@@ -23,7 +23,7 @@ We recommend that you log into Logi Composer for the first time using supervisor
 
 To sign on using Logi Composer credentials, enter your User Name and Password in the appropriate fields.
 
-![Composer Log in prompt](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167446308749 "Composer Log in prompt")
+![Composer Log in prompt](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374020820493 "Composer Log in prompt")
 
 If this is your first time accessing Logi Composer, you may be asked to change a password. This is determined by your organization's administrator. For any questions or issues, contact your administrator.
 

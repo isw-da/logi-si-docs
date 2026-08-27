@@ -4,7 +4,7 @@ id: 43701052048397
 section: "Get Started With Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701052048397-Access-Logi-Composer
-updated_at: 2026-05-29T14:07:08Z
+updated_at: 2026-08-26T07:11:39Z
 ---
 
 # Access Logi Composer
@@ -13,8 +13,8 @@ updated_at: 2026-05-29T14:07:08Z
 
 ## Access Logi Composer from a Browser
 
-1. Open a supported web browser. See [System Requirements](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701105740685-System-Requirements#Browsers) or see [caniuse.com](https://caniuse.com/#search=websockets) to check whether your browser supports WebSocket technology.
-2. If you have configured your firewall based on instructions above then use the following URL format:
+1. Open a supported web browser. See  [caniuse.com](https://caniuse.com/#search=websockets).
+2. If you have configured your firewall based on instructions provided, then use the following URL format:
 
    http://<composer-server-IP-address>/composer
 

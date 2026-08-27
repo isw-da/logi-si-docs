@@ -4,7 +4,7 @@ id: 43701104692237
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701104692237-Data-Fusion-Use-Cases
-updated_at: 2026-05-29T14:10:42Z
+updated_at: 2026-08-26T07:12:04Z
 ---
 
 # Data Fusion Use Cases
@@ -23,7 +23,7 @@ We’ll explore each use case in greater detail and then demonstrate how you can
 
 The lookup description is the simplest use case since it is joining a fact table to a lookup table using a common identity key. In this scenario, the description from a lookup table can be visualized along with metrics information from a fact table. The following diagram illustrates an example of a join between the event (lookup table) and the price paid. The common field between the two disparate tables is **event\_id**.
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242465791117)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417967517325)
 
 The resulting fused data includes the attributes from the lookup table and the metrics from the fact table. Any additional group-by attributes that are available from the lookup table are displayed as well.
 
@@ -37,13 +37,13 @@ For example, the following diagram illustrates a star schema table. The Sales ta
 
   
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242465951885)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417967550349)
 
 ## Multiple Fact Table Use Case
 
 Composer supports the capability to join different fact tables together. Similar to the lookup description use case, multiple fact tables are joined using a common key. As a result, metrics from different tables can be displayed on the same visual with common keys as the Group By keys. The following diagram shows two disparate fact tables being joined under the common attribute - **seller\_id**.
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242512866829)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417979039245)
 
 If a join is attempted between tables that have a one-to-many or many-to-many relationship, the table metrics will be duplicated.
 
@@ -51,4 +51,4 @@ If a join is attempted between tables that have a one-to-many or many-to-many re
 
 You can also fuse data using a combination of these use cases. For example, you can create a lookup to fact to lookup join (as shown in the diagram below) to explore the sellers, their ticket sales and event information all on one visual. In this example, seller information is located in a lookup table, sales data is housed in a fact table, and event details are stored in a lookup table. The common keys connecting these data sets are **user\_id**, **seller\_id**, and **event\_id**.
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242466211213)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417967575693)

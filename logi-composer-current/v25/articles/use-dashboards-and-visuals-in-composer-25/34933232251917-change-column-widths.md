@@ -4,7 +4,7 @@ id: 34933232251917
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933232251917-Change-Column-Widths
-updated_at: 2026-05-26T22:09:01Z
+updated_at: 2026-08-24T20:32:10Z
 ---
 
 # Change Column Widths
@@ -24,7 +24,7 @@ You can also request that Composers autosize all the columns in the table.
 
 1. Select **Autosize All Columns** in the [context menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933240876045-Table-Context-Menu) of any column in the table.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166995026317)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373075185293)
 
    The table columns are autosized.
 2. Save the dashboard and visual.

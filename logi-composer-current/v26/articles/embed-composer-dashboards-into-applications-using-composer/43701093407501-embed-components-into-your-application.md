@@ -4,7 +4,7 @@ id: 43701093407501
 section: "Embed Composer Dashboards Into Applications Using Composer"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701093407501-Embed-Components-Into-Your-Application
-updated_at: 2026-05-29T14:08:05Z
+updated_at: 2026-08-26T07:09:26Z
 ---
 
 # Embed  Components Into Your Application
@@ -23,17 +23,17 @@ When components are embedded, the way in which users can interact with them is d
 
 **Note:** insightsoftware recommends using [Trusted Access](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701128164493-Trusted-Access) for all embed-related workflows.
 
-The list of options available on an embedded [visual's drop-down menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Menu) depends on:
+The list of options available on an embedded [visual's drop-down menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu) depends on:
 
 * The mode setting for the dashboard. If the embed mode is [`readonly` or](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701070345997-Embedded-Dashboard-Properties-and-Objects) [**Read Only**](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701081719053-Generate-an-Embeddable-Dashboard-HTML-Snippet), no menu is available at all.
 * The [visual interactivity settings](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701185104653-Control-How-Users-Interact-With-a-Visual) specified in the visual definition.
 * The [dashboard interactivity settings](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701076696717-Control-How-Users-Interact-With-a-Dashboard) specified for the dashboard, if those settings include override interactivity settings for all visuals in the dashboard.
 
-When options are shown for a visual in an embedded dashboard, they may be shown in the [visual sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) or within the [visual drop-down menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Menu) itself, depending on the setting of the [`editor.placement`](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701070345997-Embedded-Dashboard-Properties-and-Objects) property.
+When options are shown for a visual in an embedded dashboard, they may be shown in the [visual sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) or within the [visual drop-down menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu) itself, depending on the setting of the [`editor.placement`](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701070345997-Embedded-Dashboard-Properties-and-Objects) property.
 
 * If [`editor.placement`](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701070345997-Embedded-Dashboard-Properties-and-Objects) is set to `dockRight`, the options appear in sidebars using the [visual sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) and the resulting sidebar editing panels.
 
-  If [`editor.placement`](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701070345997-Embedded-Dashboard-Properties-and-Objects) is set to `modals`, the options appear in the [visual drop-down menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Menu) itself and the resulting floating dialogs.
+  If [`editor.placement`](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701070345997-Embedded-Dashboard-Properties-and-Objects) is set to `modals`, the options appear in the [visual drop-down menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu) itself and the resulting floating dialogs.
 
 **Note:** 
 In environments where you use Typescript for your client side code, you can use Embed Manager as an npm package. See <https://www.npmjs.com/package/logi-embed>.

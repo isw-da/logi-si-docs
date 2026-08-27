@@ -4,7 +4,7 @@ id: 34933292479117
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933292479117-Save-Visuals-With-Their-Current-Names
-updated_at: 2026-05-26T22:08:48Z
+updated_at: 2026-08-24T20:31:55Z
 ---
 
 # Save Visuals With Their Current Names
@@ -22,15 +22,15 @@ To save visuals, you must be logged in a user with [write permissions](https://l
 **Save a visual with its current name**
 
 1. Select the visual on a dashboard or in the Visual Gallery. When selected on a dashboard, a blue border appears around the visual. If you select a visual with a streaming data source, the [time bar](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933204115725-Use-the-Time-Bar) (Data DVR) appears.
-2. Select save (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167776966925)) in the upper right corner of the visual.
+2. Select save (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374633043981)) in the upper right corner of the visual.
 
    * If you are editing the visual in the Visual Gallery, the Save Options dialog appears.
 
-     ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166885125133)
+     ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48372919939981)
 
      Optionally, specify a new visual name in the **Visual Name** box and select **Save**. The visual is saved.
    * If you are editing the visual in a dashboard, a warning appears indicating that the visual changes will occur for all dashboards that use the visual.
 
-     ![save visual warning - affect all dashboards](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166914603789 "save visual warning - affect all dashboards")
+     ![save visual warning - affect all dashboards](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48372962142221 "save visual warning - affect all dashboards")
 
      Select **OK** on the warning dialog. The visual is saved.

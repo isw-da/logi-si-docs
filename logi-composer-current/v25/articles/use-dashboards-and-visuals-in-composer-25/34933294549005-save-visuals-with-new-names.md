@@ -4,7 +4,7 @@ id: 34933294549005
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933294549005-Save-Visuals-With-New-Names
-updated_at: 2026-05-26T22:08:47Z
+updated_at: 2026-08-24T20:31:54Z
 ---
 
 # Save Visuals With New Names
@@ -30,9 +30,9 @@ To save visuals with a new visual name in the Visual Gallery, you must be logged
 **Save a visual with a new name in the visual gallery**
 
 1. Select the visual in the Visual Gallery.
-2. Select **Save As** in the (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166896590477)) in upper right corner of the visual.
+2. Select **Save As** in the (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48372962368909)) in upper right corner of the visual.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166885498765)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48372927919757)
 3. Specify a new visual name in the **Visual Name** box and select **Save**. Composer adds a copy of the visual with the new name to the visual gallery.
 
    The original visual still exists with its original visual name in the system.
@@ -41,7 +41,7 @@ To save visuals with a new visual name in the Visual Gallery, you must be logged
 
 1. Select a visual in the dashboard.
 2. Select **Save As** from the [visual drop-down menu.](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933290868621-Use-the-Visual-Menu)
-3. ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166885498765)
+3. ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48372927919757)
 4. Specify a new visual name in the **Visual Name** field, optionally add or edit the **Visual Description**, and select **Save**. Composer adds a copy of the visual with the new name to the visual gallery.
 
    The visual in the dashboard is replaced by the new visual.

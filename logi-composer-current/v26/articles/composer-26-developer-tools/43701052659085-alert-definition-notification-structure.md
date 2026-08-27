@@ -4,7 +4,7 @@ id: 43701052659085
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701052659085-Alert-Definition-Notification-Structure
-updated_at: 2026-05-29T14:07:10Z
+updated_at: 2026-08-26T07:08:55Z
 ---
 
 # Alert Definition Notification Structure

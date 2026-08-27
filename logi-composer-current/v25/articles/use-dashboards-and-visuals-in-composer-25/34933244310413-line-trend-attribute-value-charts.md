@@ -4,7 +4,7 @@ id: 34933244310413
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933244310413-Line-Trend-Attribute-Value-Charts
-updated_at: 2026-05-26T22:09:07Z
+updated_at: 2026-08-24T20:32:16Z
 ---
 
 # Line Trend: Attribute Value Charts
@@ -28,9 +28,9 @@ For information on setting even time intervals, see [Even Time Intervals](https:
 2. If you are editing the visual in a dashboard, select **Settings** from the [visual drop-down menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933290868621-Use-the-Visual-Menu). The [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu) for the visual appears.
 
    If you are editing the visual from the Visual Gallery, the sidebar appears to the right of the visual.
-3. Select the settings icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167846253965)) on the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu). The Line Chart Settings sidebar for the visual appears.
+3. Select the settings icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374685645581)) on the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu). The Line Chart Settings sidebar for the visual appears.
 
-   ![define the settings for your line chart](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166969093005 "Line chart settings work area")
+   ![define the settings for your line chart](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373114059533 "Line chart settings work area")
 4. Alter the settings as needed:
 
    | Setting | Description |
@@ -41,7 +41,7 @@ For information on setting even time intervals, see [Even Time Intervals](https:
    | Horizontal Scroll | Select to enable users to scroll and zoom data for this visual. Other settings you define for this visual may limit the availability of this option. |
    | Line Thickness | Increase or decrease the thickness of the lines in the visual using the up and down arrows in this box. |
 5. Optionally, edit the number or date and time format for this visual. See [Configure Number Formatting for Visuals](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933278713485-Configure-Number-Formatting-for-Visuals) and [Configure Date and Time Formatting for Visuals](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933263048077-Configure-Date-and-Time-Formatting-for-Visuals).
-6. Select the save icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167846255885)) to save the dashboard and the visual with its updated settings.
+6. Select the save icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374703225101)) to save the dashboard and the visual with its updated settings.
 
 ## Configure Colors for a Specific Attribute Value Line Chart
 
@@ -50,9 +50,9 @@ For information on setting even time intervals, see [Even Time Intervals](https:
 1. Edit the visual you want to modify. See [Edit Visuals](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933280606989-Edit-Visuals).
 2. If you are editing the visual in a dashboard, select **Settings** from the [visual drop-down menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933290868621-Use-the-Visual-Menu). The [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu) for the visual appears. If you are editing the visual from the Visual Gallery, the sidebar appears to the right of the visual.
 
-   Select the color icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167840745741)) on the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu). The Color sidebar for the visual appears.
+   Select the color icon on the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu). The Color sidebar for the visual appears.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167846257677)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374685649165)
 3. Configure the color settings as described below. As you change the color settings, the legend at the top of the Color sidebar shows how the legend will appear on the visual. Supported color specifications are described in [Specify Colors](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932703126541-Specify-Colors).
 
    | Setting | Description |
@@ -61,4 +61,4 @@ For information on setting even time intervals, see [Even Time Intervals](https:
    | Color Attribute | Select the attribute that affects the segment color in the visual. |
    | Group By Color Palette | Select a color palette for this specific visual.  Select the **Inherit from theme** checkbox to use the color palette specified by the [theme](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933172226573-Manage-UI-Themes). |
 4. Close the Color sidebar and the color settings are dynamically applied to the visual.
-5. Select the save icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167846255885)) to save the dashboard and the visual with its updated settings.
+5. Select the save icon to save the dashboard and the visual with its updated settings.

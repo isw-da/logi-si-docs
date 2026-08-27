@@ -4,7 +4,7 @@ id: 43701116252685
 section: "Manipulate Data In The Composer 26 Data Store"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701116252685-Supported-SQL-Like-Expressions
-updated_at: 2026-05-29T14:08:23Z
+updated_at: 2026-08-26T07:09:38Z
 ---
 
 # Supported SQL-Like Expressions

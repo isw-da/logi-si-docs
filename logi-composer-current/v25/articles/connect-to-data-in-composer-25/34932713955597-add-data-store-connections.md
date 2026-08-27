@@ -4,7 +4,7 @@ id: 34932713955597
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932713955597-Add-Data-Store-Connections
-updated_at: 2026-05-26T22:10:18Z
+updated_at: 2026-08-24T20:33:40Z
 ---
 
 # Add  Data Store Connections
@@ -19,7 +19,7 @@ You must be logged in as a user with the [group privilege](https://logi-composer
 **Add and validate a connection**
 
 1. Log in as a user with the [group privilege](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932577846157-Group-Privilege-Reference) **Manage Connections**.
-2. Select **Connections** on the [top-level navigation banner](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933120256397-The-Top-Level-Navigation-Banner), the [UI menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167965186829)), or select the **Connections** option on the [Home page](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933063528717-Home-Page). The [Connections page](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932690166541-Connections-Page) appears.
+2. Select **Connections** on the [top-level navigation banner](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933120256397-The-Top-Level-Navigation-Banner), the [UI menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933143886477-The-Composer-UI-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374851491597)), or select the **Connections** option on the [Home page](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933063528717-Home-Page). The [Connections page](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932690166541-Connections-Page) appears.
 
    The Connections page lists the data store connections you have defined, identifies the number of associated data sources, and other overview information about your existing connections.
 3. Select **Create Connection** in the upper right corner of the connection list. The Select a Connection Type dialog appears.

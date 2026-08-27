@@ -4,7 +4,7 @@ id: 34932842163469
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932842163469-Use-the-Dashboard-Icon-Bars
-updated_at: 2026-05-26T22:10:05Z
+updated_at: 2026-08-24T20:33:23Z
 ---
 
 # Use the Dashboard Icon Bars
@@ -13,7 +13,7 @@ updated_at: 2026-05-26T22:10:05Z
 
 When you create or edit a dashboard, a series of icons are available you can use to perform specific dashboard functions.
 
-![manage your dashboard layout and enable view mode](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167324526349 "dashboard icons")![options available for dashboards for sharing, exporting, adding widgets and more](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167346506253 "dashboard icons bar")
+![manage your dashboard layout and enable view mode](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373721478541 "dashboard icons")![options available for dashboards for sharing, exporting, adding widgets and more](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373713144973 "dashboard icons bar")
 
 Select an icon to perform a dashboard function, as described in the following table.
 

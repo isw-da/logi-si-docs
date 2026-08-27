@@ -4,7 +4,7 @@ id: 34932936970765
 section: "Embed Composer Dashboards Into Applications Using Composer"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932936970765-Optional-Embedded-Visual-Authoring-Breadcrumb-Properties
-updated_at: 2026-05-26T22:07:16Z
+updated_at: 2026-08-24T20:30:27Z
 ---
 
 # Optional Embedded Visual Authoring Breadcrumb Properties

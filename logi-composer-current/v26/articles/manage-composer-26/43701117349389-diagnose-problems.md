@@ -4,7 +4,7 @@ id: 43701117349389
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701117349389-Diagnose-Problems
-updated_at: 2026-05-29T14:10:55Z
+updated_at: 2026-08-26T07:12:14Z
 ---
 
 # Diagnose Problems
@@ -17,7 +17,7 @@ The diagnostics bundle is primarily useful as an easy way to send Composer the i
 
 An example of the uncompressed contents of the diagnostic bundle might look like this:
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242554924685)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417999425549)
 
 ### Prerequisites
 

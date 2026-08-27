@@ -4,7 +4,7 @@ id: 43701040681613
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701040681613-Configure-Memory-Settings
-updated_at: 2026-05-29T14:07:20Z
+updated_at: 2026-08-26T07:11:38Z
 ---
 
 # Configure Memory Settings
@@ -25,10 +25,11 @@ If you’re upgrading your environment:
 | Admin Server | 512M/1024M | Deprecated |
 | Config Server | 512M/1024M | Deprecated |
 | Data Writer | 128M/256M | 512M/512M |
-| EDC \* | 128M/512M | 512M/512M |
+| EDC | 128M/512M | 512M/512M |
 | EDC hdfs/s3 | 512M/3584M | 1500M/1500M |
 | Query Engine | 1G/6G | 4G/4G |
 | Screenshot Service | 128M/1G | 750M/750M |
+| Self Service Reports (when enabled) | N/A | 6Gi/9Gi |
 | Zoomdata Web | 1G/2G | 4G/4G |
 
 **Change memory allocation settings for** Composer **microservices**

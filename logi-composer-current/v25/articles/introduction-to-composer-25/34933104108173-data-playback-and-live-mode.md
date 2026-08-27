@@ -4,7 +4,7 @@ id: 34933104108173
 section: "Introduction to Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933104108173-Data-Playback-and-Live-Mode
-updated_at: 2026-05-26T22:07:52Z
+updated_at: 2026-08-24T20:31:09Z
 ---
 
 # Data Playback and Live Mode

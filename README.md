@@ -42,8 +42,35 @@ Pick whichever fits the customer's stack.
 ## Honest limits
 
 - The assistant retrieves, it does not know. Answer quality depends on what got indexed and how the question is phrased; it can still miss or fetch the wrong page.
-- This is a snapshot, dated below. Docs change. Re-run the pull to refresh.
+- The Zendesk-sourced trees refresh themselves weekly (see below). `composer-api/` does not, and is a dated snapshot.
 - Simba Intelligence publishes no OpenAPI spec for its own NLQ endpoints (`/api/v1/*`, session-authenticated), checked against a live instance. Those are documented in prose in `simba-intelligence/` (the API Usage Guide). The machine-readable spec that does exist is the Composer and discovery API in `composer-api/`, which is the backend SI queries. See `simba-intelligence/API-NOTES.md`.
+
+## Refreshing
+
+**The Zendesk-sourced trees refresh themselves.** `.github/workflows/refresh-mirror.yml`
+runs `scripts/refresh.py` at 06:00 UTC every Monday and commits anything that moved. It
+needs no secrets, because every source is a public unauthenticated Help Centre API, and it
+costs nothing, because Actions minutes are free on a public repository. Run it on demand
+from the Actions tab with **Run workflow**, or locally:
+
+```bash
+pip install -r requirements-refresh.txt
+python scripts/refresh.py --dry-run   # report the delta, write nothing
+python scripts/refresh.py             # write it
+```
+
+The refresh is additive: a file is rewritten only when it is new or upstream's `updated_at`
+has moved, so a routine run produces a small diff rather than rewriting the corpus.
+
+**`composer-api/` is NOT automated and cannot be.** Those OpenAPI specs come from a running
+Composer instance, not a documentation site, and CI cannot reach one. They are pulled by
+hand, and each is named for the instance that served it, because two instances demonstrably
+disagree. See `composer-api/ENDPOINTS.md`.
+
+**A note on the converter.** `scripts/refresh.py` uses `markdownify`, which reproduces the
+existing corpus byte for byte. A hand-rolled regex converter was tried first and silently
+dropped every cross-reference link and broke headings onto two lines. It would have degraded
+1,388 files while looking like a routine refresh, so the dependency is worth it.
 
 ## How it was built, and how to refresh
 

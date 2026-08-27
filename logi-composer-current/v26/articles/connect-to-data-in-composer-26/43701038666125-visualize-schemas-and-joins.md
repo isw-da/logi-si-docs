@@ -4,22 +4,22 @@ id: 43701038666125
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701038666125-Visualize-Schemas-and-Joins
-updated_at: 2026-05-29T14:11:33Z
+updated_at: 2026-08-26T07:10:47Z
 ---
 
 # Visualize Schemas and Joins
 
 # Visualize Schemas and Joins
 
-Visualize the fields and tables in schemas included with your connection, and created by other users. Add relationships as needed. Visualize joins in your data sources.
+Visualize the fields and tables in schemas included with your connection, and created by other users. Add relationships as needed. Visualize join nodes in your data sources.
 
-When you create joins in a source, you can visualize and update your joins as well. See[Fuse Data Sources](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701072155405-Fuse-Data-Sources).
+When you create join nodes in a source, you can visualize and update your joins as well. See[Fuse Data Sources](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701072155405-Fuse-Data-Sources).
 
 ## Edit and View Relationships in Schemas
 
 Users with appropriate permissions can view and edit the relationships using the Relationship tab for a supported connection. Select a schema from the list in the drop-down, then make and save any additions to the relationships as needed.
 
-![Use this work area to view and update relationships in available schemas](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242726494477 "Relationship tab for a connector")
+![Use this work area to view and update relationships in available schemas](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418034719885 "Relationship tab for a connector")
 
 **View or edit a schema for a connection**
 
@@ -28,7 +28,7 @@ Users with appropriate permissions can view and edit the relationships using the
 3. View the existing relationships and any user defined relationships.
 4. Optionally, draw more relationships in this work area, then **Save** your changes.
 
-   **Note:** To remove a user-applied join, double-click to select the join, then select the backspace key. The relationship is removed.
+   **Note:** To remove a user-applied join node, double-click to select the join node, then select the backspace key. The relationship is removed.
 5. View or edit as many schemas as you need.
 
 **Important:** If you add joins that create one-to-many relationships here, Logi Composer may return an error that prevents use of the data in a visual. For best results, when you create a one-to-many relationship with a specific left entity, any additional joins must refer to that table as the right entity. See [Recommended Joins](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701072201741-Create-a-Fusion-Source#Recs).
@@ -37,16 +37,16 @@ Users with appropriate permissions can view and edit the relationships using the
 
 ## View Relationships of a Schema in a Source
 
-You can view the relationships present in schemas you're using in your sources that use a supported connection. The [Source Creation tab](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701080568205-Source-Creation-Tab) of the [source](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701068934669-Manage-Data-Sources) includes a Schema drop-down you can use to select a schema for the source, with a view button that opens the work area.
+You can view the relationships present in schemas you are using in your sources that use a supported connection. The [Source Creation tab](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701080568205-Source-Creation-Tab) of the [source](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701068934669-Manage-Data-Sources) includes a Schema drop-down you can use to select a schema for the source, with a view button that opens the work area.
 
-![Use this work area to view relationships in available schemas](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46243331860109 "view a schema work area")
+![Use this work area to view relationships in available schemas](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418121835277 "view a schema work area")
 
 **View a schema in a source**
 
 1. Create or edit a source that uses a schema.
 2. [Select the view icon next](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701080450061-Define-a-Source#view) to your selected Schema. A schema work area opens you can use to view the tables and relationships of that schema. Larger data sets may take a few moments to load.
-3. View the existing relationships and any user defined joins to better understand the relationships present.
-4. Close the schema or joins modal when you're done viewing the schema information, and repeat for other schemas if needed.
+3. View the existing relationships and any user defined join nodes to better understand the relationships present.
+4. Close the schema or join nodes modal when you're done viewing the schema information, and repeat for other schemas if needed.
 
 ### Connector Support for Schema Visualization
 
@@ -66,6 +66,7 @@ Support for this feature by connector is shown in the following table.
 | [Cloudera Impala](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701025595405-Manage-the-Impala-Connector) | **Y** |
 | [Cloudera Search](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701009985933-Manage-the-Cloudera-Search-Connector) | N/A |
 | [Couchbase](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701040183821-Manage-the-Couchbase-Connector) | N/A |
+| [Dundas BI (Managed)](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/47441922925197-Manage-the-Dundas-BI-Managed-Connector) | N/A |
 | [Dremio](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701043446285-Manage-the-Dremio-Connector) | N/A |
 | [Elasticsearch 7.0](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701025911309-Manage-the-Elasticsearch-Connector) | **N** |
 | [Elasticsearch 8.0](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701025911309-Manage-the-Elasticsearch-Connector) | N/A |

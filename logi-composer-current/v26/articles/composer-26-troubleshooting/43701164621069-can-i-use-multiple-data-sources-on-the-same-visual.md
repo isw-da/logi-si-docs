@@ -4,7 +4,7 @@ id: 43701164621069
 section: "Composer 26 Troubleshooting"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701164621069-Can-I-Use-Multiple-Data-Sources-on-the-Same-Visual
-updated_at: 2026-05-29T14:09:36Z
+updated_at: 2026-08-26T07:10:17Z
 ---
 
 # Can I Use Multiple Data Sources on the Same Visual?

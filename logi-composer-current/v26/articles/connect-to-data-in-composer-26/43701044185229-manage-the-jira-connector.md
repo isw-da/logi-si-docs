@@ -4,7 +4,7 @@ id: 43701044185229
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701044185229-Manage-the-Jira-Connector
-updated_at: 2026-05-29T14:07:47Z
+updated_at: 2026-08-26T07:09:18Z
 ---
 
 # Manage the Jira Connector
@@ -78,7 +78,7 @@ Large Jira boards and projects can affect the connector's performance. To minimi
 
 * Include pushdown filters
 * Design queries to filter on columns for which folding is supported
-* Limit your query using a `WHERE` clause and `TOP` for columns that don't support pushdown filters
+* Limit your query using a `WHERE` clause and `TOP` for columns that do not support pushdown filters
 * Narrow your data retrieval by filtering your data by epic, project, issue creation date, or completion date
 * Speed your initial load time by defining a small time range on the [Global Settings tab](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701085233549-Global-Settings-Tab#Time)
 

@@ -4,7 +4,7 @@ id: 43701100433165
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701100433165-Define-a-Hierarchical-Source
-updated_at: 2026-05-29T14:11:06Z
+updated_at: 2026-08-26T07:10:22Z
 ---
 
 # Define a Hierarchical Source
@@ -14,12 +14,14 @@ updated_at: 2026-05-29T14:11:06Z
 **Note:** 
 Hierarchical fields are enabled by default at the server level. Work with [Technical Support](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701072313613-Contact-Technical-Support) to disable.
 
+**Note:** In this release, when your admin enables the Enhanced Experience user interface, you will see changes to workflows you may have used in previous releases.
+
 Create or edit a source to include a facts table and at least one lookup table to create your hierarchical source.
 
 ## Define a New Hierarchical Source
 
 1. Log in as a user with the **Administer Sources** or **Create New Data Sources** [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference).
-2. Select **Sources** on the [UI menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701160499853-The-Composer-UI-Menu) (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46243284606989)) or the [top-level navigation menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701115577869-The-Top-Level-Navigation-Banner), or select the **Sources** box on the [Home page](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701136935821-Home-Page) The [Sources](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701081381901-Data-Sources-Page) page appears.
+2. Select the **Sources** card on your home page or **Data Sources** from the main menu. The [Sources](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701081381901-Data-Sources-Page) page appears.
 3. On the [Sources](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701081381901-Data-Sources-Page) page, select the **Create Source** button. The [Source Creation](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701080568205-Source-Creation-Tab) work area opens.
 4. Name your source, then add the first data entity, including appropriate connection, schema, and entity options or Custom SQL.
 

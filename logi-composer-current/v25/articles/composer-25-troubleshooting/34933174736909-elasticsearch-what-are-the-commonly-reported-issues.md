@@ -4,7 +4,7 @@ id: 34933174736909
 section: "Composer 25 Troubleshooting"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933174736909-Elasticsearch-What-Are-the-Commonly-Reported-Issues
-updated_at: 2026-05-26T22:08:07Z
+updated_at: 2026-08-24T20:31:22Z
 ---
 
 # Elasticsearch: What Are the Commonly Reported Issues?

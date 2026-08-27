@@ -4,7 +4,7 @@ id: 34932998503309
 section: "Install, Upgrade, and Remove Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932998503309-Manually-Install-OpenJDK
-updated_at: 2026-05-26T22:07:23Z
+updated_at: 2026-08-24T20:30:36Z
 ---
 
 # Manually Install OpenJDK

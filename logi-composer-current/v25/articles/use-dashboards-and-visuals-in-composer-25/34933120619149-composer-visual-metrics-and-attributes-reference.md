@@ -1,10 +1,10 @@
 ---
-title: "Composer\u00a0 Visual Metrics and Attributes Reference"
+title: "Composer  Visual Metrics and Attributes Reference"
 id: 34933120619149
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933120619149-Composer-Visual-Metrics-and-Attributes-Reference
-updated_at: 2026-05-26T22:09:32Z
+updated_at: 2026-08-24T20:32:45Z
 ---
 
 # Composer  Visual Metrics and Attributes Reference

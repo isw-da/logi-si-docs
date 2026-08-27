@@ -4,7 +4,7 @@ id: 43701194343565
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701194343565-Implement-Single-Sign-On-SSO-via-SAML
-updated_at: 2026-05-29T14:09:24Z
+updated_at: 2026-08-26T07:10:55Z
 ---
 
 # Implement Single Sign-On (SSO) via SAML
@@ -45,11 +45,11 @@ Keep in mind the following SAML requirements that Composer supports:
 * Default Account section: users can be auto-provisioned to a specific account.
 * Importing users and groups from the IDP into Composer: there are two scenarios to consider for importing users and groups:
 
-  + If the user or group profile does not already exist in Composer, they are created the first time that a user logs into Composer. In this case, the profile contains no access privileges and the Composer Administrator needs to set up these profiles.
-  + If the user or group profile already exist in Composer, the names must be
+  * If the user or group profile does not already exist in Composer, they are created the first time that a user logs into Composer. In this case, the profile contains no access privileges and the Composer Administrator needs to set up these profiles.
+  * If the user or group profile already exist in Composer, the names must be
     ***an exact match*** in order for the IDP profile information to populate the corresponding Composer accounts. For example, if the username “johndoe” is stored in the IDP, the exact same username should be in Composer.
 
-After you have successfully configured and enabled SAML, users and groups imported in this manner can be managed from Composer’s Users and Groups function. For guidance to import and setup these accounts, see
+After you have successfully configured and enabled SAML, users and groups imported in this manner can be managed from Composer’s Users and Groups functions. For guidance to import and setup these accounts, see
 [Manage Users](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701051820941-Manage-Users).
 
 See [Configure Composer to Support SAML](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701162439437-Configure-Composer-to-Support-SAML) for instructions to setup SAML in Composer.

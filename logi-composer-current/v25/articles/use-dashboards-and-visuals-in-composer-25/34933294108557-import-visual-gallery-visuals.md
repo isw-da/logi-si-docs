@@ -4,7 +4,7 @@ id: 34933294108557
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933294108557-Import-Visual-Gallery-Visuals
-updated_at: 2026-05-26T22:08:47Z
+updated_at: 2026-08-24T20:31:54Z
 ---
 
 # Import Visual Gallery Visuals
@@ -21,7 +21,7 @@ updated_at: 2026-05-26T22:08:47Z
 
    The Import Visuals dialog populates with information about the objects that make up your visuals and the settings you can use to define how your software inserts each object.
 
-   ![Use this work are to define what JSON file to import, for which tenants, using what insertion strategies, matching strategies, tags, and access rights](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166911535757 "Import visuals work area with JSON file selected")
+   ![Use this work are to define what JSON file to import, for which tenants, using what insertion strategies, matching strategies, tags, and access rights](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48372953886349 "Import visuals work area with JSON file selected")
 5. Add and remove tenants by selecting the **Tenants** field. Add or remove them from the list or field.
 
    **Note:** Only system admins or members of the Content Distributors group see the Tenants field. If this field is not shown, the content is imported into the tenant you are currently working in.

@@ -4,7 +4,7 @@ id: 43700996502541
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700996502541-Migrate-Custom-Charts
-updated_at: 2026-05-29T14:11:26Z
+updated_at: 2026-08-26T07:10:45Z
 ---
 
 # Migrate Custom Charts
@@ -39,11 +39,11 @@ The custom chart file structure for supported versions of custom charts:
 
 #### Custom Chart CLI File Structure
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242671061389)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417984636685)
 
 ## API Route Differences
 
-**Note:** Composer v24 Custom Chart CLI version 1 only supports the use of `vnd.composer.v3+json` as the `Content-Type` for API routes.
+**Note:** Composer Custom Chart CLI version 1 only supports the use of `vnd.composer.v3+json` as the `Content-Type` for API routes.
 
 ## CLI Command DifferencesCLI Commands
 

@@ -4,7 +4,7 @@ id: 34932730176653
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932730176653-Manage-the-Microsoft-SQL-Server-Connector
-updated_at: 2026-05-26T22:06:35Z
+updated_at: 2026-08-24T20:29:35Z
 ---
 
 # Manage the Microsoft SQL Server Connector
@@ -56,9 +56,14 @@ Connector support for specific  [features](https://logi-composer-v25.insightsoft
 
 When establishing a connection to SQL Server, you need to provide the following.
 
-* Specify the connection name and JDBC URL. The JDBC URL for SQL Server database being connected, must be:
-  `jdbc:sqlserver//MYSQLSERVERHOST:PORT`
+* Specify the connection name and JDBC URL. The JDBC URL for SQL Server database being connected, must be in the format
+  `jdbc:sqlserver://MYSQLSERVERHOST:PORT;databaseName=DATABASE`.
+* If not using the default `PORT` of `1433`, you can specify a port.
+
+  For example: `jdbc:sqlserver://MYSQLSERVERHOST:1434;databaseName=AdventureWorks2014`.
 * If authentication is required, provide the username and password.
+
+For more information on building your connection url, see [https://learn.microsoft.com/en-us/sql/connect/jdbc/building-the-connection-url](https://learn.microsoft.com/en-us/sql/connect/jdbc/building-the-connection-url "https://learn.microsoft.com/en-us/sql/connect/jdbc/building-the-connection-url").
 
 ## Support for Azure Synapse Data Sources
 

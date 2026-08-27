@@ -4,14 +4,14 @@ id: 34932711365773
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932711365773-Manage-Connector-Services-Page
-updated_at: 2026-05-26T22:10:14Z
+updated_at: 2026-08-24T20:33:33Z
 ---
 
 # Manage Connector Services Page
 
 # Manage Connector Services Page
 
-![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167375083021)
+![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373998598285)
 
 The Manage Connector Services page is where you register a new connector server that is not available out-of-the-box to the Composer instance. It is also where you can remove connector servers available to the instance.
 

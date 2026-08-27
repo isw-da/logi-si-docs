@@ -4,7 +4,7 @@ id: 34933194203789
 section: "Composer 25 Troubleshooting"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933194203789-Can-Composer-Be-Installed-From-an-RPM-Repository
-updated_at: 2026-05-26T22:08:27Z
+updated_at: 2026-08-24T20:31:33Z
 ---
 
 # Can Composer Be Installed From an RPM Repository?

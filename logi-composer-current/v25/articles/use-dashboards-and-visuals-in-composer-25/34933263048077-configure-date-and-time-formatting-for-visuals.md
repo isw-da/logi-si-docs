@@ -1,10 +1,10 @@
 ---
-title: "Configure Date and\u00a0Time Formatting for Visuals"
+title: "Configure Date and Time Formatting for Visuals"
 id: 34933263048077
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933263048077-Configure-Date-and-Time-Formatting-for-Visuals
-updated_at: 2026-05-26T22:08:55Z
+updated_at: 2026-08-24T20:32:03Z
 ---
 
 # Configure Date and Time Formatting for Visuals
@@ -21,10 +21,10 @@ You can also override formatting for the Number attribute at the visual level. S
 1. Select the visual with time attributes you want to format in a dashboard or the visual gallery.
 2. Select a Metric, X or Y axis, Group, Color, Trend line, size, or other available measure. A dialog for your selection opens.
 
-   ![Select Format to format a time attribute](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166935973005 "Time metric work area")
-3. Locate your time field using **Search**, or navigate to the field or fields you want to format. Select the menu ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167828411661) for a field, then select Format. The **Format: <field>** work area opens.
+   ![Select Format to format a time attribute](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48372981479565 "Time metric work area")
+3. Locate your time field using **Search**, or navigate to the field or fields you want to format. Select the menu ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374634469389) for a field, then select Format. The **Format: <field>** work area opens.
 
-   ![Use this work area to format your time field attribute on a visual metric](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46166926500749 "Format Time Attribute Work Area")
+   ![Use this work area to format your time field attribute on a visual metric](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48372973910413 "Format Time Attribute Work Area")
 4. Define your format options, and select **Apply** to apply to this field.
 5. Repeat for all fields you want to modify.
 

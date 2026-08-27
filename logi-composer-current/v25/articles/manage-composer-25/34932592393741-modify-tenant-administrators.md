@@ -4,7 +4,7 @@ id: 34932592393741
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932592393741-Modify-Tenant-Administrators
-updated_at: 2026-05-26T22:06:03Z
+updated_at: 2026-08-24T20:28:52Z
 ---
 
 # Modify Tenant Administrators

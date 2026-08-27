@@ -4,7 +4,7 @@ id: 34933017211021
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933017211021-Configure-a-High-Load-Environment
-updated_at: 2026-05-26T22:09:27Z
+updated_at: 2026-08-24T20:32:39Z
 ---
 
 # Configure a High Load Environment
@@ -13,7 +13,7 @@ updated_at: 2026-05-26T22:09:27Z
 
 A high load environment should be able to handle hundreds of concurrent users. One of the simplest solutions is to dedicate powerful machines to our microservices, but it’s cost-inefficient and hardly scalable. Composer has a microservice architecture and supports client-side load balancing for all microservices except COMPOSER-WEB. It enables you to deploy several instances of the same microservice on smaller machines and get a performance gain. You are also able to scale each microservice independently according to the type of load your system receives.
 
-![Flow of a high load environment.](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167161841421 "High Load Environment diagram.")
+![Flow of a high load environment.](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373373673357 "High Load Environment diagram.")
 
 **Important:** 
 To configure Composer in a distributed environment, you need a multi-node license before you start setting up your distributed environment. Contact Technical Support for assistance.
@@ -51,8 +51,8 @@ If this is the first time you have installed Composer, and you want to set up a 
 
      The instructions to set up PostgreSQL as Composer's metadata store differ depending on the Linux operating system used by the target server. Select a topic below:
 
-     + [PostgreSQL Setup for CentOS Environments](#PostgreS)
-     + [PostgreSQL Setup for Ubuntu Environments](#PostgreS2)
+     * [PostgreSQL Setup for CentOS Environments](#PostgreS)
+     * [PostgreSQL Setup for Ubuntu Environments](#PostgreS2)
 
      ## PostgreSQL Setup for CentOS Environments
 

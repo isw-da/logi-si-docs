@@ -4,7 +4,7 @@ id: 43701168136205
 section: "Install, Upgrade, and Remove Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701168136205-Restore-the-Metadata-From-the-Metadata-Store-Backup
-updated_at: 2026-05-29T14:09:41Z
+updated_at: 2026-08-26T07:10:50Z
 ---
 
 # Restore the Metadata From the Metadata Store Backup

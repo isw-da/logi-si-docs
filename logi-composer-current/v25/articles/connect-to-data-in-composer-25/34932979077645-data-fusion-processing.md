@@ -4,7 +4,7 @@ id: 34932979077645
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932979077645-Data-Fusion-Processing
-updated_at: 2026-05-26T22:09:28Z
+updated_at: 2026-08-24T20:32:39Z
 ---
 
 # Data Fusion Processing
@@ -15,7 +15,7 @@ With data fusion, Composer can perform Group By operations using fields that are
 
 For example, if a table in one data repository contains the IDs and address information of sellers and another table in another data store contains IDs, events, and sales information for sellers, these disparate fields can be fused into one sellers table with the three fields joined and accessible (as shown below).
 
-![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167177967629)
+![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373399378445)
 
 Using data fusion, you can create data entities to join disparate data repositories that are connected to Composer. Multiple data entities (three or more) can be fused into a single Fusion data source.
 

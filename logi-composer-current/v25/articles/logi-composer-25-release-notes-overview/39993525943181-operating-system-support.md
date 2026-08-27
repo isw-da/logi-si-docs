@@ -4,7 +4,7 @@ id: 39993525943181
 section: "Logi Composer  25 Release Notes Overview"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/39993525943181-Operating-System-Support
-updated_at: 2026-05-26T22:06:00Z
+updated_at: 2026-08-24T20:28:52Z
 ---
 
 # Operating System Support

@@ -4,7 +4,7 @@ id: 40908724959373
 section: "Logi Composer  25 Release Notes Overview"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/40908724959373-API-Updates-Deprecated-Removed-Features-Through-Composer-25
-updated_at: 2026-05-26T22:06:00Z
+updated_at: 2026-08-24T20:28:50Z
 ---
 
 # API Updates, Deprecated, Removed Features Through Composer 25 
@@ -19,22 +19,22 @@ To purchase this product, contact [insightsoftware Sales](mailto:loginewbusiness
 
 * [API Updates](#API2)
 
-  + [Composer v25](#v252)
-  + [Composer v24](#v242)
-  + [Composer v23](#v232)
-  + [Composer v22](#v222)
-  + [Composer v8.4 and Earlier](#v842)
-  + [Composer v7.10 and Earlier](#v7102)
-  + [Composer v6.9 and Earlier](#v692)
+  * [Composer v25](#v252)
+  * [Composer v24](#v242)
+  * [Composer v23](#v232)
+  * [Composer v22](#v222)
+  * [Composer v8.4 and Earlier](#v842)
+  * [Composer v7.10 and Earlier](#v7102)
+  * [Composer v6.9 and Earlier](#v692)
 * [Deprecated and Removed Features](#Deprecat)
 
-  + [Composer v25](#v254)
-  + [Composer v24](#v244)
-  + [Composer v23](#v234)
-  + [Composer v22](#v224)
-  + [Composer v8.4 and Earlier](#v844)
-  + [Composer v7.10 and Earlier](#v7104)
-  + [Composer v6.9 and Earlier](#v694)
+  * [Composer v25](#v254)
+  * [Composer v24](#v244)
+  * [Composer v23](#v234)
+  * [Composer v22](#v224)
+  * [Composer v8.4 and Earlier](#v844)
+  * [Composer v7.10 and Earlier](#v7104)
+  * [Composer v6.9 and Earlier](#v694)
 
 ## API Updates
 
@@ -42,6 +42,8 @@ To purchase this product, contact [insightsoftware Sales](mailto:loginewbusiness
 
 | Endpoint | Method | Description |
 | --- | --- | --- |
+| **25.4.5 API Updates** | | |
+| None. |  |  |
 | **25.4.4 API Updates** | | |
 | None. |  |  |
 | **25.4.3 API Updates** | | |
@@ -57,6 +59,8 @@ To purchase this product, contact [insightsoftware Sales](mailto:loginewbusiness
 
 | Endpoint | Method | Description |
 | --- | --- | --- |
+| **25.3.8 API Updates** | | |
+| None. |  |  |
 | **25.3.7 API Updates** | | |
 | None. |  |  |
 | **25.3.6 API Updates** | | |
@@ -137,6 +141,8 @@ To purchase this product, contact [insightsoftware Sales](mailto:loginewbusiness
 
 | Endpoint | Method | Description |
 | --- | --- | --- |
+| **24.4.16 API Updates** | | |
+| None. |  |  |
 | **24.4.15 API Updates** | | |
 | None. |  |  |
 | **24.4.14 API Updates** | | |
@@ -261,11 +267,11 @@ To purchase this product, contact [insightsoftware Sales](mailto:loginewbusiness
 | /api/groups | POST, PUT | You can now assign an identifier to your groups using `externalId` that is unique across tenants. This does not change or replace the `accountId` assigned by Composer. The `externalId` is not available in the UI. |
 | **24.1 API Updates** | | |
 | /api/sources/export | GET | These attributes are returned for sources in your environment. Include these attributes to work with import matching strategies.   * `connections[].originId` - Returns the value of the connection ID from the imported connection. * `sources[].originId` - Returns the value of the source ID from the imported source |
-| /api/sources/import | POST | When you import objects into your environment, you can define a matching strategy that uses multiple approaches to reviewing objects to determine how to handle them in conjunction with your selected insertion strategy.  Matching strategies are processed in order, proceeding to the next and the next if a strategy fails.  If all strategies fail, the object is imported and tagged with your selected tags to help you find affected objects and manage any issues.  These attributes are used to define the matching strategy and warning tags to use for import. Send as an array; each strategy is considered in order.   * `importSettings.objectClassLevel.connections.matchingStrategy[]` - Send an array of matching strategies to be considered, in order, for connections. This array can include:    + `BY_ORIGIN_ID`   + `BY_ID_AND_TYPE_AND_PARAMS`   + `BY_TYPE_AND_PARAMETERS`   + `BY_NAME_AND_TYPE`   + `BY_TYPE_AND_PARAM_KEYS`   + `BY_NAME`  If an order is not specified, the default strategy of `BY_ID_AND_TYPE_AND_PARAMS` or `BY_TYPE_AND_PARAMETERS` is used. * `importSettings.objectClassLevel.sources.matchingStrategy[]` - Send an array of matching strategies to be considered, in order, for sources. This array can include:    + `BY_ORIGIN_ID`   + `BY_NAME`  If an order is not specified, the default strategy of `BY_NAME` is used. * `importSettings.warningTags[]` - Send an array of warning tags to apply to objects imported with warnings.   Send `enableDefaultRead` to enable data read permissions for the sources imported for all users in the tenant. |
+| /api/sources/import | POST | When you import objects into your environment, you can define a matching strategy that uses multiple approaches to reviewing objects to determine how to handle them in conjunction with your selected insertion strategy.  Matching strategies are processed in order, proceeding to the next and the next if a strategy fails.  If all strategies fail, the object is imported and tagged with your selected tags to help you find affected objects and manage any issues.  These attributes are used to define the matching strategy and warning tags to use for import. Send as an array; each strategy is considered in order.   * `importSettings.objectClassLevel.connections.matchingStrategy[]` - Send an array of matching strategies to be considered, in order, for connections. This array can include:    * `BY_ORIGIN_ID`   * `BY_ID_AND_TYPE_AND_PARAMS`   * `BY_TYPE_AND_PARAMETERS`   * `BY_NAME_AND_TYPE`   * `BY_TYPE_AND_PARAM_KEYS`   * `BY_NAME`  If an order is not specified, the default strategy of `BY_ID_AND_TYPE_AND_PARAMS` or `BY_TYPE_AND_PARAMETERS` is used. * `importSettings.objectClassLevel.sources.matchingStrategy[]` - Send an array of matching strategies to be considered, in order, for sources. This array can include:    * `BY_ORIGIN_ID`   * `BY_NAME`  If an order is not specified, the default strategy of `BY_NAME` is used. * `importSettings.warningTags[]` - Send an array of warning tags to apply to objects imported with warnings.   Send `enableDefaultRead` to enable data read permissions for the sources imported for all users in the tenant. |
 | /api/dashboards/export/ | GET | These attributes are returned for dashboards in your environment. Include these attributes for importing.   * `connections[].originId` - Returns the value of the associated connection ID. * `sources[].originId` - Returns the value of the associated source ID. * `visuals[].originId` - Returns the value of the associated visual ID. * `dashboards[].originId` - Returns the value of the associated dashboard ID. |
-| /api/dashboards/import/ | POST | When you import objects into your environment, you can define a matching strategy that uses multiple approaches to reviewing objects to determine how to handle them in conjunction with your selected insertion strategy.  Matching strategies are processed in order, proceeding to the next and the next if a strategy fails.  If all strategies fail, the object is imported and tagged with your selected tags to help you find affected objects and manage any issues.  These attributes are used to define the matching strategy and warning tags to use for import. Send as an array; each strategy is considered in order.   * `importSettings.objectClassLevel.connections.matchingStrategy[]` - Send an array of matching strategies to be considered, in order, for connections. This array can include:    + `BY_ORIGIN_ID`   + `BY_ID_AND_TYPE_AND_PARAMS`   + `BY_TYPE_AND_PARAMETERS`   + `BY_NAME_AND_TYPE`   + `BY_TYPE_AND_PARAM_KEYS`   + `BY_NAME`  If an order is not specified, the default strategy of `BY_ID_AND_TYPE_AND_PARAMS` or `BY_TYPE_AND_PARAMETERS` is used. * `importSettings.objectClassLevel.visuals.matchingStrategy[]` - Send an array of matching strategies to be considered, in order, for visuals. This array can include:    + `BY_ORIGIN_ID`   + `BY_NAME`  If an order is not specified, the default strategy of `BY_NAME` is used. * `importSettings.objectClassLevel.sources.matchingStrategy[]` - Send an array of matching strategies to be considered, in order, for sources. This array can include:    + `BY_ORIGIN_ID`   + `BY_NAME`  If an order is not specified, the default strategy of `BY_NAME` is used. * `importSettings.objectClassLevel.dashboards.matchingStrategy[]` - Send an array of matching strategies to be considered, in order, for dashboards. This array can include:    + `BY_ORIGIN_ID`   + `BY_NAME`  If an order is not specified, the default strategy of `BY_NAME` is used. * `importSettings.warningTags[]` - Send an array of warning tags to apply to objects imported with warnings.   Send `enableDefaultRead` to enable data read permissions for the sources imported for all users in the tenant. |
+| /api/dashboards/import/ | POST | When you import objects into your environment, you can define a matching strategy that uses multiple approaches to reviewing objects to determine how to handle them in conjunction with your selected insertion strategy.  Matching strategies are processed in order, proceeding to the next and the next if a strategy fails.  If all strategies fail, the object is imported and tagged with your selected tags to help you find affected objects and manage any issues.  These attributes are used to define the matching strategy and warning tags to use for import. Send as an array; each strategy is considered in order.   * `importSettings.objectClassLevel.connections.matchingStrategy[]` - Send an array of matching strategies to be considered, in order, for connections. This array can include:    * `BY_ORIGIN_ID`   * `BY_ID_AND_TYPE_AND_PARAMS`   * `BY_TYPE_AND_PARAMETERS`   * `BY_NAME_AND_TYPE`   * `BY_TYPE_AND_PARAM_KEYS`   * `BY_NAME`  If an order is not specified, the default strategy of `BY_ID_AND_TYPE_AND_PARAMS` or `BY_TYPE_AND_PARAMETERS` is used. * `importSettings.objectClassLevel.visuals.matchingStrategy[]` - Send an array of matching strategies to be considered, in order, for visuals. This array can include:    * `BY_ORIGIN_ID`   * `BY_NAME`  If an order is not specified, the default strategy of `BY_NAME` is used. * `importSettings.objectClassLevel.sources.matchingStrategy[]` - Send an array of matching strategies to be considered, in order, for sources. This array can include:    * `BY_ORIGIN_ID`   * `BY_NAME`  If an order is not specified, the default strategy of `BY_NAME` is used. * `importSettings.objectClassLevel.dashboards.matchingStrategy[]` - Send an array of matching strategies to be considered, in order, for dashboards. This array can include:    * `BY_ORIGIN_ID`   * `BY_NAME`  If an order is not specified, the default strategy of `BY_NAME` is used. * `importSettings.warningTags[]` - Send an array of warning tags to apply to objects imported with warnings.   Send `enableDefaultRead` to enable data read permissions for the sources imported for all users in the tenant. |
 | /api/visuals/export/ | GET | These attributes are returned for visuals in your environment. Include these attributes for importing.   * `connections[].originId` - Returns the value of the associated connection ID. * `sources[].originId` - Returns the value of the associated source ID. * `visuals[].originId` - Returns the value of the associated visual ID. |
-| /api/visuals/import/ | POST | When you import objects into your environment, you can define a matching strategy that uses multiple approaches to reviewing objects to determine how to handle them in conjunction with your selected insertion strategy.  Matching strategies are processed in order, proceeding to the next and the next if a strategy fails.  If all strategies fail, the object is imported and tagged with your selected tags to help you find affected objects and manage any issues.  These attributes are used to define the matching strategy and warning tags to use for import. Send as an array; each strategy is considered in order.   * `importSettings.objectClassLevel.connections.matchingStrategy[]` - Send an array of matching strategies to be considered, in order, for connections. This array can include:    + `BY_ORIGIN_ID`   + `BY_ID_AND_TYPE_AND_PARAMS`   + `BY_TYPE_AND_PARAMETERS`   + `BY_NAME_AND_TYPE`   + `BY_TYPE_AND_PARAM_KEYS`   + `BY_NAME`  If an order is not specified, the default strategy of `BY_ID_AND_TYPE_AND_PARAMS` or `BY_TYPE_AND_PARAMETERS` is used. * `importSettings.objectClassLevel.visuals.matchingStrategy[]` - Send an array of matching strategies to be considered, in order, for visuals. This array can include:    + `BY_ORIGIN_ID`   + `BY_NAME`  If an order is not specified, the default strategy of `BY_NAME` is used. * `importSettings.objectClassLevel.sources.matchingStrategy[]` - Send an array of matching strategies to be considered, in order, for sources. This array can include:    + `BY_ORIGIN_ID`   + `BY_NAME`  If an order is not specified, the default strategy of `BY_NAME` is used. * `importSettings.warningTags[]` - Send an array of warning tags to apply to objects imported with warnings.   Send `enableDefaultRead` to enable data read permissions for the sources imported for all users in the tenant. |
+| /api/visuals/import/ | POST | When you import objects into your environment, you can define a matching strategy that uses multiple approaches to reviewing objects to determine how to handle them in conjunction with your selected insertion strategy.  Matching strategies are processed in order, proceeding to the next and the next if a strategy fails.  If all strategies fail, the object is imported and tagged with your selected tags to help you find affected objects and manage any issues.  These attributes are used to define the matching strategy and warning tags to use for import. Send as an array; each strategy is considered in order.   * `importSettings.objectClassLevel.connections.matchingStrategy[]` - Send an array of matching strategies to be considered, in order, for connections. This array can include:    * `BY_ORIGIN_ID`   * `BY_ID_AND_TYPE_AND_PARAMS`   * `BY_TYPE_AND_PARAMETERS`   * `BY_NAME_AND_TYPE`   * `BY_TYPE_AND_PARAM_KEYS`   * `BY_NAME`  If an order is not specified, the default strategy of `BY_ID_AND_TYPE_AND_PARAMS` or `BY_TYPE_AND_PARAMETERS` is used. * `importSettings.objectClassLevel.visuals.matchingStrategy[]` - Send an array of matching strategies to be considered, in order, for visuals. This array can include:    * `BY_ORIGIN_ID`   * `BY_NAME`  If an order is not specified, the default strategy of `BY_NAME` is used. * `importSettings.objectClassLevel.sources.matchingStrategy[]` - Send an array of matching strategies to be considered, in order, for sources. This array can include:    * `BY_ORIGIN_ID`   * `BY_NAME`  If an order is not specified, the default strategy of `BY_NAME` is used. * `importSettings.warningTags[]` - Send an array of warning tags to apply to objects imported with warnings.   Send `enableDefaultRead` to enable data read permissions for the sources imported for all users in the tenant. |
 | /api/accounts/name/{name} | GET | This takes the `{name}` of the tenant account as a path parameter and returns tenant account details. Works similarly to `/api/accounts/{id}/`. |
 
 [Return to top](#top "return to top")
@@ -877,6 +883,8 @@ To purchase this product, contact [insightsoftware Sales](mailto:loginewbusiness
 
 | Title | Description |
 | --- | --- |
+| **25.4.5 Deprecated Features** | |
+| None. |  |
 | **25.4.4 Deprecated Features** | |
 | None. |  |
 | **25.4.3 Deprecated Features** | |
@@ -971,6 +979,8 @@ To purchase this product, contact [insightsoftware Sales](mailto:loginewbusiness
 
 | Title | Description |
 | --- | --- |
+| **25.4.5 Removed Features** | |
+| None. |  |
 | **25.4.4 Removed Features** | |
 | None. |  |
 | **25.4.3 Removed Features** | |
@@ -1067,6 +1077,8 @@ To purchase this product, contact [insightsoftware Sales](mailto:loginewbusiness
 
 | Title | Description |
 | --- | --- |
+| **24.4.16 Deprecated Features** | |
+| None. |  |
 | **24.4.15 Deprecated Features** | |
 | None. |  |
 | **24.4.14 Deprecated Features** | |
@@ -1195,6 +1207,8 @@ To purchase this product, contact [insightsoftware Sales](mailto:loginewbusiness
 
 | Title | Description |
 | --- | --- |
+| **24.4.16 Removed Features** | |
+| None. |  |
 | **24.4.15 Removed Features** | |
 | None. |  |
 | **24.4.14 Removed Features** | |

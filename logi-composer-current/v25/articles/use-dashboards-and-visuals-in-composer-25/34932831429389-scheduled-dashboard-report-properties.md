@@ -4,7 +4,7 @@ id: 34932831429389
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932831429389--Scheduled-Dashboard-Report-Properties
-updated_at: 2026-05-26T22:06:55Z
+updated_at: 2026-08-24T20:29:58Z
 ---
 
 #   Scheduled Dashboard Report Properties
@@ -18,9 +18,10 @@ Specific properties control the behavior of scheduled dashboard reports. These p
 | `dashboard.scheduling.screenshot.png.height` | No | Identifies the height (in pixels) of the screenshot PNG file that will be sent. The default is 720 pixels. |
 | `dashboard.scheduling.screenshot.png.width` | No | Identifies the width (in pixels) of the screenshot PNG file that will be sent. The default is 1280 pixels. |
 | `dashboard.scheduling.screenshot.timeout` | No | **Important:**  Specifies the timeout (in seconds) to take a screenshot for a dashboard email report. The default is 60 seconds. The time specified by this property must be less than or equal to the time set by the `screenshot.service.http.client.read.timeout.milliseconds` property.  If you increase the value of this property, make sure that you increase the value of the `screenshot.service.http.client.read.timeout.milliseconds property` accordingly.  Bear in mind that this property is specified in seconds, but the `screenshot.service.http.client.read.timeout.milliseconds` property is specified in milliseconds. |
-| `mail.from` | Yes | Specifies the email address identifying where the email comes from. |
+| `mail.from` | Yes | Specifies the email address identifying where the email comes from. "user@example.com" |
 | `mail.login` | Yes | Specifies the email login to use to access the mail server. |
 | `mail.password` | Yes | Specifies the password associated with the email login identified in the `mail.login` property. |
+| Mail SMTP Information | Yes | Specifies the properties for SMTP port, enablement, and authentication information.  mail.smtp.port: 465  mail.smtp.auth: true  mail.smtp.ssl.enable: true  mail.smtp.ssl.protocols: "TLSv1.2"  mail.login: "`mail.login`"  mail.password: "`mail.password`"  mail.from: "`mail.from`" |
 | `screenshot.service.http.client.connect.timeout.milliseconds` | No | Specifies the number of milliseconds that can elapse before Composer stops trying to connect to the screenshot microservice client. The default is 10000 milliseconds. |
 | `screenshot.service.http.client.read.timeout.milliseconds` | No | Specifies the number of milliseconds that can elapse before Composer stops trying to read from the screenshot microservice client. The default is 60000 milliseconds.  **Note:**  If you increase the time set by the `dashboard.scheduling.screenshot.timeout` property, make sure that you increase the value of this property as well.  The total time set by `screenshot.service.http.client.read.timeout.milliseconds` should always be greater than or equal to the time set by the `dashboard.scheduling.screenshot.timeout` property.  Bear in mind that this property is specified in milliseconds, but the `dashboard.scheduling.screenshot.timeout` property is specified in seconds. |
 | `screenshot.service.http.client.write.timeout.milliseconds` | No | Specifies the number of milliseconds that can elapse before Composer stops trying to write to the screenshot microservice client. The default is 60000 milliseconds. |

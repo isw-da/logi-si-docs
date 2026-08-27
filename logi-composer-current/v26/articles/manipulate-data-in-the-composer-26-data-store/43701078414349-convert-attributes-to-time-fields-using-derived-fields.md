@@ -4,7 +4,7 @@ id: 43701078414349
 section: "Manipulate Data In The Composer 26 Data Store"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701078414349-Convert-Attributes-to-Time-Fields-Using-Derived-Fields
-updated_at: 2026-05-29T14:08:14Z
+updated_at: 2026-08-26T07:09:38Z
 ---
 
 # Convert Attributes to Time Fields Using Derived Fields

@@ -4,7 +4,7 @@ id: 43701053803917
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701053803917-Edit-a-Configuration-File
-updated_at: 2026-05-29T14:07:19Z
+updated_at: 2026-08-26T07:11:41Z
 ---
 
 # Edit a  Configuration File
@@ -15,7 +15,7 @@ You can edit the properties for your Composer configuration in the configuration
 
 **Note:** insightsoftware discourages changing properties in the `/opt/zoomdata/conf` directory (Linux) or `<install-path>/conf` (Windows). Copy the files you want to change to the `/etc/zoomdata` directory (Linux) or `<install-path>/conf-modify` (Windows) and change them there. This will ensure that your changes are not overwritten when Composer is next upgraded.
 
-Quickly determine what changes you've made to a properties file using `diff` in Linux. For example:
+Quickly determine what changes you have made to a properties file using `diff` in Linux. For example:
 
 diff /opt/zoomdata/conf/edc-<connector-name>.properties /etc/zoomdata/<edc-<connector-name>.properties
 

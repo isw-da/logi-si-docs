@@ -4,7 +4,7 @@ id: 34932669417869
 section: "Composer 25 Developer Tools"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932669417869-Transform-Data-Using-Data-Accessors
-updated_at: 2026-05-26T22:06:13Z
+updated_at: 2026-08-24T20:29:04Z
 ---
 
 # Transform Data Using Data Accessors

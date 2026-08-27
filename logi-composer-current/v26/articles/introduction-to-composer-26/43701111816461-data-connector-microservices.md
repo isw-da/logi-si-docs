@@ -4,7 +4,7 @@ id: 43701111816461
 section: "Introduction to Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701111816461-Data-Connector-Microservices
-updated_at: 2026-05-29T14:09:00Z
+updated_at: 2026-08-26T07:11:04Z
 ---
 
 # Data Connector Microservices
@@ -17,7 +17,7 @@ Composer's standard, out-of-the-box, data connectors are smart, leveraging the u
 
 * Data partitions in Impala and other similar sources
 * Faceted search when querying an unstructured data search engine such as Elasticsearch or Solr
-* Native APIs for NoSQL databases.
+* Native APIs for NoSQL databases
 
 The data connectors use native APIs either in whole or in part to interact with the target data store. For some modern data platforms, all user interactions are converted to native API calls. For data stores that can be queried using SQL over a JDBC driver, the data connector uses SQL when available and native API calls when necessary. For example, a data store may support query cancellation, but its JDBC driver may not. Composer data connectors are smart enough to enrich the data interaction experience beyond standard off-the-shelf functionality.
 

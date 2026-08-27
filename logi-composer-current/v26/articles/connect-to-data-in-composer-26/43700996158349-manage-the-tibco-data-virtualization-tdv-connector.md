@@ -1,10 +1,10 @@
 ---
-title: "Manage the TIBCO Data Virtualization (TDV)\u00a0Connector"
+title: "Manage the TIBCO Data Virtualization (TDV) Connector"
 id: 43700996158349
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700996158349-Manage-the-TIBCO-Data-Virtualization-TDV-Connector
-updated_at: 2026-05-29T14:07:54Z
+updated_at: 2026-08-26T07:09:16Z
 ---
 
 # Manage the TIBCO Data Virtualization (TDV) Connector
@@ -18,7 +18,7 @@ The Composer Tibco connector lets you access the data available in your TIBCO D
 | MS SQL 14.0 |  |
 | PostgreSQL 9.3 |  |
 | Oracle 11 |  |
-| MemSQL 6.7 | Wildcard filters don't work when a single quote is used in the search expression. |
+| MemSQL 6.7 | Wildcard filters do not work when a single quote is used in the search expression. |
 
 Different data stores behave differently when comparing strings (for example, they handle white space and case sensitivity differently). For this reason, the Composer TDV connector supports the comparison behavior of the underlying data store and does not enforce a behavior of its own.
 

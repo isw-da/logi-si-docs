@@ -4,7 +4,7 @@ id: 43701137992717
 section: "Composer 26 Reference Information"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701137992717-Cautionary-Note-About-Internal-APIs
-updated_at: 2026-05-29T14:09:13Z
+updated_at: 2026-08-26T07:10:03Z
 ---
 
 # Cautionary Note About Internal APIs

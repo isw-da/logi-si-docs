@@ -4,7 +4,7 @@ id: 34932868258701
 section: "Manipulate Data In The Composer 25 Data Store"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932868258701-Use-a-Fiscal-Calendar
-updated_at: 2026-05-26T22:07:06Z
+updated_at: 2026-08-24T20:30:15Z
 ---
 
 # Use a Fiscal Calendar
@@ -16,7 +16,7 @@ Fiscal Calendars functionality is disabled by default. To enable, [contact techn
 
 **Important:** This is an experimental feature.
 
-After a user with appropriate privileges has [defined one or more fiscal calendars](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932899325325-S-Define-a-Fiscal-Calendar) to your environment, you can use these calendars in any of your sources.
+After a user with appropriate privileges has [defined one or more fiscal calendars](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932899325325-Define-a-Fiscal-Calendar) to your environment, you can use these calendars in any of your sources.
 
 **Select an alternative calendar**
 

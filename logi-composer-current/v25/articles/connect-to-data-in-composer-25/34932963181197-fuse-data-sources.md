@@ -4,7 +4,7 @@ id: 34932963181197
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932963181197-Fuse-Data-Sources
-updated_at: 2026-05-26T22:09:27Z
+updated_at: 2026-08-24T20:32:36Z
 ---
 
 # Fuse Data Sources
@@ -23,11 +23,11 @@ You can create a Fusion source to fuse the data in these data stores together. A
 
 The following diagram depicts the basic concept of Composer data fusion.
 
-![a diagram of multiple data sources brought together into a fused data source to create visualizations](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167195257869 "a diagram of multiple data sources brought together into a fused data source to create visualizations")
+![a diagram of multiple data sources brought together into a fused data source to create visualizations](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373416657421 "a diagram of multiple data sources brought together into a fused data source to create visualizations")
 
 Data fusion is available through Composer’s familiar and intuitive user interface. Step-by-step instructions are provided in [Create a Fusion Source](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932990526221-Create-a-Fusion-Source).
 
-Fused data sets are stored as a Fusion source (![Data Fusion icon](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167195428365)). Access Fusion data sources in the same way as other Composer data sources. Visualize the fused data in standard or custom charts.
+Fused data sets are stored as a Fusion source (![Data Fusion icon](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373407515533)). Access Fusion data sources in the same way as other Composer data sources. Visualize the fused data in standard or custom charts.
 
 For more information, see:
 

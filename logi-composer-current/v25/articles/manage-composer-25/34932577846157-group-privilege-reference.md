@@ -4,7 +4,7 @@ id: 34932577846157
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932577846157-Group-Privilege-Reference
-updated_at: 2026-05-26T22:10:31Z
+updated_at: 2026-08-24T20:33:51Z
 ---
 
 # Group Privilege Reference
@@ -13,7 +13,7 @@ updated_at: 2026-05-26T22:10:31Z
 
 Group privileges are specified on the **Privileges** tab for a [group](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932609516941-About-Supplied-Groups). Privileges allow a member of the Administrators group to grant permission to perform specific functions to all members of a group.
 
-![use this work area to set privileges for groups of users](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167424418317 "group privileges options")
+![use this work area to set privileges for groups of users](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374021284365 "group privileges options")
 
 | UI Privilege Name | Assign this privilege to allow group members to... | **Enabled by default in these groups:** |
 | --- | --- | --- |

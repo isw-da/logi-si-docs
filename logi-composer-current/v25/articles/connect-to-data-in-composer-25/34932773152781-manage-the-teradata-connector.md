@@ -4,7 +4,7 @@ id: 34932773152781
 section: "Connect to Data in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932773152781-Manage-the-Teradata-Connector
-updated_at: 2026-05-26T22:06:43Z
+updated_at: 2026-08-24T20:29:44Z
 ---
 
 # Manage the Teradata Connector

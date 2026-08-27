@@ -4,7 +4,7 @@ id: 34932783250829
 section: "Composer 25 Developer Tools"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932783250829-Create-a-Custom-Chart-Using-the-CLI
-updated_at: 2026-05-26T22:10:10Z
+updated_at: 2026-08-24T20:33:32Z
 ---
 
 # Create a Custom Chart Using the CLI
@@ -28,7 +28,7 @@ A complete example of creating a custom chart using the custom chart CLI can be 
 
 The `cmp-chart init` command creates a directory in the specified path containing the files you need to get started. Here is a preview of the directory tree:
 
-![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167371590541)
+![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373892695565)
 
 The following table describes the function of each file in the tree:
 

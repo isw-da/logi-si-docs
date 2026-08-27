@@ -4,7 +4,7 @@ id: 43701027022221
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701027022221-Manage-the-Real-Time-Sales-Demo-Source
-updated_at: 2026-05-29T14:07:52Z
+updated_at: 2026-08-26T07:09:18Z
 ---
 
 # Manage the Real Time Sales Demo Source

@@ -1,10 +1,10 @@
 ---
-title: "Composer\u00a0 Microservice Name Reference"
+title: "Composer  Microservice Name Reference"
 id: 43701144824589
 section: "Composer 26 Reference Information"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701144824589-Composer-Microservice-Name-Reference
-updated_at: 2026-05-29T14:09:17Z
+updated_at: 2026-08-26T07:11:57Z
 ---
 
 # Composer  Microservice Name Reference
@@ -19,6 +19,8 @@ The following table lists the Composer microservices. The order in which microse
 | `zoomdata-admin-server` | The  [Service Monitor](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701141622029-Service-Monitor-Microservice) microservice. |
 | `zoomdata-config-server` | The  [configuration](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701136628877-Configuration-Microservice) microservice. |
 | `zoomdata-consul` | The Service Discovery microservice. |
+| `zoomdata-data-writer-mssql` | The  [Data Writer](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701106979981-Data-Writer-Microservice) microservice (using an MSSQL metastore). |
+| `zoomdata-report-service` | The [self service reports](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/47077282029965-Self-Service-Report-Microservice) microservice. Also used to support expanded data export options. |
 | `zoomdata-data-writer-postgresql` | The  [Data Writer](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701106979981-Data-Writer-Microservice) microservice. |
 | `zoomdata-edc-apache-solr` | The  [Apache Solr connector](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701043021325-Manage-the-Apache-Solr-Connector) microservice. |
 | `zoomdata-edc-bigquery` | The  [BigQuery connector](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701009802509-Manage-the-BigQuery-Connector) microservice. |
@@ -30,6 +32,7 @@ The following table lists the Composer microservices. The order in which microse
 | `zoomdata-edc-hdfs` | The  [HDFS connector](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700995161101-Manage-the-HDFS-Connector) microservice. |
 | `zoomdata-edc-hive` | The  [Hive connector](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701026308493-Manage-the-Hive-Connector) microservice. |
 | `zoomdata-edc-impala` | The  [Cloudera Impala connector](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701025595405-Manage-the-Impala-Connector) microservice. |
+| `zoomdata-edc-managed` | Dundas BI (Managed) connector microservice . The user interface to interact with this connector must be enabled. See [Server-Level Variables](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701053868173-Server-Level-Variables). |
 | `zoomdata-edc-memsql` | The  [MemSQL connector](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701011116173-Manage-the-MemSQL-Connector) microservice. |
 | `zoomdata-edc-mongo` | The  [MongoDB connector](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701026372749-Manage-the-MongoDB-Connector) microservice. |
 | `zoomdata-edc-mssql` | The  [Microsoft SQL Server connector](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701026525069-Manage-the-Microsoft-SQL-Server-Connector) microservice. |
@@ -52,4 +55,4 @@ The following table lists the Composer microservices. The order in which microse
 | `zoomdata-edc-vertica` | The  [Vertica connector](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701027298189-Manage-the-Vertica-Connector) microservice. |
 | `zoomdata-postgres` | The  [metadata repository](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701122518797-Metadata-Repository). |
 | `zoomdata-query-engine` | The  [query engine](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701037846797-Manage-the-Composer-Query-Engine) microservice. |
-| `zoomdata-screenshot-service` | The  [Screenshot](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701073104013-Set-Up-the-Screenshot-Microservice) microservice. |
+| `zoomdata-screenshot-service` | The  [Screenshot](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701073104013-Screenshot-Microservice) microservice. |

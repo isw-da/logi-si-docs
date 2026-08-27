@@ -4,30 +4,30 @@ id: 43701120437773
 section: "Install, Upgrade, and Remove Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701120437773-Manually-Install-OpenJDK
-updated_at: 2026-05-29T14:08:45Z
+updated_at: 2026-08-26T07:11:17Z
 ---
 
 # Manually Install OpenJDK
 
 # Manually Install OpenJDK
 
-Composer v23.2 and later runs on Java 17.
+Composer v23.2 and later runs on Java 17; Composer v26.2 and later on Java 21.
 When you perform a straightforward upgrade to this release, Java is updated automatically.
 
-Composer v23.1 and earlier continue to run on Java 11.
+Composer v23.2 through v26.1 continue to run on Java 17.
 
 **Manually install OpenJDK**
 
 1. Stop all Composer components (if any are running) before you install OpenJDK. See  [Stop Microservices](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701119873037-About-Microservices#Stop).
 2. Run the following command on the installation machine.
 
+   For JDK 21:
+
+   sudo mkdir -p /opt/zoomdata/jre && curl -sL https://corretto.aws/downloads/latest/amazon-corretto-21-x64-linux-jdk.tar.gz | sudo tar zx -C /opt/zoomdata/jre --strip-components=1
+
    For JDK 17:
 
    sudo mkdir -p /opt/zoomdata/jre && curl -sL https://corretto.aws/downloads/latest/amazon-corretto-17-x64-linux-jdk.tar.gz | sudo tar zx -C /opt/zoomdata/jre --strip-components=1
-
-   For JDK 11:
-
-   sudo mkdir -p /opt/zoomdata/jre && curl -sL https://corretto.aws/downloads/latest/amazon-corretto-11-x64-linux-jdk.tar.gz | sudo tar zx -C /opt/zoomdata/jre --strip-components=1
 3. Restart all Composer components. See  [Start Microservices](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701119873037-About-Microservices#Start).
 
 **Note:** 

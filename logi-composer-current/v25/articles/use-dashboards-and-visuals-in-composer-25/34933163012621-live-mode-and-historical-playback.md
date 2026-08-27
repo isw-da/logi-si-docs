@@ -4,7 +4,7 @@ id: 34933163012621
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933163012621-Live-Mode-and-Historical-Playback
-updated_at: 2026-05-26T22:08:26Z
+updated_at: 2026-08-24T20:31:35Z
 ---
 
 # Live Mode and Historical Playback

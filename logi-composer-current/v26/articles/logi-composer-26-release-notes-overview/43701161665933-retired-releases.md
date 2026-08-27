@@ -4,7 +4,7 @@ id: 43701161665933
 section: "Logi Composer  26 Release Notes Overview"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701161665933-Retired-Releases
-updated_at: 2026-05-29T14:09:21Z
+updated_at: 2026-08-26T07:10:58Z
 ---
 
 # Retired Releases

@@ -4,7 +4,7 @@ id: 43701117025165
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701117025165-Insert-Variables-for-Row-Security-Restriction-Filters
-updated_at: 2026-05-29T14:08:28Z
+updated_at: 2026-08-26T07:09:52Z
 ---
 
 # Insert Variables for Row Security Restriction Filters
@@ -16,7 +16,7 @@ Variables can be inserted as values for any restriction filter in a row security
 You can also specify user attributes for use in the connection parameters of a connection definition. See [Use User Attributes for Connection Parameters](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701042127373-Use-User-Attributes-for-Connection-Parameters).
 
 **Note:** 
-If a you use a variable in a row security definition, but don't define a corresponding custom attribute the user, an error message appears when the user attempts to view a dashboard on which the row security is applied.
+If a you use a variable in a row security definition, but do not define a corresponding custom attribute the user, an error message appears when the user attempts to view a dashboard on which the row security is applied.
 
 ## Step 1: Define Custom Attributes for the Variables
 

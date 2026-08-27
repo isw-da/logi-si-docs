@@ -4,7 +4,7 @@ id: 34933174400141
 section: "Composer 25 Troubleshooting"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933174400141-The-Cross-Origin-Request-Blocked-Error
-updated_at: 2026-05-26T22:08:08Z
+updated_at: 2026-08-24T20:31:24Z
 ---
 
 # The Cross-Origin Request Blocked Error

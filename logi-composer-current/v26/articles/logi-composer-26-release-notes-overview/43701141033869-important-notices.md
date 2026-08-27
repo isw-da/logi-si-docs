@@ -4,14 +4,14 @@ id: 43701141033869
 section: "Logi Composer  26 Release Notes Overview"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701141033869-Important-Notices
-updated_at: 2026-05-29T14:09:19Z
+updated_at: 2026-08-26T07:10:55Z
 ---
 
 # Important Notices
 
 # Important Notices
 
-Composer is offered on a quarterly release schedule. The current major release of Composer is v26.1.
+This software is offered on a quarterly release schedule. The current major release is v26.2.
 
 **Caution:** If your operating system has reached or will soon reach its EOL date, insightsoftware recommends you schedule an appropriate time to upgrade both the Composer and operating system to a later version. For more information, see [Operating System Support](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701136004365-Operating-System-Support).
 
@@ -22,7 +22,7 @@ Composer is offered on a quarterly release schedule. The current major release o
 
 #### Upgrade and Migration Considerations
 
-* Windows Server 2012R2 is not compatible with both Java17 binaries and the latest releases of Composer (23.2 and later). We recommend you use Windows 2016 or later to run Composer 23.2 and later.
+* Windows Server 2012R2 is not compatible with both Java17 binaries and the latest releases of Composer (23.2 and later). We recommend you use Windows 2019 or later to run Composer 26.2 and later.
 * In general, you can upgrade directly to the latest version of Composer from a prior version.
 * If you are upgrading to a newer version of Composer and you also want to change your encryption mode, perform the upgrade first and then complete the steps described in [Change the Encryption Mode](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701175423245-Change-the-Encryption-Mode).
 

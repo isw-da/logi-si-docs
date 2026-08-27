@@ -4,7 +4,7 @@ id: 34932843478029
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932843478029-Configure-Recipient-Rules
-updated_at: 2026-05-26T22:06:56Z
+updated_at: 2026-08-24T20:29:59Z
 ---
 
 # Configure Recipient Rules

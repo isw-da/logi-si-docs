@@ -4,7 +4,7 @@ id: 34933117410317
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933117410317-Subscribe-a-Visual-to-a-Link
-updated_at: 2026-05-26T22:09:31Z
+updated_at: 2026-08-24T20:32:44Z
 ---
 
 # Subscribe a Visual to a Link
@@ -15,15 +15,15 @@ You can select cross-source and same-source links to which a visual on a dashboa
 
 **Subscribe to a same-source or cross-source link for a dashboard visual**
 
-1. Select the link icon ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167858830605) on the [dashboard icon bar](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932842163469-Use-the-Dashboard-Icon-Bars). The Dashboard Interactions dialog appears. In the following image, no cross-source links are defined for the dashboard.
+1. Select the link icon ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374759187469) on the [dashboard icon bar](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932842163469-Use-the-Dashboard-Icon-Bars). The Dashboard Interactions dialog appears. In the following image, no cross-source links are defined for the dashboard.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167858831629)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374728639757)
 2. Select the **Cross-Visual Filtering** tab.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167864477197)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374728641293)
 3. Select a visual in the **Visuals** list on the left of the tab. The right side of the tab show the link filters to which the visual can subscribe in the **Subscribed filters** table.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167864477837)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374728642061)
 4. If you want the visual to subscribe to all of the links available, slide the **Enable All** switch on (to the right).
 
    If you just want the visual to subscribe to an individual link, locate the link name in the table of **Subscribed filters**, and slide its corresponding switch in the **Enabled** on. Repeat this for every individual link to which you want the visual subscribed.

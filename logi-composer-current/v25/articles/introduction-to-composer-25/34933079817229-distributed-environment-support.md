@@ -4,7 +4,7 @@ id: 34933079817229
 section: "Introduction to Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933079817229-Distributed-Environment-Support
-updated_at: 2026-05-26T22:07:49Z
+updated_at: 2026-08-24T20:31:03Z
 ---
 
 # Distributed Environment Support

@@ -4,7 +4,7 @@ id: 34932819109389
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932819109389-Move-Swap-and-Resize-Visuals-and-Widgets-in-a-Dashboard
-updated_at: 2026-05-26T22:09:53Z
+updated_at: 2026-08-24T20:33:06Z
 ---
 
 # Move, Swap, and Resize Visuals and Widgets in a Dashboard
@@ -35,7 +35,7 @@ When you hover over or grab a widget to move, swap, or resize it, Composer may c
 
 ### Move Widgets
 
-After you've added two or more widgets of any type to your dashboard, you can rearrange the widgets to position your visuals, rich text snippets, or filter snippets in a layout convenient to your users. To move a widget to a specific place on your dashboard, grab it by the title pane, header, or handle (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167320245645)) while in [edit mode](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932832240909-Use-Dashboard-View-Mode), then drag and drop to the desired location.
+After you've added two or more widgets of any type to your dashboard, you can rearrange the widgets to position your visuals, rich text snippets, or filter snippets in a layout convenient to your users. To move a widget to a specific place on your dashboard, grab it by the title pane, header, or handle (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373700629645)) while in [edit mode](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932832240909-Use-Dashboard-View-Mode), then drag and drop to the desired location.
 
 ### Swap Widgets
 
@@ -52,14 +52,14 @@ After you've added two or more widgets of any type to your dashboard, you can re
 **Resize a widget**
 
 1. Select an unlocked widget in a dashboard you have open in [Edit mode](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932832240909-Use-Dashboard-View-Mode).
-2. Drag it by the handle (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167360027149)) from an available side (top or bottom) to make it and the widgets in its row taller or shorter. Minimum height for a widget is 50 pixels.
-3. Drag it by the handle (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167321174925)) from an available side (left or right) to make it and the widgets in the column narrower or wider.
-4. Alternatively, drag it horizontally, vertically, or diagonally using the resize handle (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167354073485)). Adjust the Position options for the widget in the Widget Settings sidebar menu to frame it appropriately in the widget cell.
+2. Drag it by the handle (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373670469005)) from an available side (top or bottom) to make it and the widgets in its row taller or shorter. Minimum height for a widget is 50 pixels.
+3. Drag it by the handle (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373716802445)) from an available side (left or right) to make it and the widgets in the column narrower or wider.
+4. Alternatively, drag it horizontally, vertically, or diagonally using the resize handle (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373730432141)). Adjust the Position options for the widget in the Widget Settings sidebar menu to frame it appropriately in the widget cell.
 5. Save your changes.
 
 ## Position Resized Widgets
 
-After you've used the resizing handle (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167354073485)) to resize the contents of a widget, select a Position option to align it the way you want in the widget cell in the Widget Settings panel. When you select a position option, the icon colors invert to indicate the selection. Select **Apply** to align the widget using your new selections.
+After you've used the resizing handle (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373730432141)) to resize the contents of a widget, select a Position option to align it the way you want in the widget cell in the Widget Settings panel. When you select a position option, the icon colors invert to indicate the selection. Select **Apply** to align the widget using your new selections.
 
 | Position Alignment | Description |
 | --- | --- |
@@ -70,14 +70,14 @@ After you've used the resizing handle (![](https://logi-composer-v25.insightsoft
 |  | Select to align the widget to the left of the available area, vertically. |
 |  | Select to align the widget at the right of the available area, vertically. |
 
-![Use the Position work area of the Widget Settings panel to position a floating widget in a widget cell](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167327603853 "A dashboard with resized and repositioned widgets")
+![Use the Position work area of the Widget Settings panel to position a floating widget in a widget cell](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373722793485 "A dashboard with resized and repositioned widgets")
 
 ## Placement Indicators
 
 Placement indicators help you see where you can move a widget you have selected to drag and reposition. A wide bar appears along the edge of the target widgets when you attempt to reposition a widget above, below, or alongside a widget, or as a new row between widget rows.
 
-![Repositioning a widget between widgets](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167343945357 "Repositioning a widget between widgets")
+![Repositioning a widget between widgets](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373738631181 "Repositioning a widget between widgets")
 
-![Repositioning a widget alongside widgets](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167327913741 "Repositioning a widget alongside widgets")
+![Repositioning a widget alongside widgets](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373732086925 "Repositioning a widget alongside widgets")
 
-![Creating a new widget row](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167361788301 "Creating a new widget row")
+![Creating a new widget row](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373691216397 "Creating a new widget row")

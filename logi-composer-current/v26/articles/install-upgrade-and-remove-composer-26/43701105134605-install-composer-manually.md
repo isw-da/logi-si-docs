@@ -4,7 +4,7 @@ id: 43701105134605
 section: "Install, Upgrade, and Remove Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701105134605-Install-Composer-Manually
-updated_at: 2026-05-29T14:08:42Z
+updated_at: 2026-08-26T07:11:21Z
 ---
 
 # Install Composer Manually
@@ -51,14 +51,14 @@ Composer benefits from time synchronization in your network. Specifically, it le
 
 ### Java Requirements
 
-You must have Java 11.0.5 installed for Composer 23.1 and Java 17 installed for Composer 23.2 and later to use Composer. Without it, your software will not start.
+You must have Java 21 installed to run Composer 26.2 and later to use Composer. Without it, your software will not start.
 
 After you have made any needed adjustments to your network configurations, return to this topic to continue the installation process.
 See also [How Composer Validates an Environment's Java Version](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701135097613-How-Composer-Validates-an-Environment-s-Java-Version).
 
 ## Step 2. Set Up Composer's Metadata Store
 
-Composer uses a standard PostgreSQL database instance to store its metadata. Composer strongly recommends using this instance as it is configured with the appropriate settings.
+Composer uses a standard PostgreSQL database instance to store its metadata. We strongly recommend using this instance as it is configured with the appropriate settings.
 
 **Note:** New installations of Logi Composer (v24.3 and later) use PostgreSQL 16. If you are upgrading your environment to v24.3 or later, you can retain your existing PostgreSQL version.
 
@@ -137,6 +137,8 @@ Composer [technical support](https://logi-composer-v26.insightsoftware.com/hc/e
 * The Composer server
 * Connector microservices
 * Query Engine
+
+For more information, see [Supported Technologies Reference](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/48298359669517-Supported-Technologies-Reference)
 
 ## Step 6. Install the ComposerServer
 

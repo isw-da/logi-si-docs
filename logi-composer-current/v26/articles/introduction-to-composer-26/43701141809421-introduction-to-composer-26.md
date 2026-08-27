@@ -4,7 +4,7 @@ id: 43701141809421
 section: "Introduction to Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701141809421-Introduction-to-Composer-26
-updated_at: 2026-05-29T14:09:05Z
+updated_at: 2026-08-26T07:11:01Z
 ---
 
 # Introduction to Composer 26
@@ -21,9 +21,9 @@ Designed specifically for software teams, Composer delivers the first out-of-the
 **Important:** 
  We have changed Composer to a quarterly release schedule, and adopted a new version numbering system. Logi Composer v8 is now Logi Composer 22.4. Logi Composer version names for Logi Composer 7 and earlier remain unchanged. See [Logi Composer Release Vehicles and Third Party End of Life Policy](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701073879309-Logi-Composer-Release-Vehicles-and-Third-Party-End-of-Life-Policy).
 
-**Caution:**  Older license keys may not be not compatible with this product. If you are upgrading from an older Composer release, see [Request and Apply a New License Key](../../../../SEAv26/Content/topics/licensing/license-request.html).
+**Caution:**  Older license keys may not be not compatible with this product. If you are upgrading from an older Composer release, see [Request and Apply a New License Key](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701121443341-Request-and-Apply-a-New-License-Key).
 
-If you are already familiar with Composer and want to read up on the latest updates, see: [Logi Composer 26 Release Notes Overview](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701175061389-Logi-Composer-26-Release-Notes-Overview). For information about hardware and software requirements for Composer, see [System Requirements](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701105740685-System-Requirements).
+If you are already familiar with Composer and want to read up on the latest updates, see: [Logi Composer 26 Release Notes Overview](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701175061389-Logi-Composer-26-Release-Notes-Overview). For information about hardware and software requirements for Composer, see [System Requirements](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701105740685-System-Requirements) and [Supported Technologies Reference](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/48298359669517-Supported-Technologies-Reference).
 
 For information about the Postgres metadata repository that Composer uses to store definitions and settings, see [Metadata Repository](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701122518797-Metadata-Repository).
 

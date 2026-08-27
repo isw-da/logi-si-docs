@@ -4,7 +4,7 @@ id: 34933132827149
 section: "Manage Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933132827149-Use-Lightweight-Directory-Access-Protocol-LDAP
-updated_at: 2026-05-26T22:09:13Z
+updated_at: 2026-08-24T20:32:21Z
 ---
 
 # Use Lightweight Directory Access Protocol (LDAP)
@@ -41,9 +41,9 @@ The following LDAP configuration information is needed to configure LDAP in Comp
 
    **Note:** 
    The default **supervisor** user is no longer installed; add users to the **Supervisors** group instead.
-2. Select **Security** from the menu (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167851005837)). The security tabs display.
+2. Select **Security** from the menu (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374770802701)). The security tabs display.
 
-   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167030699917)
+   ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373240433293)
 3. On the Security Services tab, make sure that the [LDAP security service is on](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933133239309-Enable-or-Disable-a-Security-Service). If it is not running, turn it on.
 4. Select the **LDAP Settings** tab. The LDAP Settings tab has five sections: **General Settings**, **LDAP Server**, **User Provisioning**, **Mappings**, and **Mappings to Custom User Attributes**.
 5. In the **General Settings** section, switch the **Enable LDAP** option on (slide it to the right).

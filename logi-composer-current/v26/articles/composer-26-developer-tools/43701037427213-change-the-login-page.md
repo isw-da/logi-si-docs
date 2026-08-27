@@ -4,7 +4,7 @@ id: 43701037427213
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701037427213-Change-the-Login-Page
-updated_at: 2026-05-29T14:11:37Z
+updated_at: 2026-08-26T07:10:44Z
 ---
 
 # Change the Login Page
@@ -19,7 +19,7 @@ You can change the Login page of your Composer environment from the default valu
 
 ## Change the Login Page Background Gradient
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242743525389)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418022092173)
 
 The Customize UI tab in the Composer environment enables you to change the background. You can also change the gradient animation color of the background to match the changes applied to the Login Page background. Use the selector illustrated below:
 
@@ -29,7 +29,7 @@ background: orange !important;
 
 ## Change the Login Box
 
-![Composer Log in prompt](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242754917133 "Composer Log in prompt")
+![Composer Log in prompt](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418035071501 "Composer Log in prompt")
 
 You can change the color of the Login Box for your Composer environment by using selector shown below:
 
@@ -43,7 +43,7 @@ background-color: rgba (0, 50, 50, 0) !important;
 
 ## Change the Login Button Color
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/46242772470669)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418035117197)
 
 You can change the color of the Login button on your Composer environment. Follow the selector below:
 

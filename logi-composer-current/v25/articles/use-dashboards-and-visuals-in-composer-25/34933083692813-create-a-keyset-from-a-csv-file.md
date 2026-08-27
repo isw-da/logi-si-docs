@@ -1,10 +1,10 @@
 ---
-title: "Create a Keyset From a CSV\u00a0File"
+title: "Create a Keyset From a CSV File"
 id: 34933083692813
 section: "Use Dashboards and Visuals in Composer 25"
 product: "Logi Composer v25"
 url: https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933083692813-Create-a-Keyset-From-a-CSV-File
-updated_at: 2026-05-26T22:09:36Z
+updated_at: 2026-08-24T20:32:50Z
 ---
 
 # Create a Keyset From a CSV File
@@ -23,8 +23,8 @@ You can create a keyset from a CSV file. The CSV file must meet the following re
 1. Review a visual in the Visual Gallery or in a dashboard.
 2. Select the filter icon on the [visual](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932931145741-Apply-a-Row-Level-Filter-to-a-Visual-or-Filter-Snippet) or [dashboard](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34932922987533-Apply-a-Row-Level-Filter-to-a-Dashboard) to access the appropriate filter sidebar.
 
-   * To access the visual filter sidebar, select its filter icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167866731277)) or select **Settings** from the [visual menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933290868621-Use-the-Visual-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167861187597)) and then select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167861187981) on the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu).
-   * To access the dashboard filter sidebar, select its filter icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167866731277)). The dashboard-level filter icon is available only when all the visuals are from the same data source.
+   * To access the visual filter sidebar, select its filter icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374732479373)) or select **Settings** from the [visual menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933290868621-Use-the-Visual-Menu) (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374732481549)) and then select ![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374796584845) on the [sidebar menu](https://logi-composer-v25.insightsoftware.com/hc/en-us/articles/34933295031181-Use-the-Visual-Sidebar-Menu).
+   * To access the dashboard filter sidebar, select its filter icon (![](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48374732479373)). The dashboard-level filter icon is available only when all the visuals are from the same data source.
 
    The Filters sidebar appears, showing any filters that have been applied.
 3. Select **Add Filter**.
@@ -47,7 +47,7 @@ You can create a keyset from a CSV file. The CSV file must meet the following re
 8. Optionally, enter a description for the keyset in the **Description** box.
 9. In the **Choose a file to Add Keyset Values** box, browse for and select the CSV file containing the keyset values you want to upload.
 
-   ![Set your keyset details here, and upload a new keyset if needed](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/46167123262477 "upload keyset values work area")
+   ![Set your keyset details here, and upload a new keyset if needed](https://logi-composer-v25.insightsoftware.com/hc/article_attachments/48373342114573 "upload keyset values work area")
 10. Select **Upload Keyset** to upload the CSV file for the keyset.
 
     If the upload occurs successfully, a message displays that the upload was successful and the keyset details appear in the Filter sidebar. The keyset is now available to all users of the Composer instance.
