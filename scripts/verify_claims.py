@@ -122,6 +122,33 @@ if sorted(si_spec.get("paths", {})) != ["/plants", "/plants/{id}"]:
     fails.append("simba-intelligence/openapi.json is no longer the plant-store placeholder "
                  "that README.md and API-NOTES.md describe")
 
+# 7. the orphan slug files. The refresh never deletes, so every upstream retitle
+#    leaves the old slug behind and these counts only ever grow. README.md
+#    quantifies them and tells consumers to count the manifest instead, which is
+#    the sentence that stops a reader trusting a `find | wc -l`. Nothing
+#    recomputed it, so it could drift the way the other four numbers did.
+def md_count(rel):
+    return sum(1 for _, _, fs in os.walk(os.path.join(ROOT, rel))
+               for f in fs if f.endswith(".md"))
+
+
+v25_files = md_count("logi-composer-current/v25")
+v26_files = md_count("logi-composer-current/v26")
+claim("README.md", f"({v25_files:,} in v25, {v26_files:,} in v26)",
+      "orphan slug files accumulated on the next refresh")
+
+# 8. every manifest path must resolve on disk. The manifest is what README.md
+#    tells consumers to ingest, so an entry pointing at a file that is not there
+#    is a broken corpus that every count above still reports as healthy.
+for _v in ("v25", "v26"):
+    ran += 1
+    _base = os.path.join(ROOT, "logi-composer-current", _v)
+    _missing = [r["path"] for r in json.loads(read(f"logi-composer-current/{_v}/manifest.json"))
+                if not os.path.isfile(os.path.join(_base, r["path"]))]
+    if _missing:
+        fails.append(f"logi-composer-current/{_v}/manifest.json lists {len(_missing)} path(s) "
+                     f"with no file on disk, first: {_missing[0]}")
+
 print(f"ran {ran} check(s), {len(skips)} not applicable, {len(fails)} failed")
 print()
 for s in skips:

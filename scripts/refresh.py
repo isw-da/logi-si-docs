@@ -102,8 +102,29 @@ def pull_source(src: dict, dry: bool) -> dict:
             pass
 
     if dry:
+        # A count delta of zero does not mean the mirror is current. Upstream
+        # revises articles without changing how many there are, so comparing
+        # totals alone reports REFRESH OK over a corpus that has moved. Compare
+        # per article, against the manifest, which is what the refresh writes
+        # and what README.md tells consumers to ingest.
+        mirrored_stamps = {}
+        if mpath.is_file():
+            try:
+                for r in json.load(open(mpath)):
+                    mirrored_stamps[str(r["id"])] = r.get("updated_at", "")
+            except Exception:
+                pass
+        up_stamps = {str(a["id"]): (a.get("updated_at") or "") for a in articles}
+        new_ids = set(up_stamps) - set(mirrored_stamps)
+        gone_ids = set(mirrored_stamps) - set(up_stamps)
+        revised_ids = {k for k in set(up_stamps) & set(mirrored_stamps)
+                       if up_stamps[k] and up_stamps[k] != mirrored_stamps[k]}
+        would = len(new_ids) + len(revised_ids)
         print(f"    upstream {upstream}, mirrored {before}, delta {upstream - before}", flush=True)
-        return {"key": key, "upstream": upstream, "before": before, "written": 0, "dry": True}
+        print(f"    new {len(new_ids)}, revised {len(revised_ids)}, "
+              f"gone from upstream {len(gone_ids)}", flush=True)
+        return {"key": key, "upstream": upstream, "before": before, "written": would,
+                "dry": True}
 
     written, manifest = 0, []
     for a in articles:
