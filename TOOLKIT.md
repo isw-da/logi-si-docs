@@ -12,7 +12,7 @@ Amin Hasan. Anyone on the team is welcome to clone, pin, fork or raise an issue.
 | [`simba-intelligence-skill`](https://github.com/isw-da/simba-intelligence-skill) | SI install, configuration, troubleshooting, NLQ testing, EDC connector testing, demo environments | Public | Manual |
 | [`symphony-dashboard-builder-skill`](https://github.com/isw-da/symphony-dashboard-builder-skill) | Composer dashboards: server-side creation and the client-side application around them | Public | Manual |
 | [`simba-intelligence-mcp`](https://github.com/isw-da/simba-intelligence-mcp) | SI API as MCP tools | Private | Manual |
-| [`logi-report-kb`](https://github.com/isw-da/logi-report-kb) | Logi Report and JReport: 13,235 documents plus the Server Web API surface | Private | Manual |
+| [`logi-report-kb`](https://github.com/isw-da/logi-report-kb) | Logi Report and JReport: 13,235 documents plus the Server Web API surface | Public | **Weekly**, current docs only |
 
 ## Which one answers your question
 
