@@ -1,0 +1,68 @@
+{
+ "_comment": [
+  "Canonical description of the repository set. This file is the ONLY place the",
+  "list is written down. scripts/render_toolkit.py renders it into TOOLKIT.md",
+  "here and into the '## The set' table in each sibling repo's CONSUMING.md,",
+  "and scripts/verify_toolkit.py fails if any rendered copy has drifted.",
+  "",
+  "It exists because the table was hand-maintained in six places and went stale",
+  "in all six at once: logi-report-kb was described as private and manually",
+  "refreshed for some time after it became public and got a weekly job.",
+  "",
+  "'holds' is the short form used in CONSUMING.md. 'covers' is the longer form",
+  "used in TOOLKIT.md. They are separate fields because the two tables really do",
+  "say different things, and collapsing them would lose detail rather than",
+  "remove duplication."
+ ],
+ "org": "isw-da",
+ "repos": [
+  {
+   "name": "logi-si-docs",
+   "holds": "Documentation mirror: SI, Composer v25 and v26, the legacy devnet archive, and the Composer OpenAPI specs",
+   "covers": "Documentation mirror: SI, Composer v25 and v26, the legacy devnet archive, the Composer OpenAPI specs",
+   "visibility": "Public",
+   "refresh": "weekly",
+   "refresh_note": ""
+  },
+  {
+   "name": "composer-mcp",
+   "holds": "Composer REST API as MCP tools, with guards, plus the reference docs",
+   "covers": "Composer REST API as MCP tools, with guards. Reference docs for embedding, theming, chatbot, calculations, limitations, safety",
+   "visibility": "Public",
+   "refresh": "manual",
+   "refresh_note": ""
+  },
+  {
+   "name": "simba-intelligence-skill",
+   "holds": "SI install, configuration and troubleshooting skills",
+   "covers": "SI install, configuration, troubleshooting, NLQ testing, EDC connector testing, demo environments",
+   "visibility": "Public",
+   "refresh": "manual",
+   "refresh_note": ""
+  },
+  {
+   "name": "symphony-dashboard-builder-skill",
+   "holds": "Building Composer dashboards server side, and the client-side assembly around them",
+   "covers": "Composer dashboards: server-side creation and the client-side application around them",
+   "visibility": "Public",
+   "refresh": "manual",
+   "refresh_note": ""
+  },
+  {
+   "name": "simba-intelligence-mcp",
+   "holds": "SI API as MCP tools",
+   "covers": "SI API as MCP tools",
+   "visibility": "Private",
+   "refresh": "manual",
+   "refresh_note": ""
+  },
+  {
+   "name": "logi-report-kb",
+   "holds": "Logi Report and JReport documentation and API surface",
+   "covers": "Logi Report and JReport: 13,235 documents plus the Server Web API surface",
+   "visibility": "Public",
+   "refresh": "weekly",
+   "refresh_note": "but only the 3,891 current articles. The 9,344-article devnet archive is frozen because that host is dead, and `api/` needs a running instance CI cannot reach"
+  }
+ ]
+}

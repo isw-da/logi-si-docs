@@ -5,6 +5,8 @@ Amin Hasan. Anyone on the team is welcome to clone, pin, fork or raise an issue.
 
 ## What exists
 
+<!-- toolkit-table: generated from toolkit.json, do not edit by hand -->
+
 | Repo | Covers | Visibility | Refresh |
 |---|---|---|---|
 | [`logi-si-docs`](https://github.com/isw-da/logi-si-docs) | Documentation mirror: SI, Composer v25 and v26, the legacy devnet archive, the Composer OpenAPI specs | Public | **Weekly, automatic** |
@@ -13,6 +15,22 @@ Amin Hasan. Anyone on the team is welcome to clone, pin, fork or raise an issue.
 | [`symphony-dashboard-builder-skill`](https://github.com/isw-da/symphony-dashboard-builder-skill) | Composer dashboards: server-side creation and the client-side application around them | Public | Manual |
 | [`simba-intelligence-mcp`](https://github.com/isw-da/simba-intelligence-mcp) | SI API as MCP tools | Private | Manual |
 | [`logi-report-kb`](https://github.com/isw-da/logi-report-kb) | Logi Report and JReport: 13,235 documents plus the Server Web API surface | Public | **Weekly**, current docs only |
+
+<!-- /toolkit-table -->
+
+That table is generated from `toolkit.json` by `scripts/render_toolkit.py`, and it is the
+only place the repository set is written down. It used to be hand-maintained in six files,
+which meant it went stale in all six at once: `logi-report-kb` was described as private and
+manually refreshed for some time after it had become public and gained a weekly job.
+
+`scripts/verify_toolkit.py` runs as part of the release gate and fails on three things: a
+rendered copy that has drifted from the source, a visibility this file claims that GitHub
+disagrees with, and a repository described as refreshing weekly that has no scheduled
+workflow. Checks it cannot run, usually because a sibling repository is not checked out on
+this machine, are named and counted rather than passed over.
+
+To change the set, edit `toolkit.json`, run `python3 scripts/render_toolkit.py`, and commit
+the repositories it touches.
 
 ## Which one answers your question
 
