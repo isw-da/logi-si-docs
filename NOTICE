@@ -1,0 +1,63 @@
+NOTICE
+======
+
+This repository holds material with two different owners, which is why it
+carries a NOTICE rather than a conventional open-source licence. Applying MIT
+or Apache here would purport to grant rights over documentation that is not
+mine to grant. Almost everything by volume is insightsoftware's own product
+documentation, mirrored so that a machine can search it.
+
+Original work
+-------------
+Written by Amin Hasan as insightsoftware work:
+
+  scripts/refresh.py, scripts/render_toolkit.py, scripts/verify_toolkit.py,
+  scripts/verify_claims.py, composer-api/verify-endpoints.py,
+  .github/workflows/, toolkit.json, README.md, TOOLKIT.md, CLAUDE.md, NOTICE,
+  composer-api/ENDPOINTS.md, logi-report-api/ENDPOINTS.md,
+  logi-report-api/PROVENANCE.md, simba-intelligence/API-NOTES.md and
+  simba-intelligence/reverse-engineered/.
+
+That is the orchestration: the pull, the conversion, the indexes, the gates and
+the prose about what is here and how far to trust it. Colleagues are welcome to
+clone, fork, pin and open issues.
+
+insightsoftware material
+------------------------
+Everything else is mirrored, and it is the bulk of the repository:
+
+  logi-devnet/            15,712 devnet Help Centre articles
+  logi-composer-current/  877 Composer v25 and 883 Composer v26 articles
+  simba-intelligence/     the Mintlify SI corpus (llms-full.txt, llms.txt,
+                          27 pages) and openapi.json
+  composer-api/*.json     Composer OpenAPI documents served by running
+                          Composer instances
+  logi-report-api/        the Logi Report Server API definition shipped inside
+                          the product
+
+Logi Composer, Logi Report, Logi Info, Simba Intelligence and Dundas are
+insightsoftware products. This content is insightsoftware's, it is reproduced
+here rather than rewritten, and nothing in this repository relicenses it. The
+conversion to markdown changes the format and not the ownership.
+
+What this is for
+----------------
+An internal working asset. It exists so that an AI assistant can be given a
+clean, searchable copy of the product documentation and answer from it, and so
+that demonstrations of that idea can be built and shown. It is a mirror, so it
+lags upstream, and the upstream sites remain the authority. Check the dates in
+README.md before relying on any page.
+
+Where the material came from
+----------------------------
+Most of it comes from public sites: the devnet and Composer Help Centres, the
+Mintlify SI docs, and OpenAPI documents served by Composer and Logi Report
+instances. Two exceptions are worth naming rather than leaving to be
+discovered. simba-intelligence/reverse-engineered/ was captured against running
+SI instances where the published docs are silent or lag the release, including
+the product's own generated API specification. One file in that folder,
+26.2-release-notes-official.md, states that it was mirrored from an internal
+Confluence page.
+
+Contact a@hasan.co if anything here should not be public. It comes out the same
+day.

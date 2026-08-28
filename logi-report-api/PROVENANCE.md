@@ -17,18 +17,25 @@ vendor's own published API definition, not something reconstructed from prose.
   spec version 1.3.0
 - **Base path:** `/jrserver/api/v1.2`
 - **124 paths, 225 operations, 11 tags**
-- SHA-256 recorded in `SPEC.sha256` and re-checked against the running container
-  by `scripts/verify_api.py`
+- SHA-256 recorded in `api/spec/SPEC.sha256` and re-checked against the running
+  container by `scripts/verify_api.py`, both of which live in
+  [`logi-report-kb`](https://github.com/isw-da/logi-report-kb) rather than here.
+  This repository carries a copy of the spec and its index, not the gate.
 
 ## How this compares with Composer
 
 | | Logi Report | Logi Composer |
 |---|---|---|
 | Spec format | **Swagger 2.0** | **OpenAPI 3.1.0** |
-| Paths | 124 | 220 |
-| Operations | 225 | 338 |
-| Tags | 11 | 75 |
-| How obtained | shipped file inside the server install | pulled from a live `/composer/api-docs` |
+| Paths | 124 | 223 |
+| Operations | 225 | 344 |
+| Tags | 11 | 74 |
+| How obtained | shipped file inside the server install | pulled from a live `/discovery/api-docs` |
+
+The Composer column describes `../composer-api/composer-openapi.json` as it
+stands, which is the SI-bundled 26.2.1 pull of 27 August 2026. The hosted
+instance served 220 paths and 338 operations, and `../composer-api/ENDPOINTS.md`
+indexes both.
 
 **The format difference is the practical catch.** Anything consuming both (an MCP
 server, a codegen step, a validator) must either handle Swagger 2.0 and OpenAPI
@@ -58,9 +65,15 @@ string all returned **zero** matching jars. It proves nothing either way.
 
 ## What the gate actually proves, and what it does not
 
-**Proves:** the spec in this repo is byte-identical to the one the running 26.2
-SP1 server ships, the JSON mirror agrees with the YAML, and `ENDPOINTS.md` lists
-every one of the 225 operations with none silently dropped.
+The gate is `scripts/verify_api.py` in `logi-report-kb`, and it runs there rather
+than here. The copy of the spec in this repository is byte-identical to the one
+that gate covers: `shasum -a 256` on `logireport-openapi.yaml` here and on
+`logi-report-kb/api/spec/logireport-openapi.yaml` gave the same digest,
+`b98899cd...5957`, on 28 August 2026.
+
+**Proves:** the spec is byte-identical to the one the running 26.2 SP1 server
+ships, the JSON mirror agrees with the YAML, and `ENDPOINTS.md` lists every one
+of the 225 operations with none silently dropped.
 
 **Does not prove:** that every documented endpoint behaves as described, or that
 the server implements nothing beyond the spec. Verifying behaviour needs an

@@ -45,7 +45,10 @@ the repositories it touches.
 - **"What changed between Composer versions?"** → `logi-si-docs/logi-composer-current/`, which
   holds v25 and v26 side by side.
 - **"Anything about Logi Report or JReport"** → `logi-report-kb`. Note the product has three
-  naming eras and the answer usually depends which one the customer is on.
+  naming eras and the answer usually depends which one the customer is on. Its Server Web
+  API definition is also copied into `logi-si-docs/logi-report-api/`, byte-identical, for
+  tooling that only clones the mirror; the checksum and the gate for it stay in
+  `logi-report-kb`.
 
 ## Two things to know before you rely on any of it
 

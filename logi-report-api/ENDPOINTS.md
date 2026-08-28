@@ -8,9 +8,9 @@ bundled Swagger UI at `/help/webapi/webapi-docs/`. Extracted from a running
 **225 operations across 11 tags, over 124 paths.**
 
 Spec format: **Swagger 2.0**. Note this differs from Composer, whose spec is
-OpenAPI 3.1.0 (`si-docs-mirror/composer-api/composer-openapi.json`). Any tool
-consuming both must handle the two formats, or convert. Machine-readable copies
-here: `spec/logireport-openapi.yaml` and `spec/logireport-openapi.json`.
+OpenAPI 3.1.0 (`../composer-api/composer-openapi.json`). Any tool consuming both
+must handle the two formats, or convert. Machine-readable copies in this folder:
+`logireport-openapi.yaml` and `logireport-openapi.json`.
 
 All paths below are shown with the spec's `basePath` (`/jrserver/api/v1.2`) applied.
 
