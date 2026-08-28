@@ -1,5 +1,9 @@
 # insightsoftware product docs, made machine-readable for AI assistants
 
+> **New here?** [`TOOLKIT.md`](TOOLKIT.md) lists every repo in this set, what each
+> covers, and how to consume them.
+
+
 A clean, searchable mirror of insightsoftware's product documentation, organised so an AI assistant can look up the right page and answer from it.
 
 ## The problem this solves
