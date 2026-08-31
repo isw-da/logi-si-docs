@@ -4,7 +4,7 @@ id: 43701093791245
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701093791245-Schedule-a-Self-Service-Report-or-Dashboard-Report
-updated_at: 2026-08-26T07:10:33Z
+updated_at: 2026-08-31T04:14:09Z
 ---
 
 # Schedule a Self Service Report or Dashboard Report
@@ -18,9 +18,9 @@ Use Logi Composer to send [self service reports and](https://logi-composer-v26.i
 1. Log into as an administrator or a user with the **Create Scheduled Reports** [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference).
 2. Select the **Discovery Board** card on your home page or **Library** from the main menu, then the **Reports** or **Dashboards** tab in the library. The library displays your items in a table (list) format.
 3. Locate the report or dashboard you want.
-4. Select the schedule icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418112973837)) in the associated **Schedule** column. The Scheduled Reports work area opens. Any defined scheduled reports are listed on the left side of the work area.
+4. Select the schedule icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528042818701)) in the associated **Schedule** column. The Scheduled Reports work area opens. Any defined scheduled reports are listed on the left side of the work area.
 
-   ![Use this work area to schedule or update self service and dashboard reports](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418112974093 "Scheduled Reports dialog")
+   ![Use this work area to schedule or update self service and dashboard reports](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528028871949 "Scheduled Reports dialog")
 
    If there are no schedules defined for this dashboard, select **New Schedule** to create a new schedule.
 

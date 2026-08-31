@@ -4,7 +4,7 @@ id: 43701121687693
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701121687693-Enable-and-Configure-User-Auditing
-updated_at: 2026-08-26T07:11:10Z
+updated_at: 2026-08-31T04:14:46Z
 ---
 
 # Enable and Configure User Auditing

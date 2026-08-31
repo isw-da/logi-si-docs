@@ -4,7 +4,7 @@ id: 43701177930509
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701177930509-Available-Visual-Types
-updated_at: 2026-08-26T07:12:47Z
+updated_at: 2026-08-31T04:16:24Z
 ---
 
 # Available Visual Types
@@ -20,13 +20,13 @@ If you have the **Administer Initial Visuals** [privilege](https://logi-compose
 
 1. Make sure you are logged in as a user with the **Administer Initial Visuals** [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference).
 2. Select the **Source** card on your home page or **Data Sources** from the main menu. The [Sources](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701081381901-Data-Sources-Page) page appears.
-3. On the [Sources](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701081381901-Data-Sources-Page) page, locate a data source configuration to edit, and select the more menu (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418100051213)) button.
+3. On the [Sources](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701081381901-Data-Sources-Page) page, locate a data source configuration to edit, and select the more menu (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528063981453)) button.
 4. Select **Available Visual Types**. The Available Visual Types work area for this source opens.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417912217357)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527893554573)
 5. Select to enable and disable the visuals you want user to be able to use for this source. All Visual Types are shown by default: select Standard Visual Types or Custom Visual Types to edit those lists only, or use the search field to find a specific visual.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417964141453)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527893578765)
 
    If a visual type exists for this source that you later disable, existing visuals remain, but new visuals of that type can not be made. For example, disable Bar visual types for a source to prevent users from creating Bar visual types from that source. Existing Bar visuals from that source remain unchanged.
 6. After completing your changes, close the work area to save your changes for this source. All available data fields are automatically included in these default visual settings.

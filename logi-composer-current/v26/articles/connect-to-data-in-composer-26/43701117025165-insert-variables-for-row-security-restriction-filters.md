@@ -4,7 +4,7 @@ id: 43701117025165
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701117025165-Insert-Variables-for-Row-Security-Restriction-Filters
-updated_at: 2026-08-26T07:09:52Z
+updated_at: 2026-08-31T04:13:28Z
 ---
 
 # Insert Variables for Row Security Restriction Filters

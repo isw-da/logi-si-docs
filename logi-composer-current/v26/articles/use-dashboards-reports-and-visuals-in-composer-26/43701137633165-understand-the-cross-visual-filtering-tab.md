@@ -4,19 +4,19 @@ id: 43701137633165
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701137633165-Understand-the-Cross-Visual-Filtering-Tab
-updated_at: 2026-08-26T07:11:59Z
+updated_at: 2026-08-31T04:15:35Z
 ---
 
 # Understand the Cross-Visual Filtering Tab
 
 # Understand the Cross-Visual Filtering Tab
 
-The **Cross-Visual Filtering** tab of the Dashboard Interactions dialog allows you to specify which same-source and cross-source links each dashboard visual publishes and which each visual subscribes to. The Dashboard Interactions dialog can be accessed by selecting ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418118570637) on the [dashboard icon bar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701047597837-Use-the-Dashboard-Icons) and then selecting the **Cross-Visual Filtering** tab.
+The **Cross-Visual Filtering** tab of the Dashboard Interactions dialog allows you to specify which same-source and cross-source links each dashboard visual publishes and which each visual subscribes to. The Dashboard Interactions dialog can be accessed by selecting ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528053616525) on the [dashboard icon bar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701047597837-Use-the-Dashboard-Icons) and then selecting the **Cross-Visual Filtering** tab.
 
 * When a visual publishes a link, that visual can apply cross-visual filters using the link field to other dashboard visuals that have subscribed to the link. Cross-visual filters can only be applied if the associated link is published. In addition, they can only be applied using the **Filter** option on the [context menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701212059021-Use-the-Context-Menu).
 * When a visual subscribes to a link, the visual will be filtered by the link field if another visual creates a cross-visual filter for the same field.
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417978152717)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527906184333)
 
 On the left side of this tab, the visuals on the dashboard are listed. The right side of the dashboard is split into two sections: **Published filters** and **Subscribed filters**. You can alter the publish and subscribe settings for each visual in the dashboard. When you select a visual in the **Visuals** list on the left, the published and subscribed filters for the selected visual appear on the right.
 

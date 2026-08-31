@@ -4,7 +4,7 @@ id: 43701022616717
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701022616717-Alert-Definition-Fields-and-Options
-updated_at: 2026-08-26T07:08:57Z
+updated_at: 2026-08-31T04:12:32Z
 ---
 
 # Alert Definition Fields and Options

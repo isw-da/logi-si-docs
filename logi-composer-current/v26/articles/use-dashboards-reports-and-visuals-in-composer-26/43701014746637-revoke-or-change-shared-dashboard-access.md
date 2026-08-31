@@ -4,7 +4,7 @@ id: 43701014746637
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701014746637-Revoke-or-Change-Shared-Dashboard-Access
-updated_at: 2026-08-26T07:10:31Z
+updated_at: 2026-08-31T04:14:06Z
 ---
 
 # Revoke or Change Shared  Dashboard Access
@@ -25,9 +25,9 @@ If you or your users revoke a recipient's access to a dashboard, the recipient s
    * Access as the `EDITOR` of a dashboard - the user who can edit and has `READ` and `WRITE` permissions for it.
    * In a group with the [**Administer Dashboards** privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference).
 2. Open the dashboard you need from the [list of available](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701047640717-Use-the-Library-for-Dashboards) dashboards.
-3. Select Share Dashboard ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417983733773). The **Share [Dashboard Name]** work area opens with several tabbed work areas: **Select Users**, **Select Groups**, and **Share with everyone** for tenants in your environment.
+3. Select Share Dashboard ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527940439693). The **Share [Dashboard Name]** work area opens with several tabbed work areas: **Select Users**, **Select Groups**, and **Share with everyone** for tenants in your environment.
 4. Use the **Search** box to find one or more users or groups in the **Existing Access** list in the **Select Users** work area, **Select Groups** work area, or **Share with everyone** work area (when you are working within a tenant).
-5. Select the remove icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418088454925)) next to the user name or group name to remove their access to the dashboard. Select the remove icon as appropriate in the **Share with everyone work** area.
+5. Select the remove icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528028791053)) next to the user name or group name to remove their access to the dashboard. Select the remove icon as appropriate in the **Share with everyone work** area.
 6. Select **Save** to save your changes.
 
 **Change dashboard access**
@@ -40,7 +40,7 @@ If you or your users revoke a recipient's access to a dashboard, the recipient s
    * Access as the `EDITOR` of a dashboard - the user who can edit and has `READ` and `WRITE` permissions for it.
    * In a group with the [**Administer Dashboards** privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference).
 2. Open the dashboard you need from the [list of available](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701047640717-Use-the-Library-for-Dashboards) dashboards.
-3. Select Share Dashboard ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417983733773). The **Share [Dashboard Name]** work area opens with several tabbed work areas: **Select Users**, **Select Groups**, and **Share with everyone** for tenants in your environment.
+3. Select Share Dashboard ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527940439693). The **Share [Dashboard Name]** work area opens with several tabbed work areas: **Select Users**, **Select Groups**, and **Share with everyone** for tenants in your environment.
 4. Use the **Search** box to find one or more users or groups in the **Existing Access** list in the **Select Users** work area, **Select Groups** work area, or **Share with everyone** work area (when you are working within a tenant).
 
    **Note:** 

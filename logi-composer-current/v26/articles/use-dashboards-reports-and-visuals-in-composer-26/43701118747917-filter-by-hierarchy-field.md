@@ -4,7 +4,7 @@ id: 43701118747917
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701118747917-Filter-by-Hierarchy-Field
-updated_at: 2026-08-26T07:12:12Z
+updated_at: 2026-08-31T04:15:48Z
 ---
 
 # Filter by Hierarchy Field
@@ -17,8 +17,8 @@ You can filter your data by the values in a hierarchy field. The source used by 
 
 1. Select the filter icon on the [visual](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701118671885-Apply-a-Row-Level-Filter-to-a-Visual-or-Filter-Snippet) or [dashboard](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701108132365-Apply-a-Row-Level-Filter-to-a-Dashboard) to access the appropriate filter sidebar.
 
-   * To access the filter sidebar, select its filter icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418137688589) or select **Settings** from the Show More [menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu)![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418137688845) and then select the filter icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418137689357) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu).
-   * To access the dashboard filter sidebar, select its filter icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418137688589). The dashboard-level filter icon is available only when all the visuals are from the same data source.
+   * To access the filter sidebar, select its filter icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528067819021) or select **Settings** from the Show More [menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu)![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528058529037) and then select the filter icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528067819661) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu).
+   * To access the dashboard filter sidebar, select its filter icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528067819021). The dashboard-level filter icon is available only when all the visuals are from the same data source.
 
    The Filters sidebar opens, showing currently applied filters, if any.
 2. Select **Add Filter**. An Add Filter work area opens to the Row tab, and includes Group and Saved tabs.

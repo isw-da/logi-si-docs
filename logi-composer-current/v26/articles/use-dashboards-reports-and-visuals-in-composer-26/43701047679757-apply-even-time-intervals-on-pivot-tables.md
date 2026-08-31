@@ -4,7 +4,7 @@ id: 43701047679757
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701047679757-Apply-Even-Time-Intervals-on-Pivot-Tables
-updated_at: 2026-08-26T07:10:32Z
+updated_at: 2026-08-31T04:14:08Z
 ---
 
 # Apply Even Time Intervals on Pivot Tables
@@ -19,14 +19,14 @@ For more information about even time intervals, see [Even Time Intervals](https:
 2. If you are editing the visual in a dashboard, select **Settings** from the [visual drop-down menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu). The [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) for the visual appears.
 
    If you are editing the visual from the Visual Gallery, the sidebar appears to the right of the visual.
-3. Select settings ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418138708877) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu). The Pivot Table Settings sidebar for the visual appears.
+3. Select settings ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528028726285) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu). The Pivot Table Settings sidebar for the visual appears.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418005971853)
-4. On the sidebar, select edit ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418112871053) in **Rows** or **Columns** and select a time field for the row or column. Select **OK**.
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527940057229)
+4. On the sidebar, select edit ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528028726669) in **Rows** or **Columns** and select a time field for the row or column. Select **OK**.
 
    The time field is selected and expands so you can select its granularity and even time intervals setting.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418005994509)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527920028685)
 5. Select the granularity for the time field.
 6. Slide **Include Blanks** on to request even time intervals. By default, the ability to show all values is disabled and only attributes with a value greater than NULL are displayed.
 7. Select **Apply** to apply the changes to the pivot table.
@@ -35,6 +35,6 @@ For more information about even time intervals, see [Even Time Intervals](https:
    * Apply `Is not NULL` to hide null values
    * Apply `Is NULL` to include only null values
 
-   ![set a time range, or apply appropriate NULL filter](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418017578125 "Filter Time Range")
+   ![set a time range, or apply appropriate NULL filter](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527912683661 "Filter Time Range")
 
    Select **Continue** to add the filter, then **Apply** to apply your changes to the pivot table.

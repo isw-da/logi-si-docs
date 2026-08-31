@@ -4,7 +4,7 @@ id: 48418039150349
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/48418039150349-Specify-Custom-Tenant-Attributes
-updated_at: 2026-08-26T07:08:53Z
+updated_at: 2026-08-31T04:12:30Z
 ---
 
 # Specify Custom Tenant Attributes

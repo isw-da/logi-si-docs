@@ -4,7 +4,7 @@ id: 43701011976717
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701011976717-Manage-the-Oracle-Connector
-updated_at: 2026-08-26T07:10:21Z
+updated_at: 2026-08-31T04:13:56Z
 ---
 
 # Manage the Oracle Connector

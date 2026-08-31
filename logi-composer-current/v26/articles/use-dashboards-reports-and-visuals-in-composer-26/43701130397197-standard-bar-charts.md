@@ -4,7 +4,7 @@ id: 43701130397197
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701130397197-Standard-Bar-Charts
-updated_at: 2026-08-26T07:12:43Z
+updated_at: 2026-08-31T04:16:19Z
 ---
 
 # Standard Bar Charts
@@ -36,7 +36,7 @@ This topic describes:
    If you are editing the visual from the Visual Gallery, the sidebar appears to the right of the visual.
 3. Select the settings icon on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu). The Bar Chart Settings sidebar for the visual appears.
 
-   ![Adjust settings for your bar chart here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417990368397 "Settings sidebar menu, bar chart")
+   ![Adjust settings for your bar chart here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527869375885 "Settings sidebar menu, bar chart")
 4. Alter the settings as needed:
 
    | Setting | Description |

@@ -4,7 +4,7 @@ id: 43700956182925
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700956182925-Manage-Composer-Tenants
-updated_at: 2026-08-26T07:11:44Z
+updated_at: 2026-08-31T04:15:19Z
 ---
 
 # Manage Composer Tenants

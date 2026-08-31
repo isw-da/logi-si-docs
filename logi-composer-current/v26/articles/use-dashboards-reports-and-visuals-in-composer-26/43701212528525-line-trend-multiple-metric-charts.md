@@ -4,7 +4,7 @@ id: 43701212528525
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701212528525-Line-Trend-Multiple-Metric-Charts
-updated_at: 2026-08-26T07:12:42Z
+updated_at: 2026-08-31T04:16:20Z
 ---
 
 # Line Trend: Multiple Metric Charts
@@ -30,7 +30,7 @@ For information on setting even time intervals, see [Even Time Intervals](https:
    If you are editing the visual from the Visual Gallery, the sidebar appears to the right of the visual.
 3. Select the settings icon on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu). The Line Chart Settings sidebar for the visual appears.
 
-   ![define the settings for your visual here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417963206285 "Settings sidebar menu, line chart multiple metrics")
+   ![define the settings for your visual here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527858844045 "Settings sidebar menu, line chart multiple metrics")
 4. Alter the settings as needed:
 
    | Setting | Description |

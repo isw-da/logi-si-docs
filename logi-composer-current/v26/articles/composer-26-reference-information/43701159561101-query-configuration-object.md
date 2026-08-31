@@ -4,7 +4,7 @@ id: 43701159561101
 section: "Composer 26 Reference Information"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701159561101-Query-Configuration-Object
-updated_at: 2026-08-26T07:11:57Z
+updated_at: 2026-08-31T04:15:33Z
 ---
 
 # Query Configuration Object

@@ -4,7 +4,7 @@ id: 43701140257805
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701140257805-Configure-a-Periodic-Refresh-Job
-updated_at: 2026-08-26T07:11:53Z
+updated_at: 2026-08-31T04:15:29Z
 ---
 
 # Configure a Periodic Refresh Job
@@ -20,10 +20,10 @@ You can configure a periodic refresh job for the data cached for a data source c
 3. On the [Sources](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701081381901-Data-Sources-Page) page, locate and select the data source configuration you want to edit. The Source Creation work area opens.
 4. Select the **Cache** tab. All the fields from your data source are listed.
 
-   ![use this work area to define data cache settings, statistics stash settings, schedule refresh settings, enable caching for fields, or manually refresh one or more fields.](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418070567309 "Cache Tab work area")
+   ![use this work area to define data cache settings, statistics stash settings, schedule refresh settings, enable caching for fields, or manually refresh one or more fields.](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528039681677 "Cache Tab work area")
 5. Select to enable **Schedule Refresh Settings** and select **Periodic** in the pop up. The settings work area for a periodic refresh job appear.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417966028557)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527905202701)
 6. Select the time interval for the job to be run using the
    **Frequency** list. Options **Daily**, **Weekly**, and **Monthly**. Depending on the **Runs** option you select, corresponding options become available in the
    **Run every** section:

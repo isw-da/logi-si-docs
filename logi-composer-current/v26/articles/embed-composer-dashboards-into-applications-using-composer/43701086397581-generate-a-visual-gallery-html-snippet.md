@@ -4,7 +4,7 @@ id: 43701086397581
 section: "Embed Composer Dashboards Into Applications Using Composer"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701086397581-Generate-a-Visual-Gallery-HTML-Snippet
-updated_at: 2026-08-26T07:12:13Z
+updated_at: 2026-08-31T04:15:49Z
 ---
 
 # Generate a Visual Gallery HTML Snippet
@@ -17,9 +17,9 @@ You can generate an embeddable HTML snippet for the visual gallery using the UI.
 
 1. Log into the UI as an administrator or as a user assigned to a group with the **Generate Embed Code** [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference).
 2. Select **Visual Gallery** from the main menu. The [visual gallery](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701180261773-Use-the-Visual-Gallery) appears.
-3. Select the embed library icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418087617165)) above the list of visuals. The Embed Code dialog appears.
+3. Select the embed library icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528088999693)) above the list of visuals. The Embed Code dialog appears.
 
-   ![adjust and copy the embed code for your visual gallery](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417968918669 "embed code dialog")
+   ![adjust and copy the embed code for your visual gallery](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527916508557 "embed code dialog")
 
    The Code section of this dialog shows the embeddable snippet. If you do not need to change any of the default settings on this page, simply select **Copy to Clipboard** and you can skip the rest of these steps and embed the copied snippet in your application.
 

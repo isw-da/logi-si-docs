@@ -4,7 +4,7 @@ id: 43701043213709
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701043213709-Work-With-Distinct-Counts-on-Cloudera-Impala
-updated_at: 2026-08-26T07:09:12Z
+updated_at: 2026-08-31T04:12:47Z
 ---
 
 # Work With Distinct Counts on Cloudera Impala

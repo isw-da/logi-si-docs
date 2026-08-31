@@ -4,7 +4,7 @@ id: 43701008213517
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701008213517-Search-and-Filter-Lists
-updated_at: 2026-08-26T07:11:32Z
+updated_at: 2026-08-31T04:15:07Z
 ---
 
 # Search and Filter Lists
@@ -15,7 +15,7 @@ If there are many items included in your work area, you may need to search and f
 
 You can use the search bar to perform a search, and a filter to filter all items or your search results, using built in filters or content tags.
 
-![Use a search field to search by an available column](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418008499853 "An expanded search field")![Use a search field to search by an available column](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418008540173 "An expanded search field")![Use a search field to search by an available column](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417954830221 "An expanded search field")![Use a search field to search by an available column](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418034831757 "An expanded search field")
+![Use a search field to search by an available column](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527942596621 "An expanded search field")![Use a search field to search by an available column](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527953844749 "An expanded search field")![Use a search field to search by an available column](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527965910285 "An expanded search field")![Use a search field to search by an available column](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527953900301 "An expanded search field")
 
 ## Use The Search Field
 

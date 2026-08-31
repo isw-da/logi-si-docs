@@ -4,7 +4,7 @@ id: 46981992411661
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/46981992411661-Use-the-Report-Icon-Bars
-updated_at: 2026-08-26T07:12:52Z
+updated_at: 2026-08-31T04:16:29Z
 ---
 
 # Use the Report Icon Bars
@@ -13,9 +13,9 @@ updated_at: 2026-08-26T07:12:52Z
 
 When you create or edit a report, a series of icons are available you can use to perform specific report functions.
 
-![view a report as a non-editor](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417976518669 "report options icons ")
+![view a report as a non-editor](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527882924941 "report options icons ")
 
-![options available for reports for exporting, refreshing, deleting, saving, and more](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417945006093 "report icons bar")
+![options available for reports for exporting, refreshing, deleting, saving, and more](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527875495437 "report icons bar")
 
 Select an icon to perform the function described in the following table.
 

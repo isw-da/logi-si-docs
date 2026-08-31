@@ -4,7 +4,7 @@ id: 43701163831053
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701163831053-Manage-User-Interface-Themes
-updated_at: 2026-08-26T07:12:47Z
+updated_at: 2026-08-31T04:16:24Z
 ---
 
 # Manage User Interface Themes
@@ -63,7 +63,7 @@ The `d+a_light` and `__platform__` themes have definitions for the full range of
 
 You will need expand and update your classic theme colors to accommodate the new interface objects.
 
-![This chart explains that  classic composer themes do not have info to handle UI elements such as home and left navigation](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417964788493 "Chart detailing what each theme type covers")
+![This chart explains that  classic composer themes do not have info to handle UI elements such as home and left navigation](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527894439053 "Chart detailing what each theme type covers")
 
 Additional information about themes can be found here:
 

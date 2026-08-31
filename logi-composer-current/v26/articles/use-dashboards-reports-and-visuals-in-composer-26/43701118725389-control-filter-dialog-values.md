@@ -4,7 +4,7 @@ id: 43701118725389
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701118725389-Control-Filter-Dialog-Values
-updated_at: 2026-08-26T07:12:11Z
+updated_at: 2026-08-31T04:15:48Z
 ---
 
 # Control Filter Dialog Values
@@ -31,17 +31,17 @@ You can control the behavior of filter dialogs by data source. These controls ar
 
 To test this, create a new dashboard visual or filter snippet using the data source. Then filter the data on the visual by the attribute. You will be required to enter the values to filter. Add at least one value or custom value for the attribute to the filter.
 
-![Use to select values, wildcard, or keyset filter information](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417998773773 "Filter Values Select Values work area")
+![Use to select values, wildcard, or keyset filter information](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527915818893 "Filter Values Select Values work area")
 
 **Add a value**
 
 1. Select **Include** or **Exclude** using the drop-down menu in the **Operator** box.
-2. Type a value into the search box and select the add icon ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418111685389 "add icon"). Be sure to specify the values using the proper sentence case. For example, if the values are stored in lowercase letters only, but you enter a value with starting a capital letter, the search will not work.
+2. Type a value into the search box and select the add icon ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528055264909 "add icon"). Be sure to specify the values using the proper sentence case. For example, if the values are stored in lowercase letters only, but you enter a value with starting a capital letter, the search will not work.
 
-   ![Enter a value, such as rings, to add](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417949347725 "Filter Values Select Values work area")
+   ![Enter a value, such as rings, to add](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527921579021 "Filter Values Select Values work area")
 3. The value is added to the list of selected values.
 
-   ![Review your included values, deselect or remove if needed](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417998819725 "Filter Values Select Values work area")
+   ![Review your included values, deselect or remove if needed](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527915873165 "Filter Values Select Values work area")
 4. When you are finished setting your filter values, select **Continue** and examine your updates. If they are correct, select **Apply**.
 
    For more information about setting attribute filters, see [Set an Attribute Filter](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701133345293-Set-an-Attribute-Filter).
@@ -64,7 +64,7 @@ If a [Custom Range](https://logi-composer-v26.insightsoftware.com/hc/en-us/artic
 
 To test this, create a new dashboard visual or filter snippet using the data source. Then filter the data by the number field you specified a custom range for. The values show as default in the filter are the custom range you specified in the data source configuration.
 
-![Define your range of values here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417994774029 "select values filter work area")
+![Define your range of values here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527902362381 "select values filter work area")
 
 When you are finished setting your filter values, select **Continue** and examine your updates. If they are correct, select **Apply**.
 
@@ -82,7 +82,7 @@ For more information about setting numeric filters, see [Set a Numeric Field Fil
 
    Select the value in the **From** or **To** time fields to select a new date and time in the resulting calendar pop-up.
 
-   ![select a date and time for your filter](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417994817165 "calendar popup")
+   ![select a date and time for your filter](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527921700109 "calendar popup")
 6. Select **Save** to apply the custom filter range.
 
 **Note:** 
@@ -90,7 +90,7 @@ If a [Custom Range](https://logi-composer-v26.insightsoftware.com/hc/en-us/artic
 
 To test this, create a new dashboard visual or filter snippet using the data source. Then filter the data by the time field. The values you can select for the filter are restricted to the custom range you specified in the data source configuration. For more information about specifying time filters, see [Set a Time Field Filter](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701087681293-Set-a-Time-Field-Filter).
 
-![Set the start and end time of your data set for this filter](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417998909837 "select values time range")
+![Set the start and end time of your data set for this filter](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527921724557 "select values time range")
 
 When you are finished setting your filter values, select **Continue** and examine your updates. If they are correct, select **Apply**.
 
@@ -114,17 +114,17 @@ You can control the behavior of filter dialogs by data source. These controls ar
 
 To test this, create a new dashboard visual or filter snippet using the data source. Then filter the data on the visual by the attribute. You will be required to enter the values to filter. Add at least one value or custom value for the attribute to the filter.
 
-![Use to select values, wildcard, or keyset filter information](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417998773773 "Filter Values Select Values work area")
+![Use to select values, wildcard, or keyset filter information](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527915818893 "Filter Values Select Values work area")
 
 **Add a value**
 
 1. Select **Include** or **Exclude** using the drop-down menu in the **Operator** box.
-2. Type a value into the search box and select the add icon ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418111685389 "add icon"). Be sure to specify the values using the proper sentence case. For example, if the values are stored in lowercase letters only, but you enter a value with starting a capital letter, the search will not work.
+2. Type a value into the search box and select the add icon ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528055264909 "add icon"). Be sure to specify the values using the proper sentence case. For example, if the values are stored in lowercase letters only, but you enter a value with starting a capital letter, the search will not work.
 
-   ![Enter a value, such as rings, to add](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417949347725 "Filter Values Select Values work area")
+   ![Enter a value, such as rings, to add](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527921579021 "Filter Values Select Values work area")
 3. The value is added to the list of selected values.
 
-   ![Review your included values, deselect or remove if needed](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417998819725 "Filter Values Select Values work area")
+   ![Review your included values, deselect or remove if needed](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527915873165 "Filter Values Select Values work area")
 4. When you are finished setting your filter values, select **Continue** and examine your updates. If they are correct, select **Apply**.
 
    For more information about setting attribute filters, see [Set an Attribute Filter](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701133345293-Set-an-Attribute-Filter).
@@ -145,7 +145,7 @@ If a [Custom Range](https://logi-composer-v26.insightsoftware.com/hc/en-us/artic
 
 To test this, create a new dashboard visual or filter snippet using the data source. Then filter the data by the number field you specified a custom range for. The values show as default in the filter are the custom range you specified in the data source configuration.
 
-![Define your range of values here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417949475725 "select values filter work area")
+![Define your range of values here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527902444045 "select values filter work area")
 
 When you are finished setting your filter values, select **Continue** and examine your updates. If they are correct, select **Apply**.
 
@@ -163,7 +163,7 @@ For more information about setting numeric filters, see [Set a Numeric Field Fil
 
    Select the value in the **From** or **To** time fields to select a new date and time in the resulting calendar pop-up.
 
-   ![select a date and time for your filter](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417968565517 "calendar popup")
+   ![select a date and time for your filter](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527921827085 "calendar popup")
 6. Select **Save** to apply the custom filter range.
 
 **Note:** 
@@ -171,6 +171,6 @@ If a [Custom Range](https://logi-composer-v26.insightsoftware.com/hc/en-us/artic
 
 To test this, create a new dashboard visual or filter snippet using the data source. Then filter the data by the time field. The values you can select for the filter are restricted to the custom range you specified in the data source configuration. For more information about specifying time filters, see [Set a Time Field Filter](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701087681293-Set-a-Time-Field-Filter).
 
-![Set the start and end time of your data set for this filter](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418013715597 "select values time range")
+![Set the start and end time of your data set for this filter](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527932749837 "select values time range")
 
 When you are finished setting your filter values, select **Continue** and examine your updates. If they are correct, select **Apply**.

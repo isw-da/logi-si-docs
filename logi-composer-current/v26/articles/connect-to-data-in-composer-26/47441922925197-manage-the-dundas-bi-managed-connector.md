@@ -4,7 +4,7 @@ id: 47441922925197
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/47441922925197-Manage-the-Dundas-BI-Managed-Connector
-updated_at: 2026-08-26T07:08:57Z
+updated_at: 2026-08-31T04:12:34Z
 ---
 
 # Manage the Dundas BI (Managed) Connector

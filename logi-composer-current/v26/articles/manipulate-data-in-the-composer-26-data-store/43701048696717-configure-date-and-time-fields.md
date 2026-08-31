@@ -4,7 +4,7 @@ id: 43701048696717
 section: "Manipulate Data In The Composer 26 Data Store"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701048696717-Configure-Date-and-Time-Fields
-updated_at: 2026-08-26T07:09:39Z
+updated_at: 2026-08-31T04:13:15Z
 ---
 
 # Configure Date and Time Fields

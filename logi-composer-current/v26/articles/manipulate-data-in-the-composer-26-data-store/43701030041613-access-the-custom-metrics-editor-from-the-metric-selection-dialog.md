@@ -4,7 +4,7 @@ id: 43701030041613
 section: "Manipulate Data In The Composer 26 Data Store"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701030041613-Access-the-Custom-Metrics-Editor-from-the-Metric-Selection-Dialog
-updated_at: 2026-08-26T07:10:29Z
+updated_at: 2026-08-31T04:14:04Z
 ---
 
 # Access the Custom Metrics Editor from the Metric Selection Dialog
@@ -15,8 +15,8 @@ updated_at: 2026-08-26T07:10:29Z
 
 1. On a visual, select the metric label (y-axis label) to view the Metric selection dialog.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418120541069)
-2. Select the ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418123139853 "add icon") icon in the Number or Custom Metric section of the dialog. A menu opens with two options: **Add Derived Field** and **Add Custom Metric**.
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528089883405)
+2. Select the ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528089885453 "add icon") icon in the Number or Custom Metric section of the dialog. A menu opens with two options: **Add Derived Field** and **Add Custom Metric**.
 3. Select **Add Custom Metric** to access the [Custom Metrics Editor](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701082580237-Custom-Metrics-Editor) and create a custom metric.
 
 You can also access the [Custom Metrics Editor](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701082580237-Custom-Metrics-Editor) when you edit any custom metric listed on the Metric selection dialog. See the following steps.
@@ -25,8 +25,8 @@ You can also access the [Custom Metrics Editor](https://logi-composer-v26.insigh
 
 1. On a visual, select the metric label (y-axis label) to view the Metric selection dialog.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418120541069)
-2. Locate a custom metric listed on the Metric selection dialog and select the ellipsis (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418123139981)) next to it. The following menu appears:
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528089883405)
+2. Locate a custom metric listed on the Metric selection dialog and select the ellipsis (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528075571085)) next to it. The following menu appears:
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418123140109)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528075571469)
 3. Select **Edit** on the menu to edit the custom metric. The [Custom Metrics Editor](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701082580237-Custom-Metrics-Editor) appears.

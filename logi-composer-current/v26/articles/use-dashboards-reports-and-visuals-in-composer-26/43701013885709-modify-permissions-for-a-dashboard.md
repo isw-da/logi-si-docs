@@ -4,7 +4,7 @@ id: 43701013885709
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701013885709-Modify-Permissions-for-a-Dashboard
-updated_at: 2026-08-26T07:10:37Z
+updated_at: 2026-08-31T04:14:13Z
 ---
 
 # Modify Permissions for a  Dashboard
@@ -20,7 +20,7 @@ You can modify the dashboard permissions you granted to your tenant, to groups i
 1. Log into Composer as an administrator or a user belonging to a group that includes the **Administer Dashboards** or the **Manage Dashboard Permissions** [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference).
 2. Select the **Discovery Board** card on your home page or **Library** from the main menu. The dashboard library opens.
 
-   ![use to manage your dashboards](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418103231501 "dashboard library tab")
+   ![use to manage your dashboards](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528029248781 "dashboard library tab")
 3. Locate the row for the dashboard in the list and select the permissions icon in the Permissions column. The Dashboard Permissions dialog appears, showing current rights for tenants, groups, and users.
 
    Some columns in this work area can be resized or sorted as needed; select the column header break to resize, or select the column name to change the sort.

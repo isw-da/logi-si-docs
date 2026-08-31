@@ -4,7 +4,7 @@ id: 43701214677901
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701214677901-Export-Raw-Data-in-CSV-or-XLSX-Format
-updated_at: 2026-08-26T07:12:28Z
+updated_at: 2026-08-31T04:16:05Z
 ---
 
 # Export Raw Data in CSV or XLSX Format
@@ -19,7 +19,7 @@ When you export raw data from your visuals to XLSX, numeric fields are exported 
 2. Select a file format on the submenu, **Raw Data > CSV**.
 3. The Export as CSV dialog opens.
 
-   ![Enter csv options here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417972549005 "Export as CSV work area")
+   ![Enter csv options here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527889242893 "Export as CSV work area")
 4. Accept or change the default settings:
 
    * Accept or change the file name.
@@ -39,7 +39,7 @@ The number of records included is limited by the setting of the `zoomdata.export
 2. Select a file format on the submenu, **Raw Data > XLSX**.
 3. The Export as XLSX dialog opens.
 
-   ![Enter XLSX options here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417972584589 "Export as XLSX work area")
+   ![Enter XLSX options here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527826640525 "Export as XLSX work area")
 4. Accept or change the default settings:
 
    * Accept or change the file name.

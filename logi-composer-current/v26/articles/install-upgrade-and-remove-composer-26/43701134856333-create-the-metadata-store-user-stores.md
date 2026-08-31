@@ -4,7 +4,7 @@ id: 43701134856333
 section: "Install, Upgrade, and Remove Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701134856333-Create-the-Metadata-Store-User-Stores
-updated_at: 2026-08-26T07:11:16Z
+updated_at: 2026-08-31T04:14:52Z
 ---
 
 # Create the Metadata Store User & Stores

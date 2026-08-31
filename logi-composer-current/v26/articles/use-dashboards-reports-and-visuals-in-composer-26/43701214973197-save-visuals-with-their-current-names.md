@@ -4,7 +4,7 @@ id: 43701214973197
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701214973197-Save-Visuals-With-Their-Current-Names
-updated_at: 2026-08-26T07:12:26Z
+updated_at: 2026-08-31T04:16:03Z
 ---
 
 # Save Visuals With Their Current Names
@@ -22,15 +22,15 @@ To save visuals, you must be logged in a user with [write permissions](https://l
 **Save a visual with its current name**
 
 1. Select the visual on a dashboard or in the Visual Gallery. When selected on a dashboard, a blue border appears around the visual. If you select a visual with a streaming data source, the [time bar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701210703629-Use-the-Time-Bar) (Data DVR) appears.
-2. Select save (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417940369677)) in the upper right corner of the visual.
+2. Select save (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527854213005)) in the upper right corner of the visual.
 
    * If you are editing the visual in the Visual Gallery, the Save Options dialog appears.
 
-     ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417935193741)
+     ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527864065421)
 
      Optionally, specify a new visual name in the **Visual Name** box and select **Save**. The visual is saved.
    * If you are editing the visual in a dashboard, a warning appears indicating that the visual changes will occur for all dashboards that use the visual.
 
-     ![save visual warning - affect all dashboards](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417940412941 "save visual warning - affect all dashboards")
+     ![save visual warning - affect all dashboards](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527864092173 "save visual warning - affect all dashboards")
 
      Select **OK** on the warning dialog. The visual is saved.

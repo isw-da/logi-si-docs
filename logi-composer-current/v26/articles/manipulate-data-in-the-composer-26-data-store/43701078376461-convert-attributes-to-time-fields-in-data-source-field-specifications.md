@@ -4,7 +4,7 @@ id: 43701078376461
 section: "Manipulate Data In The Composer 26 Data Store"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701078376461-Convert-Attributes-to-Time-Fields-in-Data-Source-Field-Specifications
-updated_at: 2026-08-26T07:10:28Z
+updated_at: 2026-08-31T04:14:05Z
 ---
 
 # Convert Attributes to Time Fields in Data Source Field Specifications
@@ -39,9 +39,9 @@ When filtering time data by these fields, Composer treats the time values as num
 4. Select the [Fields](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701116424973-Manage-Fields) tab.
 5. Locate and select the time field (Data Type: Attribute) in the list of fields.
 6. Select **Convert** in the Data Type area of the Settings tab for the field and select **Convert to Time**.  
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418031480461)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527924854157)
 7. Rename the field in the **Label** field, and define time granularity in the **Origin Field Format**.  
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418016767629)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527911629837)
 
    Valid time parts include:
 
@@ -65,9 +65,9 @@ When filtering time data by these fields, Composer treats the time values as num
 4. Select the [Fields](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701116424973-Manage-Fields) tab.
 5. Locate and select the time field (Data Type: Number) in the list of fields.
 6. Select **Convert** in the Data Type area of the Settings tab for the field and select **Convert to Time**.  
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418031529997)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527950225805)
 7. Rename the field in the **Label** field, and select an available time granularity in the **Origin Field Format**.  
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418016818445)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527919073677)
 
    Valid time parts include:
 

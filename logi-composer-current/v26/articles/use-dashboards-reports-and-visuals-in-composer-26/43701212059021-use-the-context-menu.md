@@ -4,7 +4,7 @@ id: 43701212059021
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701212059021-Use-the-Context-Menu
-updated_at: 2026-08-26T07:12:44Z
+updated_at: 2026-08-31T04:16:21Z
 ---
 
 # Use the Context Menu
@@ -15,7 +15,7 @@ Users can use the context menu on all visuals to view more information about spe
 
 To access the context menu, select any data point in the visual, grouped or ungrouped, to explore or drill down into that data element.
 
-![use the context menu to drill deeper into text for any available data element](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417963511437 "Context Menu in a bar chart")
+![use the context menu to drill deeper into text for any available data element](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527892966925 "Context Menu in a bar chart")
 
 Define how to embed the context menu in your Composer instance by specifying default options for right and left mouse selection. If needed, you can also add custom controls to the context menu for embedded visuals. See [Control How Users Interact With a Visual](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701185104653-Control-How-Users-Interact-With-a-Visual).
 
@@ -36,7 +36,7 @@ The following options are available in the context menu. You will only see the o
 
 To display additional information about specific data elements, select **Details**. The details for the element are displayed in a table.
 
-![view the details that make up this element](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417911875341 "Data Details work area")
+![view the details that make up this element](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527844786061 "Data Details work area")
 
 The table header contains the following:
 
@@ -80,7 +80,7 @@ Use **Drill Down** (formerly *Zoom*) to focus on the selected data point and fil
 
 For example, if you wanted to see the actual sales for every county in the Electronics Product Group, select Electronics in the bar chart to bring up the context menu, select **Drill Down**, and then select the County attribute from the resulting menu. The result set in the bar chart might look like this:
 
-![use the context menu to drill deeper into text for any available data element; this shows the result of drilling down to sales by county in electronics](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417975090445 "Context Menu in a bar chart")
+![use the context menu to drill deeper into text for any available data element; this shows the result of drilling down to sales by county in electronics](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527869067917 "Context Menu in a bar chart")
 
 ## Link
 

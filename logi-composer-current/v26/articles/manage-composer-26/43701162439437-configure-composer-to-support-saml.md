@@ -4,7 +4,7 @@ id: 43701162439437
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701162439437-Configure-Composer-to-Support-SAML
-updated_at: 2026-08-26T07:11:53Z
+updated_at: 2026-08-31T04:15:29Z
 ---
 
 # Configure Composer to Support SAML
@@ -35,7 +35,7 @@ To enable Composer to support your organization's identity provider, first obtai
 
 **ACTION:** Obtain the XML metadata file from your organization’s IDP.
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417992215821)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527883984653)
 
 ### Generate a Key File and Configuring SAML with SSL
 

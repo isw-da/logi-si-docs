@@ -4,7 +4,7 @@ id: 43701076467981
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701076467981-Create-Dashboards
-updated_at: 2026-08-26T07:10:38Z
+updated_at: 2026-08-31T04:14:14Z
 ---
 
 # Create  Dashboards
@@ -37,13 +37,13 @@ When you create a new dashboard, you are prompted to add a new visual or an exis
 2. Select the **Discovery Board** card on your home page or **Library** from the main menu. The dashboard library opens.
 3. Select **Add Dashboard**. A blank dashboard appears showing your options. Add a new visual, place an existing visual, add a rich text snippet, or filter snippet.
 
-   ![define visuals, rich text snippets, and filter snippets for a dashboard](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417984163341 "Dashboard work area")
+   ![define visuals, rich text snippets, and filter snippets for a dashboard](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527921019405 "Dashboard work area")
 4. Select **Add New Visual** to add a new local visual to the dashboard. Select **Add Existing Visual** to add an existing visual from the visual gallery to the dashboard.
 
    * If you select **Add New Visual**, follow the procedure described in [Add Visuals to a Dashboard](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701214171661-Add-Visuals-to-a-Dashboard)
    * If you select **Add Existing Visual**, follow the procedure described in [Add Existing Visuals to a Dashboard](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184486797-Add-Existing-Visuals-to-a-Dashboard).
-5. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418120923405) to add a rich text snippet to the dashboard. See [Add Rich Text Snippets to a Dashboard](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701209714957-Add-Rich-Text-Snippets-to-a-Dashboard).
-6. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418120924301) to add a filter snippet to the dashboard. See [Add Filter Snippets to a Dashboard](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701071841933-Add-Filter-Snippets-to-a-Dashboard).
+5. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528043100173) to add a rich text snippet to the dashboard. See [Add Rich Text Snippets to a Dashboard](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701209714957-Add-Rich-Text-Snippets-to-a-Dashboard).
+6. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528029106701) to add a filter snippet to the dashboard. See [Add Filter Snippets to a Dashboard](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701071841933-Add-Filter-Snippets-to-a-Dashboard).
 7. [Save](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701047225613-Save-a-Dashboard) your dashboard. Accept the default name, or supply a name for the dashboard.
 
    You can continue to add visuals and snippets. See [Add Visuals to a Dashboard](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701214171661-Add-Visuals-to-a-Dashboard) and [Add Existing Visuals to a Dashboard](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184486797-Add-Existing-Visuals-to-a-Dashboard), [Add Rich Text Snippets to a Dashboard](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701209714957-Add-Rich-Text-Snippets-to-a-Dashboard), and [Add Filter Snippets to a Dashboard](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701071841933-Add-Filter-Snippets-to-a-Dashboard).

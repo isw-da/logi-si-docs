@@ -4,7 +4,7 @@ id: 43701020778765
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701020778765-Authorize-Composer-Access
-updated_at: 2026-08-26T07:11:48Z
+updated_at: 2026-08-31T04:15:23Z
 ---
 
 # Authorize Composer Access

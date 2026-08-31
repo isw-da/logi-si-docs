@@ -4,7 +4,7 @@ id: 43701141717261
 section: "Introduction to Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701141717261-Web-Based-User-Interface
-updated_at: 2026-08-26T07:12:00Z
+updated_at: 2026-08-31T04:15:36Z
 ---
 
 # Web-Based User Interface

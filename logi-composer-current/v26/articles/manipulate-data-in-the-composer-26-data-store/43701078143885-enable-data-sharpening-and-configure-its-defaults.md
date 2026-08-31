@@ -4,7 +4,7 @@ id: 43701078143885
 section: "Manipulate Data In The Composer 26 Data Store"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701078143885-Enable-Data-Sharpening-and-Configure-Its-Defaults
-updated_at: 2026-08-26T07:10:30Z
+updated_at: 2026-08-31T04:14:07Z
 ---
 
 # Enable Data Sharpening and Configure Its Defaults
@@ -20,7 +20,7 @@ To enable and configure Data Sharpening for a data source configuration, you nee
 3. In the table on the Sources page, locate and select the data source configuration you want to edit.
 4. Select the **Global Settings** tab. The time bar, search, and Data Sharpening settings for the data source appears.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418138538765)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528042436749)
 5. Make sure **Time Bar** is enabled to access Data Sharpening settings. If Time Bar is disabled, you can not configure Data Sharpening settings. For more information about time bar default settings, see [Configure Time Bar Defaults](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701080606477-Configure-Time-Bar-Defaults).
 6. Slide the **Prefer Sharpening** switch to the right to enable Data Sharpening for the data source.
 7. Optionally, use the **Max Queries** slider to specify the maximum number of queries used for Data Sharpening. The default maximum is 10 queries.

@@ -4,7 +4,7 @@ id: 43701184834189
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184834189-Export-a-Visual-as-an-Image
-updated_at: 2026-08-26T07:12:25Z
+updated_at: 2026-08-31T04:16:00Z
 ---
 
 # Export a Visual as an Image
@@ -18,7 +18,7 @@ updated_at: 2026-08-26T07:12:25Z
 3. If you select **Screenshot (PNG)**, the screenshot is prepared, and automatically downloaded by your browser.
 4. If you select **PDF**, the Export as PDF dialog opens.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417936524301)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527826660109)
 5. Use this work area to optionally:
 
    1. Enter a header and footer for your PDF.

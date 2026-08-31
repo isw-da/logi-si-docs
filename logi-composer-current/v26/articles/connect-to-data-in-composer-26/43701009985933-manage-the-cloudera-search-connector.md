@@ -4,7 +4,7 @@ id: 43701009985933
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701009985933-Manage-the-Cloudera-Search-Connector
-updated_at: 2026-08-26T07:09:08Z
+updated_at: 2026-08-31T04:12:43Z
 ---
 
 # Manage the Cloudera Search Connector

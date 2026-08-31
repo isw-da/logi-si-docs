@@ -4,7 +4,7 @@ id: 43700994736269
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700994736269-Connect-to-Elasticsearch-Using-Amazon-Web-Services-Authentication
-updated_at: 2026-08-26T07:09:05Z
+updated_at: 2026-08-31T04:12:40Z
 ---
 
 # Connect to Elasticsearch Using Amazon Web Services Authentication

@@ -4,7 +4,7 @@ id: 43701178928653
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701178928653-Hide-Columns-Using-the-Table-Context-Menu
-updated_at: 2026-08-26T07:12:35Z
+updated_at: 2026-08-31T04:16:11Z
 ---
 
 # Hide Columns Using the Table Context Menu
@@ -14,12 +14,12 @@ updated_at: 2026-08-26T07:12:35Z
 **Hide table columns using the table context menu**
 
 1. View the table visual in a dashboard or from the Visual Gallery.
-2. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418108516109) next to the column heading name to access the table context menu.
+2. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528024237581) next to the column heading name to access the table context menu.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418108516493)
-3. Select the ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418134669069) tab on the context menu. A list of all the fields in the data source appears.
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528004547213)
+3. Select the ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528004547469) tab on the context menu. A list of all the fields in the data source appears.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418134669325)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528024238989)
 4. Clear (uncheck) the fields you want to hide in the table.
 
    Use the search bar to search for a field in the table.

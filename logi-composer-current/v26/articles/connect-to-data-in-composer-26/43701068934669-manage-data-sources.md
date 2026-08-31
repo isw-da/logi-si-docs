@@ -4,7 +4,7 @@ id: 43701068934669
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701068934669-Manage-Data-Sources
-updated_at: 2026-08-26T07:09:42Z
+updated_at: 2026-08-31T04:13:17Z
 ---
 
 # Manage Data Sources

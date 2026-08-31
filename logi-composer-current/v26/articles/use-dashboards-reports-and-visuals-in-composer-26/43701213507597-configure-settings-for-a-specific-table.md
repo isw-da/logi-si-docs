@@ -4,7 +4,7 @@ id: 43701213507597
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701213507597-Configure-Settings-for-a-Specific-Table
-updated_at: 2026-08-26T07:10:17Z
+updated_at: 2026-08-31T04:13:54Z
 ---
 
 # Configure Settings for a Specific Table

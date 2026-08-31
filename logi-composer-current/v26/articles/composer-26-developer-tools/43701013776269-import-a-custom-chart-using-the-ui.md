@@ -4,7 +4,7 @@ id: 43701013776269
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701013776269-Import-a-Custom-Chart-Using-the-UI
-updated_at: 2026-08-26T07:10:39Z
+updated_at: 2026-08-31T04:14:16Z
 ---
 
 # Import a Custom Chart Using the UI
@@ -19,7 +19,7 @@ You can import a custom chart using the Composer UI as well as using the Compose
 2. Access the Manage Custom Charts page. See [List Custom Charts](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701076266125-List-Custom-Charts).
 3. Locate the Import Chart area of the Manage Custom Charts page.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418033390605)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527964203917)
 4. Select **Browse** and locate and select the `.zip` file of the custom chart you want to import.
 5. Enter a visual name for the imported visual.
 6. Select **Submit**. The visual is imported.

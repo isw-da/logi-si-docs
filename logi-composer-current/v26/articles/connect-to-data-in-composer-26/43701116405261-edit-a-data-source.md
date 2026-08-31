@@ -4,7 +4,7 @@ id: 43701116405261
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701116405261-Edit-a-Data-Source
-updated_at: 2026-08-26T07:10:25Z
+updated_at: 2026-08-31T04:14:02Z
 ---
 
 # Edit a Data Source

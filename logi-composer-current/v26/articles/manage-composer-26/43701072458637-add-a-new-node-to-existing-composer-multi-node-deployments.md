@@ -4,7 +4,7 @@ id: 43701072458637
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701072458637-Add-a-New-Node-to-Existing-Composer-Multi-Node-Deployments
-updated_at: 2026-08-26T07:11:23Z
+updated_at: 2026-08-31T04:14:59Z
 ---
 
 # Add a New Node to Existing Composer Multi-Node Deployments

@@ -4,7 +4,7 @@ id: 43701212800013
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701212800013-Sort-Data-in-a-Pivot-Table
-updated_at: 2026-08-26T07:12:40Z
+updated_at: 2026-08-31T04:16:18Z
 ---
 
 # Sort Data in a Pivot Table
@@ -18,7 +18,7 @@ The data in the table can be sorted. After you save the dashboard or visual, the
 * Select a column to sort the data in ascending order. An up arrow is shown in the heading.
 * Select the column again to sort the data in descending order. A down arrow is shown in the heading.
 * Select the column again to clear the sort. No arrows are shown in the heading.
-* Alternatively, hover over the header and select the table context menu (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418108651789)) then select **Reset [name]** to clear all sorting options.
+* Alternatively, hover over the header and select the table context menu (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528024394893)) then select **Reset [name]** to clear all sorting options.
 
 Save the visual when the data is sorted to your satisfaction.
 
@@ -27,7 +27,7 @@ Save the visual when the data is sorted to your satisfaction.
 * Select a column to sort the data in ascending order. An up arrow is shown in the heading.
 * Select the column again to sort the data in descending order. A down arrow is shown in the heading.
 * Select the column again to clear the sort. No arrows are shown in the heading.
-* Alternatively, hover over the header and select the table context menu (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418108651789)) then select **Reset [name] sorting** to clear all sorting options.
+* Alternatively, hover over the header and select the table context menu (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528024394893)) then select **Reset [name] sorting** to clear all sorting options.
 
 **Sort the data in a table by the data by one or more column or row groups:**
 
@@ -43,7 +43,7 @@ Sort Row groups:
 * Select the row group again to reverse the sort order, or a third time to cancel sorting.
 * To sort by multiple groups, select the next row group to include.
 
-To clear sorting, hover over a column or row label, select the table context menu (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418108651789)) and select one of the following options:
+To clear sorting, hover over a column or row label, select the table context menu (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528024394893)) and select one of the following options:
 
 * **Reset [name] sorting** to clear all sorting options for that row or column.
 * **Reset other column (or rows) sorting** to clear sorting options for all column or row groups except the one you have selected.

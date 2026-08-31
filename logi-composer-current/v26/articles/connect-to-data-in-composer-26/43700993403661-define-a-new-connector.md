@@ -4,7 +4,7 @@ id: 43700993403661
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700993403661-Define-a-New-Connector
-updated_at: 2026-08-26T07:11:29Z
+updated_at: 2026-08-31T04:15:05Z
 ---
 
 # Define a New Connector
@@ -23,7 +23,7 @@ Connector definitions make a connector server available to authorized users on t
 3. In the Connector Servers section of the Manage Connector Services page, verify that a connector server has been registered for the type of connector you want to define. If it has not, register one. See [Obtain Additional Connector Servers](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701024898061-Obtain-Additional-Connector-Servers) and [Register a New Connector Server](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701042690957-Register-a-New-Connector-Server).
 4. In the Connectors section of the Manage Connector Services page, select **Add Connector Server** The Create New Connector page appears.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418034626573)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527942469389)
 5. On the Create New Connector page, specify the following information in the input boxes.
 
    | Input Box | Description |

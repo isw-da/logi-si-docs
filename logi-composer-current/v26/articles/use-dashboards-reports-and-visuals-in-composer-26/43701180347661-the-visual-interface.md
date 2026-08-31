@@ -4,7 +4,7 @@ id: 43701180347661
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701180347661-The-Visual-Interface
-updated_at: 2026-08-26T07:12:22Z
+updated_at: 2026-08-31T04:15:57Z
 ---
 
 # The Visual Interface
@@ -15,7 +15,7 @@ Composer's canvas provides a comprehensive suite of tools to help you conduct in
 
 ## Tools in the Visual Interface
 
-![Use this work area to adjust your visuals](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417940611469 "Visual Interface in Dashboard")
+![Use this work area to adjust your visuals](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527825770893 "Visual Interface in Dashboard")
 
 1. **Display Name**: By default, a visual's display name is the name of the data source used for the visual for local visuals, or the display name for a visual from the visual gallery. Select the title to edit.
 2. **Dashboard Name or Title**: The dashboard name if editing a visual in a dashboard. Select the name to edit it or save the dashboard to be prompted for a dashboard name. The default name of the dashboard is **Untitled dashboard**.
@@ -35,20 +35,20 @@ Composer's canvas provides a comprehensive suite of tools to help you conduct in
    If you disable the Volume property in a data source configuration, it does not appear in visual tooltips. The only exception to this is in histograms which plot the volume or number of records.
 7. **Legend:** By default, a legend is available for supported visual types, and can be switched on or off in the Colors sidebar menu.
 8. The dashboard icon bar. Use the options here to manage the dashboard. See [Use the Dashboard Icons](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701047597837-Use-the-Dashboard-Icons). This is only available on a dashboard; not on a visual edited from the [Visual Gallery](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701180261773-Use-the-Visual-Gallery).
-9. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417972049293) to expand a visual on a dashboard. This allows you to get a closer look at it. This is only available on a dashboard; not on a visual edited from the [Visual Gallery](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701180261773-Use-the-Visual-Gallery).
-10. The ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417909385869) at the top right of a visual displays the [visual drop-down menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu). This menu includes an option to open **Settings** for the visual, and its [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu).
+9. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527825798797) to expand a visual on a dashboard. This allows you to get a closer look at it. This is only available on a dashboard; not on a visual edited from the [Visual Gallery](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701180261773-Use-the-Visual-Gallery).
+10. The ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527825829005) at the top right of a visual displays the [visual drop-down menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu). This menu includes an option to open **Settings** for the visual, and its [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu).
 11. The visual [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu). Select a sidebar menu option to open an appropriate sidebar for a visual. See [Use the Visual Sidebar Menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu).
-12. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417935688973) to undo the most recent change you made to a visual.
+12. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527825882381) to undo the most recent change you made to a visual.
 13. Visual-specific options:
 
-    1. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417972153357) to filter the data on a visual.
-    2. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417972181645) to view published filters.
-    3. The visual icon indicates if a visual is local (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417940809229)) or a visual gallery visual (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417940849037)).
+    1. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527864521229) to filter the data on a visual.
+    2. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527888504077) to view published filters.
+    3. The visual icon indicates if a visual is local (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527864617229)) or a visual gallery visual (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527888603149)).
 14. Dashboard-specific options:
 
-    1. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417972153357) to filter the data on a dashboard. The dashboard-level filter icon is available only when all visuals on a dashboard are from the same data source.
-    2. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417972256141) to open dashboard and visual interactivity settings.
-    3. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417972272781) to toggle dashboard view mode between [Viewer and Editor](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701014828173-Use-Dashboard-View-Mode) modes.
-    4. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417940922637) to enable and disable locking the dashboard layout.
-    5. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417936000525) to enable and disable responsive layout for this dashboard. See [Use the Responsive Dashboard Layout](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700998041357-Use-the-Responsive-Dashboard-Layout).
+    1. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527864521229) to filter the data on a dashboard. The dashboard-level filter icon is available only when all visuals on a dashboard are from the same data source.
+    2. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527888649613) to open dashboard and visual interactivity settings.
+    3. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527888687629) to toggle dashboard view mode between [Viewer and Editor](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701014828173-Use-Dashboard-View-Mode) modes.
+    4. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527854838797) to enable and disable locking the dashboard layout.
+    5. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527888756109) to enable and disable responsive layout for this dashboard. See [Use the Responsive Dashboard Layout](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700998041357-Use-the-Responsive-Dashboard-Layout).
 15. The context menu. Use menu options to view or adjust data. See [Use the Context Menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701212059021-Use-the-Context-Menu).

@@ -4,7 +4,7 @@ id: 43701054466061
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701054466061-Delete-Data-Store-Connections
-updated_at: 2026-08-26T07:11:35Z
+updated_at: 2026-08-31T04:15:10Z
 ---
 
 # Delete Data Store Connections
@@ -23,7 +23,7 @@ You must be logged in as an administrator or as a user with the [group privilege
 
    The Connections page lists the data store connections you have defined and identifies how many data source configurations each connection uses.
 3. Highlight (hover over) the row listing the data store connection you want to delete. You can search the list to locate the connection definition. See [Search and Filter Lists](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701008213517-Search-and-Filter-Lists).
-4. Select the delete icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418104394125)) in the Actions column for the associated row.
+4. Select the delete icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528062096909)) in the Actions column for the associated row.
 
    A warning dialog appears.
 5. Select **Delete** on the warning dialog. The connection is deleted.

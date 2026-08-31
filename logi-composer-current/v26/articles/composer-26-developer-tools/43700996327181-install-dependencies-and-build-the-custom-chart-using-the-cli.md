@@ -4,7 +4,7 @@ id: 43700996327181
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700996327181-Install-Dependencies-and-Build-the-Custom-Chart-Using-the-CLI
-updated_at: 2026-08-26T07:09:23Z
+updated_at: 2026-08-31T04:12:57Z
 ---
 
 # Install Dependencies and Build the Custom Chart Using the CLI

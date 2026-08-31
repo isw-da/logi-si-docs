@@ -4,7 +4,7 @@ id: 47296727880717
 section: "Embed Composer Dashboards Into Applications Using Composer"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/47296727880717-Generate-an-Embeddable-Report-HTML-Snippet
-updated_at: 2026-08-26T07:11:46Z
+updated_at: 2026-08-31T04:15:21Z
 ---
 
 # Generate an Embeddable Report HTML Snippet
@@ -24,9 +24,9 @@ For even more control, use JavaScript to embed the report. See [Embed Composer C
 1. Log into the UI as an administrator or as a user assigned to a group with the **Generate Embed Code** [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference).
 2. Select the **Reports** card on your home page or **Library** from the main menu. The library opens; select the Reports tab if needed.
 3. Locate the report for which you want to generate an embeddable snippet.
-4. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418102349197) in the associated **Actions** column. The Embed Code dialog appears.
+4. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528041700749) in the associated **Actions** column. The Embed Code dialog appears.
 
-   ![embed code dialog](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417999394957 "embed code dialog")
+   ![embed code dialog](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527903058061 "embed code dialog")
 
    The **Code** section of this dialog shows the embeddable snippet. If you do not need to change any of the default settings on this page, simply select **Copy to Clipboard** and you can skip the rest of these steps and embed the copied snippet in your application.
 

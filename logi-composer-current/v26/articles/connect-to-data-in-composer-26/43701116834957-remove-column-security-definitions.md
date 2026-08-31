@@ -4,7 +4,7 @@ id: 43701116834957
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701116834957-Remove-Column-Security-Definitions
-updated_at: 2026-08-26T07:12:19Z
+updated_at: 2026-08-31T04:15:56Z
 ---
 
 # Remove Column Security Definitions
@@ -17,7 +17,7 @@ updated_at: 2026-08-26T07:12:19Z
 2. Select the **Sources** card on your home page or **Data Sources** from the main menu.. The Sources page appears.
 3. Locate the data source and select the icon in the **Column** column for the data source. The Fields Security dialog appears.
 
-   ![Fields security work area](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418014882701 "Fields Security")
-4. Locate the column security definition you want to remove (delete) on the left side of the Column Security dialog and select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418072224909) next to its name.
+   ![Fields security work area](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527923134221 "Fields Security")
+4. Locate the column security definition you want to remove (delete) on the left side of the Column Security dialog and select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528059009421) next to its name.
 5. Select **Delete** on the confirmation dialog. The column security definition is removed.
 6. When all column security definition modifications have been made, select **Close** to close the Column Security dialog.

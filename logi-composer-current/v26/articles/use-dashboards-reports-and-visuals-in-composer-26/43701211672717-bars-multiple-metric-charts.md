@@ -4,7 +4,7 @@ id: 43701211672717
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701211672717-Bars-Multiple-Metric-Charts
-updated_at: 2026-08-26T07:12:46Z
+updated_at: 2026-08-31T04:16:23Z
 ---
 
 # Bars: Multiple Metric Charts
@@ -29,7 +29,7 @@ This topic describes:
    If you are editing the visual from the Visual Gallery, the sidebar appears to the right of the visual.
 3. Select the settings icon on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu). The Bar: Multiple Metrics Settings sidebar for the visual appears.
 
-   ![define the orientation and label settings for your visual](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417975392269 "Bar Multiple Metrics Settings work area")
+   ![define the orientation and label settings for your visual](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527893396749 "Bar Multiple Metrics Settings work area")
 4. Alter the settings as needed:
 
    | Setting | Description |

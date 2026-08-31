@@ -4,7 +4,7 @@ id: 43701121656845
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701121656845-Enable-User-Audit-Data-for-Multi-Tenant-Accounts
-updated_at: 2026-08-26T07:11:07Z
+updated_at: 2026-08-31T04:14:44Z
 ---
 
 # Enable User Audit Data for Multi Tenant Accounts

@@ -4,7 +4,7 @@ id: 43701069339405
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701069339405-Add-Row-Security-Definitions
-updated_at: 2026-08-26T07:12:15Z
+updated_at: 2026-08-31T04:15:51Z
 ---
 
 # Add Row Security Definitions
@@ -18,7 +18,7 @@ Add row security to restrict the data source data that can be viewed or used by 
 3. Locate the data source for which you want to restrict data access and select the icon in the **Row** column for the data source. The Row Security dialog appears.
 4. Select **Add Filter**. The Row Security dialog fills with information about the data source you selected.
 
-   ![Define your row security filters in this work area](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417969276941 "Row Security work area")
+   ![Define your row security filters in this work area](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527922920973 "Row Security work area")
 5. Specify a name for the row security definition in the **Name** field. This name will be used to distinguish one row security field definition from another in the Row Security dialog.
 6. Optionally, use the **Description** field to supply a description for the row security definition.
 7. Select **Add** to select accounts, groups, or users to which the row security definition applies. Then select **Groups**, **Users**, or **Tenant** from the drop-down list.
@@ -27,26 +27,26 @@ Add row security to restrict the data source data that can be viewed or used by 
 
    * If you select **Groups**, the Add Groups panel appears.
 
-     ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417950152077)
+     ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527922939149)
 
      Select at least one group on the Add Groups panel and select **Apply**. The Add Groups panel closes and the groups you selected are added to the Row Security dialog.
    * If you select **Users**, the Add Users panel appears.
 
-     ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417950169613)
+     ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527933743757)
 
      Select at least one user on the Add Users panel and select **Apply**. The Add Users panel closes and the users you selected are added to the Row Security dialog.
    * If you select **Tenant**, the tenant in which you are working is added to the Row Security dialog. You can only add your current account to the row security definition. After that, the **Tenant** option is disabled.
 8. Repeat Step 7 until all users, tenants, and groups are selected for the row security filter.
 9. Select **Add Restriction** to add at least one restriction to the row security definition. The Select a Field dialog appears.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418014706189)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527917059469)
 10. Select a field for the restriction filter on the Select a Field dialog. A Select Values dialog appears with fields that vary, depending on the type of field you selected: attribute, number, or time. Derived fields are included in the list of fields and can be selected for a row security filter.
 
     #### Attribute Fields
 
     If the field you selected is an attribute, the Select Values dialog looks something like this:
 
-    ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418014721293)
+    ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527909757709)
 
     It allows you to:
 
@@ -58,7 +58,7 @@ Add row security to restrict the data source data that can be viewed or used by 
 
     If the field you select is a numeric field, the Select Values dialog looks something like this:
 
-    ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417995794061)
+    ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527909777549)
 
     It allows you to:
 
@@ -69,26 +69,26 @@ Add row security to restrict the data source data that can be viewed or used by 
 
     If the field you select is a time field, the Select Values dialog looks something like this:
 
-    ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417999928717)
+    ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527923020045)
 
     It allows you to use the **From** and **To** boxes to specify the time range for the filter. You can set the range in static time or dynamic time, or use preset ranges provided with Composer.
 
     * Select **Static Time**, **Dynamic Time**, or **Variables** in the **fx** drop-down menu.
 
-      ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417969426829)
+      ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527903700493)
 
       If you select **Variables**, specify a variable to use for the time filter value. See [Insert Variables for Row Security Restriction Filters](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701117025165-Insert-Variables-for-Row-Security-Restriction-Filters).
 
       If you select **Static Time**, the **From** and **To** boxes are filled with default dates and times. Use the boxes to select specific from and to times.
 
-      ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417995864077)
+      ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527903720333)
 
       If you select **Dynamic Time**, the **From** and **To** boxes are filled with **Start of Data Set** and **End of Data Set** automatically and a Condition dialog appears. Use the boxes on the Condition dialog to select different dynamic from and to times:
 
-      ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418014819981)
+      ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527917198093)
     * Alternatively, select **Presets...** to fill the **From** and **To** boxes with predefined time ranges provided by Composer.
 
-      ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418119873421)
+      ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528027826317)
 
       Use the filter box at the top of the presets list to locate the preset setting you want. Descriptions of each of the preset options are provided in [Preset Time Ranges](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701144196237-Preset-Time-Ranges).
 11. To remove a restriction from the security definition, select the delete icon next to the restriction.

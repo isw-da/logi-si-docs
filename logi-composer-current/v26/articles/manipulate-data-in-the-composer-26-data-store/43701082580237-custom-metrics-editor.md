@@ -4,7 +4,7 @@ id: 43701082580237
 section: "Manipulate Data In The Composer 26 Data Store"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701082580237-Custom-Metrics-Editor
-updated_at: 2026-08-26T07:10:27Z
+updated_at: 2026-08-31T04:14:04Z
 ---
 
 # Custom Metrics Editor
@@ -20,7 +20,7 @@ To define custom metrics for a data source, you must have:
 
 The Custom Metrics Editor is shown below. For every source added, the custom metric **Volume**, using a `Count(*)` expression is created.
 
-![Use this work area to build, test, and preview custom metrics](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418031617677 "Custom Metrics Editor work area")
+![Use this work area to build, test, and preview custom metrics](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527925007885 "Custom Metrics Editor work area")
 
 The numbered regions are:
 

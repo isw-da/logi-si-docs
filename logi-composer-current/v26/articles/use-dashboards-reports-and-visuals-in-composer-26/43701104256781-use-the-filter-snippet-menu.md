@@ -4,14 +4,14 @@ id: 43701104256781
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701104256781-Use-the-Filter-Snippet-Menu
-updated_at: 2026-08-26T07:12:09Z
+updated_at: 2026-08-31T04:15:46Z
 ---
 
 # Use the Filter Snippet Menu
 
 # Use the Filter Snippet Menu
 
-The filter snippet menu includes options that help you modify and use these snippets in your dashboard. Access it by selecting![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418102024589) in the upper right corner of a snippet widget.
+The filter snippet menu includes options that help you modify and use these snippets in your dashboard. Access it by selecting![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528054984845) in the upper right corner of a snippet widget.
 
 The menu options are described in the following table.
 

@@ -4,7 +4,7 @@ id: 43701105134605
 section: "Install, Upgrade, and Remove Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701105134605-Install-Composer-Manually
-updated_at: 2026-08-26T07:11:21Z
+updated_at: 2026-08-31T04:14:57Z
 ---
 
 # Install Composer Manually

@@ -4,7 +4,7 @@ id: 43701047597837
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701047597837-Use-the-Dashboard-Icons
-updated_at: 2026-08-26T07:10:32Z
+updated_at: 2026-08-31T04:14:07Z
 ---
 
 # Use the Dashboard Icons
@@ -13,7 +13,7 @@ updated_at: 2026-08-26T07:10:32Z
 
 When you create or edit a dashboard, a series of icons are available you can use to perform specific dashboard functions.
 
-![manage your dashboard layout and enable view mode](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417983531021 "dashboard icons")![options available for dashboards for sharing, exporting, adding widgets and more](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418002681741 "dashboard icons bar")
+![manage your dashboard layout and enable view mode](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527951248141 "dashboard icons")![options available for dashboards for sharing, exporting, adding widgets and more](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527940184077 "dashboard icons bar")
 
 Select an icon to perform a dashboard function, as described in the following table.
 

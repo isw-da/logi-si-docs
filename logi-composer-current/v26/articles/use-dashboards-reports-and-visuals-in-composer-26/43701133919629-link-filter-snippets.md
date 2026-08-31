@@ -4,7 +4,7 @@ id: 43701133919629
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701133919629-Link-Filter-Snippets
-updated_at: 2026-08-26T07:12:10Z
+updated_at: 2026-08-31T04:15:47Z
 ---
 
 # Link Filter Snippets
@@ -16,9 +16,9 @@ You can connect multiple filter snippets to one another to further refine the da
 **Link filter snippets**
 
 1. Select the snippet on the dashboard. A blue border appears around the snippet widget.
-2. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418111498125)**Connect Widgets** from the menu (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418137507085)). The Connect Widgets work area opens.
+2. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528055009037)**Connect Widgets** from the menu (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528074169997)). The Connect Widgets work area opens.
 
-   ![Link multiple filters to refine your data by multiple values](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417979584141 "Connect Widgets work area")
+   ![Link multiple filters to refine your data by multiple values](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527946419597 "Connect Widgets work area")
 3. Select **Add Widget**. Select a **Widget Name** to filter and an available **Field**.
 
    **Note:** 

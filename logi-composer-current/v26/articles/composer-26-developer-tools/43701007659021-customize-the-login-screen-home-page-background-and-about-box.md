@@ -4,7 +4,7 @@ id: 43701007659021
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701007659021-Customize-the-Login-Screen-Home-Page-Background-and-About-Box
-updated_at: 2026-08-26T07:10:44Z
+updated_at: 2026-08-31T04:14:21Z
 ---
 
 # Customize the Login Screen, Home Page Background, and About Box
@@ -24,7 +24,7 @@ The copyright information appears on both the [About box](https://logi-composer-
 2. Select **Tools > Customize UI** from the Administration menu. The Customize UI work area opens.
 3. Under Login and About , locate the **Copyright** slider and box. To enable your custom copyright, slide the **Copyright** slider to the right (on). To disable your custom copyright, slide the **Copyright** slider to the left (off). By default the **Copyright** slider is on.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418004859917)s
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527942738189)s
 4. In the box below the **Copyright** slider, specify your custom copyright information.
 5. Select **Save** to save and apply your changes.
 
@@ -39,7 +39,7 @@ The terms of service link appears on the [About box](https://logi-composer-v26.i
 2. Select **Tools > Customize UI** from the Administration menu. The Customize UI work area opens.
 3. Under Login and About , locate the **Terms of Service Link** slider and box. To enable your custom link, slide the **Terms of Service Link** slider to the right (on). To disable your custom link, slide the **Terms of Service Link** slider to the left (off). By default the **Terms of Service Link** slider is on.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418004859917)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527942738189)
 4. In the box below the **Terms of Service Link** slider, specify your custom terms of service link. By default, the link is `https://www.logianalytics.com/eula`.
 5. Select **Save** to save and apply your changes.
 
@@ -54,7 +54,7 @@ The logo appears on both the [About box](https://logi-composer-v26.insightsoftwa
 2. Select **Tools > Customize UI** from the Administration menu. The Customize UI work area opens.
 3. Under Login and About , locate the **Login Page Logo** box. Select **Browse** to browse for and select a new logo. The logo must be in `.svg` or `.png` format with a transparent background. In addition, it must be 500 pixels wide and 184 pixels high.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418004859917)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527942738189)
 
    The selected logo is rendered on the Customize UI page after it is selected.
 4. Select **Save** to save and apply your changes.
@@ -70,7 +70,7 @@ The background image appears on the [Login screen](https://logi-composer-v26.ins
 2. Select **Tools > Customize UI** from the Administration menu. The Customize UI work area opens.
 3. Under Login and About , locate the **Login Background Image** box. Select **Browse** to browse for and select a new background image. The image must be in `.jpg` or `.png` format with a transparent background. In addition, it must be 2560 pixels wide and 1600 pixels high.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418004859917)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527942738189)
 
    The selected image is rendered on the Customize UI page after it is selected.
 4. Select **Save** to save and apply your changes.

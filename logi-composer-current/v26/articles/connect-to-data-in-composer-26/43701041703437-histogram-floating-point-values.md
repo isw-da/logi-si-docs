@@ -4,7 +4,7 @@ id: 43701041703437
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701041703437-Histogram-Floating-Point-Values
-updated_at: 2026-08-26T07:09:08Z
+updated_at: 2026-08-31T04:12:43Z
 ---
 
 # Histogram Floating Point Values

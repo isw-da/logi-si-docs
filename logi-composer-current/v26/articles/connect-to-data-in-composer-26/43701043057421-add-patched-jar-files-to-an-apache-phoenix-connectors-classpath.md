@@ -4,7 +4,7 @@ id: 43701043057421
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701043057421-Add-Patched-JAR-Files-to-an-Apache-Phoenix-Connector-s-Classpath
-updated_at: 2026-08-26T07:11:24Z
+updated_at: 2026-08-31T04:15:00Z
 ---
 
 # Add Patched JAR Files to an Apache Phoenix Connector's Classpath

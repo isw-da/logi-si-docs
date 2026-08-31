@@ -4,7 +4,7 @@ id: 43701214131725
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701214131725-Use-the-Re-Visualize-Sidebar
-updated_at: 2026-08-26T07:12:30Z
+updated_at: 2026-08-31T04:16:07Z
 ---
 
 # Use the Re-Visualize Sidebar
@@ -23,7 +23,7 @@ A list filter visual cannot be converted to a different type. Likewise, other vi
 
 1. Select the visual in the Visual Gallery or on a dashboard.
 2. If you selected the visual on a dashboard, select **Settings** on the [visual drop-down menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu) to access the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) for the visual.
-3. Select the re-visualize option (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418134293645)) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) for the visual. The Re-Visualize sidebar opens.
+3. Select the re-visualize option (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528019994765)) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) for the visual. The Re-Visualize sidebar opens.
 
-   ![use this work area to select a different visual type to display your data](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417972996109 "re-visualize sidebar menu")
+   ![use this work area to select a different visual type to display your data](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527841532557 "re-visualize sidebar menu")
 4. Select a visual option from the list.

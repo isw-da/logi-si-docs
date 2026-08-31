@@ -4,7 +4,7 @@ id: 43701136195213
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701136195213-Set-Up-Unified-Logging-Using-Fluentd
-updated_at: 2026-08-26T07:11:12Z
+updated_at: 2026-08-31T04:14:49Z
 ---
 
 # Set Up Unified Logging Using Fluentd

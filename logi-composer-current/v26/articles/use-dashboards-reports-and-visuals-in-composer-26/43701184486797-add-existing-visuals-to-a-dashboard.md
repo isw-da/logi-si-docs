@@ -4,7 +4,7 @@ id: 43701184486797
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184486797-Add-Existing-Visuals-to-a-Dashboard
-updated_at: 2026-08-26T07:12:28Z
+updated_at: 2026-08-31T04:16:04Z
 ---
 
 # Add Existing Visuals to a Dashboard
@@ -19,7 +19,7 @@ When you create or edit a dashboard, you can add an existing visual from the [Vi
 
    * Users with the [**Administer Dashboards** privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference) can create dashboards and add visuals to dashboards.
    * Users with Owner and Editor access levels to a dashboard can add visuals they can access to the dashboard.
-2. Select Add Visual icon ![Add Visual icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417941511437 "Add Visual icon") from the [dashboard icon bar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701047597837-Use-the-Dashboard-Icons). A drop-down menu appears with two options: Add New Visual and Add Existing Visual.
+2. Select Add Visual icon ![Add Visual icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527865858061 "Add Visual icon") from the [dashboard icon bar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701047597837-Use-the-Dashboard-Icons). A drop-down menu appears with two options: Add New Visual and Add Existing Visual.
 3. Select **Add Existing Visual** to add an existing visual to the dashboard. The Select a Visual dialog appears.
 4. Select a visual from the Visual Gallery in the **Select a Visual** work area. The visual is added to the dashboard in a widget.
 5. [Modify](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701214480525-Edit-Visuals) the visual as needed.

@@ -4,7 +4,7 @@ id: 43701035684493
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701035684493-Assign-and-Remove-Users-in-Tenants
-updated_at: 2026-08-26T07:11:48Z
+updated_at: 2026-08-31T04:15:24Z
 ---
 
 # Assign and Remove Users in  Tenants
@@ -31,7 +31,7 @@ You can assign or remove users in Composer tenants as a system [admin user](http
 3. Select the **Tenant(s)** tab. This tab lists all the tenants to which the user is assigned and the number of groups to which the user is assigned in each tenant.
 4. You can remove the user from tenants in one of two ways:
 
-   * Select the remove (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418125241997)) icon next to the tenant you want to remove the user from. Select **Delete** when prompted to remove the user from this tenant.
+   * Select the remove (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528062936973)) icon next to the tenant you want to remove the user from. Select **Delete** when prompted to remove the user from this tenant.
    * Select **Add Tenant(s)**. The Select Tenants(s) dialog appears. Clear (uncheck) the checkbox associated with a tenant here, user is removed from the tenant. Select **Apply**: the list of tenants on the **Tenant(s)** tab updates to reflect your changes.
 5. Optionally, select a tenant for the user to use the next time they log in from available tenants in the **Current Tenant** field. See [Set the Current Tenant for a User](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701021523469-Set-the-Current-Tenant-for-a-User).
 6. Select **Save** to save the user.

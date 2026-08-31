@@ -4,7 +4,7 @@ id: 43701113891213
 section: "Composer 26 Reference Information"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701113891213-Composer-Log-Unification
-updated_at: 2026-08-26T07:09:57Z
+updated_at: 2026-08-31T04:13:33Z
 ---
 
 # Composer Log Unification

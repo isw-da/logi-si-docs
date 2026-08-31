@@ -4,7 +4,7 @@ id: 43701022841997
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701022841997-Manage-the-Upload-API-Source
-updated_at: 2026-08-26T07:11:43Z
+updated_at: 2026-08-31T04:15:19Z
 ---
 
 # Manage the Upload API Source

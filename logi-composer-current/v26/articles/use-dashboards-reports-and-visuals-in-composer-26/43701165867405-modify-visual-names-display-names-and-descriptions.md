@@ -4,7 +4,7 @@ id: 43701165867405
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701165867405-Modify-Visual-Names-Display-Names-and-Descriptions
-updated_at: 2026-08-26T07:12:41Z
+updated_at: 2026-08-31T04:16:17Z
 ---
 
 # Modify Visual Names, Display Names, and Descriptions
@@ -28,22 +28,22 @@ This information is included and used in your dashboards, but can be edited as n
 **Edit the Visual Name and Visual Description in Visual Gallery**
 
 1. Select the visual to edit in the Visual Gallery.
-2. Select the info option (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418084923277)) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) for the visual. The Info sidebar opens.
+2. Select the info option (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528020594957)) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) for the visual. The Info sidebar opens.
 
-   ![update a visual name and visual description here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417963409549 "visual information sidebar work area")
+   ![update a visual name and visual description here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527844542605 "visual information sidebar work area")
 
    The data source and visual type are shown here, but can not be changed here.
 3. Change the visual name in the **Visual Name** field. You can also change the name of a visual by selecting the name in the visual itself. See [Visual Names and Display Names](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701214877197-Visual-Names-and-Display-Names).
 4. Optionally, add a visual description, or edit an existing one in the **Visual Description** field, up to 750 characters. You can search for the visual using this information in the Visual Gallery.
-5. Select **Save** to save your changes in the sidebar menu, then the Save icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418084923405)) for the visual to save all of your changes.
+5. Select **Save** to save your changes in the sidebar menu, then the Save icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528051843085)) for the visual to save all of your changes.
 
 **Edit the Display Name and Description in a dashboard**
 
 1. Select a local visual or a shared visual on a dashboard.
 2. Select **Settings** on the [visual drop-down menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu) to access the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) for the visual.
-3. Select widget settings (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418099874573)). The Widget Settings sidebar opens. Edit Widget Settings or Position settings as needed.
+3. Select widget settings (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528051843213)). The Widget Settings sidebar opens. Edit Widget Settings or Position settings as needed.
 
-   ![update the display name and description here; show or hide the header, pickers, and position a resized widget within a cell](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417943452685 "widget settings sidebar")
+   ![update the display name and description here; show or hide the header, pickers, and position a resized widget within a cell](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527844585101 "widget settings sidebar")
 
    **Note:** 
    Change the display name in the **Display Name** field.
@@ -61,4 +61,4 @@ This information is included and used in your dashboards, but can be edited as n
    * **Hide** completely hides the header in [Viewer mode](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701014828173-Use-Dashboard-View-Mode).
    * **Custom** allows you to show or hide attributes such as colors, axis labels, and other available attributes or metrics. When disabled, an attribute or metric is hidden in [Viewer mode](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701014828173-Use-Dashboard-View-Mode).
 7. Adjust the **Position** of the content in the widget, if applicable. See  [Position Resized Widgets](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701065890445-Move-Swap-and-Resize-Visuals-and-Widgets-in-a-Dashboard#widget-position) .
-8. Select the **Save** button to save the changes you made in the sidebar menu for the instance of this visual, then the **Save** icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418084923405)) for the dashboard to save your changes.
+8. Select the **Save** button to save the changes you made in the sidebar menu for the instance of this visual, then the **Save** icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528051843085)) for the dashboard to save your changes.

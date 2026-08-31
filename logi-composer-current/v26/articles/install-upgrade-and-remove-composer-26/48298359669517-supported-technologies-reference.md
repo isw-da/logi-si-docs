@@ -4,7 +4,7 @@ id: 48298359669517
 section: "Install, Upgrade, and Remove Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/48298359669517-Supported-Technologies-Reference
-updated_at: 2026-08-26T07:08:54Z
+updated_at: 2026-08-31T04:12:29Z
 ---
 
 # Supported Technologies Reference

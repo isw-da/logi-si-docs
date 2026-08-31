@@ -4,7 +4,7 @@ id: 43701071363725
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701071363725-Remove-a-Filter-from-a-Visual-Filter-Snippet-or-Dashboard
-updated_at: 2026-08-26T07:12:08Z
+updated_at: 2026-08-31T04:15:43Z
 ---
 
 # Remove a Filter from a Visual, Filter Snippet or Dashboard
@@ -19,9 +19,9 @@ The process for removing a filter from a visual, filter snippet, or dashboard is
 
 1. Select the filter icon on the [visual](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701118671885-Apply-a-Row-Level-Filter-to-a-Visual-or-Filter-Snippet), filter snippet, or [dashboard](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701108132365-Apply-a-Row-Level-Filter-to-a-Dashboard) to access the appropriate filter sidebar.
 
-   * To access the filter sidebar, select its filter icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418102142733)) or select **Settings** from the [menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu) (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418087394445)) and then select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418102142989) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu).
-   * To access the dashboard filter sidebar, select its filter icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418102143117)). The dashboard-level filter icon is available only when all the visuals are from the same data source.
+   * To access the filter sidebar, select its filter icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528041480717)) or select **Settings** from the [menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu) (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528041481101)) and then select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528027487373) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu).
+   * To access the dashboard filter sidebar, select its filter icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528027487885)). The dashboard-level filter icon is available only when all the visuals are from the same data source.
 
    The Filters sidebar appears showing any filters that have been applied.
 2. Locate the filter you want to remove on the Filters sidebar.
-3. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418102143245) associated with the filter. If you remove the filter at the dashboard level, it is removed from all the visuals and filter snippets in the dashboard. Otherwise, it is removed only from the selected (active) visual or filter snippet.
+3. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528041481997) associated with the filter. If you remove the filter at the dashboard level, it is removed from all the visuals and filter snippets in the dashboard. Otherwise, it is removed only from the selected (active) visual or filter snippet.

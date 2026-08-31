@@ -4,7 +4,7 @@ id: 46982018753165
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/46982018753165-Create-Self-Service-Reports
-updated_at: 2026-08-26T07:12:53Z
+updated_at: 2026-08-31T04:16:29Z
 ---
 
 # Create  Self Service Reports
@@ -28,7 +28,7 @@ Create a report from any available data source that supports tables. You can app
 
    **Note:** Before or after you select a source, you can edit the title, header, footer, and trademark text of this report.
 
-   ![Select a source to build your report. Search by name or sort by Connection Type. Optionally Enable Groups Header/Footer](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417945417485 "Select a Source work area")
+   ![Select a source to build your report. Search by name or sort by Connection Type. Optionally Enable Groups Header/Footer](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527897893901 "Select a Source work area")
 3. Select an available source from the options provided in the **Select a Source** modal. Scroll through the options, filter sources by connection type, or use the **Search** feature to find specific sources. After you make your selection, a **Select Columns** modal opens.
 
    **Note:** Only sources with data that can be presented in a table are shown.
@@ -36,14 +36,14 @@ Create a report from any available data source that supports tables. You can app
    Optionally, enable the toggle provided to **Enable Groups Header/Footer**.
 4. Select one or more columns from your data source to build your report. Scroll through the options or use the **Search** feature to find specific fields.
 
-   ![select columns for a self service report](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417945440525 "select columns for a report")
+   ![select columns for a self service report](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527895194381 "select columns for a report")
 
    **Important:** When selecting what data you want to include in your report, keep in mind that larger data sets with more complex conditional formatting can negatively affect performance times. See [Report Type Performance](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/47077282029965-Self-Service-Report-Microservice#Report).
 
    **Note:** Control the fields used and shown to users for self service reports by adjusting the field visibility in your sources. See [Hide Fields](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701117118477-Hide-Fields).
 5. When you have picked all of the columns you wish to include in the report, select **Create Report**. After your report is generated, it displays the report data in an editable widget in the **Untitled report** work area.
 
-   ![use this work area to design your self service report](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417965559053 "create your self service report")
+   ![use this work area to design your self service report](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527883624717 "create your self service report")
 
    **Important:** When selecting what data you want to include in your report, keep in mind that larger data sets with more complex conditional formatting can negatively affect performance times. See [Report Type Performance](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/47077282029965-Self-Service-Report-Microservice#Report).
 6. Name and save your report when you're ready, updating the name, adding a description, and assigning tags as needed.
@@ -87,7 +87,7 @@ For more information about performance considerations for self service reporting
 
 Many factors can influence the amount of time and resources required to generate and export your report. Creating a report that reaches maximum column counts, maximum font size selection, multiple complex conditional formatting rules, in combination with your page size and orientation selections may not generate as expected. We have provided some guidelines to help you provide your users with efficient, balanced report generation. See [Report Type Performance](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/47077282029965-Self-Service-Report-Microservice#Report).
 
-![Use this work area to preview your report before committing to an export](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417945491597 "PDF Export Preview")
+![Use this work area to preview your report before committing to an export](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527861654541 "PDF Export Preview")
 
 ### Page Size and Orientation
 

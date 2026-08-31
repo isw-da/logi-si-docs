@@ -4,7 +4,7 @@ id: 43701213266061
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701213266061-Format-Numeric-Table-Data-Using-the-Table-Context-Menu
-updated_at: 2026-08-26T07:12:35Z
+updated_at: 2026-08-31T04:16:11Z
 ---
 
 # Format Numeric Table Data Using the Table Context Menu
@@ -16,12 +16,12 @@ Numeric data and date formats [are set at the source](https://logi-composer-v26.
 **Format numeric table data using the table context menu**
 
 1. Select a table visual in a dashboard or in the Visual Gallery.
-2. Locate the field in the table and select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418099428493) next to its column heading to access the table context menu.
+2. Locate the field in the table and select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528037248397) next to its column heading to access the table context menu.
 
-   ![select to format numbers in a table column](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417973539725 "table context menu with number formatting")
+   ![select to format numbers in a table column](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527890801165 "table context menu with number formatting")
 3. Select **Format <field>** on the context menu. A Format work area opens.
 
-   ![select formatting options in the format work area](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417973566861 "Number Format Work area plain")
+   ![select formatting options in the format work area](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527890830221 "Number Format Work area plain")
 
    **Note:** 
    Select a Number Format, then select other options for this field. Select **Apply** to apply your changes to the data in the table column, or **Reset** reapply the source formatting.
@@ -33,18 +33,18 @@ Numeric data and date formats [are set at the source](https://logi-composer-v26.
 **Format aggregated data using the table context menu**
 
 1. Select a table visual in a dashboard or in the Visual Gallery.
-2. Locate the field that includes aggregated in the table and select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418099428493) next to its column heading to access the table context menu.
+2. Locate the field that includes aggregated in the table and select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528037248397) next to its column heading to access the table context menu.
 
-   ![select to format aggregated numbers in a table column](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417973587853 "table context menu with number formatting aggregated")
+   ![select to format aggregated numbers in a table column](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527856667789 "table context menu with number formatting aggregated")
 3. Select **Format <field>** on the context menu. A Format work area opens.
 
-   ![select formatting options in the format work area for raw or aggregated numbers](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417973598989 "Number Format Work area plain for aggregated numbers")
+   ![select formatting options in the format work area for raw or aggregated numbers](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527828063245 "Number Format Work area plain for aggregated numbers")
 4. Select the tab of the data you want to format: the aggregate data, shown here as **Actualsales (Sum)**, or the raw data, shown here as **Actualsales (Raw data)**.
 
    **Note:** 
    You can apply different formatting options to your raw and aggregate data.
 
-   ![table with different formatting options applied to aggregate and raw data](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417942244877 "table with different formatting options applied to aggregate and raw data")
+   ![table with different formatting options applied to aggregate and raw data](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527871152781 "table with different formatting options applied to aggregate and raw data")
 5. Select a Number Format, then select other options for this field. select **Apply** to apply your changes to the data in the table column, or **Reset** reapply the source formatting.
 
    **Note:** 

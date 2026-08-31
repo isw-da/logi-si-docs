@@ -4,7 +4,7 @@ id: 46968204192141
 section: "Logi Composer  26 Release Notes Overview"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/46968204192141-Logi-Composer-26-2-Release-Notes
-updated_at: 2026-08-26T07:11:50Z
+updated_at: 2026-08-31T04:15:25Z
 ---
 
 # Logi Composer 26.2 Release Notes
@@ -106,7 +106,7 @@ API documentation is provided in your environment at this link: `https://<compos
 | --- | --- |
 | **26.2.2 Resolved Issues** | |
 | Derived Fields in Joins | Corrected an issue that returned errors during query processing and join optimization in data sources that used derived fields from multiple entities. |
-| Retrieving Filtered Data | Row Level Security and Column Level Security Level rules are now correctly applied in multi-tenant environments that access data using the API. Appropriate data is correctly returned on request. |
+| Retrieving Filtered Data | Row Level Security and Column Level Security Level rules are now correctly applied in multi-tenant environments that access data using the API when requests are made using the same user to access the shared data in each tenant. Appropriate data is correctly returned on request. |
 | Filters | When you apply a filter with a single value, the data is filtered on that single value and no longer returns an `INTERNAL_ERROR` response. |
 | Derived Fields | Corrected an issue that incorrectly applied entity joins globally to different reports that rely on derived fields that use Enable Dimension Entity, causing the reports to fail.  Entity joins are now applied appropriately to each report when explicitly referenced. |
 | **26.2.1 Resolved Issues** | |

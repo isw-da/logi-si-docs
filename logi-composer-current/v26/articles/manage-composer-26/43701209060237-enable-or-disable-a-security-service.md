@@ -4,7 +4,7 @@ id: 43701209060237
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701209060237-Enable-or-Disable-a-Security-Service
-updated_at: 2026-08-26T07:11:54Z
+updated_at: 2026-08-31T04:15:30Z
 ---
 
 # Enable or Disable a Security Service
@@ -22,7 +22,7 @@ The Composer [supervisor](https://logi-composer-v26.insightsoftware.com/hc/en-u
 3. The Security page appears. It consists of four tabs: **Security Services**, **SAML Settings**, **LDAP Settings**, and **Kerberos Settings**.
 4. On the Security Services tab, turn on the appropriate switch (slide it to the right) for the authentication service you want to enable.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417977206413)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527898310669)
 5. Select **Save**.
 
    After the settings have been saved, the status of the authentication service changes to **Will start on next restart**.
@@ -45,7 +45,7 @@ The Composer [supervisor](https://logi-composer-v26.insightsoftware.com/hc/en-u
 3. The Security page appears. It consists of four tabs: **Security Services**, **SAML Settings**, **LDAP Settings**, and **Kerberos Settings**.
 4. On the Security Services tab, turn off the appropriate switch (slide it to the left ) for the authentication service you want to disable.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417977206413)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527898310669)
 5. Select **Save**.
 
    After the settings have been saved, the status of the authentication service changes to **Will stop on next restart**. The tab that allows you to configure the settings for the service will still be available and the service will keep running until the Composer service is restarted.

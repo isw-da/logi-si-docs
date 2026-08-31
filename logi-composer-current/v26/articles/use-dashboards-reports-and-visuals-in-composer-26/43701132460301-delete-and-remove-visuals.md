@@ -4,7 +4,7 @@ id: 43701132460301
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701132460301-Delete-and-Remove-Visuals
-updated_at: 2026-08-26T07:12:27Z
+updated_at: 2026-08-31T04:16:02Z
 ---
 
 # Delete and Remove Visuals
@@ -22,7 +22,7 @@ If you try to delete a visual, filter snippet, dashboard, self service report, d
 
 1. Edit the dashboard. See [Edit a Dashboard](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701014144397-Edit-a-Dashboard).
 2. Select the visual to be removed.
-3. Select **Remove Widget** on the [visual drop-down (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418134168077)) menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu). A removal confirmation dialog opens.
+3. Select **Remove Widget** on the [visual drop-down (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528036858509)) menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu). A removal confirmation dialog opens.
 
    To control whether a visual can be removed, use the interactivity sidebar. See [Control How Users Interact With a Visual](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701185104653-Control-How-Users-Interact-With-a-Visual).
 4. Select **Delete** on the warning dialog to confirm the removal.
@@ -39,5 +39,5 @@ To delete visuals, you must be logged in as an administrator or as a user belong
 
 1. Access the [Visual Gallery](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701180261773-Use-the-Visual-Gallery). See [Use the Visual Gallery](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701180261773-Use-the-Visual-Gallery).
 2. Locate the visual in the Visual Gallery.
-3. Select the delete icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417972661645)) in the **Actions** column associated with the visual. A pop-up dialog is shown, verifying the deletion.
+3. Select the delete icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527865464973)) in the **Actions** column associated with the visual. A pop-up dialog is shown, verifying the deletion.
 4. Select **Delete** on the warning dialog to confirm the deletion.

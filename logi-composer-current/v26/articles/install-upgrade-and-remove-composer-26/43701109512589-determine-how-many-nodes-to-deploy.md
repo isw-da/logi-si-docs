@@ -4,7 +4,7 @@ id: 43701109512589
 section: "Install, Upgrade, and Remove Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701109512589-Determine-How-Many-Nodes-to-Deploy
-updated_at: 2026-08-26T07:11:21Z
+updated_at: 2026-08-31T04:14:57Z
 ---
 
 # Determine How Many Nodes to Deploy

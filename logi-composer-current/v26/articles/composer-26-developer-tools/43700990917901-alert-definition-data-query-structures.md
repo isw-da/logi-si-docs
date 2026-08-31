@@ -4,7 +4,7 @@ id: 43700990917901
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700990917901-Alert-Definition-Data-Query-Structures
-updated_at: 2026-08-26T07:09:02Z
+updated_at: 2026-08-31T04:12:38Z
 ---
 
 # Alert Definition Data Query Structures

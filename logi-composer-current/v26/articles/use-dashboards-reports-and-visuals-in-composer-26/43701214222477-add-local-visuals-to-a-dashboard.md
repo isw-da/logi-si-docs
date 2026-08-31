@@ -4,7 +4,7 @@ id: 43701214222477
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701214222477-Add-Local-Visuals-to-a-Dashboard
-updated_at: 2026-08-26T07:11:52Z
+updated_at: 2026-08-31T04:15:29Z
 ---
 
 # Add Local Visuals to a Dashboard

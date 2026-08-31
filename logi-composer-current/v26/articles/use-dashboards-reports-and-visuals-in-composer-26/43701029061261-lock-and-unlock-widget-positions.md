@@ -4,7 +4,7 @@ id: 43701029061261
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701029061261-Lock-and-Unlock-Widget-Positions
-updated_at: 2026-08-26T07:10:36Z
+updated_at: 2026-08-31T04:14:12Z
 ---
 
 # Lock and Unlock Widget Positions
@@ -23,17 +23,17 @@ You must convert older dashboard layouts to use this feature. See [Convert Dashb
 
    The dashboard layout changes, displaying locked or unlocked icons on widgets and locked icons on locked rows.
 
-   ![lock and unlock layout columns and rows](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418003195789 "A dashboard in locking mode")
-3. To lock a widget, select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418033009165) to lock the column position and row height of the widget. The icon changes to ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418003248013) to show it is locked.
+   ![lock and unlock layout columns and rows](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527926518797 "A dashboard in locking mode")
+3. To lock a widget, select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527920719373) to lock the column position and row height of the widget. The icon changes to ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527940752013) to show it is locked.
 
-   To unlock a widget, select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418003248013) to unlock the column position and row height of the widget. The icon changes to ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418033009165) show it is unlocked.
+   To unlock a widget, select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527940752013) to unlock the column position and row height of the widget. The icon changes to ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527920719373) show it is unlocked.
 
-   ![lock and unlock layout columns and rows](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417983982221 "A dashboard in locking mode")
+   ![lock and unlock layout columns and rows](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527963779981 "A dashboard in locking mode")
 4. To lock or unlock a row of widgets, select the far left border of a row to highlight the row. The dashboard layout changes, displaying an unlocked icon on the selected unlocked row.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417984002317)
-5. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418033009165) to lock the row's height and position, or ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418003248013) to unlock the row.
-6. Select the Dashboard Layout icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418003318541) and disable the Locking Mode toggle.
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527963809293)
+5. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527920719373) to lock the row's height and position, or ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527940752013) to unlock the row.
+6. Select the Dashboard Layout icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527963844493) and disable the Locking Mode toggle.
 7. Save your changes.
 
 After you have locked the position of some of the widgets in your dashboard, you can not:

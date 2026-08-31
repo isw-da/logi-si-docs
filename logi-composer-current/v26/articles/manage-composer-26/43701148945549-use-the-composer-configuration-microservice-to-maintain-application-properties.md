@@ -4,7 +4,7 @@ id: 43701148945549
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701148945549-Use-the-Composer-Configuration-Microservice-to-Maintain-Application-Properties
-updated_at: 2026-08-26T07:11:52Z
+updated_at: 2026-08-31T04:15:28Z
 ---
 
 # Use the Composer  Configuration Microservice to Maintain Application Properties
@@ -15,7 +15,7 @@ You can use the Service Monitor to review and maintain the properties for each o
 
 The Composer configuration microservice is packaged with the [Spring Cloud Configuration](https://www.baeldung.com/spring-cloud-configuration) server, which allows Composer to easily integrate with its Spring-based microservices and provides the mechanism by which Composerproperty settings can be persisted in a supported PostgreSQL metastore or in a GitHub repository. The following diagram depicts this relationship.
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417977148429)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527876123533)
 
 After the Composer configuration microservice is installed and started, the properties can be maintained on the Service Monitor's Properties tab.
 

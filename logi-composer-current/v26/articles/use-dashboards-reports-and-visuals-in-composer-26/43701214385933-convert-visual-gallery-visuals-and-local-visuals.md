@@ -4,7 +4,7 @@ id: 43701214385933
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701214385933-Convert-Visual-Gallery-Visuals-and-Local-Visuals
-updated_at: 2026-08-26T07:12:29Z
+updated_at: 2026-08-31T04:16:05Z
 ---
 
 # Convert Visual Gallery Visuals and Local Visuals
@@ -24,32 +24,32 @@ To create local visuals, you need to be a user with Owner or Editor access to a 
 
 **Convert a visual gallery visual to a local visual**
 
-1. Add a visual from the visual gallery to your dashboard, then select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418116108301) to view available visual options.
+1. Add a visual from the visual gallery to your dashboard, then select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528051112589) to view available visual options.
 
-   ![Select an action to take for a visual gallery visual](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417972712205 "Visual Gallery Visual options menu")
+   ![Select an action to take for a visual gallery visual](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527865574157 "Visual Gallery Visual options menu")
 2. Select **Convert to Local**. Composer adds a copy of the saved visual from the visual gallery to the dashboard as a local visual.
 3. [Save](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701047225613-Save-a-Dashboard) the dashboard to save your changes.
 
-   ![select and make changes to local visuals](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417941381133 "Menu options local visual")
+   ![select and make changes to local visuals](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527855456781 "Menu options local visual")
 
    **Note:** 
    If you add the visual gallery visual back to the dashboard, the visual name is incremented on the dashboard to differentiate it from the local visual of the same name.
 
 **Convert a local visual to a visual gallery visual**
 
-1. Create or select a local visual in your dashboard, then select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418116108301) to view available visual options.
+1. Create or select a local visual in your dashboard, then select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528051112589) to view available visual options.
 
-   ![Select an action to take for a local visual](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417941404301 "Local Visual options menu")
+   ![Select an action to take for a local visual](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527841244301 "Local Visual options menu")
 2. Select **Add to Visual Gallery**. A Save Options dialog opens.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417941416717)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527865687181)
 3. Enter a **Visual Name** and optionally, a **Visual Description**.
 4. Leave **Replace the visual on the dashboard** option selected to add the visual to the gallery and replace the local visual on your dashboard. Deselect to add the visual to the gallery and leave the local visual in place.
 
    If the saved visual name exists in the visual gallery, your visual saved with a number in parentheses `(<n>)` at the end of the name to make it unique to the gallery.
 5. Save the dashboard to save your changes. If you change the visual, save the visual to retain your visual changes.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417936889357)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527889724429)
 
    **Note:** 
    If you deselect **Replace the visual on the dashboard**, your visual is added to the visual gallery, and a copy (the local visual) remains on your dashboard.

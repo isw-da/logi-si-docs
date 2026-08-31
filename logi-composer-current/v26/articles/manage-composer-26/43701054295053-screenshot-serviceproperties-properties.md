@@ -4,7 +4,7 @@ id: 43701054295053
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701054295053-screenshot-service-properties-Properties
-updated_at: 2026-08-26T07:11:38Z
+updated_at: 2026-08-31T04:15:14Z
 ---
 
 # screenshot-service.properties Properties

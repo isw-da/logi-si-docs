@@ -4,7 +4,7 @@ id: 43701052960269
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701052960269-Manage-Connectors-with-REST-APIs
-updated_at: 2026-08-26T07:10:43Z
+updated_at: 2026-08-31T04:14:19Z
 ---
 
 # Manage Connectors with REST APIs
@@ -13,7 +13,7 @@ updated_at: 2026-08-26T07:10:43Z
 
 The administrative REST APIs enable developers to manage connectors, connections, and data sources. Composer's data connectivity with data stores is organized in these segments, illustrated below.
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418005124365)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527973278093)
 
 There are two basic parts to the connectivity process. They are listed below along with the REST endpoints used to manage them.
 

@@ -4,7 +4,7 @@ id: 43701021083277
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701021083277-About-the-Supplied-Composer-Tenant
-updated_at: 2026-08-26T07:11:51Z
+updated_at: 2026-08-31T04:15:27Z
 ---
 
 # About the Supplied Composer Tenant

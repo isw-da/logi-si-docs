@@ -4,7 +4,7 @@ id: 43701196409101
 section: "Composer 26 Troubleshooting"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701196409101-What-Should-I-Check-for-if-Live-Mode-Is-Configured-But-My-Dashboard-Data-is-not-Updating
-updated_at: 2026-08-26T07:10:10Z
+updated_at: 2026-08-31T04:13:46Z
 ---
 
 # What Should I Check for if Live Mode Is Configured But My Dashboard Data is not Updating?

@@ -4,7 +4,7 @@ id: 43701197459725
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701197459725-Edit-Line-Bar-Trend-Charts
-updated_at: 2026-08-26T07:12:41Z
+updated_at: 2026-08-31T04:16:18Z
 ---
 
 # Edit Line & Bar Trend Charts
@@ -32,7 +32,7 @@ For information on setting even time intervals, see [Even Time Intervals](https:
 
    Select the color icon on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu). The Color sidebar for the visual appears.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417974743053)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527873269517)
 3. Configure the color settings as described below. As you change the color settings, the legend at the top of the Color sidebar shows how the legend will appear on the visual. Supported color specifications are described in [Specify Colors](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700990058381-Specify-Colors).
 
    | Setting | Description |

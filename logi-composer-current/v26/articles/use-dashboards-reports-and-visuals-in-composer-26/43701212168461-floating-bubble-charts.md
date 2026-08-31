@@ -4,7 +4,7 @@ id: 43701212168461
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701212168461-Floating-Bubble-Charts
-updated_at: 2026-08-26T07:12:46Z
+updated_at: 2026-08-31T04:16:23Z
 ---
 
 # Floating Bubble Charts
@@ -33,7 +33,7 @@ This topic describes:
    If you are editing the visual from the Visual Gallery, the sidebar appears to the right of the visual.
 3. Select the settings icon on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu). The Floating Bubble Chart Settings sidebar for the visual appears.
 
-   ![Adjust settings for your floating bubble chart here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417963459597 "Settings sidebar menu, floating bubble chart")
+   ![Adjust settings for your floating bubble chart here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527868960653 "Settings sidebar menu, floating bubble chart")
 4. Alter the settings as needed:
 
    | Setting | Description |
@@ -51,7 +51,7 @@ This topic describes:
 
    Select the color icon on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu). The Color sidebar for the visual appears.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418084940429)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528063812621)
 3. Configure the color settings as described below. As you change the color settings, the legend at the top of the Color sidebar shows how the legend will appear on the visual. Supported color specifications are described in[Specify Colors](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700990058381-Specify-Colors).
 
    | Setting | Description |

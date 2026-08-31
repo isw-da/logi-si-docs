@@ -4,7 +4,7 @@ id: 43701054392973
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701054392973-White-Label-the-Composer-Interface
-updated_at: 2026-08-26T07:09:00Z
+updated_at: 2026-08-31T04:12:34Z
 ---
 
 # White Label the Composer Interface

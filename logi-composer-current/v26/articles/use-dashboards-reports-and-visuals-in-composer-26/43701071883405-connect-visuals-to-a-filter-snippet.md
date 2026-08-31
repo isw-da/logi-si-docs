@@ -4,7 +4,7 @@ id: 43701071883405
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701071883405-Connect-Visuals-to-a-Filter-Snippet
-updated_at: 2026-08-26T07:12:07Z
+updated_at: 2026-08-31T04:15:44Z
 ---
 
 # Connect Visuals to a Filter Snippet
@@ -16,9 +16,9 @@ Build and use filter snippets to filter and highlight data on your dashboard. To
 **Connect visuals**
 
 1. Select the snippet on the dashboard. A blue border appears around the snippet widget.
-2. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417968032525)**Connect Widgets** from the menu (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418119464845)). The Connect Widgets work area opens.
+2. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527946361229)**Connect Widgets** from the menu (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528041319565)). The Connect Widgets work area opens.
 
-   ![Add or remove visuals or filters you want to filter using this filter snippet](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417979558285 "Connect Widgets work area")
+   ![Add or remove visuals or filters you want to filter using this filter snippet](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527887564045 "Connect Widgets work area")
 3. Select **Add Widget**. Select a **Widget Name** and an available **Field**.
 4. Repeat to add as many visuals or filter snippets as desired. Select the copy icon to quickly add all visuals and filter snippets from the dashboard that share the same data source.
 5. Optionally, remove widgets by selecting the delete icon next to each widget.

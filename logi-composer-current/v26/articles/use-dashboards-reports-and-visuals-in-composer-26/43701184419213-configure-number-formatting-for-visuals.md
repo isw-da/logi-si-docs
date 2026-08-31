@@ -4,7 +4,7 @@ id: 43701184419213
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184419213-Configure-Number-Formatting-for-Visuals
-updated_at: 2026-08-26T07:12:30Z
+updated_at: 2026-08-31T04:16:06Z
 ---
 
 # Configure Number Formatting for Visuals
@@ -21,10 +21,10 @@ You can also override formatting for the Time attribute at the visual level. See
 1. Select the visual with time attributes you want to format in a dashboard or the visual gallery.
 2. Select a Metric, X or Y axis, Group, Color, Trend line, size, or other available measure. A dialog for your selection opens.
 
-   ![Select Format to format a numeric attribute](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417973008141 "Number metric work area")
-3. Locate your number field using **Search**, or navigate to the field or fields you want to format. Select the menu ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418084120717) for a field, then select Format. The **Format: <field>** work area opens.
+   ![Select Format to format a numeric attribute](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527827221517 "Number metric work area")
+3. Locate your number field using **Search**, or navigate to the field or fields you want to format. Select the menu ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528012807949) for a field, then select Format. The **Format: <field>** work area opens.
 
-   ![Use this work area to format your numeric field attribute on a visual metric](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417960968973 "Format Number Attribute Work Area")
+   ![Use this work area to format your numeric field attribute on a visual metric](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527866031885 "Format Number Attribute Work Area")
 4. Define your format options, and select **Apply** to apply to this field.
 5. Repeat for all fields you want to modify.
 

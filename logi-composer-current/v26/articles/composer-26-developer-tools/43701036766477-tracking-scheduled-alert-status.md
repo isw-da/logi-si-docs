@@ -4,7 +4,7 @@ id: 43701036766477
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701036766477-Tracking-Scheduled-Alert-Status
-updated_at: 2026-08-26T07:08:59Z
+updated_at: 2026-08-31T04:12:34Z
 ---
 
 # Tracking Scheduled Alert Status

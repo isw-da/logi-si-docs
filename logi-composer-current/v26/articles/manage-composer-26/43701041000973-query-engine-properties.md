@@ -4,7 +4,7 @@ id: 43701041000973
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701041000973-Query-Engine-Properties
-updated_at: 2026-08-26T07:11:39Z
+updated_at: 2026-08-31T04:15:15Z
 ---
 
 # Query Engine Properties

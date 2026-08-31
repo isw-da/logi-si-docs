@@ -4,7 +4,7 @@ id: 43701071905933
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701071905933-Custom-Values-for-Filter-Snippets
-updated_at: 2026-08-26T07:12:06Z
+updated_at: 2026-08-31T04:15:43Z
 ---
 
 # Custom Values for Filter Snippets
@@ -18,11 +18,11 @@ All users with access to a dashboard can add custom values to a [filter snippet]
 
 **Add custom values to a filter snippet**
 
-1. Enter a value in the **Search** field of a filter snippet. If the value is not part of the filter, add the value by selecting **Add** or the add ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418087274893 "add icon") icon.
+1. Enter a value in the **Search** field of a filter snippet. If the value is not part of the filter, add the value by selecting **Add** or the add ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528074155277 "add icon") icon.
 2. If applicable, select the Submit button to apply your changes to the connected visuals.
 
    **Note:** 
-   Users with Viewer access can delete custom values by selecting delete icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418087275021) before saving the dashboard under a new name.
+   Users with Viewer access can delete custom values by selecting delete icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528054996237) before saving the dashboard under a new name.
 3. When you have finished making changes to the snippet, [save](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701214973197-Save-Visuals-With-Their-Current-Names) the dashboard.
 
    1. Owners and editors can save the dashboard as is, or save it using a new name.
@@ -31,6 +31,6 @@ All users with access to a dashboard can add custom values to a [filter snippet]
 **Remove custom value from a filter snippet**
 
 1. Select the snippet on the dashboard. A blue border appears around the snippet widget.
-2. Select the edit icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418102028045) to edit the list of custom values.
-3. All custom values you can remove have a delete icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418087275149). Select to delete the value.
+2. Select the edit icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528074155661) to edit the list of custom values.
+3. All custom values you can remove have a delete icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528054996493). Select to delete the value.
 4. When you have finished making changes to the snippet, [save](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701214973197-Save-Visuals-With-Their-Current-Names) the dashboard.

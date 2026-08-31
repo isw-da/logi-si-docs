@@ -4,7 +4,7 @@ id: 43701123718157
 section: "Composer 26 Reference Information"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701123718157-Default-Port-Reference
-updated_at: 2026-08-26T07:11:56Z
+updated_at: 2026-08-31T04:15:32Z
 ---
 
 # Default Port Reference

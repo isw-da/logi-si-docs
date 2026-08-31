@@ -4,7 +4,7 @@ id: 43701095677581
 section: "Manipulate Data In The Composer 26 Data Store"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701095677581-Derived-Field-Editor
-updated_at: 2026-08-26T07:10:23Z
+updated_at: 2026-08-31T04:13:58Z
 ---
 
 # Derived Field Editor
@@ -20,7 +20,7 @@ To define derived fields for a data source, you must have:
 
 The Derived Field Editor:
 
-![Build, edit, and test a derived field here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417971451533 "Derived Field work area")
+![Build, edit, and test a derived field here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527938915213 "Derived Field work area")
 
 The numbered regions are:
 

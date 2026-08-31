@@ -4,7 +4,7 @@ id: 43701078705933
 section: "Manipulate Data In The Composer 26 Data Store"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701078705933-Maintain-Derived-Fields
-updated_at: 2026-08-26T07:09:38Z
+updated_at: 2026-08-31T04:13:14Z
 ---
 
 # Maintain Derived Fields

@@ -4,7 +4,7 @@ id: 43701023508109
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701023508109-Listening-to-Other-Query-Events
-updated_at: 2026-08-26T07:09:00Z
+updated_at: 2026-08-31T04:12:35Z
 ---
 
 # Listening to Other Query Events

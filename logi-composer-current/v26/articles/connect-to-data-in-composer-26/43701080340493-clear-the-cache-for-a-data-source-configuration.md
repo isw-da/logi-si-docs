@@ -4,7 +4,7 @@ id: 43701080340493
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701080340493-Clear-the-Cache-for-a-Data-Source-Configuration
-updated_at: 2026-08-26T07:12:17Z
+updated_at: 2026-08-31T04:15:52Z
 ---
 
 # Clear the Cache for a Data Source Configuration
@@ -22,7 +22,7 @@ You can manually clear the cache for a data source configuration if you are a us
 3. In the table on the Sources page, locate the row displaying the data source configuration with the cache you want to clear.
 4. Select the Clear Cache button in the **Actions** column of the table. The Cache Cleanup work area opens.
 
-   ![cache cleanup dialog box](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418031075981 "cache cleanup dialog box")
+   ![cache cleanup dialog box](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527918682253 "cache cleanup dialog box")
 5. If available, select **[Data Cache](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701085337997-Cache-Tab#datacache)** to clear the query results from visuals.
 6. If available, select **[Statistics Cache](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701085337997-Cache-Tab#stasticscache)** to clear the cache of field statistics data such as min, max, and distinct values numbers.
 

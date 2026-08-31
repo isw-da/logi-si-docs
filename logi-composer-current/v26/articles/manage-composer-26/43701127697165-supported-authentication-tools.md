@@ -4,7 +4,7 @@ id: 43701127697165
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701127697165-Supported-Authentication-Tools
-updated_at: 2026-08-26T07:10:58Z
+updated_at: 2026-08-31T04:14:33Z
 ---
 
 # Supported Authentication Tools

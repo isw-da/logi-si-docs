@@ -4,7 +4,7 @@ id: 46981992328845
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/46981992328845-Generate-Visuals
-updated_at: 2026-08-26T07:09:00Z
+updated_at: 2026-08-31T04:12:36Z
 ---
 
 # Generate Visuals

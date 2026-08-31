@@ -4,7 +4,7 @@ id: 43701211077133
 section: "Composer 26 Troubleshooting"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701211077133-Why-can-not-I-Recreate-Users-that-Previously-Existed
-updated_at: 2026-08-26T07:10:11Z
+updated_at: 2026-08-31T04:13:48Z
 ---
 
 # Why can not I Recreate Users that Previously Existed?

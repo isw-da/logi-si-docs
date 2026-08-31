@@ -4,7 +4,7 @@ id: 43701117598861
 section: "Embed Composer Dashboards Into Applications Using Composer"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701117598861-Generate-a-Sources-Inventory-HTML-Snippet
-updated_at: 2026-08-26T07:12:14Z
+updated_at: 2026-08-31T04:15:49Z
 ---
 
 # Generate a Sources Inventory HTML Snippet
@@ -17,9 +17,9 @@ You can generate an embeddable HTML snippet for the sources inventory using the 
 
 1. Log into the UI as an administrator or as a user assigned to a group with the **Generate Embed Code** [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference).
 2. Select the Source card on your home page or Data Sources from the main menu. The [Sources page](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701081381901-Data-Sources-Page) appears.
-3. Select the embed sources inventory icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418137886989)) above the list of sources. The Embed Code dialog appears.
+3. Select the embed sources inventory icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528089010957)) above the list of sources. The Embed Code dialog appears.
 
-   ![adjust and copy the embed code for your sources inventory](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417995276557 "embed code dialog")
+   ![adjust and copy the embed code for your sources inventory](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527933216141 "embed code dialog")
 
    The Code section of this dialog shows the embeddable snippet. If you do not need to change any of the default settings on this page, simply select **Copy to Clipboard** and you can skip the rest of these steps and embed the copied snippet in your application.
 

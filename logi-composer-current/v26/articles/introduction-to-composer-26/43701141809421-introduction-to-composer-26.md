@@ -4,7 +4,7 @@ id: 43701141809421
 section: "Introduction to Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701141809421-Introduction-to-Composer-26
-updated_at: 2026-08-26T07:11:01Z
+updated_at: 2026-08-31T04:14:37Z
 ---
 
 # Introduction to Composer 26

@@ -4,7 +4,7 @@ id: 43701160844045
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701160844045-Configure-an-Advanced-Refresh-Job
-updated_at: 2026-08-26T07:11:55Z
+updated_at: 2026-08-31T04:15:30Z
 ---
 
 # Configure an Advanced Refresh Job
@@ -22,7 +22,7 @@ Using cron expressions, you can specify a more complicated schedule for refresh 
 3. On the [Sources](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701081381901-Data-Sources-Page) page, locate and select the data source configuration you want to edit. The Source Creation work area opens.
 4. Select the **Cache** tab, then enable enable **Schedule Refresh Settings** and select **Advanced** in the pop up. The settings work area for an Advanced refresh job appear.
 
-   ![use the work area to scheudule the refresh settings for your data by creating your own Cron Expression](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417992365069 "Schedule Refresh Settings Advanced work area")
+   ![use the work area to scheudule the refresh settings for your data by creating your own Cron Expression](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527895638541 "Schedule Refresh Settings Advanced work area")
 5. In the box provided, enter a cron expression that sets the schedule using a string of six fields, each separated by a blank space. The format for the cron expression is:
 
    <seconds> <minutes> <hours> <days of the month> <months> <days of the week>

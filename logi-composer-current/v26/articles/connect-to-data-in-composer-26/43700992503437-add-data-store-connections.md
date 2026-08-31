@@ -4,7 +4,7 @@ id: 43700992503437
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700992503437-Add-Data-Store-Connections
-updated_at: 2026-08-26T07:11:35Z
+updated_at: 2026-08-31T04:15:11Z
 ---
 
 # Add  Data Store Connections

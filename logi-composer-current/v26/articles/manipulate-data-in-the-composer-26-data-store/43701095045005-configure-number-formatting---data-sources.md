@@ -4,7 +4,7 @@ id: 43701095045005
 section: "Manipulate Data In The Composer 26 Data Store"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701095045005-Configure-Number-Formatting-Data-Sources
-updated_at: 2026-08-26T07:10:27Z
+updated_at: 2026-08-31T04:14:02Z
 ---
 
 # Configure Number Formatting  - Data Sources
@@ -31,9 +31,9 @@ There are three places to control the display of numbers in a data source.
 2. Select the **Source** card on your home page or **Data Sources** from the main menu.
 3. Edit the appropriate data source configuration and access the [**Fields** tab](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701116424973-Manage-Fields) of the data source.
 4. Locate the number field you want to modify. The **Data Type** column on the **Fields** tab must define the field as a **Number** field.
-5. In the sidebar menu, select the settings (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418120476941)) button to open the **Settings** work area. Select the edit (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418120477069)) button in the **Format** work area to edit the date and time format for this field.
+5. In the sidebar menu, select the settings (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528069135117)) button to open the **Settings** work area. Select the edit (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528059832461)) button in the **Format** work area to edit the date and time format for this field.
 
-   ![Update the format of your number field here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418031581453 "Format Number Attributes - Data Source")
+   ![Update the format of your number field here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527911711501 "Format Number Attributes - Data Source")
 6. Select one of the following number formats in the drop-down list in the Number Format box. The other fields on the Format dialog change based on the number format you select.
 
    * **Plain Number**: Select this format to display the field as plain number values. Additional format information you can select includes:

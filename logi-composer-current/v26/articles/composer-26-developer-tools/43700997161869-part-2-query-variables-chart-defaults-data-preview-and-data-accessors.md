@@ -4,7 +4,7 @@ id: 43700997161869
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700997161869-Part-2-Query-Variables-Chart-Defaults-Data-Preview-and-Data-Accessors
-updated_at: 2026-08-26T07:10:39Z
+updated_at: 2026-08-31T04:14:15Z
 ---
 
 # Part 2: Query Variables, Chart Defaults, Data Preview, and Data Accessors
@@ -34,7 +34,7 @@ Composer’s front-end client communicates with the back-end data repositories u
 
    The output of the terminal window should look like the following image:
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418007283981)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527954808717)
 
    Notice the group and metric variable list in the table. A group variable indicates that the chart generates a request for grouped, or aggregated, data in the query. In this case, the chart defines a single group by field. A metric variable indicates that the chart will perform an aggregation function on a numeric field as part of the grouped data query. In this chart, a single metric is specified. The chart’s default configuration defines the actual group-by and metric fields at the source level.
 4. Enter **Y** for the "Would you like to make additional edits?" prompt.
@@ -96,7 +96,7 @@ You have now defined a group query variable named **Group By** and a metric quer
 6. Save the `src/index.js` file. The CLI updates the server’s copy with latest changes.
 7. Preview the chart in the dashboard again (see [Step 5. Preview the Chart](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701076044813-Part-1-Custom-Chart-Basics#Step5)) and the chart’s data in the browser's console. Since the data is output to the browser’s console, open the browser’s developer tools to get to console. See instructions for [Google Chrome](https://developers.google.com/web/tools/chrome-devtools/) and [Mozilla Firefox](https://developer.mozilla.org/en-US/docs/Tools/Tools_Toolbox) browsers. The following image shows what the results might look like:
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418003685901)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527954822413)
 
    Notice the JSON array with multiple objects in the result. Each object contains a group property with an array of strings (one per group by field) and current object with a nested count property (# of records) and a metrics property (an object with the metrics requested). Each metric objects contains an aggregation function property, like sum and its resulting value.
 

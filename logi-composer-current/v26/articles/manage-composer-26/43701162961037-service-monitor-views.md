@@ -4,7 +4,7 @@ id: 43701162961037
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701162961037-Service-Monitor-Views
-updated_at: 2026-08-26T07:12:53Z
+updated_at: 2026-08-31T04:16:30Z
 ---
 
 # Service Monitor Views
@@ -13,7 +13,7 @@ updated_at: 2026-08-26T07:12:53Z
 
 The Composer Service Monitor UI includes the following views, each accessible via a menu option in the main menu on the Service Monitor UI page:
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417992003469)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527895269517)
 
 Each view is described below.
 
@@ -27,7 +27,7 @@ Each view is described below.
 
 The Wallboard view provides shows all the Composer microservice types used in your installation. You can access it by selecting the **Wallboard** menu option.
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417977041677)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527883740557)
 
 The Wallboard view shows how many instances of a Composer microservice are running and the length of time they have been running.
 
@@ -37,7 +37,7 @@ Select a microservice type to obtain detailed information about it. The detailed
 
 Select **Applications** to access the Applications view.
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417965673357)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527898147597)
 
 The Applications view shows all the Composer microservice types used in your installation. It also identifies the instance URLs, and indicates how many instances there are of each and how long they have been running. If more than one instance of a microservice is running, you can expand the microservice type to see the specific instance URLs.
 
@@ -47,7 +47,7 @@ If you select the URL for a Composer microservice instance, you will launch the 
 
 Select **Journal** to access the Journal view.
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417945595149)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527895350413)
 
 The Journal view allows you to review the journal entries for each Composer microservice type.
 
@@ -55,7 +55,7 @@ The Journal view allows you to review the journal entries for each Composer micr
 
 Select **Downloads** to access the Downloads view.
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417977109517)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527895382541)
 
 The Downloads view can be used to collect a diagnostics bundle for you to send to Composer Support when necessary. See [Download the Diagnostics Bundle](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701069730317-Download-the-Diagnostics-Bundle) for more information.
 

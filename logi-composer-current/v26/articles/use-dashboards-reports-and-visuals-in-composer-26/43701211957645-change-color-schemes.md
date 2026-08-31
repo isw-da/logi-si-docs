@@ -4,7 +4,7 @@ id: 43701211957645
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701211957645-Change-Color-Schemes
-updated_at: 2026-08-26T07:12:42Z
+updated_at: 2026-08-31T04:16:19Z
 ---
 
 # Change Color Schemes
@@ -23,7 +23,7 @@ Color palettes for your Composer environment are defined using themes. In additi
 **Access the Color sidebar for a visual**
 
 1. Select the visual in the Visual Gallery or on a dashboard.
-2. Select **Settings** on the [visual drop-down menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu) to access the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) for the visual. Then select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418099935885) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu).
+2. Select **Settings** on the [visual drop-down menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu) to access the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) for the visual. Then select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528063867533) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu).
 
    The **Color** sidebar for the selected visual opens.
 3. Make changes as needed. For details about the color options, refer to the description of the specific [visual type](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701115864205-Composer-Visual-Metrics-and-Attributes-Reference) used to display the information from your sources as a visual.

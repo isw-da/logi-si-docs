@@ -4,7 +4,7 @@ id: 43701040732429
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701040732429-Customize-the-Banner
-updated_at: 2026-08-26T07:10:27Z
+updated_at: 2026-08-31T04:14:03Z
 ---
 
 # Customize the Banner

@@ -4,7 +4,7 @@ id: 43701052048397
 section: "Get Started With Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701052048397-Access-Logi-Composer
-updated_at: 2026-08-26T07:11:39Z
+updated_at: 2026-08-31T04:15:14Z
 ---
 
 # Access Logi Composer

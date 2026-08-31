@@ -4,7 +4,7 @@ id: 43701184073741
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184073741-Delete-a-Reference-Line
-updated_at: 2026-08-26T07:12:32Z
+updated_at: 2026-08-31T04:16:08Z
 ---
 
 # Delete a Reference Line
@@ -15,5 +15,5 @@ updated_at: 2026-08-26T07:12:32Z
 
 1. Access the Rulers sidebar for the visual. See [The Rulers Sidebar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701179533325-The-Rulers-Sidebar).
 2. In the **Reference Lines** section of the sidebar, locate the reference line you want to delete.
-3. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417973167245) to the right of the reference line definition on the Rulers sidebar.
+3. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527836918669) to the right of the reference line definition on the Rulers sidebar.
 4. Select **Apply** to delete the reference line on the visual.

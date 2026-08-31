@@ -4,7 +4,7 @@ id: 43701075009421
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701075009421-Edit-Cross-Source-Links
-updated_at: 2026-08-26T07:10:42Z
+updated_at: 2026-08-31T04:14:17Z
 ---
 
 # Edit Cross-Source Links
@@ -16,14 +16,14 @@ Cross-source links can be modified on the **Cross-Source Links** tab of the Dash
 **Modify a cross-source link in a dashboard**
 
 1. Open the dashboard containing the cross-source link you want to edit.
-2. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418123858061) on the [dashboard icon bar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701047597837-Use-the-Dashboard-Icons). The Dashboard Interactions dialog appears. Cross-source links are listed on the **Cross-Source Links** tab.
+2. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528070494861) on the [dashboard icon bar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701047597837-Use-the-Dashboard-Icons). The Dashboard Interactions dialog appears. Cross-source links are listed on the **Cross-Source Links** tab.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418033927181)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527964717069)
 3. Select the link you want to modify in the **Links** list on the left of the tab. Its definition appears on the right.
 4. Modify the cross-source link definition as needed. See [Define Cross-Source Links](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701027315597-Define-Cross-Source-Links) for detailed information about defining cross-source links.
 5. Select **Apply**. A warning dialog appears prompting you to confirm the link updates.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418019085965)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527955258381)
 6. Select **Continue**. The cross-source link is updated.
 7. [Save](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701047225613-Save-a-Dashboard) the dashboard to save the cross-source link definition.
 

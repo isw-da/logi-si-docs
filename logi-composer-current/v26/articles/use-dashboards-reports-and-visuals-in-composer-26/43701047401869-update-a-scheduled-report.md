@@ -4,7 +4,7 @@ id: 43701047401869
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701047401869-Update-a-Scheduled-Report
-updated_at: 2026-08-26T07:10:35Z
+updated_at: 2026-08-31T04:14:11Z
 ---
 
 # Update a Scheduled  Report
@@ -22,7 +22,7 @@ After you [create](https://logi-composer-v26.insightsoftware.com/hc/en-us/articl
 3. Locate the report or dashboard you want.
 4. Select the schedule icon in the associated **Schedule** column. The Scheduled Reports dialog box displays.
 
-   ![Use this work area to schedule or update self service and dashboard reports](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418006424461 "Scheduled Reports dialog")
+   ![Use this work area to schedule or update self service and dashboard reports](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527963393037 "Scheduled Reports dialog")
 
    Scheduled reports for this item that have already been defined appear on the left side of the dialog.
 5. Select the scheduled report that you want on the left side of the Scheduled Reports dialog box. Composer displays the settings.

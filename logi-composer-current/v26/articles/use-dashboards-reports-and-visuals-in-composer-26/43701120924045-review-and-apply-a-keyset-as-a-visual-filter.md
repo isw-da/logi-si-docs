@@ -4,7 +4,7 @@ id: 43701120924045
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701120924045-Review-and-Apply-a-Keyset-as-a-Visual-Filter
-updated_at: 2026-08-26T07:12:04Z
+updated_at: 2026-08-31T04:15:41Z
 ---
 
 # Review and Apply a Keyset as a Visual Filter
@@ -20,11 +20,11 @@ To apply a keyset to a visual, the data source for the target visual must includ
 
 1. For the purposes of this procedure, suppose you want to list the planned sales for jewelry. Assuming you have a keyset containing a list of jewelry (see [Create a Keyset](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701135635213-Create-a-Keyset)), apply it to a bar chart showing planned sales by category.
 
-   ![Shows your data as a bar chart](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417993591053 "Bar Chart visual")
+   ![Shows your data as a bar chart](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527906964237 "Bar Chart visual")
 2. Select the filter icon on the [visual](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701118671885-Apply-a-Row-Level-Filter-to-a-Visual-or-Filter-Snippet) or [dashboard](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701108132365-Apply-a-Row-Level-Filter-to-a-Dashboard) to access the appropriate filter sidebar.
 
-   * To access the visual filter sidebar, select its filter icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418111009677)) or select **Settings** from the [visual menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu) (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418137070221)) and then select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418137070349) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu).
-   * To access the dashboard filter sidebar, select its filter icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418111010445)). The dashboard-level filter icon is available only when all the visuals are from the same data source.
+   * To access the visual filter sidebar, select its filter icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528040754189)) or select **Settings** from the [visual menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu) (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528040754317)) and then select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528026806925) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu).
+   * To access the dashboard filter sidebar, select its filter icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528040754573)). The dashboard-level filter icon is available only when all the visuals are from the same data source.
 
    The Filters sidebar appears showing any filters that have been applied.
 3. Select **Add Filter**.
@@ -40,16 +40,16 @@ To apply a keyset to a visual, the data source for the target visual must includ
      This example uses a non-numeric filter. See [Set a Numeric Field Filter](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701133427085-Set-a-Numeric-Field-Filter).
 5. Select the **Keyset** tab. The keysets and saved filters defined in your environment are listed.
 
-   ![Define your keyset values here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417978690573 "Select Values Keyset tab")
+   ![Define your keyset values here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527878149773 "Select Values Keyset tab")
 6. Select the keyset you want to apply. Details about the keyset appear on the Filters sidebar.
 
-   ![Review and edit your keyset values](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417978719757 "Keyset Values Details")
+   ![Review and edit your keyset values](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527900621453 "Keyset Values Details")
 
-   Sort the data in the keyset as needed by selecting the up and down arrows (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417967353997)) in the Preview area. This sort has no effect on the visual result set when the keyset is applied.
+   Sort the data in the keyset as needed by selecting the up and down arrows (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527914284557)) in the Preview area. This sort has no effect on the visual result set when the keyset is applied.
 7. When you are finished setting your filter values, select **Continue** and examine your updates. If they are correct, select **Apply**.
 
    The visual is filtered by the keyset data.
 
-   ![Your filtered sales data ](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417978825229 "Sales Bar Chart, filtered")
+   ![Your filtered sales data ](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527930987277 "Sales Bar Chart, filtered")
 
    Select the **x** in the upper right corner of the Filters sidebar to close it.

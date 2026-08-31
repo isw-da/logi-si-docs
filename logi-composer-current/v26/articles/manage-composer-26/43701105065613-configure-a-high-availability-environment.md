@@ -4,7 +4,7 @@ id: 43701105065613
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701105065613-Configure-a-High-Availability-Environment
-updated_at: 2026-08-26T07:12:03Z
+updated_at: 2026-08-31T04:15:40Z
 ---
 
 # Configure a High Availability Environment
@@ -13,7 +13,7 @@ updated_at: 2026-08-26T07:12:03Z
 
 A high availability environment is designed to ensure concurrent users having access to the same microservices at the same time, including the COMPOSER-WEB service. To have a high availability environment, you need to [Configure a High Load Environment](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701072642701-Configure-a-High-Load-Environment) along with setting up at least two instances of each microservice, including COMPOSER-WEB. These services must be accessible through a Load Balancer.
 
-![Use this as a guide to set up your HA environment for your microservices.](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417993781645 "High availability with Load Balancer.")
+![Use this as a guide to set up your HA environment for your microservices.](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527914511501 "High availability with Load Balancer.")
 
 Note how this is different from how you would [Configure a High Load Environment](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701072642701-Configure-a-High-Load-Environment), because you are adding multiple instances of each microservice.
 
@@ -37,7 +37,7 @@ The following steps provide an example of setting up HAProxy as a load balancer.
    sudo vi cert.pem #Create and save an empty file  
    sudo chmod a+w cert.pem  
    sudo cat ca.key ca.crt > cert.pem
-4. In the same folder, replace the contents of the `haproxy.cfg` file with the contents of the [Composer haproxy configuration file](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418071642509). In the file, replace the `<node1-ip>` and `<node2-ip>` with the IP addresses of your servers. If you have more than two servers, add additional lines for each server.
+4. In the same folder, replace the contents of the `haproxy.cfg` file with the contents of the [Composer haproxy configuration file](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528054777101). In the file, replace the `<node1-ip>` and `<node2-ip>` with the IP addresses of your servers. If you have more than two servers, add additional lines for each server.
 5. Save your changes and exit the file.
 6. Start the HAProxy microservice
 

@@ -4,7 +4,7 @@ id: 43701180261773
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701180261773-Use-the-Visual-Gallery
-updated_at: 2026-08-26T07:12:24Z
+updated_at: 2026-08-31T04:16:00Z
 ---
 
 # Use the Visual Gallery
@@ -28,7 +28,7 @@ If you log in as a user who has not been granted [permissions](https://logi-comp
 
 To access the visual gallery, log in as an administrator or as a user with the **Administer Visuals** [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference).Select **Visual Gallery** from the main menu. The Visuals library appears, and visuals are listed in a table format.
 
-![use this work area to manage your visuals](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417923412237 "visual gallery with visuals listed")
+![use this work area to manage your visuals](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527835796237 "visual gallery with visuals listed")
 
 **Note:** 
 You can select and open a visual in the visual gallery to make a copy of a visual if needed. See [Copy Visuals](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184709901-Copy-Visuals).

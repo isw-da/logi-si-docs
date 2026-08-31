@@ -4,7 +4,7 @@ id: 43701053352077
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701053352077-Interacting-with-the-Composer-Context-Menu
-updated_at: 2026-08-26T07:08:56Z
+updated_at: 2026-08-31T04:12:31Z
 ---
 
 # Interacting with the Composer Context Menu

@@ -4,7 +4,7 @@ id: 43701111414413
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701111414413-User-Auditing-for-Multi-Tenancy-Environments
-updated_at: 2026-08-26T07:11:07Z
+updated_at: 2026-08-31T04:14:44Z
 ---
 
 # User Auditing for Multi Tenancy Environments

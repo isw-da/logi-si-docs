@@ -4,7 +4,7 @@ id: 43701139705997
 section: "Composer 26 Reference Information"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701139705997-The-Composer-Supervisor-Menu
-updated_at: 2026-08-26T07:11:56Z
+updated_at: 2026-08-31T04:15:33Z
 ---
 
 # The Composer Supervisor Menu
@@ -44,7 +44,7 @@ The table below describes menu options available to members of the Supervisors g
 
 ## Menu Options (Earlier Releases)
 
-Navigate to the menu by selecting the UI menu icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418070632077)) in the upper right corner your software. The table below describes menu options available to members of the Supervisors group.
+Navigate to the menu by selecting the UI menu icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528039757709)) in the upper right corner your software. The table below describes menu options available to members of the Supervisors group.
 
 | Menu Option | Select this option to... | Supervisors Group |
 | --- | --- | --- |

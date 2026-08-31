@@ -4,7 +4,7 @@ id: 43701130802829
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701130802829-Line-Trend-Attribute-Value-Charts
-updated_at: 2026-08-26T07:12:39Z
+updated_at: 2026-08-31T04:16:15Z
 ---
 
 # Line Trend: Attribute Value Charts
@@ -30,7 +30,7 @@ For information on setting even time intervals, see [Even Time Intervals](https:
    If you are editing the visual from the Visual Gallery, the sidebar appears to the right of the visual.
 3. Select the settings icon on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu). The Line Chart Settings sidebar for the visual appears.
 
-   ![define the settings for your line chart with attribute values](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417974725261 "Line chart settings work area")
+   ![define the settings for your line chart with attribute values](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527844276621 "Line chart settings work area")
 4. Alter the settings as needed:
 
    | Setting | Description |
@@ -53,7 +53,7 @@ For information on setting even time intervals, see [Even Time Intervals](https:
 
    Select the color icon on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu). The Color sidebar for the visual appears.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418069217421)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528037613453)
 3. Configure the color settings as described below. As you change the color settings, the legend at the top of the Color sidebar shows how the legend will appear on the visual. Supported color specifications are described in[Specify Colors](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700990058381-Specify-Colors).
 
    | Setting | Description |

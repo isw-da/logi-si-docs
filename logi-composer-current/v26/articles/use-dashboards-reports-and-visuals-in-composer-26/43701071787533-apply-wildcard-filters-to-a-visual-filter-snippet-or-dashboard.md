@@ -4,7 +4,7 @@ id: 43701071787533
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701071787533-Apply-Wildcard-Filters-to-a-Visual-Filter-Snippet-or-Dashboard
-updated_at: 2026-08-26T07:12:07Z
+updated_at: 2026-08-31T04:15:42Z
 ---
 
 # Apply Wildcard Filters to a Visual, Filter Snippet, or Dashboard
@@ -70,8 +70,8 @@ See [Wildcard Case-Insensitive Filters](https://logi-composer-v26.insightsoftwar
 
 1. Select the filter icon on the [visual](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701118671885-Apply-a-Row-Level-Filter-to-a-Visual-or-Filter-Snippet), filter snippet, or [dashboard](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701108132365-Apply-a-Row-Level-Filter-to-a-Dashboard) to access the appropriate filter sidebar.
 
-   * To access the filter sidebar, select its filter icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418087301005) or select **Settings** from the [menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu)![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418102069005) and then select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418087301389) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu).
-   * To access the dashboard filter sidebar, select its filter icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418087301517). The dashboard-level filter icon is available only when all the visuals are from the same data source.
+   * To access the filter sidebar, select its filter icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528067572749) or select **Settings** from the [menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu)![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528058270605) and then select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528058270989) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu).
+   * To access the dashboard filter sidebar, select its filter icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528058271117). The dashboard-level filter icon is available only when all the visuals are from the same data source.
 
    The Filters sidebar appears showing any filters that have been applied.
 2. Select the Row tab. If the style of your visual is an arc gauge, KPI chart, table (raw data), histogram, or map markers chart, the Group tab is available, but you cannot create a group filter because all filters for these visual types are row-level filters. If you are using the dashboard filters sidebar, the Group tab is not available.
@@ -83,7 +83,7 @@ See [Wildcard Case-Insensitive Filters](https://logi-composer-v26.insightsoftwar
    * The Wildcard tab allows you to specify a wildcard filter for the attribute. Continue following the steps in these instructions.
    * The Keyset tab allows you to select a keyset filter for the attribute. See [Use Keysets](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701105959565-Use-Keysets) for instructions on using keysets in a filter.
 
-   You can also select the add icon ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418087301645 "add icon") to access the [Derived Field Editor](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701095677581-Derived-Field-Editor) or the [Custom Metrics Editor](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701082580237-Custom-Metrics-Editor) to create or modify derived fields and custom metrics to be used as filters. See [Access the Derived Field Editor from the Filters Sidebar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701066934285-Access-the-Derived-Field-Editor-from-the-Filters-Sidebar) and [Access the Custom Metrics Editor from the Filters Sidebar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701015326349-Access-the-Custom-Metrics-Editor-from-the-Filters-Sidebar).
+   You can also select the add icon ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528067573773 "add icon") to access the [Derived Field Editor](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701095677581-Derived-Field-Editor) or the [Custom Metrics Editor](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701082580237-Custom-Metrics-Editor) to create or modify derived fields and custom metrics to be used as filters. See [Access the Derived Field Editor from the Filters Sidebar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701066934285-Access-the-Derived-Field-Editor-from-the-Filters-Sidebar) and [Access the Custom Metrics Editor from the Filters Sidebar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701015326349-Access-the-Custom-Metrics-Editor-from-the-Filters-Sidebar).
 4. Select the Wildcard tab to create a row-level wildcard filter.
 5. Select an operator from the drop-down menu for the **Operator** box on the **Wildcard** tab.
 
@@ -97,7 +97,7 @@ See [Wildcard Case-Insensitive Filters](https://logi-composer-v26.insightsoftwar
    | Does Not End With | When the data in the filter attribute you selected does **not** end with the wildcard string you will specify in the next step. |
 6. In the **Value** box, type a string of characters that represents the wildcard string for the filter. Data is included in the visual when the data in the filter field meets the condition set by this operator and the wildcard string you specify.
 7. By default the **Case Sensitive** slider is on (selected). When this option is selected, the wildcard filter includes data in the visual only if the filter attribute data exactly matches both the value of the wildcard string and the case of the wildcard string value. Slide the option off if you do not care if the visual data exactly matches the case of the wildcard string.
-8. If you want to specify another wildcard value, select the add icon ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418087301645 "add icon") next to the **Values** title on the Wildcard tab. Then repeat Steps 5-7 above for the new wildcard value. Multiple wildcard values are treated as OR operations. A record can meet the filter criteria specified by any of the wildcard values to be selected for filter processing.
+8. If you want to specify another wildcard value, select the add icon ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528067573773 "add icon") next to the **Values** title on the Wildcard tab. Then repeat Steps 5-7 above for the new wildcard value. Multiple wildcard values are treated as OR operations. A record can meet the filter criteria specified by any of the wildcard values to be selected for filter processing.
 9. Select **Apply**. If you create the filter at the dashboard level, it is applied to all the visuals in the dashboard. Otherwise, it is applied only to the selected (active) visual.
 10. Optionally, repeat these steps to apply additional filters to the visual or dashboard.
 

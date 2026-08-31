@@ -4,7 +4,7 @@ id: 43701215559693
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215559693-Manage-Widget-Comments
-updated_at: 2026-08-26T07:12:23Z
+updated_at: 2026-08-31T04:15:59Z
 ---
 
 # Manage Widget Comments
@@ -16,7 +16,7 @@ You can now enable and disable comments for widgets in your dashboards in both s
 **Note:** 
 When users create a widget comment, it is linked to the widget in dashboard you have added it to. If you delete the widget or dashboard, the comments are deleted as well.
 
-To create, edit, or view widget comments, select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417958029837) in a widget or the [visual sidebar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) (if available).
+To create, edit, or view widget comments, select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527824764941) in a widget or the [visual sidebar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) (if available).
 
 For more information on creating and managing widget comments, see the following topics:
 

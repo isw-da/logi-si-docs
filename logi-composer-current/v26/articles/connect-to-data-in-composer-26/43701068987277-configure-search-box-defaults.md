@@ -4,7 +4,7 @@ id: 43701068987277
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701068987277-Configure-Search-Box-Defaults
-updated_at: 2026-08-26T07:12:15Z
+updated_at: 2026-08-31T04:15:50Z
 ---
 
 # Configure Search Box Defaults
@@ -22,7 +22,7 @@ The search box is available for [Apache Solr](https://logi-composer-v26.insights
 3. Select the appropriate data source configuration to edit it, then access the [Global Settings](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701085233549-Global-Settings-Tab) tab of the data source.
 4. Toggle off **Enable Text Search** in the **Other Settings** work area if you want to disable the text search option for new and existing visuals.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418030372109)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527923893517)
 
 **Note:** 
 The availability of this setting depends on the data source you have selected. The Search feature is available for [Apache Solr](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701043021325-Manage-the-Apache-Solr-Connector), [Cloudera Search](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701009985933-Manage-the-Cloudera-Search-Connector), and [Elasticsearch](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701025911309-Manage-the-Elasticsearch-Connector) data sources.
@@ -36,7 +36,7 @@ The availability of this setting depends on the data source you have selected. T
 3. Select the appropriate data source configuration to edit it, then access the [Global Settings](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701085233549-Global-Settings-Tab) tab of the data source.
 4. Toggle on **Enable Text Search** in the **Other Settings** work area if you want to enable the text search option for new and existing visuals.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417970480909)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527923914637)
 
 **Note:** 
 The availability of this setting depends on the data source you have selected. The Search feature is available for [Apache Solr](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701043021325-Manage-the-Apache-Solr-Connector), [Cloudera Search](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701009985933-Manage-the-Cloudera-Search-Connector), and [Elasticsearch](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701025911309-Manage-the-Elasticsearch-Connector) data sources.

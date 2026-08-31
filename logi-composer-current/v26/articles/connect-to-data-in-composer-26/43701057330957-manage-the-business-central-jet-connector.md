@@ -4,7 +4,7 @@ id: 43701057330957
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701057330957-Manage-the-Business-Central-Jet-Connector
-updated_at: 2026-08-26T07:11:25Z
+updated_at: 2026-08-31T04:15:01Z
 ---
 
 # Manage the Business Central Jet Connector

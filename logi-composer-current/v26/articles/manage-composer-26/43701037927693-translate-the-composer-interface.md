@@ -4,7 +4,7 @@ id: 43701037927693
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701037927693-Translate-the-Composer-Interface
-updated_at: 2026-08-26T07:11:38Z
+updated_at: 2026-08-31T04:15:13Z
 ---
 
 # Translate the Composer Interface
@@ -29,7 +29,7 @@ Translation files in the format `vocabulary-<xx>_<YY>.json` are used in the tran
 
    Here is an example of part of a translated translation file:
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417985512845)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527965985165)
 
    This file is CSS-friendly. For example, `<b>` and `</b>` around a JSON value or part of a value indicate that the value should be bold.
 

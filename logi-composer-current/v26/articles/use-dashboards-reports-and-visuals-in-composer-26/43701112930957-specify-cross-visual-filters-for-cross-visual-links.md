@@ -4,7 +4,7 @@ id: 43701112930957
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701112930957-Specify-Cross-Visual-Filters-for-Cross-Visual-Links
-updated_at: 2026-08-26T07:11:57Z
+updated_at: 2026-08-31T04:15:34Z
 ---
 
 # Specify Cross-Visual Filters for Cross-Visual Links

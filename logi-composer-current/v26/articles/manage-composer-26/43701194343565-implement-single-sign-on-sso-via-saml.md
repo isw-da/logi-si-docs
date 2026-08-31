@@ -4,7 +4,7 @@ id: 43701194343565
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701194343565-Implement-Single-Sign-On-SSO-via-SAML
-updated_at: 2026-08-26T07:10:55Z
+updated_at: 2026-08-31T04:14:31Z
 ---
 
 # Implement Single Sign-On (SSO) via SAML

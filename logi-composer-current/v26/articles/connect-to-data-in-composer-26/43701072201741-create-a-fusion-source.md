@@ -4,7 +4,7 @@ id: 43701072201741
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701072201741-Create-a-Fusion-Source
-updated_at: 2026-08-26T07:12:02Z
+updated_at: 2026-08-31T04:15:38Z
 ---
 
 # Create a Fusion Source
@@ -39,10 +39,10 @@ To create a Fusion source, add multiple data entities to a new or existing sourc
    You can also use a Dundas BI (Managed) connection as a source or in a fusion source. See [Add and Validate a Connection to a Dundas BI Data Source or Data Cube](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700992503437-Add-Data-Store-Connections#data_cube).
 3. To create a new join, select **Add Join** to add a join node to your work area.
 
-   ![select to add a joins object to your data source when one or more entities are present](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417967685005 "Add Join button")
+   ![select to add a joins object to your data source when one or more entities are present](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527886929293 "Add Join button")
 4. Select the join node. A **Join Settings** work area opens. Use this to define how the entities use a join type to connect specific fields.
 
-   ![use this area to create and edit joins](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417967717517 "Join Definition work area")
+   ![use this area to create and edit joins](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527907625229 "Join Definition work area")
 5. Define your entities, join type, and fields.
 
    **Note:** 
@@ -90,7 +90,7 @@ Zoom in or out in this work area, or use the mini map to navigate among the vari
 
 **Note:** For Postgres connections, both tables and data relationship information are read from the connection. Other supported connections include table information but do not read relationship information. See [Connector Support for Schema Visualization](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701038666125-Visualize-Schemas-and-Joins#support). No information is provided for unsupported connections.
 
-![use this work area to view and edit joins in this source](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417979208973 "Join Visualization work area")
+![use this work area to view and edit joins in this source](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527907652877 "Join Visualization work area")
 
 ### Recommended Joins
 
@@ -100,7 +100,7 @@ Logi Composer provides some visual guidance for recommended joins. You can add t
 
 For example:
 
-![use this work area to navigate among the entities of a specifc join, and to draw relationships between tables](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417994033805 "the visual joins work area")
+![use this work area to navigate among the entities of a specifc join, and to draw relationships between tables](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527878791821 "the visual joins work area")
 
 **Table A** has relationships with **Table B**, **Table C**, and **Table D**.
 
@@ -121,7 +121,7 @@ To create a Fusion source, add multiple data entities to a new or existing sourc
    If your source contains multiple data entities, you must use all entities in a join to save the source.
 4. Select **Add** in the **Join Definition** work area. A Join work area opens.
 
-   ![use this work area to create, edit, and visualize your data joins](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417979257101 "Jon Definition work area")
+   ![use this work area to create, edit, and visualize your data joins](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527901322381 "Jon Definition work area")
 5. Define your entities, join type, and fields.
 
    **Note:** 
@@ -132,12 +132,12 @@ To create a Fusion source, add multiple data entities to a new or existing sourc
    * **Entity Right**: Select an available entity from the data entities you defined.
    * **Enable Dimension Entity**: Select the settings icon to enable dimension for one or both entities. This improves the performance of queries execution by removing unused data entities from the join.
 
-     ![use this work area to remove unused data entities to improve query execution performance](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417994068109 "Enable Dimension Entity work area")
-   * **Field Left**: Select at least one field from this entity. You can add multiple fields by selecting the add field ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418111386765 "add icon") icon, or remove fields by selecting the remove ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418111386893) icon.
-   * **Field Right**: Select at least one field from this entity. You can add multiple fields by selecting the add field ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418111386765 "add icon") icon, or remove fields by selecting the remove ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418111386893) icon.
+     ![use this work area to remove unused data entities to improve query execution performance](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527887139213 "Enable Dimension Entity work area")
+   * **Field Left**: Select at least one field from this entity. You can add multiple fields by selecting the add field ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528027236365 "add icon") icon, or remove fields by selecting the remove ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528027236493) icon.
+   * **Field Right**: Select at least one field from this entity. You can add multiple fields by selecting the add field ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528027236365 "add icon") icon, or remove fields by selecting the remove ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528027236493) icon.
 
-     ![use this work area to create, edit, and visualize your data joins](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417967811213 "Join Settings work area")
-6. Select **Apply** to finish creating the join. Composer names the join and adds it to the Joins list. Remove joins by selecting the remove ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418111386893) icon.
+     ![use this work area to create, edit, and visualize your data joins](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527901374605 "Join Settings work area")
+6. Select **Apply** to finish creating the join. Composer names the join and adds it to the Joins list. Remove joins by selecting the remove ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528027236493) icon.
 
    You can also view the relationships of your joins and add more joins in a visualization. See [Visualize Joins](#Visualiz).
 7. After creating your joins, select **Preview Source** to preview your data, or select **Save Source** to save your updated source.
@@ -173,7 +173,7 @@ Zoom in or out in this work area, or use the mini map to navigate among the vari
 
 **Note:** For Postgres connections, both tables and data relationship information are read from the connection. Other supported connections include table information but do not read relationship information. See [Connector Support for Schema Visualization](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701038666125-Visualize-Schemas-and-Joins#support). No information is provided for unsupported connections.
 
-![use this work area to view and edit joins in this source](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417994103309 "Join Visualization work area")
+![use this work area to view and edit joins in this source](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527878900237 "Join Visualization work area")
 
 ### Recommended Joins
 
@@ -183,7 +183,7 @@ Logi Composer provides some visual guidance for recommended joins. You can add t
 
 For example:
 
-![use this work area to navigate among the entities of a specifc join, and to draw relationships between tables](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417994033805 "the visual joins work area")
+![use this work area to navigate among the entities of a specifc join, and to draw relationships between tables](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527878791821 "the visual joins work area")
 
 **Table A** has relationships with **Table B**, **Table C**, and **Table D**.
 

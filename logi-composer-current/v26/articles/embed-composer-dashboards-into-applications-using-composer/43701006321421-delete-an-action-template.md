@@ -4,7 +4,7 @@ id: 43701006321421
 section: "Embed Composer Dashboards Into Applications Using Composer"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701006321421-Delete-an-Action-Template
-updated_at: 2026-08-26T07:10:49Z
+updated_at: 2026-08-31T04:14:25Z
 ---
 
 # Delete an Action Template
@@ -18,5 +18,5 @@ updated_at: 2026-08-26T07:10:49Z
 3. Locate the action template you want to delete in the list on the left.
 
    You can locate an action template using the search bar on the top left side of the Actions page. You can also filter the action template by the data source to which they apply using the drop-down list on the top left side of the Actions page. When you do this, only action templates for the selected data source configuration are shown in the list.
-4. Select the delete icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418148371597) next to the action template you want to delete on the left side of the Actions page.
+4. Select the delete icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528072028941) next to the action template you want to delete on the left side of the Actions page.
 5. Select **Delete** to delete the action template.

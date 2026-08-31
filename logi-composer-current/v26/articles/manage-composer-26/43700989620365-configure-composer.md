@@ -4,7 +4,7 @@ id: 43700989620365
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700989620365-Configure-Composer
-updated_at: 2026-08-26T07:11:37Z
+updated_at: 2026-08-31T04:15:12Z
 ---
 
 # Configure Composer

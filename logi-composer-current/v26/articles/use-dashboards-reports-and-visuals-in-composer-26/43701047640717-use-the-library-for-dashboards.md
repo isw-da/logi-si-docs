@@ -4,7 +4,7 @@ id: 43701047640717
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701047640717-Use-the-Library-for-Dashboards
-updated_at: 2026-08-26T07:10:34Z
+updated_at: 2026-08-31T04:14:10Z
 ---
 
 # Use the Library for Dashboards
@@ -21,7 +21,7 @@ If you have not been given access to dashboards, you will see no dashboards in t
 
 To access the library, select the **Discovery Board** card on your home page or **Library** from the main menu. The dashboard library opens, with dashboards displayed in a table (list) format.
 
-![use to manage your dashboards](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418006090509 "dashboard library")
+![use to manage your dashboards](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527920144397 "dashboard library")
 
 ## Search Field
 

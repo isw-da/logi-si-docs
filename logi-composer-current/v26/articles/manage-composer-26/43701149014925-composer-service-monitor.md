@@ -4,7 +4,7 @@ id: 43701149014925
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701149014925-Composer-Service-Monitor
-updated_at: 2026-08-26T07:10:55Z
+updated_at: 2026-08-31T04:14:32Z
 ---
 
 # Composer  Service Monitor

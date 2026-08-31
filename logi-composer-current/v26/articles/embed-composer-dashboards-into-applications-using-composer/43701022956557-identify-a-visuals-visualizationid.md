@@ -4,7 +4,7 @@ id: 43701022956557
 section: "Embed Composer Dashboards Into Applications Using Composer"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701022956557-Identify-a-Visual-s-visualizationID
-updated_at: 2026-08-26T07:10:45Z
+updated_at: 2026-08-31T04:14:20Z
 ---
 
 # Identify a Visual's visualizationID
@@ -18,6 +18,6 @@ You can identify a Composer visual's `visualizationID` while working with it. Fo
 1. Open the visual in its dashboard.
 2. Find the number at the end of the URL in the address bar of your browser. The `visualizationID` is the section of the number after the plus sign (+).
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418035222541)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527929009933)
 
 After you have identified the `visualizationID` of a visual, you can use it in other steps such as calling REST API methods.

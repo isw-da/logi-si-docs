@@ -4,7 +4,7 @@ id: 43700998041357
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700998041357-Use-the-Responsive-Dashboard-Layout
-updated_at: 2026-08-26T07:10:36Z
+updated_at: 2026-08-31T04:14:13Z
 ---
 
 # Use the Responsive Dashboard Layout
@@ -15,11 +15,11 @@ Composer's dashboard layout is responsive, building on a grid format that presen
 
 **Edit mode:**
 
-![make changes to your dashboard in edit mode](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418006618893 "Dashboard in Edit Mode")
+![make changes to your dashboard in edit mode](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527926432653 "Dashboard in Edit Mode")
 
 **View mode:**
 
-![view your responsive dashboard layout](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417983867533 "Dashboard in View Mode")
+![view your responsive dashboard layout](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527963605389 "Dashboard in View Mode")
 
 When you add widgets in [Edit mode](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701014828173-Use-Dashboard-View-Mode), Composer groups the widgets in rows and columns. These rows include up to four widgets side by side in a single row. When you add a fifth widget to a dashboard that includes four widgets in a row, Composer starts a new row with the new widget.
 
@@ -27,7 +27,7 @@ If you move, resize, or reposition widgets, then add a new one, Composer will ad
 
 ## Manage Your Dashboard Layout
 
-Select the Dashboard Layout icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418032938637)) to open the Dashboard Layout work area. Here you can enable and disable locking mode, the responsive layout, and manage the minimum widget widths and heights.
+Select the Dashboard Layout icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527937428749)) to open the Dashboard Layout work area. Here you can enable and disable locking mode, the responsive layout, and manage the minimum widget widths and heights.
 
 | Dashboard Layout Option | Description / Actions |
 | --- | --- |

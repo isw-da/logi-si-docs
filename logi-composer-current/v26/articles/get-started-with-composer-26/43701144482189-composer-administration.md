@@ -4,7 +4,7 @@ id: 43701144482189
 section: "Get Started With Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701144482189-Composer-Administration
-updated_at: 2026-08-26T07:11:01Z
+updated_at: 2026-08-31T04:14:38Z
 ---
 
 # Composer Administration

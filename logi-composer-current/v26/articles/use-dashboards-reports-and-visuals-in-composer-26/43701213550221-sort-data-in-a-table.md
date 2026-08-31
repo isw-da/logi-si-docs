@@ -4,7 +4,7 @@ id: 43701213550221
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701213550221-Sort-Data-in-a-Table
-updated_at: 2026-08-26T07:12:34Z
+updated_at: 2026-08-31T04:16:10Z
 ---
 
 # Sort Data in a Table
@@ -30,7 +30,7 @@ Remember to [save](https://logi-composer-v26.insightsoftware.com/hc/en-us/articl
 
    * When you select a column that is part of a multicolumn sort again, it becomes the last column of data in sequence for sorting.
    * When you move a column to the end of the sort sequence, Composer renumbers the other columns to reflect the new sort sequence.
-5. To clear sorting, hover over a column label, select the table context menu (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418134487693)) and select one of the following options:
+5. To clear sorting, hover over a column label, select the table context menu (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528024129677)) and select one of the following options:
 
    * **Reset [name] sorting** to clear all sorting options for that column.
    * **Reset other sorting** to clear sorting options for all columns except the one you have selected.

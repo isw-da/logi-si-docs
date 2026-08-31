@@ -4,7 +4,7 @@ id: 43701199053197
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701199053197-Sort-and-Limit-Visual-Data
-updated_at: 2026-08-26T07:12:30Z
+updated_at: 2026-08-31T04:16:05Z
 ---
 
 # Sort and Limit Visual Data
@@ -24,9 +24,9 @@ For additional information, see [Manage Data Sources](https://logi-composer-v26.
 
 1. Select the visual in the Visual Gallery or on a dashboard.
 2. If you selected the visual on a dashboard, select **Settings** on the [visual drop-down menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu) to access the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) for the visual.
-3. Select the sort and limit option (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418068648461)) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) for the visual. The Sort & Limit sidebar opens.
+3. Select the sort and limit option (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528004360333)) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) for the visual. The Sort & Limit sidebar opens.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417973092365)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527841719949)
 4. Select a field to sort by from the drop-down menu in the **Sort by** box. If more than one sort field is used in your visual, more than one **Sort by** box appears on the sidebar.
 5. For numeric **Sort by** fields:
 

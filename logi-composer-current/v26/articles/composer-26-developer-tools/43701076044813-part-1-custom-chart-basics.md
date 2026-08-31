@@ -4,7 +4,7 @@ id: 43701076044813
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701076044813-Part-1-Custom-Chart-Basics
-updated_at: 2026-08-26T07:10:40Z
+updated_at: 2026-08-31T04:14:16Z
 ---
 
 # Part 1: Custom Chart Basics
@@ -80,7 +80,7 @@ This tutorial uses the default Single Group template — a chart skeleton with m
    cmp-chart init ./my-first-custom-chart
 2. The `init` command creates a directory in the specified path containing the files you need to get started. Here is a preview of the directory tree:
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418033569037)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527927113869)
 
    The following table describes the function of each of the files.
 
@@ -144,7 +144,7 @@ Now let’s take a look at the new chart in a Composer dashboard.
 2. Select the **Discovery Board** card on your home page or **Library** from the main menu. The dashboard library opens. The library displays.
 3. Select **Add Dashboard**. A blank dashboard appears showing options to add a new visual or existing visual.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418018795021)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527927142413)
 4. Select **Add Visual** to add a new visual to the dashboard. Select **Add Existing Visual** to place an existing visual on the dashboard.
 
    * If you select **Add Visual**, follow the procedure described in [Add Visuals to a Dashboard](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701214171661-Add-Visuals-to-a-Dashboard)
@@ -154,6 +154,6 @@ Now let’s take a look at the new chart in a Composer dashboard.
 
 Your chart should look similar to the following image:
 
-![basic custom chart example](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418018801805 "basic custom chart example")
+![basic custom chart example](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527952563469 "basic custom chart example")
 
 Cool! You have completed Part 1 of the custom chart tutorial. So far, you have learned how to install and configure the Composer custom chart CLI, how to create a new chart with sample code, and how to update its code and preview the results. Continue to [Part 2: Query Variables, Chart Defaults, Data Preview, and Data Accessors](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700997161869-Part-2-Query-Variables-Chart-Defaults-Data-Preview-and-Data-Accessors).

@@ -4,7 +4,7 @@ id: 43700992070285
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700992070285-Customize-the-Application
-updated_at: 2026-08-26T07:10:46Z
+updated_at: 2026-08-31T04:14:22Z
 ---
 
 # Customize the Application
@@ -26,7 +26,7 @@ You can customize the Composer application title. The application title is displ
 2. Select **Tools > Customize UI** from the Administration menu. The Customize UI work area opens.
 3. Under Application, locate the **Page Title** box. Specify a new title in the box. By default, the title is set to Composer.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418008730253)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527928737549)
 4. Select **Save** to save and apply your changes.
 
 ## Customize the Application Favicon
@@ -60,7 +60,7 @@ A custom CSS file can be uploaded to modify the default Composer skin.
 2. Select **Tools > Customize UI** from the Administration menu. The Customize UI work area opens.
 3. Under Application, locate the **Custom CSS** box. Select **Browse** to browse for and select a CSS file.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418008730253)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527928737549)
 4. Select **Save** to save and apply your changes.
 
 ## Upload a Custom JS File
@@ -76,5 +76,5 @@ A custom JavaScript (`.js`) file can be uploaded to include on every page of the
 2. Select **Tools > Customize UI** from the Administration menu. The Customize UI work area opens.
 3. Under Application, locate the **Custom JS** box. Select **Browse** to browse for and select a JavaScript file.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418008730253)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527928737549)
 4. Select **Save** to save and apply your changes.

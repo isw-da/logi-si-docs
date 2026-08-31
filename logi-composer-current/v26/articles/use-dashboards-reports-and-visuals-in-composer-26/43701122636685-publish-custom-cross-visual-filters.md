@@ -4,7 +4,7 @@ id: 43701122636685
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701122636685-Publish-Custom-Cross-Visual-Filters
-updated_at: 2026-08-26T07:09:57Z
+updated_at: 2026-08-31T04:13:34Z
 ---
 
 # Publish Custom Cross-Visual Filters

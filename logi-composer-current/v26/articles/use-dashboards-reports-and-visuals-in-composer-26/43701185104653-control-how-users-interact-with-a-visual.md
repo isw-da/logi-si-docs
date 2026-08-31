@@ -4,7 +4,7 @@ id: 43701185104653
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701185104653-Control-How-Users-Interact-With-a-Visual
-updated_at: 2026-08-26T07:12:25Z
+updated_at: 2026-08-31T04:16:01Z
 ---
 
 # Control How Users Interact With a Visual
@@ -36,9 +36,9 @@ You can include several controls for embedded visuals, allowing users to select 
 Control user interactions with a visual
 
 1. Select the visual in the Visual Gallery.
-2. Select the interactivity option (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418134039181)) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) for the visual. The interactivity sidebar opens.
+2. Select the interactivity option (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528004108301)) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) for the visual. The interactivity sidebar opens.
 
-   ![use to define interactive options for your visuals](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417936033805 "Interactivity sidebar menu, visuals")
+   ![use to define interactive options for your visuals](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527864840589 "Interactivity sidebar menu, visuals")
 
    By default, all interactivity settings are activated (on) for a visual. Each interaction is controlled by a switch. Slide the switches to the right to turn a setting on; slide them to the left to turn the setting off.
 
@@ -81,4 +81,4 @@ Control user interactions with a visual
    | Export to XLSX | `EXPORT_XLSX` | Export a visual to an XLSX file using the **Export** option from the [visual drop-down menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu). |
 3. Slide the switches on or off for the interactivity settings you want to change.
 4. Optionally, preview the behavior with the interactivity settings applied. Slide the **Preview Interactivity Settings** switch on (to the right).
-5. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418134044685) to save the visual.
+5. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528023821453) to save the visual.

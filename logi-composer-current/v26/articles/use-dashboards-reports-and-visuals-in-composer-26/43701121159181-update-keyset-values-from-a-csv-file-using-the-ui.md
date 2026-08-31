@@ -4,7 +4,7 @@ id: 43701121159181
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701121159181-Update-Keyset-Values-From-a-CSV-File-Using-the-UI
-updated_at: 2026-08-26T07:12:03Z
+updated_at: 2026-08-31T04:15:40Z
 ---
 
 # Update Keyset Values From a CSV File Using the UI
@@ -23,8 +23,8 @@ You can update the values of a keyset from a CSV file. The CSV file must meet th
 1. Review a visual in the Visual Gallery or in a dashboard.
 2. Select the filter icon on the [visual](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701118671885-Apply-a-Row-Level-Filter-to-a-Visual-or-Filter-Snippet) or [dashboard](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701108132365-Apply-a-Row-Level-Filter-to-a-Dashboard) to access the appropriate filter sidebar.
 
-   * To access the visual filter sidebar, select its filter icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418071331853)) or select **Settings** from the [visual menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu) (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418119012365)) and then select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417997375885) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu).
-   * To access the dashboard filter sidebar, select its filter icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418071331853)). The dashboard-level filter icon is available only when all the visuals are from the same data source.
+   * To access the visual filter sidebar, select its filter icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528026711693)) or select **Settings** from the [visual menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu) (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528040667789)) and then select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527906644877) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu).
+   * To access the dashboard filter sidebar, select its filter icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528026711693)). The dashboard-level filter icon is available only when all the visuals are from the same data source.
 
    The Filters sidebar appears showing any filters that have been applied.
 3. Select **Add Filter** or, if the keyset is already used to filter the visual, select the keyset name. If you select **Add Filter**, proceed to the next step. If you select the keyset name, the keyset details are displayed and you should skip to Step 6 of this procedure.
@@ -38,10 +38,10 @@ You can update the values of a keyset from a CSV file. The CSV file must meet th
 5. Select the **Keyset** tab. The keysets and saved filters defined in your environment are listed.
 6. Select the keyset to which you want to reupload keyset values. The keyset details appear.
 
-   ![Review and edit your keyset values](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417978521229 "Keyset Values Details")
+   ![Review and edit your keyset values](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527930565645 "Keyset Values Details")
 7. Select **Reupload Values**. An Upload Keyset Values panel appears in the Filters sidebar allowing you to specify information about the CSV file and the keyset you are updating.
 
-   ![Set your keyset details here, and upload a new keyset if needed](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417967119245 "upload keyset values work area")
+   ![Set your keyset details here, and upload a new keyset if needed](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527930601869 "upload keyset values work area")
 
    The Name and Description fields are read-only when you update keyset values from a CSV file.
 8. In the **Choose a file to Add Keyset Values** box, browse for and select the CSV file containing the updated keyset values you want to upload.

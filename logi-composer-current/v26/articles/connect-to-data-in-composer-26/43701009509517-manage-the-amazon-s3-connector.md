@@ -4,7 +4,7 @@ id: 43701009509517
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701009509517-Manage-the-Amazon-S3-Connector
-updated_at: 2026-08-26T07:11:29Z
+updated_at: 2026-08-31T04:15:04Z
 ---
 
 # Manage the Amazon S3 Connector

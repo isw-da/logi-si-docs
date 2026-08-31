@@ -4,7 +4,7 @@ id: 43701184646285
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184646285-About-Visual-Permissions
-updated_at: 2026-08-26T07:10:16Z
+updated_at: 2026-08-31T04:13:52Z
 ---
 
 # About Visual Permissions

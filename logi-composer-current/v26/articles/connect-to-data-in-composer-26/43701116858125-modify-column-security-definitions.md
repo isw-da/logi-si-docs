@@ -4,7 +4,7 @@ id: 43701116858125
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701116858125-Modify-Column-Security-Definitions
-updated_at: 2026-08-26T07:12:21Z
+updated_at: 2026-08-31T04:15:57Z
 ---
 
 # Modify Column Security Definitions
@@ -17,7 +17,7 @@ Modify column security to restrict the data source fields that can be viewed or 
 2. Select the **Sources** card on your home page or **Data Sources** from the main menu. The Sources page appears.
 3. Locate the data source and select the column icon in the **Column** column for the data source. The Fields Security dialog appears.
 
-   ![modify a column filterin the fields security work area here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418014834573 "Fields Security Work Area")
+   ![modify a column filterin the fields security work area here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527917218957 "Fields Security Work Area")
 4. To modify a column security definition, select it on the left side of the Field Security dialog. The settings for the definition appear in the Filter Details on the right side of the dialog and can be modified.
 5. Modify any of the information for the column security definition, as described in [Add Column Security Definitions](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701080833421-Add-Column-Security-Definitions). When you are finished, select **Save** to save your settings.
 6. When all column security definition modifications have been made, select **Close** to close the dialog.

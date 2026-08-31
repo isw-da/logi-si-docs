@@ -4,7 +4,7 @@ id: 43701053323917
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701053323917-Get-Values-From-Constant-Variables
-updated_at: 2026-08-26T07:08:55Z
+updated_at: 2026-08-31T04:12:30Z
 ---
 
 # Get Values From Constant Variables

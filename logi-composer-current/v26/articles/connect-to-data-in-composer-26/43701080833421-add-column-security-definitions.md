@@ -4,7 +4,7 @@ id: 43701080833421
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701080833421-Add-Column-Security-Definitions
-updated_at: 2026-08-26T07:12:15Z
+updated_at: 2026-08-31T04:15:51Z
 ---
 
 # Add Column Security Definitions
@@ -18,13 +18,13 @@ Add column security to restrict the data source fields that can be viewed or use
 3. Locate the data source for which you want to restrict field access and select the icon in the **Column** column for the data source. The Fields Security dialog appears.
 4. Select **Add Filter**. The Fields Security dialog fills with information about the data source you selected.
 
-   ![add a column filter to the fields security work area here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418000075789 "Fields Security Work Area")
+   ![add a column filter to the fields security work area here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527948420877 "Fields Security Work Area")
 5. Specify a name for the column security definition in the **Name** field. This name will be used to distinguish one column security definition from another here.
 6. Optionally, use the **Description** field to supply a description for the column security definition.
 7. Select **Add Groups** to select one or more groups to which the column security definition applies. The Add Groups dialog appears.
 8. Select one or more groups for the column security filter. You can search for group names using the search box at the top of the dialog. When you have finished selecting groups, select **Apply**.
 
-   The groups appear under **Assignees** on the Column Security dialog. If you want to remove a group from the filter, select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418119901965) next to the group name in the **Assignees** section.
+   The groups appear under **Assignees** on the Column Security dialog. If you want to remove a group from the filter, select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528027863437) next to the group name in the **Assignees** section.
 9. Select fields in the **Fields** list to be visible to the members of the selected groups. By default, all fields are selected, and all values are allowed (the **Allow values** option is selected).
 
    Check or clear (uncheck) fields, then optionally select **Forbid values** to forbid selected fields, or leave **Allow values** selected to allow your selected fields. Use the Search bar to search for fields in the list.

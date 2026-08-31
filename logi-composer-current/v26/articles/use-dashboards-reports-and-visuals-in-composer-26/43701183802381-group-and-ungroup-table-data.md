@@ -4,7 +4,7 @@ id: 43701183802381
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701183802381-Group-and-Ungroup-Table-Data
-updated_at: 2026-08-26T07:10:18Z
+updated_at: 2026-08-31T04:13:55Z
 ---
 
 # Group and Ungroup Table Data
@@ -37,9 +37,9 @@ When you group table data, summarized totals are provided for numeric fields in 
 ### Group Table Data - Table Context Menu
 
 1. View the table visual in a dashboard, in the Visual Gallery, or in a report. Determine which field you want to use to group the data. For example, you might want to group sales data by state.
-2. Locate the field in the table and select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418084362253) next to its column heading to access the table context menu.
+2. Locate the field in the table and select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528037201549) next to its column heading to access the table context menu.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417941904141)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527827520525)
 3. Select **Group by <field>** on the context menu.
 
    The table is grouped by that field.
@@ -54,9 +54,9 @@ When you group table data, summarized totals are provided for numeric fields in 
 ### Ungroup Table Data - Table Context Menu
 
 1. View the table visual in a dashboard, in the Visual Gallery, or in a report. Determine which field you want to remove from grouping.
-2. Locate the field in the table and select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418084362253) next to its column heading to access the table context menu.
+2. Locate the field in the table and select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528037201549) next to its column heading to access the table context menu.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417973307789)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527827566221)
 3. Select **Ungroup by <field>** on the context menu.
 
    The table is ungrouped by that field.
@@ -73,12 +73,12 @@ When you group table data, summarized totals are provided for numeric fields in 
 1. If you are editing the visual in a dashboard or report, select **Settings** from the [visual drop-down menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu). The [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) for the table appears.
 
    If you are editing the table from the Visual Gallery or in a report, the sidebar appears to the right of the table.
-2. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418099384077) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu). The Table Settings sidebar for the table appears.
+2. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528037201677) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu). The Table Settings sidebar for the table appears.
 3. Select and drag the field by which you want the table grouped from the **Columns** section of the Table Settings sidebar to the **Groups** section.
 
    The **Groups** section of the Table Settings sidebar lists the columns by which the table is grouped, in order of that grouping. In the following example, the sales data is grouped first by state, then by city within the state, and then by product category.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417910431757)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527827605133)
 4. Optionally, select an aggregation level for the group field from the **Aggregation** list. The **Aggregation** list is only available for fields that have aggregation enabled in the data source and only if the group field is not the first group field for the table.
 5. Select **Apply** to apply your changes to the table. The grouping selections are applied to the table.
 6. Save the dashboard, visual, or report.
@@ -88,13 +88,13 @@ When you group table data, summarized totals are provided for numeric fields in 
 1. If you are editing the visual in a dashboard or report, select **Settings** from the [visual drop-down menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu). The [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) for the table appears.
 
    If you are editing the visual from the Visual Gallery, the sidebar appears to the right of the visual.
-2. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418099384077) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu). The Table Settings sidebar for the visual appears.
+2. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528037201677) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu). The Table Settings sidebar for the visual appears.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417910431757)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527827605133)
 3. You can remove a field from grouping in several ways:
 
    1. Select and drag the field from the **Groups** section of the Table Settings sidebar to the **Columns** section.
-   2. In the **Groups** section of the sidebar, select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418084362893) corresponding to the field you want removed from grouping.
-   3. Select the edit icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417937527309)) for **Edit Groups** on the sidebar menu. The Table Settings sidebar changes and only the fields included are listed. Clear the checkbox of the field you want to remove from grouping. Note that this also removes the field from the table and you must manually add it back if you want its column shown in the table. Select **Continue** when you have completed your changes.
+   2. In the **Groups** section of the sidebar, select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528013041165) corresponding to the field you want removed from grouping.
+   3. Select the edit icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527837157261)) for **Edit Groups** on the sidebar menu. The Table Settings sidebar changes and only the fields included are listed. Clear the checkbox of the field you want to remove from grouping. Note that this also removes the field from the table and you must manually add it back if you want its column shown in the table. Select **Continue** when you have completed your changes.
 4. Select **Apply** to apply your changes to the table.
 5. Save the dashboard, visual, or report.

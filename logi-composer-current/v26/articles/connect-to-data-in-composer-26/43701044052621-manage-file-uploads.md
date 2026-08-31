@@ -4,7 +4,7 @@ id: 43701044052621
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701044052621-Manage-File-Uploads
-updated_at: 2026-08-26T07:10:46Z
+updated_at: 2026-08-31T04:14:23Z
 ---
 
 # Manage File Uploads
@@ -38,10 +38,10 @@ After the connector has been set up, create a data source configuration and uplo
 2. [Create](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701080450061-Define-a-Source) or [edit](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701116405261-Edit-a-Data-Source) an existing data source.
 3. Select the **Files** tab in the Data Source panel, then **Upload New File**.
 
-   ![use this work area to upload new files or select exiting files to drag and drop to use in your data source](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418004144909 "Data Source Files work area")
+   ![use this work area to upload new files or select exiting files to drag and drop to use in your data source](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527964888973 "Data Source Files work area")
 4. Add a unique Data Entity Name, then select **Upload New File**. The File Upload work area opens.
 
-   ![Add, set up, and preview file uploads](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418004163213 "File Upload work area")
+   ![Add, set up, and preview file uploads](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527953124237 "File Upload work area")
 5. Enter File Details, such as a unique **Display Name**, and optional **Description**.
 6. Use the **Browse** button to select a file to upload.
 7. After you have selected a file, Composer may autofill the **Single Quote Char.** and Field **Delimiter** fields. Adjust if needed.
@@ -58,13 +58,13 @@ After the connector has been set up, create a data source configuration and uplo
 2. [Edit](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701116405261-Edit-a-Data-Source) an existing data source.
 3. Select the data entity with the file you want to edit, then select **Edit File**. The File Upload work area opens.
 
-   ![Work with api endpoings, edit files, or delete files](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418034113933 "properties panel for an uploaded file")
+   ![Work with api endpoings, edit files, or delete files](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527964950797 "properties panel for an uploaded file")
 4. **Browse** for a new file.
 
    * If you are replacing the existing file, your new file must use the same data file structure as the existing file. Enable the **Replace** checkbox in Upload Settings: previous data is replaced.
    * If you are adding data to the existing file, your new file must use the same data file structure as the existing file. Disable the **Replace** checkbox in Upload Settings: previous data is appended with new rows of data.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417984926605)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527955508365)
 5. Select **Preview** to preview your data.
 
    * The Current Data tab shows the data of your existing file.
@@ -77,17 +77,17 @@ After the connector has been set up, create a data source configuration and uplo
 2. [E](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701080450061-Define-a-Source)[dit](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701116405261-Edit-a-Data-Source) an existing data source.
 3. Select the data entity with the file you want to edit, then select **API Endpoints**. The API Endpoints work area opens.
 
-   ![Work with api endpoings, edit files, or delete files](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418034113933 "properties panel for an uploaded file")
+   ![Work with api endpoings, edit files, or delete files](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527964950797 "properties panel for an uploaded file")
 4. The dialog offers convenient example cURL requests but the APIs can be leveraged from your preferred development platform.
 5. Copy and modify the example cURL requests to include your own Composer credentials, replacing the placeholders for username and password. Select **Close** to close the dialog.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417954240269)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527927840013)
 
 ## Delete a File
 
 If you have the [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference) to manage file uploads, you can delete uploaded files as needed. Select the Delete icon next to the file name in the **Files** tab of the Data Source panel.
 
-![Work with api endpoings, edit files, or delete files](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418007932301 "files tab of the data source panel")
+![Work with api endpoings, edit files, or delete files](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527955575053 "files tab of the data source panel")
 
 ## Work with the Upload API
 
@@ -157,10 +157,10 @@ After the connector has been set up, create a data source configuration and uplo
 2. [Create](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701080450061-Define-a-Source) or [edit](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701116405261-Edit-a-Data-Source) an existing data source.
 3. Select **Add** to add a new data entity, then select **From File**.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417954281485)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527953262221)
 4. Add a unique Data Entity Name, then select **Upload New File**. The File Upload work area opens.
 
-   ![Add, set up, and preview file uploads](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418004163213 "File Upload work area")
+   ![Add, set up, and preview file uploads](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527953124237 "File Upload work area")
 5. Enter File Details, such as a unique **Display Name**, and optional **Description**.
 6. Use the **Browse** button to select a file to upload.
 7. After you have selected a file, Composer may autofill the **Single Quote Char.** and Field **Delimiter** fields. Adjust if needed.
@@ -176,14 +176,14 @@ After the connector has been set up, create a data source configuration and uplo
 1. Log in as a user with the **Administer Sources** or **Create New Data Sources** [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference).
 2. [Edit](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701116405261-Edit-a-Data-Source) an existing data source.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418019326989)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527927916813)
 3. Select the data entity with the file you want to edit, then select **Edit File**. The File Upload work area opens.
 4. **Browse** for a new file.
 
    * If you are replacing the existing file, your new file must use the same data file structure as the existing file. Enable the **Replace** checkbox in Upload Settings: previous data is replaced.
    * If you are adding data to the existing file, your new file must use the same data file structure as the existing file. Disable the **Replace** checkbox in Upload Settings: previous data is appended with new rows of data.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417984926605)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527955508365)
 5. Select **Preview** to preview your data.
 
    * The Current Data tab shows the data of your existing file.
@@ -195,19 +195,19 @@ After the connector has been set up, create a data source configuration and uplo
 1. Log in as a user with the **Administer Sources** or **Create New Data Sources** [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference).
 2. [E](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701080450061-Define-a-Source)[dit](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701116405261-Edit-a-Data-Source) an existing data source.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418019326989)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527927916813)
 3. Select the data entity with the file you want to edit, then select **API Endpoints**. The API Endpoints dialog box opens.
 
    The dialog offers convenient example cURL requests but the APIs can be leveraged from your preferred development platform.
 4. Copy and modify the example cURL requests to include your own Composer credentials, replacing the placeholders for username and password. Select **Close** to close the dialog.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417954240269)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527927840013)
 
 ## Delete a File
 
 If you have the [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference) to manage file uploads, you can delete uploaded files as needed. Select the trash can icon next to the file name in the **Select File** dropdown.
 
-![Delete an uploaded flat file](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418019355661 "Delete an uploaded flat file")
+![Delete an uploaded flat file](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527965173517 "Delete an uploaded flat file")
 
 ## Work with the Upload API
 

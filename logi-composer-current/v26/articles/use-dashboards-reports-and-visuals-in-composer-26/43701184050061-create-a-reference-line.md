@@ -4,7 +4,7 @@ id: 43701184050061
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184050061-Create-a-Reference-Line
-updated_at: 2026-08-26T07:12:32Z
+updated_at: 2026-08-31T04:16:07Z
 ---
 
 # Create a Reference Line
@@ -16,7 +16,7 @@ You can add multiple reference lines to a visual.
 **Create a reference line on a visual**
 
 1. Access the Rulers sidebar for the visual. See [The Rulers Sidebar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701179533325-The-Rulers-Sidebar).
-2. In the **Reference Lines** section of the sidebar, select the add icon ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418134466573 "add icon") to start a new reference line definition.
+2. In the **Reference Lines** section of the sidebar, select the add icon ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528037097997 "add icon") to start a new reference line definition.
 3. Fill in the following fields for the reference line as needed:
 
    * **Title** - Specify the name for the line. The default name of the line is Reference line #.

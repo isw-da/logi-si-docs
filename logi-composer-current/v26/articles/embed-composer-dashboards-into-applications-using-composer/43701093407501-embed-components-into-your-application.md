@@ -4,7 +4,7 @@ id: 43701093407501
 section: "Embed Composer Dashboards Into Applications Using Composer"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701093407501-Embed-Components-Into-Your-Application
-updated_at: 2026-08-26T07:09:26Z
+updated_at: 2026-08-31T04:13:00Z
 ---
 
 # Embed  Components Into Your Application

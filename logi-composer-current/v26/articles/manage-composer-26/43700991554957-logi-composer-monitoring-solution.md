@@ -4,7 +4,7 @@ id: 43700991554957
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700991554957-Logi-Composer-Monitoring-Solution
-updated_at: 2026-08-26T07:11:40Z
+updated_at: 2026-08-31T04:15:15Z
 ---
 
 # Logi Composer Monitoring Solution
@@ -23,7 +23,7 @@ The monitoring solution consists of several components that are built up as laye
 **Note:** 
 Subsequent components added to the metrics foundation can be implemented as provided in the monitoring solution package, or you can substitute them with preferred components that were already deployed.
 
-![Microsystem and Metrics solution diagram.](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418005067405 "Composer Monitoring")
+![Microsystem and Metrics solution diagram.](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527942941965 "Composer Monitoring")
 
 The example solution is built using the following industry-standard, open-source tools:
 

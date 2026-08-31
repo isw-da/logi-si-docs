@@ -4,7 +4,7 @@ id: 43701130183309
 section: "Install, Upgrade, and Remove Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701130183309-Prerequisites-to-Upgrading-Composer
-updated_at: 2026-08-26T07:10:51Z
+updated_at: 2026-08-31T04:14:27Z
 ---
 
 # Prerequisites to Upgrading Composer

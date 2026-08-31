@@ -4,7 +4,7 @@ id: 46968228172557
 section: "Get Started With Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/46968228172557-Transitioning-for-Symphony-and-Composer-Users
-updated_at: 2026-08-26T07:11:51Z
+updated_at: 2026-08-31T04:15:26Z
 ---
 
 # Transitioning for Symphony and Composer Users

@@ -4,7 +4,7 @@ id: 43701213292429
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701213292429-Format-Time-Table-Data-Using-the-Table-Context-Menu
-updated_at: 2026-08-26T07:12:33Z
+updated_at: 2026-08-31T04:16:09Z
 ---
 
 # Format Time Table Data Using the Table Context Menu
@@ -16,12 +16,12 @@ Numeric data and time formats [are set at the source](https://logi-composer-v26.
 **Format time table data using the table context menu**
 
 1. Select a table visual in a dashboard or in the Visual Gallery.
-2. Locate the field in the table and select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418134549773) next to its column heading to access the table context menu.
+2. Locate the field in the table and select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528051426445) next to its column heading to access the table context menu.
 
-   ![select to format date time in a table column](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417973475981 "table context menu with date time formatting")
+   ![select to format date time in a table column](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527856468493 "table context menu with date time formatting")
 3. Select **Format <field>** on the context menu. A Format work area opens.
 
-   ![select formatting options in the format work area](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417924486797 "Date Time Format Work area plain")
+   ![select formatting options in the format work area](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527866724749 "Date Time Format Work area plain")
 4. Select the appropriate date formats from available options. Options vary based on the [granularity you define](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701095259917-Configure-Date-and-Time-Formatting-Data-Sources) at the source level. See [Date Time Format Options](#DateTime). Select **Apply** to apply your changes to the data in the table column, or **Reset** reapply the source formatting.
 5. Optionally, repeat for other fields in the table.
 6. Save the visual, or the dashboard and visual.
@@ -29,12 +29,12 @@ Numeric data and time formats [are set at the source](https://logi-composer-v26.
 **Format aggregated data using the table context menu**
 
 1. Select a table visual in a dashboard or in the Visual Gallery.
-2. Locate the field that includes aggregated in the table and select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418134549773) next to its column heading to access the table context menu.
+2. Locate the field that includes aggregated in the table and select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528051426445) next to its column heading to access the table context menu.
 
-   ![select to format aggregated date in a table column](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417910613517 "table context menu with date formatting aggregated")
+   ![select to format aggregated date in a table column](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527842335757 "table context menu with date formatting aggregated")
 3. Select **Format <field>** on the context menu. A Format work area opens.
 
-   ![select formatting options in the format work area](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417924486797 "Date Time Format Work area plain")
+   ![select formatting options in the format work area](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527866724749 "Date Time Format Work area plain")
 4. Select the appropriate date formats from available options. Options vary based on the [granularity you define](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701095259917-Configure-Date-and-Time-Formatting-Data-Sources) at the source level. See [Date Time Format Options](#DateTime). Select **Apply** to apply your changes to the data in the table column, or **Reset** reapply the source formatting.
 5. Optionally, repeat for other fields in the table. You can also show or hide the time zone label using the show and hide table context menu options.
 6. Save the visual, or the dashboard and visual.

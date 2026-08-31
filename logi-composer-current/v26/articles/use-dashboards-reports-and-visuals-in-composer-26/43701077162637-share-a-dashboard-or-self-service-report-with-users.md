@@ -4,7 +4,7 @@ id: 43701077162637
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701077162637-Share-a-Dashboard-or-Self-Service-Report-with-Users
-updated_at: 2026-08-26T07:10:33Z
+updated_at: 2026-08-31T04:14:09Z
 ---
 
 # Share a  Dashboard or Self Service Report with Users
@@ -31,7 +31,7 @@ Share dashboards with:
 2. Open the dashboard or report you wish to share from the [list of available](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701047640717-Use-the-Library-for-Dashboards) dashboards or [reports](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/46982003574285-Use-the-Self-Service-Reports-Library).
 3. Select Share Dashboard or Share Report icon. The **Share [Name]** work area opens with a **Select Users** work area visible. In a multi-tenant environment, several tabbed work areas are shown: **Select Users**, **Select Groups**, and **Share with everyone**.
 
-   ![Share Dashboards work area](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418002869005 "Share Dashboards work area")
+   ![Share Dashboards work area](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527926214925 "Share Dashboards work area")
 
    Some columns in this work area can be resized or sorted as needed; select the column header break to resize, or select the column name to change the sort.
 4. Select and add users using the work area.

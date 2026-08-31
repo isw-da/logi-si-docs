@@ -4,7 +4,7 @@ id: 46968199924109
 section: "Logi Composer  26 Release Notes Overview"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/46968199924109-Logi-Composer-26-2-Feature-Enhancements
-updated_at: 2026-08-26T07:11:49Z
+updated_at: 2026-08-31T04:15:24Z
 ---
 
 # Logi Composer 26.2 Feature Enhancements

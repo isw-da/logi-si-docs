@@ -4,7 +4,7 @@ id: 43701196098957
 section: "Composer 26 Troubleshooting"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701196098957-Fix-Blank-Visuals-in-the-Home-Page-for-RPM-Installations
-updated_at: 2026-08-26T07:10:09Z
+updated_at: 2026-08-31T04:13:45Z
 ---
 
 # Fix Blank Visuals in the Home Page (for RPM Installations)

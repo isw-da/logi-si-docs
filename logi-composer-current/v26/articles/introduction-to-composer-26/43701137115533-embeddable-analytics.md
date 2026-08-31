@@ -4,7 +4,7 @@ id: 43701137115533
 section: "Introduction to Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701137115533-Embeddable-Analytics
-updated_at: 2026-08-26T07:11:00Z
+updated_at: 2026-08-31T04:14:36Z
 ---
 
 # Embeddable Analytics

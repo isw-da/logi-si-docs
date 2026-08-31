@@ -4,7 +4,7 @@ id: 43701053914637
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701053914637-Configure-Composer-Logs
-updated_at: 2026-08-26T07:11:41Z
+updated_at: 2026-08-31T04:15:17Z
 ---
 
 # Configure Composer Logs
@@ -79,6 +79,7 @@ Composer supports structured logging. You can enable for installations done via 
 * screenshot service
 * data writer
 * data connectors
+* self service reports
 
 ### Enable Structured Logging
 

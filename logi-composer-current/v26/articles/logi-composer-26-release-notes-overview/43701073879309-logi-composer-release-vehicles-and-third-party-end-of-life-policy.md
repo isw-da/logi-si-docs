@@ -4,7 +4,7 @@ id: 43701073879309
 section: "Logi Composer  26 Release Notes Overview"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701073879309-Logi-Composer-Release-Vehicles-and-Third-Party-End-of-Life-Policy
-updated_at: 2026-08-26T07:11:05Z
+updated_at: 2026-08-31T04:14:42Z
 ---
 
 # Logi Composer Release Vehicles and Third Party End of Life Policy

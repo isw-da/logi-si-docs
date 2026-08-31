@@ -4,7 +4,7 @@ id: 43701077393293
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701077393293-Even-Time-Intervals
-updated_at: 2026-08-26T07:09:31Z
+updated_at: 2026-08-31T04:13:07Z
 ---
 
 # Even Time Intervals

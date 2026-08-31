@@ -4,7 +4,7 @@ id: 43701208766477
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701208766477-Configure-Kerberos-Single-Sign-On-SSO-Settings
-updated_at: 2026-08-26T07:11:56Z
+updated_at: 2026-08-31T04:15:32Z
 ---
 
 # Configure Kerberos Single Sign-On (SSO) Settings
@@ -24,7 +24,7 @@ When using Kerberos with Composer, the workflow is as follows:
 2. In a browser window, a user visits the Composer application and Composer then leverages the user's Kerberos identity to automatically log them into Composer. If this is a users first visit to Composer, then Composer will auto-provision them as a new user in the Composer environment.
 3. Kerberos authentication is often paired with LDAP to look up a user's authorization or group membership. Composer will look up the user's group membership. For more information, see the topic on [Use Lightweight Directory Access Protocol (LDAP)](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701162285837-Use-Lightweight-Directory-Access-Protocol-LDAP) .
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417965930637)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527884179597)
 
 ## Prerequisites
 

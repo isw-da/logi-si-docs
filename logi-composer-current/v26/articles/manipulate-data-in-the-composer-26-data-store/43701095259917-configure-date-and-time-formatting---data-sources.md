@@ -4,7 +4,7 @@ id: 43701095259917
 section: "Manipulate Data In The Composer 26 Data Store"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701095259917-Configure-Date-and-Time-Formatting-Data-Sources
-updated_at: 2026-08-26T07:10:25Z
+updated_at: 2026-08-31T04:14:01Z
 ---
 
 # Configure Date and Time Formatting  - Data Sources
@@ -33,9 +33,9 @@ If you change the format for dates and times for a field used by current visuals
 2. Select the **Source** card on your home page or **Data Sources** from the main menu.
 3. Select to edit the appropriate data source configuration, and switch to the [**Fields** tab](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701116424973-Manage-Fields).
 4. Locate the time field you want to modify. The **Data Type** column on the **Fields** tab must define the field as a **Time** field.
-5. In the Settings sidebar menu, select the edit (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418112666381)) button to open the **Format** work area.
+5. In the Settings sidebar menu, select the edit (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528069077773)) button to open the **Format** work area.
 
-   ![Set the format options for your data source date and time](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417982808973 "Format date and time work area")
+   ![Set the format options for your data source date and time](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527939161101 "Format date and time work area")
 
 Not all fields may be available for all time formats.
 

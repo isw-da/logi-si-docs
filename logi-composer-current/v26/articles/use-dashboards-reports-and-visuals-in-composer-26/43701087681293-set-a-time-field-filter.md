@@ -4,7 +4,7 @@ id: 43701087681293
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701087681293-Set-a-Time-Field-Filter
-updated_at: 2026-08-26T07:12:10Z
+updated_at: 2026-08-31T04:15:45Z
 ---
 
 # Set a Time Field Filter
@@ -19,8 +19,8 @@ When you select a time attribute for a visual or filter snippet, you can filter 
 
 1. Select the filter icon on the [visual](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701118671885-Apply-a-Row-Level-Filter-to-a-Visual-or-Filter-Snippet) or [dashboard](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701108132365-Apply-a-Row-Level-Filter-to-a-Dashboard) to access the appropriate filter sidebar.
 
-   * To access the filter sidebar, select its filter icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418119561741) or select**Settings** from the Show More [menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu)![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418119561869) and then select the filter icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418119562125) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu).
-   * To access the dashboard filter sidebar, select its filter icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418071878541). The dashboard-level filter icon is available only when all the visuals are from the same data source.
+   * To access the filter sidebar, select its filter icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528055174925) or select**Settings** from the Show More [menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu)![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528055175181) and then select the filter icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528074339469) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu).
+   * To access the dashboard filter sidebar, select its filter icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528074339597). The dashboard-level filter icon is available only when all the visuals are from the same data source.
 
    The Filters sidebar opens, showing currently applied filters, if any.
 2. Select**Add Filter**. An Add Filter work area opens to the Row tab, and includes Group and Saved tabs.
@@ -35,23 +35,23 @@ When you select a time attribute for a visual or filter snippet, you can filter 
    * Apply `Is NULL` to include only null values
    * Apply `Is not NULL` to hide null values
 
-   ![set a time range, or apply appropriate NULL filter](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417994586637 "Filter Time Range")
+   ![set a time range, or apply appropriate NULL filter](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527908418189 "Filter Time Range")
 6. If you did not apply a `Null` filter, you can use the**From** and**To** boxes to specify the time range for the filter. You can set the range in static time, dynamic time, use variables, or use preset ranges provided.
 
    * Select**Static Time**,**Dynamic Time**, or**Variables** in the drop-down menu.
 
-     ![select a time range value](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417968272525 "Select time values options")
+     ![select a time range value](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527908432525 "Select time values options")
 
      If you select**Static Time**, the**From** and**To** boxes are filled with default dates and times. Use the boxes to select specific from and to times
 
      If you select**Dynamic Time**, the**From** and**To** boxes are filled with**Start of Data Set** and**End of Data Set** automatically. Use the**Condition** boxes to select different dynamic from and to times:
 
-     ![Define condtions and offset of dynamic time ranges here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417949236365 "Dynamic time work area")
+     ![Define condtions and offset of dynamic time ranges here](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527902179469 "Dynamic time work area")
 
      If you select**Variables**, define a variable for use in filtering.
    * Alternatively, select**Presets** to fill the**From** and**To** boxes with predefined time ranges provided.
 
-     ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417998710285)
+     ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527946771213)
 
      Use the filter box at the top of the presets list to locate the preset setting you want. Descriptions of each of the preset options are provided in [Preset Time Ranges](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701144196237-Preset-Time-Ranges).
 7. Alternatively, select a keyset on the **Keysets** tab to use for the filter. See [Use Keysets](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701105959565-Use-Keysets).

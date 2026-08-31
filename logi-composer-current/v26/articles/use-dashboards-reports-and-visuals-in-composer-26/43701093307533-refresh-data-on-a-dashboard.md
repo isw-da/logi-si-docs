@@ -4,7 +4,7 @@ id: 43701093307533
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701093307533-Refresh-Data-on-a-Dashboard
-updated_at: 2026-08-26T07:10:36Z
+updated_at: 2026-08-31T04:14:12Z
 ---
 
 # Refresh Data on a Dashboard
@@ -15,9 +15,9 @@ You can refresh the data on a dashboard. This will obtain and display the latest
 
 **Refresh the data on a dashboard**
 
-1. On the dashboard, select the refresh icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418006985229) on the [dashboard icon bar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701047597837-Use-the-Dashboard-Icons). The Refresh dialog appears.
+1. On the dashboard, select the refresh icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527963994381) on the [dashboard icon bar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701047597837-Use-the-Dashboard-Icons). The Refresh dialog appears.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417984143885)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527926804109)
 2. Select **Refresh** on the dialog. All visuals on the dashboard are refreshed.
 
 Even if the dashboard has not been saved, the refresh obtains the latest data and honors whatever unsaved changes you have made to it. For example, if you had applied a filter or added visuals to the dashboard, the filter and the new visuals are retained when the data is refreshed.

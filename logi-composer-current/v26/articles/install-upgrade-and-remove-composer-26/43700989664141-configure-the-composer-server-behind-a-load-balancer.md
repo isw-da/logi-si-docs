@@ -4,7 +4,7 @@ id: 43700989664141
 section: "Install, Upgrade, and Remove Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700989664141-Configure-the-Composer-Server-Behind-a-Load-Balancer
-updated_at: 2026-08-26T07:11:43Z
+updated_at: 2026-08-31T04:15:19Z
 ---
 
 # Configure the Composer Server Behind a Load Balancer
@@ -15,7 +15,7 @@ Load balancing helps you to scale Composer to hundreds of users. You can use loa
 
 The following diagram depicts a classic load balancing setup.
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418035025293)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527966154509)
 
 Composer has tested active-active load balancing configuration, which is the particular setup used in the steps below. In addition, the instructions provided below take into account that Composer, when it runs standalone, uses its own dedicated PostgreSQL server as the metadata store (in other words, PostgreSQL was installed as part of the Composer installation process). If you are running in a high availability environment, you will need to use a high availability (clustered) PostgreSQL data store. See [Configure a High Availability Environment](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701072400141-Configure-a-High-Availability-Environment).
 
@@ -273,7 +273,7 @@ The following steps provide an example of setting up HAProxy as a load balancer.
    sudo vi cert.pem #Create and save an empty file  
    sudo chmod a+w cert.pem  
    sudo cat ca.key ca.crt > cert.pem
-4. In the same folder, replace the contents of the `haproxy.cfg` file with the contents of the [Composer haproxy configuration file](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418124760589). In the file, replace the `<node1-ip>` and `<node2-ip>` with the IP addresses of your servers. If you have more than two servers, add additional lines for each server.
+4. In the same folder, replace the contents of the `haproxy.cfg` file with the contents of the [Composer haproxy configuration file](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528080809741). In the file, replace the `<node1-ip>` and `<node2-ip>` with the IP addresses of your servers. If you have more than two servers, add additional lines for each server.
 5. Save your changes and exit the file.
 6. Start the HAProxy microservice
 

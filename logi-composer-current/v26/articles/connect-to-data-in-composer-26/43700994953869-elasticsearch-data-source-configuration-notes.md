@@ -4,7 +4,7 @@ id: 43700994953869
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700994953869-Elasticsearch-Data-Source-Configuration-Notes
-updated_at: 2026-08-26T07:10:46Z
+updated_at: 2026-08-31T04:14:22Z
 ---
 
 # Elasticsearch Data Source Configuration Notes
@@ -41,7 +41,7 @@ When setting up an Elasticsearch [data source configuration](https://logi-compos
 
        **Note:** 
        The fields for indexes are not refreshed. If new fields are added to your data source, they are added to Composer only after you select the
-       **Manual Refresh** (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418124162701)) button on the **Cache** tab of the [data source](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701068934669-Manage-Data-Sources). If there are some changes in the existing fields (for example, if a field has been removed) they will not be applied.
+       **Manual Refresh** (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528043919757)) button on the **Cache** tab of the [data source](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701068934669-Manage-Data-Sources). If there are some changes in the existing fields (for example, if a field has been removed) they will not be applied.
 
    **Note:** 
    Filtering by type is not supported.

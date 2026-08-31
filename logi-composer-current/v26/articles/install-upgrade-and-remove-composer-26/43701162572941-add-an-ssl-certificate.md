@@ -4,7 +4,7 @@ id: 43701162572941
 section: "Install, Upgrade, and Remove Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701162572941-Add-an-SSL-Certificate
-updated_at: 2026-08-26T07:10:53Z
+updated_at: 2026-08-31T04:14:29Z
 ---
 
 # Add an SSL Certificate

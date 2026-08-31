@@ -4,7 +4,7 @@ id: 43701071841933
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701071841933-Add-Filter-Snippets-to-a-Dashboard
-updated_at: 2026-08-26T07:12:06Z
+updated_at: 2026-08-31T04:15:43Z
 ---
 
 # Add Filter Snippets to a Dashboard
@@ -22,17 +22,17 @@ When you create a filter snippet, it is linked to the dashboard you have added i
 
    * To add a snippet to an existing dashboard, log in as a user with `READ` and `WRITE` permissions for the dashboard.
    * If you are creating a new dashboard, log in as a user with the **Create Dashboards** or **Administer Dashboards** [group privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference).
-2. Select the Add Filter Snippet icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418119473037) in the [dashboard icon bar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701047597837-Use-the-Dashboard-Icons). A new filter snippet is added in a widget on the dashboard, ready to edit.
-3. Select the Settings icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418071799821) from the Show More menu ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418071800077) to open the filter snippet sidebar menu. See [Use The Filter Snippet Sidebar Menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701104142221-Use-The-Filter-Snippet-Sidebar-Menu).
+2. Select the Add Filter Snippet icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528067524621) in the [dashboard icon bar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701047597837-Use-the-Dashboard-Icons). A new filter snippet is added in a widget on the dashboard, ready to edit.
+3. Select the Settings icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528067527309) from the Show More menu ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528067527693) to open the filter snippet sidebar menu. See [Use The Filter Snippet Sidebar Menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701104142221-Use-The-Filter-Snippet-Sidebar-Menu).
 4. Define the **Data Settings** for this filter snippet by selecting a **Data Type** of [Attribute](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701133345293-Set-an-Attribute-Filter), [Number](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701133427085-Set-a-Numeric-Field-Filter), [Time](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701087681293-Set-a-Time-Field-Filter), or [Hierarchy](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701118747917-Filter-by-Hierarchy-Field).
 5. Select an **Operator** for your Data Type. Available operators are dependent on the data type selected.
 6. Select an available **Source**. Any visuals in this dashboard that use this source can be affected by this filter snippet.
 7. Select an available **Value Column**. After you have made this selection, other options may be available that allow you to define how the data is presented. After making these choices, select **Apply**.
 8. Optionally, select the [Filters sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701104142221-Use-The-Filter-Snippet-Sidebar-Menu#Filters "Filters sidebar menu") to add more filters to the snippet that utilize the same or different sources.
-9. Select **Connect Widgets** from the Show More menu ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418071800077) to add visuals or to link existing filter snippets you want filtered to this filter snippet. The Connect Widgets work area opens.
+9. Select **Connect Widgets** from the Show More menu ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528067527693) to add visuals or to link existing filter snippets you want filtered to this filter snippet. The Connect Widgets work area opens.
 10. Select **Add Widget**. Select a **Widget Name** and an available **Field**. Repeat to add as many widgets as desired.
 
-    * Select the remove icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418071800205) to remove a widget from the filter.
+    * Select the remove icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528058212237) to remove a widget from the filter.
     * Select the connect icon to connect all widgets present in the dashboard for the data source.
 11. Select **Apply** to use the selected widgets to this filter snippet. If you have added all available widgets, the work area closes and links the widgets automatically.
 12. [Save](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701214973197-Save-Visuals-With-Their-Current-Names) the dashboard.

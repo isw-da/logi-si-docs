@@ -4,7 +4,7 @@ id: 43701096930061
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701096930061-Edit-a-Hierarchical-Source
-updated_at: 2026-08-26T07:10:21Z
+updated_at: 2026-08-31T04:13:57Z
 ---
 
 # Edit a Hierarchical Source

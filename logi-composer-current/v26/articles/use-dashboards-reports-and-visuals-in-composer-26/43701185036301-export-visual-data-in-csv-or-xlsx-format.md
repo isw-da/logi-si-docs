@@ -4,7 +4,7 @@ id: 43701185036301
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701185036301-Export-Visual-Data-in-CSV-or-XLSX-Format
-updated_at: 2026-08-26T07:12:26Z
+updated_at: 2026-08-31T04:16:01Z
 ---
 
 # Export Visual Data in CSV or XLSX Format
@@ -17,12 +17,12 @@ updated_at: 2026-08-26T07:12:26Z
 2. Select a file format on the submenu, **Visual Data > CSV** or **Visual Data > XLSX**.
 3. If you select **CSV**, the Export as CSV dialog opens.
 
-   ![Use or update the file name for your export](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417941148429 "Export as CSV work area")
+   ![Use or update the file name for your export](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527855170573 "Export as CSV work area")
 
    Accept or change the file name, then select **Export**. Logi Composer prepares a CSV file downloaded by your browser.
 4. If you select **XLSX**, the Export as XLSX dialog opens.
 
-   ![Use this work area to define options for your XLSX file](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417941160333 "Export as XLSX work area")
+   ![Use this work area to define options for your XLSX file](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527840868493 "Export as XLSX work area")
 
    Accept or change the default settings:
 

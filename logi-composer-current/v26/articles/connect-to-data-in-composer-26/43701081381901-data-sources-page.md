@@ -4,7 +4,7 @@ id: 43701081381901
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701081381901-Data-Sources-Page
-updated_at: 2026-08-26T07:12:16Z
+updated_at: 2026-08-31T04:15:52Z
 ---
 
 # Data Sources Page
@@ -19,14 +19,14 @@ All users can view the **Sources** work area.
 * If you log in as a user who only has **read** [permissions](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701101615373-About-Source-Permissions) for one or more data sources, they are shown here, but Connection information is not available for the sources.
 * If you log in as a user who belongs to a group that is granted the **Create New Data Sources** or **Administer Sources** [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference), you can create, [import](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701098185613-Import-or-Export-Sources), [export](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701098185613-Import-or-Export-Sources), search, preview, review, and [maintain](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701116405261-Edit-a-Data-Source) your data source configurations using this work area.
 
-![Use this work area to create, import, and edit data sources.](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417969021325 "Sources Work Area")
+![Use this work area to create, import, and edit data sources.](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527922569357 "Sources Work Area")
 
 The Data Sources work area includes the following features:
 
 1. **Create Source**: Select to create a new data source configuration. See [Define a Source](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701080450061-Define-a-Source).
 2. **Import Source**: Select to import a new data source configuration and connection information. See [Import or Export Sources](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701098185613-Import-or-Export-Sources).
 3. **Export Selected Items**: Export one or more data sources by selecting the checkbox for a source to export. The **Export Selected Items** button becomes active. Select to download the sources in JSON format. See [Import or Export Sources](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701098185613-Import-or-Export-Sources).
-4. **Embed Sources Inventory**: Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417969038605) to generate a code snippet to embed the sources inventory in your application. See [Generate a Sources Inventory HTML Snippet](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701117598861-Generate-a-Sources-Inventory-HTML-Snippet).
+4. **Embed Sources Inventory**: Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527922595213) to generate a code snippet to embed the sources inventory in your application. See [Generate a Sources Inventory HTML Snippet](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701117598861-Generate-a-Sources-Inventory-HTML-Snippet).
 5. A table that lists the data sources you can see, sort, and favorite.
 6. Options to modify source permissions, view and modify row and column security filters, refresh the cache, and manage Available Visual Types and Materialized Views.
 7. A search bar at the top of the page you can use to search for a specific data source in the table.

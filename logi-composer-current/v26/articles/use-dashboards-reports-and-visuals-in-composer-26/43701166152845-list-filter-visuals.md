@@ -4,7 +4,7 @@ id: 43701166152845
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701166152845-List-Filter-Visuals
-updated_at: 2026-08-26T07:12:39Z
+updated_at: 2026-08-31T04:16:15Z
 ---
 
 # List Filter Visuals
@@ -32,7 +32,7 @@ For information on setting even time intervals, see [Even Time Intervals](https:
 2. If you are editing the visual in a dashboard, select **Settings** from the [visual drop-down menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu). The [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) for the visual appears.
 
    If you are editing the visual from the Visual Gallery, the sidebar appears to the right of the visual.
-3. Select the settings icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418099785869)) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu). The List Filter Settings sidebar for the visual appears.
+3. Select the settings icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528020535821)) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu). The List Filter Settings sidebar for the visual appears.
 4. Alter the settings as needed:
 
    | Setting | Description |
@@ -46,4 +46,4 @@ For information on setting even time intervals, see [Even Time Intervals](https:
    | Placeholder Text | Supply a label for the search field when no data is selected.  The default is **Search**. This label is only available when Number of Selections is set to **Multiple**. |
    | Filter Values On | This option is available only when Number of Selections is set to **Multiple**.  * Enable **Change** to filter values when the user makes a selection. * Enable **Submit** to filter values when the user selects the **Submit** button. The text of the Submit button can be changed. |
    | Submit Button Text | Only visible if **Submit** is enabled in Filter Values On. You can change the **Submit Button Text** to meet your users' needs. The default value is **Change**.  When a user selects the **Submit** button, their selected values are published and used by other visuals on the dashboard that use this list. |
-5. Select the save icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418099786125)) to save the dashboard and the visual with its updated settings.
+5. Select the save icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528051744397)) to save the dashboard and the visual with its updated settings.

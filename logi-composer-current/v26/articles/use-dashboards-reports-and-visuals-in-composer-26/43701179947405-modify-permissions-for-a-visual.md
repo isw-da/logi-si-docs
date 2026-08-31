@@ -4,7 +4,7 @@ id: 43701179947405
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701179947405-Modify-Permissions-for-a-Visual
-updated_at: 2026-08-26T07:10:21Z
+updated_at: 2026-08-31T04:13:58Z
 ---
 
 # Modify Permissions for a Visual

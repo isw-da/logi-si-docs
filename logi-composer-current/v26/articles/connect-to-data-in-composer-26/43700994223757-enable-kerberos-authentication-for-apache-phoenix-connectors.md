@@ -4,7 +4,7 @@ id: 43700994223757
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700994223757-Enable-Kerberos-Authentication-for-Apache-Phoenix-Connectors
-updated_at: 2026-08-26T07:11:28Z
+updated_at: 2026-08-31T04:15:04Z
 ---
 
 # Enable Kerberos Authentication for Apache Phoenix Connectors

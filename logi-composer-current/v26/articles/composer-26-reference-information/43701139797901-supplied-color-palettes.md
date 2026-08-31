@@ -4,7 +4,7 @@ id: 43701139797901
 section: "Composer 26 Reference Information"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701139797901-Supplied-Color-Palettes
-updated_at: 2026-08-26T07:10:04Z
+updated_at: 2026-08-31T04:13:40Z
 ---
 
 # Supplied Color Palettes

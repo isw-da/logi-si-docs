@@ -4,7 +4,7 @@ id: 43701213904781
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701213904781-Scatter-Bubble-Charts
-updated_at: 2026-08-26T07:10:17Z
+updated_at: 2026-08-31T04:13:53Z
 ---
 
 # Scatter (Bubble) Charts

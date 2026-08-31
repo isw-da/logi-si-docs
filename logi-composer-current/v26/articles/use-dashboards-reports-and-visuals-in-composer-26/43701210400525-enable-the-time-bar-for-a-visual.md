@@ -4,7 +4,7 @@ id: 43701210400525
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701210400525-Enable-the-Time-Bar-for-a-Visual
-updated_at: 2026-08-26T07:12:48Z
+updated_at: 2026-08-31T04:16:24Z
 ---
 
 # Enable the Time Bar for a Visual
@@ -15,9 +15,9 @@ updated_at: 2026-08-26T07:12:48Z
 
 1. Select the visual in the dashboard or in the Visual Gallery.
 2. If you selected the visual on a dashboard, select **Settings** on the [visual drop-down menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu) to access the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) for the visual.
-3. Select the visual time bar icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418069916685)) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) for the visual. The [Time Bar sidebar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701214131725-Use-the-Re-Visualize-Sidebar) opens.
+3. Select the visual time bar icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528021072781)) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) for the visual. The [Time Bar sidebar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701214131725-Use-the-Re-Visualize-Sidebar) opens.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417991087373)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527894381069)
 4. Select a time attribute on the **Time Bar** sidebar.
    The
    **None (Time Bar is Off)** option is not available for the

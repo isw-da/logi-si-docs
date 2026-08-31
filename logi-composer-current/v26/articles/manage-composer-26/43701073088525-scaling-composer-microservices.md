@@ -4,7 +4,7 @@ id: 43701073088525
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701073088525-Scaling-Composer-Microservices
-updated_at: 2026-08-26T07:11:20Z
+updated_at: 2026-08-31T04:14:56Z
 ---
 
 # Scaling Composer Microservices

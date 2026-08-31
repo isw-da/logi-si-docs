@@ -4,7 +4,7 @@ id: 43701161163533
 section: "Logi Composer  26 Release Notes Overview"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701161163533-Deprecated-Features
-updated_at: 2026-08-26T07:10:57Z
+updated_at: 2026-08-31T04:14:33Z
 ---
 
 # Deprecated Features

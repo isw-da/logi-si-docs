@@ -4,7 +4,7 @@ id: 43700988890125
 section: "Composer 26 Developer Tools"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700988890125-Get-Started-with-the-Composer-Application-Framework
-updated_at: 2026-08-26T07:10:50Z
+updated_at: 2026-08-31T04:14:26Z
 ---
 
 # Get Started with the Composer Application Framework

@@ -4,7 +4,7 @@ id: 43701128401421
 section: "Install, Upgrade, and Remove Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701128401421-Establish-a-Data-Gateway-Connection
-updated_at: 2026-08-26T07:10:52Z
+updated_at: 2026-08-31T04:14:28Z
 ---
 
 # Establish a Data Gateway Connection

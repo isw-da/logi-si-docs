@@ -4,7 +4,7 @@ id: 43700956497549
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700956497549-Change-a-Supervisor-Password
-updated_at: 2026-08-26T07:11:42Z
+updated_at: 2026-08-31T04:15:17Z
 ---
 
 # Change a Supervisor Password

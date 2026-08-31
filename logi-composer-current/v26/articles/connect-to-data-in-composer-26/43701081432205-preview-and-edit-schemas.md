@@ -4,7 +4,7 @@ id: 43701081432205
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701081432205-Preview-and-Edit-Schemas
-updated_at: 2026-08-26T07:11:25Z
+updated_at: 2026-08-31T04:15:02Z
 ---
 
 # Preview and Edit Schemas

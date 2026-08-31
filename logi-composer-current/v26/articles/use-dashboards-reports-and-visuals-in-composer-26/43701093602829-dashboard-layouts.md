@@ -4,7 +4,7 @@ id: 43701093602829
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701093602829-Dashboard-Layouts
-updated_at: 2026-08-26T07:10:34Z
+updated_at: 2026-08-31T04:14:10Z
 ---
 
 # Dashboard Layouts
@@ -29,9 +29,9 @@ When you upgrade your environment, or import a dashboard from an earlier release
 2. Select the **Convert Now** option to convert the dashboard to responsive layout.
 
    Alternatively, select **X** to temporarily hide the conversion banner.
-3. Save ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418088519821) the dashboard to save the converted dashboard.
+3. Save ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528090227725) the dashboard to save the converted dashboard.
 
-   Alternatively, use ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418103139597) to save the converted dashboard using a new name. The original dashboard remains unconverted and unchanged.
+   Alternatively, use ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528090228237) to save the converted dashboard using a new name. The original dashboard remains unconverted and unchanged.
 
 **Note:** 
 Once converted, you can move, swap, and resize widgets more easily, [lock and unlock](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701029061261-Lock-and-Unlock-Widget-Positions) widgets, and enable or disable the responsive layout as needed.

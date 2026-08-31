@@ -4,7 +4,7 @@ id: 43701085233549
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701085233549-Global-Settings-Tab
-updated_at: 2026-08-26T07:12:18Z
+updated_at: 2026-08-31T04:15:54Z
 ---
 
 # Global Settings Tab
@@ -15,7 +15,7 @@ Use the Global Settings tab to configure settings for new visuals for this data 
 
 **Note:** In this release, when your admin enables the Enhanced Experience user interface, you will see changes to workflows you may have used in previous releases.
 
-![Use this work area to define time bar settings, global filters, and other settings for a source.](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418001230733 "The Global Settings tab")
+![Use this work area to define time bar settings, global filters, and other settings for a source.](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527911102989 "The Global Settings tab")
 
 Depending on the connection type or source definition, not all configuration options are available for all data sources.
 

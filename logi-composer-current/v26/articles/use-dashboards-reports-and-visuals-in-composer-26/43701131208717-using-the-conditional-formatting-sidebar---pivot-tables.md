@@ -4,7 +4,7 @@ id: 43701131208717
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701131208717-Using-the-Conditional-Formatting-Sidebar-Pivot-Tables
-updated_at: 2026-08-26T07:12:36Z
+updated_at: 2026-08-31T04:16:12Z
 ---
 
 # Using the Conditional Formatting Sidebar - Pivot Tables
@@ -15,9 +15,9 @@ Format your visuals by adding color and text formats based on the conditions you
 
 1. Select the pivot table visual in the Visual Gallery or on a dashboard.
 2. If you selected the visual on a dashboard, select **Settings** on the [visual drop-down menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu) to access the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) for the visual.
-3. Select the conditional formatting option ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418084615949) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) for the visual. The Conditional Formatting sidebar opens.
+3. Select the conditional formatting option ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528024303757) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) for the visual. The Conditional Formatting sidebar opens.
 
-   ![Use to create conditional formatting rules](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418099617933 "Conditional Formatting work area - table")
+   ![Use to create conditional formatting rules](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528024304653 "Conditional Formatting work area - table")
 4. Using the Conditional Formatting sidebar, you can configure formatting options for your pivot table visuals. See [Configure Conditional Formatting](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701183616525-Configure-Conditional-Formatting).
 5. After making changes, select **Apply** to apply the conditional formatting rules you have specified.
 6. Save the visual or dashboard to save your changes.
@@ -28,35 +28,35 @@ The available options for rules and formatting change to reflect your selections
 
 ### Conditional Formatting Sidebar
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418084616333)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528004602509)
 
 * Select **Add Rule** to add a conditional formatting rule. See [Configure Conditional Formatting](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701183616525-Configure-Conditional-Formatting).
-* Select an existing rule to edit the rule, or the delete icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418084617101) to delete the rule.
+* Select an existing rule to edit the rule, or the delete icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528024308749) to delete the rule.
 * Select and drag rules to change their order.
 
 ### Add or Edit Conditional Formatting Rule
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417911405069)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527843820685)
 
 ### Select When To Apply Formatting
 
-Select the add icon ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418084617741 "add icon") in **Select When To Apply Formatting** to define the conditions to apply your formatting.
+Select the add icon ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528024310157 "add icon") in **Select When To Apply Formatting** to define the conditions to apply your formatting.
 
 ### Select Where To Apply Formatting
 
-Select the add icon ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418084617741 "add icon") for **Formatting** to define the formatting for your condition.
+Select the add icon ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528024310157 "add icon") for **Formatting** to define the formatting for your condition.
 
-Select the delete icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418084617101) to delete a formatting option.
+Select the delete icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528024308749) to delete a formatting option.
 
 ### Select When To Apply Formatting
 
-**Group** attribute: Select a group of data to define values for that aggregated data. Optionally, select the add icon ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418084617741 "add icon") to add a derived field or custom metric.
+**Group** attribute: Select a group of data to define values for that aggregated data. Optionally, select the add icon ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528024310157 "add icon") to add a derived field or custom metric.
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417925437965)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527858300429)
 
 Example: Format Group attributes that meet the condition: the `Range` of **Volume** grouped by **Income Bracket** is `Between` a defined range of values.
 
-![example of formatting applied to a group condition](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417989434253 "Group Conditional Formatting work area")
+![example of formatting applied to a group condition](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527892182157 "Group Conditional Formatting work area")
 
 ### Select Values for a Custom Metric
 
@@ -90,7 +90,7 @@ Example: Format Group attributes that meet the condition: the `Range` of **Volum
 
 ## Formatting
 
-Select the add icon ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418084617741 "add icon") to add a formatting option you will apply to your condition. Select the delete icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418084617101) to remove the formatting option.
+Select the add icon ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528024310157 "add icon") to add a formatting option you will apply to your condition. Select the delete icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528024308749) to remove the formatting option.
 
 | Format Option | Description |
 | --- | --- |
@@ -100,7 +100,7 @@ Select the add icon ![add icon](https://logi-composer-v26.insightsoftware.com/hc
 | Italic | Select to enable or disable italic formatting to apply to your condition. |
 | Underline | Select to enable or disable underline formatting to apply to your condition. |
 
-![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418084618125)
+![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528004603789)
 
 In the above example, formatting based on the **Actualsales** condition is applied first, then formatting based on the **State** condition overrides that rule.
 

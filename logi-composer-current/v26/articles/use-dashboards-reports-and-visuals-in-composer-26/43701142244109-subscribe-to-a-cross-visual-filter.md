@@ -4,7 +4,7 @@ id: 43701142244109
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701142244109-Subscribe-to-a-Cross-Visual-Filter
-updated_at: 2026-08-26T07:09:54Z
+updated_at: 2026-08-31T04:13:29Z
 ---
 
 # Subscribe to a Cross-Visual Filter

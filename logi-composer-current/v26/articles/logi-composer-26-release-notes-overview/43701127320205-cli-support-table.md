@@ -4,7 +4,7 @@ id: 43701127320205
 section: "Logi Composer  26 Release Notes Overview"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701127320205-CLI-Support-Table
-updated_at: 2026-08-26T07:10:56Z
+updated_at: 2026-08-31T04:14:32Z
 ---
 
 # CLI Support Table

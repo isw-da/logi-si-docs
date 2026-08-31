@@ -4,7 +4,7 @@ id: 43701214932109
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701214932109-Save-Visuals-With-New-Names
-updated_at: 2026-08-26T07:12:25Z
+updated_at: 2026-08-31T04:16:02Z
 ---
 
 # Save Visuals With New Names
@@ -30,9 +30,9 @@ To save visuals with a new visual name in the Visual Gallery, you must be logged
 **Save a visual with a new name in the visual gallery**
 
 1. Select the visual in the Visual Gallery.
-2. Select **Save As** in the (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417971905805)) in upper right corner of the visual.
+2. Select **Save As** in the (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527888095885)) in upper right corner of the visual.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417971921933)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527864187277)
 3. Specify a new visual name in the **Visual Name** box and select **Save**. Composer adds a copy of the visual with the new name to the visual gallery.
 
    The original visual still exists with its original visual name in the system.
@@ -41,7 +41,7 @@ To save visuals with a new visual name in the Visual Gallery, you must be logged
 
 1. Select a visual in the dashboard.
 2. Select **Save As** from the [visual drop-down menu.](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu)
-3. ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417971921933)
+3. ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527864187277)
 4. Specify a new visual name in the **Visual Name** field, optionally add or edit the **Visual Description**, and select **Save**. Composer adds a copy of the visual with the new name to the visual gallery.
 
    The visual in the dashboard is replaced by the new visual.

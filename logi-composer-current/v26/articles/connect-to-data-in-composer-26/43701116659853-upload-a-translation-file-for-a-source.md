@@ -4,7 +4,7 @@ id: 43701116659853
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701116659853-Upload-a-Translation-File-For-a-Source
-updated_at: 2026-08-26T07:12:21Z
+updated_at: 2026-08-31T04:15:57Z
 ---
 
 # Upload a Translation File For a Source 
@@ -41,16 +41,16 @@ If you import an exported source that has an associated translation file, you mu
 1. Log in as a user with the **Administer Sources** [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference), or a user with **read** and **write** [permission](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701101615373-About-Source-Permissions) for the data source.
 2. Select the Output for your source, then select **Upload Translation File** from the Add menu. Logi Composer prompts you to upload your file from your system.
 
-   ![Select Add or Configure to add a custom metric, upload a translation file, add a hierarchy field, or a derived field.](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418000181773 "Fields tab Add and Configure Options")
-3. Browse to your file, then select **Open**. Logi Composer returns a success message. Translated fields are indicated by the translation icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418015052557)) in the appropriate table.
+   ![Select Add or Configure to add a custom metric, upload a translation file, add a hierarchy field, or a derived field.](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527903852941 "Fields tab Add and Configure Options")
+3. Browse to your file, then select **Open**. Logi Composer returns a success message. Translated fields are indicated by the translation icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527934085005)) in the appropriate table.
 
-   ![the translation symbol indicates a translation is available for the field](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418015069325 "Fields Table with translation information")
+   ![the translation symbol indicates a translation is available for the field](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527903911821 "Fields Table with translation information")
 
 **Replace a translation file**
 
 1. Log in as a user with the **Administer Sources** [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference), or a user with **read** and **write** [permission](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701101615373-About-Source-Permissions) for the data source.
 2. Select the [Fields tab](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701116424973-Manage-Fields) for the source, then select **Upload Translation File**. Logi Composer prompts you to upload your file from your system.
-3. Browse to your revised file, then select **Open**. Logi Composer overwrites the existing metadata dictionary and returns a success message. Translated fields are indicated by the translation icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418015052557)) in the appropriate table.
+3. Browse to your revised file, then select **Open**. Logi Composer overwrites the existing metadata dictionary and returns a success message. Translated fields are indicated by the translation icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527934085005)) in the appropriate table.
 
 ## Upload or Replace a Translation File (Earlier Releases)
 
@@ -59,13 +59,13 @@ If you import an exported source that has an associated translation file, you mu
 1. Log in as a user with the **Administer Sources** [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference), or a user with **read** and **write** [permission](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701101615373-About-Source-Permissions) for the data source.
 2. Select the [Fields tab](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701116424973-Manage-Fields) for the source, then select **Upload Translation File**. Logi Composer prompts you to upload your file from your system.
 
-   ![Search for fields, or adjust fields or field settings as needed.](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418000245773 "Data options work area for your data source")
-3. Browse to your file, then select **Open**. Logi Composer returns a success message. Translated fields are indicated by the translation icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418015052557)) in the appropriate table.
+   ![Search for fields, or adjust fields or field settings as needed.](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527917473549 "Data options work area for your data source")
+3. Browse to your file, then select **Open**. Logi Composer returns a success message. Translated fields are indicated by the translation icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527934085005)) in the appropriate table.
 
-   ![the translation symbol indicates a translation is available for the field](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418015069325 "Fields Table with translation information")
+   ![the translation symbol indicates a translation is available for the field](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527903911821 "Fields Table with translation information")
 
 **Replace a translation file**
 
 1. Log in as a user with the **Administer Sources** [privilege](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005611789-Group-Privilege-Reference), or a user with **read** and **write** [permission](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701101615373-About-Source-Permissions) for the data source.
 2. Select the [Fields tab](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701116424973-Manage-Fields) for the source, then select **Upload Translation File**. Logi Composer prompts you to upload your file from your system.
-3. Browse to your revised file, then select **Open**. Logi Composer overwrites the existing metadata dictionary and returns a success message. Translated fields are indicated by the translation icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418015052557)) in the appropriate table.
+3. Browse to your revised file, then select **Open**. Logi Composer overwrites the existing metadata dictionary and returns a success message. Translated fields are indicated by the translation icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527934085005)) in the appropriate table.

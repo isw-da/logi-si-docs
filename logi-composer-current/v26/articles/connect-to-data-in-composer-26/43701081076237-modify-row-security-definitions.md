@@ -4,7 +4,7 @@ id: 43701081076237
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701081076237-Modify-Row-Security-Definitions
-updated_at: 2026-08-26T07:12:16Z
+updated_at: 2026-08-31T04:15:52Z
 ---
 
 # Modify Row Security Definitions
@@ -17,7 +17,7 @@ updated_at: 2026-08-26T07:12:16Z
 2. Select the **Sources** card on your home page or **Data Sources** from the main menu.. The Sources page appears.
 3. Locate the data source for which you want to restrict data access and select the icon in the **Row** column for the data source. The Row Security dialog appears.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417995666957)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527948131981)
 4. To modify a row security definition, select it on the left side of the Row Security dialog. The settings for the definition appear in the Filter Details on the right side of the dialog and can be modified.
 5. Modify any of the information for the row security definition, as described in [Add Row Security Definitions](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701069339405-Add-Row-Security-Definitions). When you are finished, select **Save** to save the row security settings.
 6. When all row security definition modifications have been made, select **Close** to close the Row Security dialog.

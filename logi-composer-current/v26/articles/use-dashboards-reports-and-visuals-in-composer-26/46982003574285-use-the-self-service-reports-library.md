@@ -4,7 +4,7 @@ id: 46982003574285
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/46982003574285-Use-the-Self-Service-Reports-Library
-updated_at: 2026-08-26T07:12:53Z
+updated_at: 2026-08-31T04:16:30Z
 ---
 
 # Use the Self Service Reports Library
@@ -19,7 +19,7 @@ If you have not been given access to reports, you will see no reports in the rep
 
 To access the reports library, select the **Reports** card from the home page, or select **Library** on the [menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701160499853-The-Main-Menu), then the Reports tab. The reports library opens, and reports display in a table (list) format.
 
-![use to manage your reports](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417926901517 "Reports library")
+![use to manage your reports](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527875393293 "Reports library")
 
 ## Search Field
 

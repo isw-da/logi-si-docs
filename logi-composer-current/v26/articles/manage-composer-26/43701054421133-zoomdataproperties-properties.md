@@ -4,7 +4,7 @@ id: 43701054421133
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701054421133-zoomdata-properties-Properties
-updated_at: 2026-08-26T07:11:34Z
+updated_at: 2026-08-31T04:15:10Z
 ---
 
 # zoomdata.properties Properties

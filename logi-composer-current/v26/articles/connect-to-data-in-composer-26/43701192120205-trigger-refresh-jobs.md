@@ -4,7 +4,7 @@ id: 43701192120205
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701192120205-Trigger-Refresh-Jobs
-updated_at: 2026-08-26T07:11:55Z
+updated_at: 2026-08-31T04:15:31Z
 ---
 
 # Trigger Refresh Jobs

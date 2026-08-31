@@ -4,7 +4,7 @@ id: 43701118671885
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701118671885-Apply-a-Row-Level-Filter-to-a-Visual-or-Filter-Snippet
-updated_at: 2026-08-26T07:12:11Z
+updated_at: 2026-08-31T04:15:47Z
 ---
 
 # Apply a Row-Level Filter to a Visual or Filter Snippet
@@ -15,7 +15,7 @@ You can apply row-level filters for the data in a visual or filter snippet. When
 
 **Apply a row-level filter to a visual or filter snippet**
 
-1. To access the filter sidebar, select its filter icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418102180493) or select **Settings** from the [menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu) (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418102180749)) and then select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418087447053) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu).
+1. To access the filter sidebar, select its filter icon ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528055289613) or select **Settings** from the [menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701184743565-Use-the-Visual-Drop-Down-Menu) (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528055289869)) and then select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528055290125) on the [sidebar menu](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu).
 
    The Filters sidebar appears showing any filters that have been applied.
 2. Three tabs are appear on the Filters sidebar, allowing you to create a row-level filter, a group filter, or a saved filter. If these tabs do not appear, select **Add Filter** to see them.
@@ -31,7 +31,7 @@ You can apply row-level filters for the data in a visual or filter snippet. When
    * If you select a numeric field, see [Set a Numeric Field Filter](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701133427085-Set-a-Numeric-Field-Filter).
    * If you select a time field, see [Set a Time Field Filter](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701087681293-Set-a-Time-Field-Filter).
 
-   You can also select the add icon ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418102181005 "add icon") to access the [Derived Field Editor](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701095677581-Derived-Field-Editor) or the [Custom Metrics Editor](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701082580237-Custom-Metrics-Editor) to create or modify derived fields and custom metrics to be used as filters. See [Access the Derived Field Editor from the Filters Sidebar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701066934285-Access-the-Derived-Field-Editor-from-the-Filters-Sidebar) and [Access the Custom Metrics Editor from the Filters Sidebar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701015326349-Access-the-Custom-Metrics-Editor-from-the-Filters-Sidebar).
+   You can also select the add icon ![add icon](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528074447885 "add icon") to access the [Derived Field Editor](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701095677581-Derived-Field-Editor) or the [Custom Metrics Editor](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701082580237-Custom-Metrics-Editor) to create or modify derived fields and custom metrics to be used as filters. See [Access the Derived Field Editor from the Filters Sidebar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701066934285-Access-the-Derived-Field-Editor-from-the-Filters-Sidebar) and [Access the Custom Metrics Editor from the Filters Sidebar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701015326349-Access-the-Custom-Metrics-Editor-from-the-Filters-Sidebar).
 4. After the filter specifics have been defined, select **Continue**. The filter is applied to the selected (active) visual or filter snippet. Note that a number appears in a green circle next to the filter icon on the visuals to which the filter has been applied. The number represents the number of filters applied to the visual.
 
 To view the filters applied, see [Viewing the Applied Filters for a Visual or Filter Snippet](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701133601549-Viewing-the-Applied-Filters-for-a-Visual-or-Filter-Snippet).
@@ -44,8 +44,8 @@ Suppose you want to learn what the planned sales are for different product categ
    The visual data is grouped by product category purchases.
 2. On your sales visual, select **Planned Sales** for the **Metric** (y-axis). Your visual might look like this:
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417999026829)
-3. Select the filter icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418087447309)) on the visual.
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527902550925)
+3. Select the filter icon (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528055290893)) on the visual.
 4. Select **Add Filter**, then on the Row tab, select **City**.
 5. On the next page, select the **Value** tab and ensure **Include** is selected on the tab. Then locate and select **San Francisco** from the list of available attribute values.
 6. Select **Continue**, then **Apply**. Your filter is now displayed on the Filters sidebar and is applied to your visual. The visual shows all planned purchases in San Francisco by category.
@@ -54,7 +54,7 @@ Suppose you want to learn what the planned sales are for different product categ
 9. On the next page, select the **Value** tab and ensure **Include** is selected. Then select **Male** from the list of available attribute values.
 10. Select **Continue**, then **Apply**. The Filters sidebar shows both filters you have applied to your visual. The visual shows all planned purchases in San Francisco by men. The purchases are grouped by category and might look like this:
 
-    ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418013758733)
+    ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527902612365)
 11. Filters are not saved automatically. To save your filter, select **Save Filters** on the Filters sidebar. The Save Filter Set dialog appears.
 
     Enter a name for the saved filter and, optionally, a description. If you want to share your filter, slide the **Share Filter Set** switch on (to the right). This shares the filter with other users when they view dashboards created using that same source.

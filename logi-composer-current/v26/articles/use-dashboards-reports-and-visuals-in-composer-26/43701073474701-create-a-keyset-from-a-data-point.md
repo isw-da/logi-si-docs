@@ -4,7 +4,7 @@ id: 43701073474701
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701073474701-Create-a-Keyset-From-a-Data-Point
-updated_at: 2026-08-26T07:12:02Z
+updated_at: 2026-08-31T04:15:39Z
 ---
 
 # Create a Keyset From a Data Point
@@ -18,10 +18,10 @@ You can create a keyset from a data point in a visual using the context menu. Th
 1. Create a visual.
 2. Select a data point in the visual. The context menu appears:
 
-   ![Select a data point to open the context menu](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417997496333 "Context Menu for a data point in a visual")
+   ![Select a data point to open the context menu](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527914098957 "Context Menu for a data point in a visual")
 3. Select **Keyset**. The Save Keyset dialog appears.
 
-   ![Use this work area to define a keyset for your source](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417978643981 "Save Keyset work area")
+   ![Use this work area to define a keyset for your source](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527886225677 "Save Keyset work area")
 4. Enter a name for the keyset in the **Name** box. The keyset is shared by all users of the Composer instance, and must be a unique name.
 5. Optionally, enter a description for the keyset in the **Description** box.
 6. In the **Select a Field as Key** box, select a field to use as the key for the keyset. This should be the field by which the original visual was grouped. A list of keyset values for the field you selected appears on the Save Keyset dialog. These values can include an empty value.

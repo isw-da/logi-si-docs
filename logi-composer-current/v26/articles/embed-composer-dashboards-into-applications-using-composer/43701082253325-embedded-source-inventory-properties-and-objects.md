@@ -4,7 +4,7 @@ id: 43701082253325
 section: "Embed Composer Dashboards Into Applications Using Composer"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701082253325-Embedded-Source-Inventory-Properties-and-Objects
-updated_at: 2026-08-26T07:09:50Z
+updated_at: 2026-08-31T04:13:26Z
 ---
 
 # Embedded Source Inventory Properties and Objects

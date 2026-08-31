@@ -4,7 +4,7 @@ id: 43700988439693
 section: "Embed Composer Dashboards Into Applications Using Composer"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700988439693-Modify-an-Action-Template
-updated_at: 2026-08-26T07:10:24Z
+updated_at: 2026-08-31T04:14:00Z
 ---
 
 # Modify an Action Template

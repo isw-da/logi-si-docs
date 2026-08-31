@@ -4,7 +4,7 @@ id: 43701097318925
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701097318925-Field-Capabilities
-updated_at: 2026-08-26T07:12:19Z
+updated_at: 2026-08-31T04:15:55Z
 ---
 
 # Field Capabilities
@@ -13,11 +13,11 @@ updated_at: 2026-08-26T07:12:19Z
 
 When you create your source or create fields in a source, Logi Composer defines default field capabilities for your data. You can adjust the predefined capabilities of native and derived fields on the Fields tab of your source, [enabling or disabling capabilities](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701116297741-Update-Field-Capabilities) as needed. If you update a source, any field capabilities you set remain unchanged.
 
-![search and filter your fields, then enable or disable options as needed, including Details, Filtering, Grouping, Metrics, Playing, and Raw Data](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418031113741 "Bulk Update Field Capabilities work area")
+![search and filter your fields, then enable or disable options as needed, including Details, Filtering, Grouping, Metrics, Playing, and Raw Data](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527918704525 "Bulk Update Field Capabilities work area")
 
 Use **Search** to find specific fields by **Label**, or use the provided filtering options to narrow the list of visible fields:
 
-* Filter by data type: Show **All** data type fields: Attribute (**ABC**), Number (**1.23**) or Time (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418001473421)).
+* Filter by data type: Show **All** data type fields: Attribute (**ABC**), Number (**1.23**) or Time (![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527935392397)).
 * Filter by type: **All**, **Native**, or **Derived**.
 
 **Note:** 

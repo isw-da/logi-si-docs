@@ -4,7 +4,7 @@ id: 43701176415117
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701176415117-Format-Rich-Text-Snippets
-updated_at: 2026-08-26T07:12:49Z
+updated_at: 2026-08-31T04:16:26Z
 ---
 
 # Format Rich Text Snippets
@@ -15,7 +15,7 @@ Use rich text snippets to enhance your users' dashboard experience by describing
 
 As you add and update your text, use keyboard shortcuts to undo and redo formatting changes. If you employ custom attributes in your environment, incorporate them as needed.
 
-![use to format the look and feel of your rich text snippets](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417912806797 "Rich Text Snippets Format Menu")
+![use to format the look and feel of your rich text snippets](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527882565005 "Rich Text Snippets Format Menu")
 
 Format options include:
 

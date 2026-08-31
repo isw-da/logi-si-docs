@@ -4,7 +4,7 @@ id: 43701140447885
 section: "Connect to Data in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701140447885-Set-Up-a-Data-Source-Refresh-Job
-updated_at: 2026-08-26T07:10:05Z
+updated_at: 2026-08-31T04:13:42Z
 ---
 
 # Set Up a Data Source Refresh Job

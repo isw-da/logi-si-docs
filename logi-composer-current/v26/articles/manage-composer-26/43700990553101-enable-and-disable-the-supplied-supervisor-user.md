@@ -4,7 +4,7 @@ id: 43700990553101
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700990553101-Enable-and-Disable-the-Supplied-Supervisor-User
-updated_at: 2026-08-26T07:11:41Z
+updated_at: 2026-08-31T04:15:16Z
 ---
 
 # Enable and Disable the Supplied Supervisor User

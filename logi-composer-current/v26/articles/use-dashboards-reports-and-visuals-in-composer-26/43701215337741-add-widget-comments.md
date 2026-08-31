@@ -4,7 +4,7 @@ id: 43701215337741
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215337741-Add-Widget-Comments
-updated_at: 2026-08-26T07:12:23Z
+updated_at: 2026-08-31T04:15:59Z
 ---
 
 # Add Widget Comments 
@@ -21,7 +21,7 @@ When users create a widget comment, it is linked to the widget in dashboard you 
 
 **Add a comment to a widget**
 
-1. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418098628365) in a widget or the [visual sidebar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) (if available). The Widget Comments work area opens.
+1. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528050874125) in a widget or the [visual sidebar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701215106445-Use-the-Visual-Sidebar-Menu) (if available). The Widget Comments work area opens.
 2. Enter your comment using the [widget format tools](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701185756941-Format-Comments) to adjust the look and layout of your text, or add links.
 
    As you add and update your text, you can use keyboard shortcuts to undo and redo text changes.

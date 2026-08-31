@@ -4,7 +4,7 @@ id: 43701005924493
 section: "Manage Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701005924493-Specify-A-User-s-Regional-Settings
-updated_at: 2026-08-26T07:11:44Z
+updated_at: 2026-08-31T04:15:20Z
 ---
 
 # Specify A User's Regional Settings

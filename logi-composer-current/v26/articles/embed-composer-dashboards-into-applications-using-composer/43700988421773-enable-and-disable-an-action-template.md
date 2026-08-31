@@ -4,7 +4,7 @@ id: 43700988421773
 section: "Embed Composer Dashboards Into Applications Using Composer"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43700988421773-Enable-and-Disable-an-Action-Template
-updated_at: 2026-08-26T07:10:24Z
+updated_at: 2026-08-31T04:13:59Z
 ---
 
 # Enable and Disable an Action Template

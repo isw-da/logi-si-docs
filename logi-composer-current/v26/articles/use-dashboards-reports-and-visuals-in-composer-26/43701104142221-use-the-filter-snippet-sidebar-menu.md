@@ -4,7 +4,7 @@ id: 43701104142221
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701104142221-Use-The-Filter-Snippet-Sidebar-Menu
-updated_at: 2026-08-26T07:12:08Z
+updated_at: 2026-08-31T04:15:45Z
 ---
 
 # Use The Filter Snippet Sidebar Menu
@@ -19,11 +19,11 @@ Use the filter snippet sidebar menu to:
 * Adjust widget settings for the filter snippet
 * Manage comments for the filter snippet
 
-To access the filter snippet sidebar menu, select **Settings** from the show more menu ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418111518989). The filter snippet sidebar opens.
+To access the filter snippet sidebar menu, select **Settings** from the show more menu ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528074184589). The filter snippet sidebar opens.
 
 ## Filter Snippet Sidebar Menus
 
-![Use this work area to define filter snippet data settings](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417998491149 "Data Settings work area - filter snippets")![Use this work area to define filter snippet options](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417994469645 "Flter Snippet Settings work area")![Use this work area to define filters to apply to this filter snippet](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417979640461 "Flter Snippet Filter work area")![Use this work area to define widget settings](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417968174605 "Widget Settings work area - filter snippets")![Use this work area to view and manage comments](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417979682317 "Widget Settings work area - filter snippets")
+![Use this work area to define filter snippet data settings](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527908172685 "Data Settings work area - filter snippets")![Use this work area to define filter snippet options](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527946479757 "Flter Snippet Settings work area")![Use this work area to define filters to apply to this filter snippet](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527908220813 "Flter Snippet Filter work area")![Use this work area to define widget settings](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527908243725 "Widget Settings work area - filter snippets")![Use this work area to view and manage comments](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527946546189 "Widget Settings work area - filter snippets")
 
 If this is a new filter snippet, default settings are shown. If this is an existing filter snippet, current settings are shown.
 

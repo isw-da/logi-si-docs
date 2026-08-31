@@ -4,7 +4,7 @@ id: 43701158070285
 section: "Use Dashboards, Reports  and Visuals in Composer 26"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701158070285-Mute-a-Published-Link
-updated_at: 2026-08-26T07:12:00Z
+updated_at: 2026-08-31T04:15:37Z
 ---
 
 # Mute a Published Link
@@ -17,15 +17,15 @@ You can also revoke (undo) published links from the visual itself. See [Revoke a
 
 **Mute a same-source or cross-source link from the Dashboard Interactions dialog**
 
-1. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418136555917) cross-link icon on the [dashboard icon bar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701047597837-Use-the-Dashboard-Icons). The Dashboard Interactions dialog appears. In the following image, no cross-source links are defined for the dashboard.
+1. Select ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528072843277) cross-link icon on the [dashboard icon bar](https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701047597837-Use-the-Dashboard-Icons). The Dashboard Interactions dialog appears. In the following image, no cross-source links are defined for the dashboard.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418136556173)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528053695245)
 2. Select the **Cross-Visual Filtering** tab.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48418110512397)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48528072843917)
 3. Select a visual in the **Visuals** list on the left of the tab. The right side of the tab show the link filters available to be published in the **Published filters** table.
 
-   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48417993039373)
+   ![](https://logi-composer-v26.insightsoftware.com/hc/article_attachments/48527930235277)
 4. If you want to mute all of the links available for the visual, slide the **Enable All** switch off (to the left). It no longer is blue.
 
    If you just want to mute an individual link, locate the link name in the table of **Published filters**, and slide its corresponding switch in the **Enabled** column off. Repeat this for every individual link you want muted.

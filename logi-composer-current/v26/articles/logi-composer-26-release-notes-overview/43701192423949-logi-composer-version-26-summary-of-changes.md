@@ -4,7 +4,7 @@ id: 43701192423949
 section: "Logi Composer  26 Release Notes Overview"
 product: "Logi Composer v26"
 url: https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701192423949-Logi-Composer-Version-26-Summary-of-Changes
-updated_at: 2026-08-26T07:10:59Z
+updated_at: 2026-08-31T04:14:35Z
 ---
 
 # Logi Composer Version 26 Summary of Changes
