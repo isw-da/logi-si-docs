@@ -3,6 +3,25 @@
 Empirical assessment on a live 26.2.0 instance (azuretest, 2026-07-10). The full
 OAuth2 PKCE flow and all tool calls below were executed headlessly and verified.
 
+**26.3 note (added 29 September 2026, before Simba Agentic Intelligence 26.3 is released).**
+Everything below was
+proven live on 26.2.0 and is accurate for 26.2. Three parts of it change in 26.3, and
+`26.3-authoritative.md` in this directory carries the detail:
+
+- **The four-tool surface grows.** 26.3 adds tools for creating, retrieving and rendering
+  visuals and for opening a generated visual in Composer (Confluence PJX/18246598721). The
+  table under "Live tool surface (26.2.0)" is a version-specific capture, not a contract.
+- **Observation 3, "No write tools", was a correct prediction rather than an error.**
+  Creating a visual is a write, so the `write:data` scope acquires a user in 26.3. Read that
+  observation as resolved, not as something to correct.
+- **The consent prerequisite changes.** The recipe below depends on the user already holding
+  an SI web session in the same browser, because the consent screen is served by the SI main
+  app. 26.3 removes the SI UI and its frontend APIs and moves SI to
+  `{composer-context}/intelligence` (Confluence page 18711380170), so the session that has to
+  exist is a Composer one and the ports and URLs in the recipe are unverified against 26.3.
+  26.3 also requires the canonical MCP base URL as a breaking change and hardens the OAuth
+  flow (PKCE enforcement, exact redirect matching, server-side request validation).
+
 ## Verdict
 
 SI 26.2's MCP server is a **genuinely native, standards-correct remote MCP
