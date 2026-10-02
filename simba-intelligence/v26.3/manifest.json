@@ -1,0 +1,245 @@
+[
+ {
+  "title": "Product overview",
+  "section": "getting-started",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/getting-started/product-overview.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/getting-started/product-overview.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "6f8c9ca6890c0a154192855a0c4ab57a05fa2b4136194e28e9d56b68c2cadf0b"
+ },
+ {
+  "title": "Quick start guide",
+  "section": "getting-started",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/getting-started/quick-start-guide.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/getting-started/quick-start-guide.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "324e6cabf776fa668640782fc576dee27e544513d20c183c89a1ea8b93d095ab"
+ },
+ {
+  "title": "Installation guide",
+  "section": "getting-started",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/getting-started/installation-guide.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/getting-started/installation-guide.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "0b2ff6da14d66b3af126104755f64139878e2caa09dae75286d026c6f389507b"
+ },
+ {
+  "title": "System requirements",
+  "section": "getting-started",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/getting-started/system-requirements.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/getting-started/system-requirements.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "aeddd247fea0d909052d91f7e96520af2d5eee91751660155ec793ad158ea117"
+ },
+ {
+  "title": "Helm chart reference",
+  "section": "deployment/installation-and-setup",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/deployment/installation-and-setup/helm-chart-reference.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/deployment/installation-and-setup/helm-chart-reference.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "2ef3dbc1b7b6a05c7947b302c1c87267faa1985e79cb8cf01da512768bc14d9c"
+ },
+ {
+  "title": "Air gapped deployment",
+  "section": "deployment/installation-and-setup",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/deployment/installation-and-setup/air-gapped-deployment.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/deployment/installation-and-setup/air-gapped-deployment.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "f779423a54fd6838c236b690a0a089fd946558b94455dcea78742a6222d6be9e"
+ },
+ {
+  "title": "Monitoring and alerting",
+  "section": "deployment/operations-and-maintenance",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/deployment/operations-and-maintenance/monitoring-and-alerting.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/deployment/operations-and-maintenance/monitoring-and-alerting.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "9faa210c08d15f704630732ca86bc352b053acc26a7da2923bedda5ae43668d2"
+ },
+ {
+  "title": "Scheduled tasks",
+  "section": "deployment/operations-and-maintenance",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/deployment/operations-and-maintenance/scheduled-tasks.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/deployment/operations-and-maintenance/scheduled-tasks.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "1a600af36029132daf97621f3e1668c86d9e4f35647417bd198ac1b81d41e455"
+ },
+ {
+  "title": "Backup and recovery",
+  "section": "deployment/operations-and-maintenance",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/deployment/operations-and-maintenance/backup-and-recovery.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/deployment/operations-and-maintenance/backup-and-recovery.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "0914dae967afa5d112998e16f47d5965ed19379e933c7f9ba66a4fec99072253"
+ },
+ {
+  "title": "Upgrade procedures",
+  "section": "deployment/operations-and-maintenance",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/deployment/operations-and-maintenance/upgrade-procedures.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/deployment/operations-and-maintenance/upgrade-procedures.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "2c44d72d5d18adb76b06b39d885901fbe624d7aa6c6583a5afdd20e28e3b7779"
+ },
+ {
+  "title": "Administrator guide",
+  "section": "guides/admin-guides",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/guides/admin-guides/administrator-guide.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/guides/admin-guides/administrator-guide.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "35d320fe9adc183e81251e9a939ee665bc458b00921c90ce1cb3f052e3cade6d"
+ },
+ {
+  "title": "Authentication and security",
+  "section": "guides/admin-guides",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/guides/admin-guides/authentication-and-security.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/guides/admin-guides/authentication-and-security.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "ba2895e6a6272842205c1498559b504e2ea6454ad60f4be71a03647fdfe30f4f"
+ },
+ {
+  "title": "Llm provider configuration",
+  "section": "guides/admin-guides",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/guides/admin-guides/llm-provider-configuration.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/guides/admin-guides/llm-provider-configuration.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "97446bb3c27e8bf313b92c8e0d754478c911bb6176c5c1f7e61d72ed409c7745"
+ },
+ {
+  "title": "Multi tenancy guide",
+  "section": "guides/admin-guides",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/guides/admin-guides/multi-tenancy-guide.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/guides/admin-guides/multi-tenancy-guide.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "405de251f01a8840dc05fd454645aa76306635f9617ca460d0b236260bb2b008"
+ },
+ {
+  "title": "Mcp server guide",
+  "section": "guides/admin-guides",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/guides/admin-guides/mcp-server-guide.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/guides/admin-guides/mcp-server-guide.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "2e5826ddaaa4b2daf4d3a7ee6ca1311b98a2f28affc903576216565f66a54fc8"
+ },
+ {
+  "title": "Api usage guide",
+  "section": "guides/user-guides",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/guides/user-guides/api-usage-guide.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/guides/user-guides/api-usage-guide.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "c285bba91320bbf05a8e905a106c3f85a9db1fb25a0c5e7692b62ae487a02ae6"
+ },
+ {
+  "title": "Data agent user guide",
+  "section": "guides/user-guides",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/guides/user-guides/data-agent-user-guide.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/guides/user-guides/data-agent-user-guide.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "7c7ef887d91caa30ea7084902f502af2eeb6d1a2335a0773fdb7f2140afa8044"
+ },
+ {
+  "title": "Data connection management",
+  "section": "guides/user-guides",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/guides/user-guides/data-connection-management.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/guides/user-guides/data-connection-management.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "b8887f2c14e7e3ca9699d4b0f2727f14e299d3f303bb4ffe6ec5199279e0b20a"
+ },
+ {
+  "title": "Data source optimization guide",
+  "section": "guides/user-guides",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/guides/user-guides/data-source-optimization-guide.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/guides/user-guides/data-source-optimization-guide.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "5b654cedb7ca3de8cad80e6350caefa285cb8ad8d61352b2f541066c9c278b79"
+ },
+ {
+  "title": "Playground user guide",
+  "section": "guides/user-guides",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/guides/user-guides/playground-user-guide.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/guides/user-guides/playground-user-guide.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "e76da02d066afee91e26238d7035b7f202e3c58b416c681f1f56122cb7051a3f"
+ },
+ {
+  "title": "Rules management guide",
+  "section": "guides/user-guides",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/guides/user-guides/rules-management-guide.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/guides/user-guides/rules-management-guide.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "d90e4519be5d605f375bbafc90b5cb8c2b927d7befa5684a2db5d9372513652e"
+ },
+ {
+  "title": "Logging configuration guide",
+  "section": "guides/user-guides",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/guides/user-guides/logging-configuration-guide.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/guides/user-guides/logging-configuration-guide.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "310b0ffe438318799ef0367409d52769b454a4e7150dca8dbddddc1d9df8bde2"
+ },
+ {
+  "title": "Release Notes",
+  "section": "reference",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/reference/release-notes.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/reference/release-notes.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "f531d67811dc6bddbb6f12301b137a37c1893feb0d49ad657562c95408f6801d"
+ },
+ {
+  "title": "Security best practices",
+  "section": "reference/supplementary-resources",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/reference/supplementary-resources/security-best-practices.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/reference/supplementary-resources/security-best-practices.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "39d7abda3e83db7de17a210bdef5c1fd75d43f01348b4102c4dbf6033201c496"
+ },
+ {
+  "title": "Performance tuning",
+  "section": "reference/supplementary-resources",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/reference/supplementary-resources/performance-tuning.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/reference/supplementary-resources/performance-tuning.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "c1744e2a3c10c6d447a730a225298e74fb6293bf878484fc322e151f1f9324f4"
+ },
+ {
+  "title": "Environment variables reference",
+  "section": "reference/supplementary-resources",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/reference/supplementary-resources/environment-variables-reference.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/reference/supplementary-resources/environment-variables-reference.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "1dfdcddb1b7b499618ea7def343a45ff0615686642edb93489e0ad618d2a806f"
+ },
+ {
+  "title": "Glossary",
+  "section": "reference/supplementary-resources",
+  "product": "Simba Agentic Intelligence 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/reference/supplementary-resources/glossary.md",
+  "path": "pages/simba-agentic-intelligence/docs/26.3/reference/supplementary-resources/glossary.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "e1293584bfa6c5106799c59d2e823296f92d9f77b25ae1ae1b78da6cd82278f6"
+ }
+]

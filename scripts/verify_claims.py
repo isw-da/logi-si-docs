@@ -108,6 +108,8 @@ REFERENCED = [
     "simba-intelligence/openapi.json",
     "simba-intelligence/reverse-engineered/apispec_1-26.2.0.json",
     "logi-composer-current/v25/manifest.json", "logi-composer-current/v26/manifest.json",
+    "scripts/refresh_mintlify.py",
+    "simba-intelligence/v26.3/manifest.json", "logi-composer-current/ssa-26.3/manifest.json",
 ]
 for rel in REFERENCED:
     ran += 1
@@ -148,6 +150,32 @@ for _v in ("v25", "v26"):
     if _missing:
         fails.append(f"logi-composer-current/{_v}/manifest.json lists {len(_missing)} path(s) "
                      f"with no file on disk, first: {_missing[0]}")
+
+# 9. the two Mintlify 26.3 trees written by scripts/refresh_mintlify.py: the
+#    page counts README.md states, every manifest path on disk, and every page
+#    still matching the SHA-256 recorded when it was fetched, so a hand edit to
+#    a mirrored page shows up as a failure rather than as upstream's text.
+for _rel, _what in (("simba-intelligence/v26.3", "SI 26.3"),
+                    ("logi-composer-current/ssa-26.3", "SSA 26.3")):
+    _man = json.loads(read(f"{_rel}/manifest.json"))
+    _n = len(_man)
+    claim("README.md", f"{_n} pages under `simba-agentic-intelligence/docs/26.3/`" if _what == "SI 26.3"
+          else f"{_n} pages under `pages/`", f"{_what} manifest count moved")
+    ran += 1
+    _bad = []
+    for _r in _man:
+        _fp = os.path.join(ROOT, _rel, _r["path"])
+        if not os.path.isfile(_fp):
+            _bad.append(f"missing {_r['path']}")
+            continue
+        with open(_fp, "rb") as _fh:
+            if hashlib.sha256(_fh.read()).hexdigest() != _r["sha256"]:
+                _bad.append(f"hash differs {_r['path']}")
+    _on_disk = sum(1 for _, _, fs in os.walk(os.path.join(ROOT, _rel, "pages")) for f in fs)
+    if _on_disk != _n:
+        _bad.append(f"{_on_disk} files under pages/ against {_n} manifest entries")
+    if _bad:
+        fails.append(f"{_rel}: {len(_bad)} problem(s), first: {_bad[0]}")
 
 print(f"ran {ran} check(s), {len(skips)} not applicable, {len(fails)} failed")
 print()

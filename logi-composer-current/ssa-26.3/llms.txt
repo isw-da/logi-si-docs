@@ -1,0 +1,175 @@
+release-notes	Simba Self-Service Analytics Release Notes 26.3	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/release-notes/ssa-rn-26-3.md
+release-notes	Software Updates Through Composer 26	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/release-notes/cmp-chgs-thru-v26.md
+release-notes	API Updates, Deprecated, Removed Features Through Composer 26	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/release-notes/cmp-api-cchgs-thru-v26.md
+get-started	Transitioning for Symphony and Composer Users	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/get-started/transition-sym.md
+get-started	Introduction to Simba Self-Service Analytics 26	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/get-started/welcome.md
+get-started	Configurable Data Visualization	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/get-started/ov-vis.md
+get-started	Microservices Architecture	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/get-started/arch-microservice.md
+get-started	Access and Use Self-Service Analytics	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/get-started/access.md
+get-started	Contact Technical Support	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/get-started/tech-support.md
+administer/install	Plan Your Installation	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/installation-prerequisites.md
+administer/install	Install Self-Service Analytics - Linux	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/install-ov.md
+administer/install	Install Self-Service Analytics - Windows	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/install-windows.md
+administer/install	Run Self-Service Analytics in Kubernetes	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/kubernetes-ov.md
+administer/install	Install and Set Up Self-Service Analytics 's Metadata Store	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/install-metadata-store.md
+administer/install	About Microservices	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/about-microsvcs.md
+administer/install	Screenshot Microservice	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/screenshot-install.md
+administer/install	Distributed Environment Support	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/distenv-ov.md
+administer/install	Upgrade Self-Service Analytics	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/upgrading-server.md
+administer/install	Uninstall Self-Service Analytics	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/uninstall.md
+administer	Establish a Data Gateway Connection	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/data-gateway.md
+administer	Request and Apply a New License Key	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/license-request.md
+administer/configure	Configure Self-Service Analytics	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/configure/config-mgmt-ov.md
+administer/configure	Properties Reference	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/configure/properties-reference.md
+administer/configure	Customize the User Interface	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/configure/customizing-ui.md
+administer/monitor	Self-Service Analytics Service Monitor	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/monitor/service-monitor-overview.md
+administer/monitor	Activity Logging	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/monitor/activity-logging.md
+administer/monitor	Set Up Unified Logging Using Fluentd	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/monitor/fluentd-logging.md
+administer/monitor	Distributed Tracing for Self-Service Analytics	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/monitor/distributed-tracing-using.md
+administer/users	Manage Users	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/users/users-manage.md
+administer/users	Authorize Self-Service Analytics Access for Users in Groups	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/users/aaa-ov.md
+administer/users	Manage Tenants	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/users/acct-manage.md
+administer/security	Supported Authentication Tools	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/security/authorization-tools.md
+administer/security	Trusted Access	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/security/trusted-access-ov.md
+administer/security	Encryption	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/security/changing-encryption-mode.md
+administer/security	Configure Kerberos Single Sign-On (SSO) Settings	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/security/kerberos-sso.md
+administer/security	Use OAuth 2.0 in Connections to Cloud Data Stores	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/security/oauth-in-connectors.md
+administer	Common Issues	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/common-issues.md
+analyze-data/alerts	Alerts	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/alerts/alerts-ov.md
+analyze-data/alerts	Alerts API	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/alerts/alerts-api.md
+connect-to-data/connectors	Connect Self-Service Analytics to Data Stores	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connectors-ov.md
+reference	Default Port Reference	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/reference/port-reference.md
+reference	Data Connector Reference	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/reference/data-connector-reference.md
+connect-to-data	Create and Manage Data Store Connections	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connections-managing.md
+connect-to-data/connectors	Connector Feature Support	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connector-feature-support.md
+connect-to-data/connectors	Manage the Amazon Redshift Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-amazon-redshift.md
+connect-to-data/connectors	Manage the Amazon S3 Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-amazon-s3.md
+connect-to-data/connectors	Manage the Apache Drill Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-apache-drill.md
+connect-to-data/connectors	Manage the Apache Phoenix Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-apache-phoenix.md
+connect-to-data/connectors	Manage the Apache Solr Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-solr.md
+connect-to-data/connectors	Manage the BigQuery Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-bigquery.md
+connect-to-data/connectors	Manage the Business Central Jet Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connect-to-biz-central.md
+connect-to-data/connectors	Manage the Cloudera Search Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/cloudera-search.md
+connect-to-data/connectors	Manage the Couchbase Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/couchbase.md
+connect-to-data/connectors	Manage the Dremio Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-dremio.md
+connect-to-data/connectors	Manage the Dundas BI (Managed) Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/dbi.md
+connect-to-data/connectors	Manage the Elasticsearch Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-elastic-search.md
+connect-to-data/connectors	Manage the HDFS Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/hdfs.md
+connect-to-data/connectors	Manage the Hive Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/hive.md
+connect-to-data/connectors	Manage the Jira Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-jira.md
+connect-to-data/connectors	Manage Impala Cloudera Connectors	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/cloudera-ov.md
+connect-to-data/connectors	Manage the MemSQL Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-memsql.md
+connect-to-data/connectors	Manage the MongoDB Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-mongodb.md
+connect-to-data/connectors	Manage the MySQL Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-mysql.md
+connect-to-data/connectors	Manage the OpenSearch Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-opensearch.md
+connect-to-data/connectors	Manage the Oracle Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-oracle.md
+connect-to-data/connectors	Manage the PostgreSQL Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-postgresql.md
+connect-to-data/connectors	Manage the Python Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-python.md
+connect-to-data/connectors	Manage the Real Time Sales Demo Source	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/enabling-real-time-sales-demo-source.md
+connect-to-data/connectors	Manage the Salesforce Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-salesforce.md
+connect-to-data/connectors	Manage the SAP Hana Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-sap-hana.md
+connect-to-data/connectors	Manage the SAP IQ Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-sap-iqsql.md
+connect-to-data/connectors	Manage the SAP S/4HANA Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-saps-4hana.md
+connect-to-data/connectors	Manage the Snowflake Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-snowflake.md
+connect-to-data/connectors	Manage the Spark SQL Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-sparksql.md
+connect-to-data/connectors	Manage the Microsoft SQL Server Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-sql-server.md
+connect-to-data/connectors	Manage the Teradata Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-teradata.md
+connect-to-data/connectors	Manage the TIBCO Data Virtualization (TDV) Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/tibcodv.md
+connect-to-data/connectors	Manage the Trino Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-trino.md
+connect-to-data/connectors	Manage the Vertica Connector	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-vertica.md
+connect-to-data/connectors	Manage File Uploads	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/uploading-a-flat-file.md
+connect-to-data/sources	Create and Manage Data Sources	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/data-source-config-overview.md
+connect-to-data/sources	About Source Permissions	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/ds-permissions.md
+analyze-data/visuals	Control How Users Interact With a Visual	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/visual-interactivity.md
+connect-to-data/sources	Source Creation Work Areas	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/data-source-config-source-creation-tab.md
+connect-to-data/sources	Manage the Fields Work Areas	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/data-source-config-fields-tab.md
+connect-to-data/sources	Global Settings Work Areas	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/data-source-config-global-settings-tab.md
+connect-to-data/sources	Restrict Access to Data Using Row and Column Security	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/ds-security-row.md
+connect-to-data/sources	Review Refresh Jobs	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/console.md
+connect-to-data/sources	Import or Export Sources	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/import-export-data-source.md
+connect-to-data/sources	Fuse Data Sources	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/data-fusion-overview.md
+connect-to-data/data	Configure Number Formatting - Data Sources	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/data/data-number-formatting.md
+analyze-data/visuals	Manage Visuals	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/visual-add-dash.md
+analyze-data/visuals	About Visual Permissions	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/visual-auth.md
+analyze-data/visuals	Use the Visual Gallery	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/visual-gallery.md
+analyze-data/visuals	Available Visual Types	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/available-visual-types.md
+analyze-data/visuals	Single Metric Visuals	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/arc.md
+analyze-data/visuals	Bar, Line, and Combo Charts	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/bar-standard.md
+analyze-data/visuals	Circular, Tree, and Cloud Visuals	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/pie.md
+analyze-data/visuals	Comparison and Relationship Charts	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/scatter-plot.md
+analyze-data/visuals	List Filter Visuals	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/list-filter-widget.md
+analyze-data/visuals	Map Visuals	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/map-chart-styles.md
+analyze-data/visuals	Pivot Tables	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/pivot-tables.md
+analyze-data/visuals	Tables	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/rdt.md
+analyze-data/visuals	Visuals Work Areas	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/visual-setup.md
+analyze-data/visuals	Export Visuals	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/visual-export-23.md
+analyze-data/visuals	Generate Visuals	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/generate-visuals.md
+analyze-data/visuals/colors-and-axes	Change Color Schemes	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/colors-and-axes/colors.md
+analyze-data/visuals/colors-and-axes	Specify Colors	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/colors-and-axes/specifying-colors.md
+analyze-data/visuals	Configure Visual Names, Descriptions, and Properties	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/visual-save.md
+analyze-data/visuals	Number and Date Formatting for Visuals	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/vis-number-formatting.md
+analyze-data/visuals	Rulers and Reference Lines	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/rulers.md
+analyze-data/dashboards	Dashboards	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/dashboards/dash-manage.md
+analyze-data/widgets	Rich Text Snippets	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/widgets/rts-ov.md
+analyze-data	Self Service Reports	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/ssr-manage.md
+analyze-data/dashboards	How Dashboard and Self Service Report Permissions Are Determined	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/dashboards/dash-auth-permissions.md
+analyze-data/dashboards	Control How Users Interact With a Dashboard	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/dashboards/dash-interactivity.md
+analyze-data/dashboards	About Scheduled Reports	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/dashboards/dash-schedule.md
+analyze-data/dashboards	Dashboard Layouts	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/dashboards/dash-layout.md
+analyze-data/dashboards	Share a Dashboard or Self Service Report with Users	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/dashboards/dash-share-withinacct.md
+analyze-data/dashboards	Even Time Intervals	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/dashboards/even-time-interval.md
+analyze-data/dashboards	Import Dashboards	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/dashboards/dash-import.md
+analyze-data/widgets	Use Tags to Group and Categorize Content	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/widgets/tags-ov.md
+analyze-data/widgets	Widget Comments	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/widgets/widget-cmts-ov.md
+connect-to-data/data	Manipulate Data in the Data Store	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/data/manipulate-data.md
+analyze-data/filters	Filter Data	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/filters.md
+analyze-data/filters	Use Cross-Source Links	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/using-cross-source-links.md
+analyze-data/filters	Control How Cross-Visual Filters Interact in a Dashboard	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/pubsub-ov.md
+analyze-data/filters	Publish a Link	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/published-enable.md
+analyze-data/filters	Auto Data Refresh	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/auto-refresh-filters.md
+analyze-data/filters	Use Keysets	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/keysets-overview.md
+analyze-data/filters	Group Filters	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/group-filters.md
+analyze-data/filters	Attribute Filters	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/filters-attr.md
+analyze-data/filters	Save and Maintain Filters	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/saved-filters-maintaining.md
+analyze-data/widgets	Filter Snippets	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/widgets/fltrsnp-ov.md
+connect-to-data/data	Admin-Defined Functions	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/data/admin-fx-ov.md
+connect-to-data/sources	Hierarchical Fields and Structures	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/hierarchical-fields-ov.md
+connect-to-data/data	Maintain Custom Metrics	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/data/custom-metrics.md
+connect-to-data/data	Maintain Derived Fields	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/data/derived-fields.md
+connect-to-data/data	Supported Aggregation Functions	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/data/fx-aggregate.md
+connect-to-data/data	Interpolation for User Attributes in Expressions	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/data/interpolation-ov.md
+connect-to-data/data	Support of Nested Data Structures in Self-Service Analytics	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/data/nested-data-structures.md
+analyze-data/visuals	Sort and Limit Visual Data	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/sortlimit-composer.md
+analyze-data	Use the Time Bar	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/time-bar.md
+analyze-data/visuals	Use the Conditional Formatting Sidebar	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/rdt-condt-format-using.md
+connect-to-data/sources	Use Data Sharpening	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/data-sharpening-ov.md
+embed-and-extend/embed/dash-embed	Embed Components Into Your Application	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/dash-embed/dash-embed.md
+embed-and-extend	Embedded Self-Service Analytics Component Controls	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed-controls.md
+embed-and-extend/embed	Embed Components Using JavaScript and Trusted Access	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/embed-javascript.md
+embed-and-extend/embed	Embeddable Component Snippets	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/dash-embed-gencode-dashboard.md
+embed-and-extend/embed	Embedded Source Editor	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/embed-source-editor.md
+embed-and-extend/embed/dash-embed	Embed Dashboards	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/dash-embed/dash-embed-steps.md
+embed-and-extend/embed	EmbedManager Methods	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/embed-javascript-embedmanager-methods.md
+embed-and-extend/embed	Embedded Events	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/embed-javascript-eventlisteners.md
+embed-and-extend/embed	Embed Cross-Visual Link Publish and Subscribe Settings Using JavaScript	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/pubsub-embed.md
+embed-and-extend/embed	Interactivity Properties	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/embed-javascript-embedmanager-interactivityprop.md
+embed-and-extend/custom-charts	Manage Custom Charts	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/custom-charts/custom-chart-managing.md
+embed-and-extend/custom-charts	Maintain Custom Charts Using the Custom Chart CLI	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/custom-charts/custom-chart-maint-cli.md
+embed-and-extend/custom-charts	Visual Type Configuration Properties	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/custom-charts/custom-chart-config.md
+embed-and-extend/custom-charts	A Custom Chart Tutorial	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/custom-charts/custom-chart-tut-ov.md
+embed-and-extend/custom-charts	Part 2: Query Variables, Chart Defaults, Data Preview, and Data Accessors	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/custom-charts/custom-chart-tut-ov-pt2.md
+embed-and-extend/custom-charts	Part 3: Third-Party Charting Library Integration	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/custom-charts/custom-chart-tut-ov-pt3.md
+embed-and-extend/custom-charts	Part 4: Custom Chart Controls	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/custom-charts/custom-chart-tut-ov-pt4.md
+embed-and-extend/custom-charts	Custom Chart API	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/custom-charts/custom-chart-api-docs.md
+embed-and-extend	Integrate Visual Data Into Your Applications	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/actions-overview.md
+embed-and-extend/api/application-framework	Get Started with the Self-Service Analytics Application Framework	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/api/application-framework/getting-started-with-the-application-framework.md
+embed-and-extend/api/application-framework	Configure Visuals Using Visualization Variables	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/api/application-framework/config-visuals-vis-var.md
+embed-and-extend/api/application-framework	Identify a Visual's visualizationID	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/api/application-framework/identifying-the-visid-of-a-visual.md
+embed-and-extend/api/application-framework	Identify a Visual's sourceID	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/api/application-framework/identifying-the-sourceid-of-a-visuals-source.md
+embed-and-extend/themes	Manage User Interface Themes	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/themes/themes-ov.md
+embed-and-extend/themes	Themes JSON File	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/themes/themes-json.md
+embed-and-extend/api/rest-api	REST API Overview	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/api/rest-api/restapi-overview2.md
+embed-and-extend/api/rest-api	Manage Connectors with REST APIs	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/api/rest-api/managing-connectors-with-rest-apis.md
+embed-and-extend/api/rest-api	Manage the Upload API Source	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/api/rest-api/enabling-streaming-sources-upload-api.md
+reference	Errors and Exceptions	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/reference/errors-and-exceptions.md
+reference	Country Name Reference	https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/reference/country-name-reference.md

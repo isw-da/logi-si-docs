@@ -1,0 +1,27 @@
+getting-started	Product overview	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/getting-started/product-overview.md
+getting-started	Quick start guide	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/getting-started/quick-start-guide.md
+getting-started	Installation guide	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/getting-started/installation-guide.md
+getting-started	System requirements	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/getting-started/system-requirements.md
+deployment/installation-and-setup	Helm chart reference	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/deployment/installation-and-setup/helm-chart-reference.md
+deployment/installation-and-setup	Air gapped deployment	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/deployment/installation-and-setup/air-gapped-deployment.md
+deployment/operations-and-maintenance	Monitoring and alerting	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/deployment/operations-and-maintenance/monitoring-and-alerting.md
+deployment/operations-and-maintenance	Scheduled tasks	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/deployment/operations-and-maintenance/scheduled-tasks.md
+deployment/operations-and-maintenance	Backup and recovery	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/deployment/operations-and-maintenance/backup-and-recovery.md
+deployment/operations-and-maintenance	Upgrade procedures	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/deployment/operations-and-maintenance/upgrade-procedures.md
+guides/admin-guides	Administrator guide	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/guides/admin-guides/administrator-guide.md
+guides/admin-guides	Authentication and security	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/guides/admin-guides/authentication-and-security.md
+guides/admin-guides	Llm provider configuration	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/guides/admin-guides/llm-provider-configuration.md
+guides/admin-guides	Multi tenancy guide	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/guides/admin-guides/multi-tenancy-guide.md
+guides/admin-guides	Mcp server guide	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/guides/admin-guides/mcp-server-guide.md
+guides/user-guides	Api usage guide	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/guides/user-guides/api-usage-guide.md
+guides/user-guides	Data agent user guide	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/guides/user-guides/data-agent-user-guide.md
+guides/user-guides	Data connection management	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/guides/user-guides/data-connection-management.md
+guides/user-guides	Data source optimization guide	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/guides/user-guides/data-source-optimization-guide.md
+guides/user-guides	Playground user guide	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/guides/user-guides/playground-user-guide.md
+guides/user-guides	Rules management guide	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/guides/user-guides/rules-management-guide.md
+guides/user-guides	Logging configuration guide	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/guides/user-guides/logging-configuration-guide.md
+reference	Release Notes	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/reference/release-notes.md
+reference/supplementary-resources	Security best practices	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/reference/supplementary-resources/security-best-practices.md
+reference/supplementary-resources	Performance tuning	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/reference/supplementary-resources/performance-tuning.md
+reference/supplementary-resources	Environment variables reference	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/reference/supplementary-resources/environment-variables-reference.md
+reference/supplementary-resources	Glossary	https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/reference/supplementary-resources/glossary.md

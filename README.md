@@ -22,6 +22,7 @@ before trusting a date.
 - `llms.txt`, an index of every SI page.
 - `pages/`, the 27 SI pages as individual markdown files.
 - `openapi.json`, present but a placeholder only (it is the docs template's sample, and its only two paths are `/plants` and `/plants/{id}`, under the title "OpenAPI Plant Store"). It is not the real SI API. Kept and labelled so its state is obvious.
+- `v26.3/`, the public Simba Agentic Intelligence 26.3 pages from the same Mintlify site, 27 pages under `pages/`, with a `manifest.json` (title, URL, fetch time, SHA-256 per page) and an `llms.txt`. The 27 pages above are the older snapshot from 26 June 2026 and predate the 26.2 and 26.3 docs; use `v26.3/` for anything current.
 - `reverse-engineered/`, notes taken against running SI instances where the published docs are silent or lag the release, each one stating how and when it was checked. It includes `apispec_1-26.2.0.json`, the specification the product itself generates at `/apispec_1.json`: Swagger 2.0, titled "Simba Intelligence API", 32 paths, all under `/api/v1/`. That is the real SI API, and the docs site does not publish it.
 
 `logi-devnet/` is the insightsoftware devnet help centre as it stood on 26 June 2026, 15,712 articles. By the `product` field in `manifest.json`: Logi Report 9,344, Logi Info 3,700, Logi Composer 1,306, Izenda 870, Exago 457, General 33, and one article each tagged Logi Symphony and Dundas BI. So it is mostly a Logi Report and Logi Info archive, and anyone hoping for Dundas coverage should look elsewhere. The Composer content here is the older v5/v6 (Zoomdata-era) documentation. Current Composer docs are in `logi-composer-current/` below.
@@ -39,6 +40,7 @@ before trusting a date.
 `logi-composer-current/` is the current Logi Composer product documentation, pulled from the v25 and v26 help-centre sites, which the devnet help centre does not carry.
 - `v25/` and `v26/`, each with `articles/<section>/<id>-<title>.md`, plus a `manifest.json` and `llms.txt` index per version. 877 v25 articles and 883 v26 articles, matching upstream when the refresh last ran.
 - Count the manifest, not the files on disk. There are more `.md` files than manifest entries (934 in v25, 1,190 in v26) because the refresh writes a new file when upstream retitles an article and never deletes the old slug. The manifest is regenerated from upstream every run, so it is the list to ingest; the orphans are older copies of articles that are still present under their current names.
+- `ssa-26.3/` is Self-Service Analytics 26.3 (the Composer product under Simba Embedded Analytics), which is published on the Mintlify site rather than a help centre: 175 pages under `pages/`, with the same `manifest.json` and `llms.txt` as `simba-intelligence/v26.3/`.
 - This is where the current how-to lives. Use it over the legacy Composer content in `logi-devnet/` for anyone on Composer 25 or 26.
 
 `logi-report-api/` is the Logi Report Server Web API, which is a different product with a different spec format. `logireport-openapi.json` and `.yaml` are Swagger 2.0, 124 paths and 225 operations across 11 tags, copied out of a running Logi Report Server 26.2 SP1 rather than reconstructed from prose. `ENDPOINTS.md` indexes it and `PROVENANCE.md` says where it came from. The fuller Logi Report corpus lives in [`logi-report-kb`](https://github.com/isw-da/logi-report-kb), which also holds the checksum and the gate that re-checks this spec against a running container.
@@ -51,10 +53,18 @@ Pick whichever fits the customer's stack.
 2. Claude Project. Add the files as project knowledge and ask in the same way.
 3. Your own app, by retrieval or MCP. Index the markdown into a vector store and fetch the matching pages per question, or wrap the repo as an MCP server so a governed assistant can pull docs on demand. `manifest.json` gives you the full file list to ingest.
 
+## What changed in 26.3
+
+Self-Service Analytics 26.3 and its Helm chart were published on 29 September 2026. Three public facts worth knowing before reading the rest of the mirror:
+
+- Kubernetes is supported for new installations only, from 26.3 onwards. The chart is `composer/composer` from the Helm repository `https://composer-repo.logianalytics.com/helm-charts/stable`. Source: [Kubernetes overview](https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/kubernetes-ov.md), mirrored at `logi-composer-current/ssa-26.3/`.
+- Chart `composer/composer` 1.22.0 carries app version 26.3 (created 29 September 2026); 1.21.0 is 26.2 and 1.20.0 is 26.1. Source: the public repository's [`index.yaml`](https://composer-repo.logianalytics.com/helm-charts/stable/index.yaml).
+- The Simba Agentic Intelligence 26.3 docs are public: on 2 October 2026 the [index](https://insightsoftware.mintlify.app/llms.txt) listed 27 pages under `simba-agentic-intelligence/docs/26.3/`, mirrored at `simba-intelligence/v26.3/`. Their [installation guide](https://insightsoftware.mintlify.app/simba-agentic-intelligence/docs/26.3/getting-started/installation-guide.md) says SI is now installed as part of the Self-Service Analytics chart rather than a chart of its own.
+
 ## Honest limits
 
 - The assistant retrieves, it does not know. Answer quality depends on what got indexed and how the question is phrased; it can still miss or fetch the wrong page.
-- Only `logi-composer-current/v25` and `v26` refresh themselves weekly. Those are the only two entries in `SOURCES` in `scripts/refresh.py`. Everything else is a dated snapshot: `logi-devnet/` and the Mintlify part of `simba-intelligence/` (26 June 2026), `simba-intelligence/reverse-engineered/` (July 2026, each file dated in its own header), `composer-api/` (26 June and 27 August 2026, one date per spec) and `logi-report-api/` (copied here 28 August 2026 from a 26.2 SP1 install).
+- Only `logi-composer-current/v25` and `v26` refresh themselves weekly. Those are the only two entries in `SOURCES` in `scripts/refresh.py`. Everything else is a dated snapshot: `logi-devnet/` and the original Mintlify part of `simba-intelligence/` (26 June 2026), `simba-intelligence/v26.3/` and `logi-composer-current/ssa-26.3/` (2 October 2026, the `fetched_at` in each `manifest.json`), `simba-intelligence/reverse-engineered/` (July 2026, each file dated in its own header), `composer-api/` (26 June and 27 August 2026, one date per spec) and `logi-report-api/` (copied here 28 August 2026 from a 26.2 SP1 install).
 - `logi-devnet/` is frozen rather than retired. The upstream Zendesk API still answers: on 28 August 2026 `https://devnet.logianalytics.com/api/v2/help_center/en-us/articles.json` reported 15,713 articles against the 15,712 mirrored here. Adding it back to `SOURCES` is a small change, and nobody has needed it enough to make it.
 - The SI documentation site publishes no usable OpenAPI document: the `openapi.json` it ships is the template's plant-store sample. The product itself does generate one, and a live copy is kept at `simba-intelligence/reverse-engineered/apispec_1-26.2.0.json` (32 paths, all `/api/v1/`). Treat it as a capture from one version of one instance rather than a published contract, because insightsoftware does not publish it. The Composer and discovery API in `composer-api/`, which is the backend SI queries, is the spec that is served from a documented endpoint. See `simba-intelligence/API-NOTES.md`.
 
@@ -80,6 +90,8 @@ also means it never deletes, which is where the orphan slug files above come fro
 `logi-devnet/` and `simba-intelligence/` are not in `SOURCES` and are not touched by the
 weekly job. `python3 scripts/refresh.py --dry-run` prints exactly what it covers, and on
 28 August 2026 it reported v25 877 upstream against 877 mirrored, v26 883 against 883.
+
+**The two Mintlify 26.3 trees are refreshed by hand** with `python3 scripts/refresh_mintlify.py` (`--dry-run` reports counts and writes nothing). It reads the site's `llms.txt`, keeps the URLs under each tree's prefix, and rewrites that tree's `pages/` whole, so a page upstream drops does not linger. It needs no dependency beyond Python.
 
 **`composer-api/` is NOT automated and cannot be.** Those OpenAPI specs come from a running
 Composer instance, not a documentation site, and CI cannot reach one. They are pulled by

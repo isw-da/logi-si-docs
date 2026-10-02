@@ -1,0 +1,1577 @@
+[
+ {
+  "title": "Simba Self-Service Analytics Release Notes 26.3",
+  "section": "release-notes",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/release-notes/ssa-rn-26-3.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/release-notes/ssa-rn-26-3.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "6cca134d01da69b5deceae21d05c8f51849aa8b4db049229a7d6b074661fcb0a"
+ },
+ {
+  "title": "Software Updates Through Composer 26",
+  "section": "release-notes",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/release-notes/cmp-chgs-thru-v26.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/release-notes/cmp-chgs-thru-v26.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "208a356a1216faff35579975c55d04dd09e928692eaf249b2146ed4b8de3c3d9"
+ },
+ {
+  "title": "API Updates, Deprecated, Removed Features Through Composer 26",
+  "section": "release-notes",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/release-notes/cmp-api-cchgs-thru-v26.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/release-notes/cmp-api-cchgs-thru-v26.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "86c7f5c4e5e9ddf1eda6755308c37eca2ccd688176656f8b2265a5ebd54bf61a"
+ },
+ {
+  "title": "Transitioning for Symphony and Composer Users",
+  "section": "get-started",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/get-started/transition-sym.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/get-started/transition-sym.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "1cbff390fddc0b59ff3d004b0824a3b9cce7d221b45030a9dc3908cbb673685e"
+ },
+ {
+  "title": "Introduction to Simba Self-Service Analytics 26",
+  "section": "get-started",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/get-started/welcome.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/get-started/welcome.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "7857ef8826387f92274ac0d0fbc1e0b58a9ef82de1e54ff2c4753b16925bfaa2"
+ },
+ {
+  "title": "Configurable Data Visualization",
+  "section": "get-started",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/get-started/ov-vis.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/get-started/ov-vis.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "e82a2ad435e4ce31bd4cda61d50e9e04ef34c7990fe8047d07b426fabf62f0dc"
+ },
+ {
+  "title": "Microservices Architecture",
+  "section": "get-started",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/get-started/arch-microservice.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/get-started/arch-microservice.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "f49047592b1aeddcf0b89c1a47bd049d425fc051696a4085fc03f0fc01ddc3c6"
+ },
+ {
+  "title": "Access and Use Self-Service Analytics",
+  "section": "get-started",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/get-started/access.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/get-started/access.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "fc0a3633fcaf5bbaa8c5ae37739012fe7bae97457c55df894440e00bf55f34ed"
+ },
+ {
+  "title": "Contact Technical Support",
+  "section": "get-started",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/get-started/tech-support.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/get-started/tech-support.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "35aafa5d154bae34d5da67f1605a085ebbd5665d280126e3e8b4082761b75625"
+ },
+ {
+  "title": "Plan Your Installation",
+  "section": "administer/install",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/installation-prerequisites.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/installation-prerequisites.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "c6b8fcd128c5d8d6b63f148442085eed24d198c4b6a24487b87eab509ff94739"
+ },
+ {
+  "title": "Install Self-Service Analytics - Linux",
+  "section": "administer/install",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/install-ov.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/install-ov.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "0317a0da378e167449bfaa9a74a880d9ac55030338046010bc032507c3d327f1"
+ },
+ {
+  "title": "Install Self-Service Analytics - Windows",
+  "section": "administer/install",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/install-windows.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/install-windows.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "768e4f2aa8f0f36a9b0c32e28921fb86c261359b232c669b827975676504392a"
+ },
+ {
+  "title": "Run Self-Service Analytics in Kubernetes",
+  "section": "administer/install",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/kubernetes-ov.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/kubernetes-ov.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "789d8f717a045e8b403ea699e9ab3cc840676ce826eaad42ed93063ff9152559"
+ },
+ {
+  "title": "Install and Set Up Self-Service Analytics 's Metadata Store",
+  "section": "administer/install",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/install-metadata-store.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/install-metadata-store.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "ccdbf642f1117c15b47cc798b658d8b5f8a29c408cd8db6931193934109f5670"
+ },
+ {
+  "title": "About Microservices",
+  "section": "administer/install",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/about-microsvcs.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/about-microsvcs.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "65939f413e43e93c05bda2f69a5231187572218df23590ab8d1c6f1230e5c3ae"
+ },
+ {
+  "title": "Screenshot Microservice",
+  "section": "administer/install",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/screenshot-install.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/screenshot-install.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "2853679e9d91cab75b2d4f82499c88bdfba2c8e7c7d069f2c69bd1b6f92ce5c0"
+ },
+ {
+  "title": "Distributed Environment Support",
+  "section": "administer/install",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/distenv-ov.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/distenv-ov.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "4650225e93a9ee548e60b9eb8c999f2a1642431c2194e2c3d211525ad3238683"
+ },
+ {
+  "title": "Upgrade Self-Service Analytics",
+  "section": "administer/install",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/upgrading-server.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/upgrading-server.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "d93abf1c9b37181ddf8e8e9846b28f5066cc0ecba9ed25cc721c798518f156c1"
+ },
+ {
+  "title": "Uninstall Self-Service Analytics",
+  "section": "administer/install",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/uninstall.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/install/uninstall.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "b0529f59f81ead3267592db3493b34c8b09a869d56dc802ca70cf9afb0ff5051"
+ },
+ {
+  "title": "Establish a Data Gateway Connection",
+  "section": "administer",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/data-gateway.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/data-gateway.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "a5d929443d4f98d9d03231b6e30d04552252956b994c933cfebc431da54c287d"
+ },
+ {
+  "title": "Request and Apply a New License Key",
+  "section": "administer",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/license-request.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/license-request.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "5386cd6c4e78fe1d297ceae300a9ceb0e6b18fe4f12da1d5ede78aef2e1ff098"
+ },
+ {
+  "title": "Configure Self-Service Analytics",
+  "section": "administer/configure",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/configure/config-mgmt-ov.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/configure/config-mgmt-ov.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "44e7726f78d56377cd48b53977c6beb11aa737ac279326d2c3b46a6e01eb2921"
+ },
+ {
+  "title": "Properties Reference",
+  "section": "administer/configure",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/configure/properties-reference.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/configure/properties-reference.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "dd161c63381afe441057e5f0c4462abc11bd52c3d61ec1eab8c5010048d8ae94"
+ },
+ {
+  "title": "Customize the User Interface",
+  "section": "administer/configure",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/configure/customizing-ui.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/configure/customizing-ui.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "228a78209700d81cb73babbcc0dcd2f8927375d87affdc02c17cec5fc9492a41"
+ },
+ {
+  "title": "Self-Service Analytics Service Monitor",
+  "section": "administer/monitor",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/monitor/service-monitor-overview.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/monitor/service-monitor-overview.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "6cf4dc44bfde273ee7329c6c7f24b8b701efaefc43d2b57a050e8297cf1c7b44"
+ },
+ {
+  "title": "Activity Logging",
+  "section": "administer/monitor",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/monitor/activity-logging.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/monitor/activity-logging.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "76f662ff2e677d2ff821cef1348ba8c612677e3e86777c024ecfec530dd23ae8"
+ },
+ {
+  "title": "Set Up Unified Logging Using Fluentd",
+  "section": "administer/monitor",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/monitor/fluentd-logging.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/monitor/fluentd-logging.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "5d8c2a958a8c27ccf45b37494df4a0ce4f3e1b30f828bc7cd40c1e45e4ae3d16"
+ },
+ {
+  "title": "Distributed Tracing for Self-Service Analytics",
+  "section": "administer/monitor",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/monitor/distributed-tracing-using.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/monitor/distributed-tracing-using.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "38f3c94cff8fe20b2e31217ec6999570cc0f171d0c565f3ef80510fc9fa0ba04"
+ },
+ {
+  "title": "Manage Users",
+  "section": "administer/users",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/users/users-manage.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/users/users-manage.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "c9bd8977ef12cac080fbaf69432d760deeb4eea906274111cefadaf7861e31d2"
+ },
+ {
+  "title": "Authorize Self-Service Analytics Access for Users in Groups",
+  "section": "administer/users",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/users/aaa-ov.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/users/aaa-ov.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "81f32ac09e54176843803d35d1c5a4e5841c0c79b44d82c382adde3c535750d8"
+ },
+ {
+  "title": "Manage Tenants",
+  "section": "administer/users",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/users/acct-manage.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/users/acct-manage.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "ac12a5e990111a646a0f7bc00b53242baede182f7d227afbb17d628effba5357"
+ },
+ {
+  "title": "Supported Authentication Tools",
+  "section": "administer/security",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/security/authorization-tools.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/security/authorization-tools.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "29d8b5dd445062416bf80f5eff8fd70c4b4909c63a0a5f8e5242d124fe2d7d5b"
+ },
+ {
+  "title": "Trusted Access",
+  "section": "administer/security",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/security/trusted-access-ov.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/security/trusted-access-ov.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "702daf19438bd15ab08e399c064260d7301e3814f58a27812fdbfc9a18d6ee6e"
+ },
+ {
+  "title": "Encryption",
+  "section": "administer/security",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/security/changing-encryption-mode.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/security/changing-encryption-mode.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "337e30ccda613e99196d31617bf6133111287f7420a606fe3155d411d07b0b92"
+ },
+ {
+  "title": "Configure Kerberos Single Sign-On (SSO) Settings",
+  "section": "administer/security",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/security/kerberos-sso.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/security/kerberos-sso.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "bccf57a90f1491061db0105b4dfba00d1387c654f753a989fc0f50b5973d9938"
+ },
+ {
+  "title": "Use OAuth 2.0 in Connections to Cloud Data Stores",
+  "section": "administer/security",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/security/oauth-in-connectors.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/security/oauth-in-connectors.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "cc1f8791d4b16b480fffa74e9f88fb73d9c9ba993e270e9b2834bbc8b7d32f5c"
+ },
+ {
+  "title": "Common Issues",
+  "section": "administer",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/common-issues.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/administer/common-issues.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "c84ef2c8f0143e32cf46db8cceefc2f9f91532f33424e5341379ef439295f126"
+ },
+ {
+  "title": "Alerts",
+  "section": "analyze-data/alerts",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/alerts/alerts-ov.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/alerts/alerts-ov.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "61f40144502bee00174bba74eb0946b7c9ab4b1cfb5466a77ad408d592f4d778"
+ },
+ {
+  "title": "Alerts API",
+  "section": "analyze-data/alerts",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/alerts/alerts-api.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/alerts/alerts-api.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "56144c5843c3781ea735c0fcf9df782513e9a42e367bc1e5adece256512e72b9"
+ },
+ {
+  "title": "Connect Self-Service Analytics to Data Stores",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connectors-ov.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connectors-ov.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "1ad455dd06c9a06c6dfd78bb553daeb7cafeceb77ef019bb4a682d46dcec954c"
+ },
+ {
+  "title": "Default Port Reference",
+  "section": "reference",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/reference/port-reference.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/reference/port-reference.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "95fe7679d422c08d20c19cf52ea3c7c95e5baa2cb21144a0d99852f144ed5d52"
+ },
+ {
+  "title": "Data Connector Reference",
+  "section": "reference",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/reference/data-connector-reference.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/reference/data-connector-reference.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "5f79469971b8760d27ae66dfd274f83489a3b2c24701826cb6be254a00220757"
+ },
+ {
+  "title": "Create and Manage Data Store Connections",
+  "section": "connect-to-data",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connections-managing.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connections-managing.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "1615c346a91ffff6436104e377e8b19fb2fde3d257d1833918295c0dfc4f10ff"
+ },
+ {
+  "title": "Connector Feature Support",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connector-feature-support.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connector-feature-support.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "e213268f80bcacebec4d207bf952cc64cb488248f349b676d35910308628038f"
+ },
+ {
+  "title": "Manage the Amazon Redshift Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-amazon-redshift.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-amazon-redshift.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "3e2f1cbd668a5ec9649a1047f79a5608204f049b13896daa687b3b6a716825b3"
+ },
+ {
+  "title": "Manage the Amazon S3 Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-amazon-s3.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-amazon-s3.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "8d916c1f7450a0afd5cb7b492aae8722deae64561322a3c1a8ab5a28850d3b19"
+ },
+ {
+  "title": "Manage the Apache Drill Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-apache-drill.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-apache-drill.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "d05efa683e733f0f25386af35ec9218d7287b6e5d156e35ca18e6b0ec796087f"
+ },
+ {
+  "title": "Manage the Apache Phoenix Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-apache-phoenix.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-apache-phoenix.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "bf63f6c46f9ab08544dd08b1a517fa7342e45dbbcf2054f02643823d8004a605"
+ },
+ {
+  "title": "Manage the Apache Solr Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-solr.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-solr.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "3b3565782574469981165c110d628970e6e0ee6bd90fe63625d4a36bee44adbd"
+ },
+ {
+  "title": "Manage the BigQuery Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-bigquery.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-bigquery.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "c29041bd9a822a075a1dc5cb5692dee71ecd1adf904737c04a72b5e1813f1a59"
+ },
+ {
+  "title": "Manage the Business Central Jet Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connect-to-biz-central.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connect-to-biz-central.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "c9565397f8a05684186f94f34581f8566ef9b0662c5a8f49591653139b969b03"
+ },
+ {
+  "title": "Manage the Cloudera Search Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/cloudera-search.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/cloudera-search.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "2791c689b143bcbfabfbaad9bd24734142166301bd15bebef8681a727b73c90a"
+ },
+ {
+  "title": "Manage the Couchbase Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/couchbase.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/couchbase.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "a453910324b47804fc83683cd293bda89a30f36073a6c0297aa65ce8846c15ac"
+ },
+ {
+  "title": "Manage the Dremio Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-dremio.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-dremio.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "5393697bce30d2aaeb681764b45f39e3859414cf51819cb779cbc057d57e133a"
+ },
+ {
+  "title": "Manage the Dundas BI (Managed) Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/dbi.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/dbi.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "e4d8c6f9c2bc7208cd4c3fb9a5d62e5845155e0b5819493d8476149c36fedcc2"
+ },
+ {
+  "title": "Manage the Elasticsearch Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-elastic-search.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-elastic-search.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "12c31768b7e6535279098064b6229401757ed52ea2c99deeeb93ba422804a1b1"
+ },
+ {
+  "title": "Manage the HDFS Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/hdfs.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/hdfs.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "2801906219a7f376432b7d2d61e09c74f10cada70855f508387ad88ef1dc2ada"
+ },
+ {
+  "title": "Manage the Hive Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/hive.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/hive.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "e94fb73d307f43ee1a239a38aab547ae09371f978868286e5a4fd6f422816064"
+ },
+ {
+  "title": "Manage the Jira Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-jira.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-jira.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "4e65294ac6f8967cea8c3e3c79fc0e940d9ccf6a8f2bc7444bd5d31f5dca559b"
+ },
+ {
+  "title": "Manage Impala Cloudera Connectors",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/cloudera-ov.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/cloudera-ov.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "4b9417506ae8006c838cc1873db599c294fa31b9926a1be7bf0bb89c1b9fc0d3"
+ },
+ {
+  "title": "Manage the MemSQL Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-memsql.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-memsql.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "a127f0e655ce22d4fefc4e62bf040ba679c3a2b63f8f398f545244268496d7e8"
+ },
+ {
+  "title": "Manage the MongoDB Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-mongodb.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-mongodb.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "8d18286cf4cd1c73b84735e60e64a8f679c47148300da6b66866f2109e04f932"
+ },
+ {
+  "title": "Manage the MySQL Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-mysql.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-mysql.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "812153a64e903c948e103e7439eb477c030dec0434ae4e857c02e56296e20169"
+ },
+ {
+  "title": "Manage the OpenSearch Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-opensearch.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-opensearch.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "5b9c5e643e38428dc5811d0166274658a93b093a644bc77437f71da162bcb5cb"
+ },
+ {
+  "title": "Manage the Oracle Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-oracle.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-oracle.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "b252868e725cfd8db5d90bec072af73118fabb45c868c554f8475bfb374f4c67"
+ },
+ {
+  "title": "Manage the PostgreSQL Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-postgresql.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-postgresql.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "eeeaa71afa08ae53ca00d41955b97a0355511e90f135bacca84f13da0c29fc10"
+ },
+ {
+  "title": "Manage the Python Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-python.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-python.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "76cd5c276cd570624d299b0cd03c634c1f80f5c9ced4fadc671be11ded4a1fb3"
+ },
+ {
+  "title": "Manage the Real Time Sales Demo Source",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/enabling-real-time-sales-demo-source.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/enabling-real-time-sales-demo-source.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "1046f73da64b7128a9caa309360da4ab68f230facdff5f1e61378b188e859642"
+ },
+ {
+  "title": "Manage the Salesforce Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-salesforce.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-salesforce.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "942d8bb7ac71bef8ccd49514c8a9318f3ce57689402d68f8ac3af130ec01b899"
+ },
+ {
+  "title": "Manage the SAP Hana Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-sap-hana.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-sap-hana.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "442b42473f523f9467a683450f17006e4e4b3950d3d37a2a60373630e12e0e7c"
+ },
+ {
+  "title": "Manage the SAP IQ Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-sap-iqsql.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-sap-iqsql.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "65f4f546fc3de67c00f1e49f0164f936a9a77e2125e084de939b7d8de46458c2"
+ },
+ {
+  "title": "Manage the SAP S/4HANA Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-saps-4hana.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-saps-4hana.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "ce302614fbc5349f2260a9397a33ffca7a448d840a7b5b056565600eea0863b8"
+ },
+ {
+  "title": "Manage the Snowflake Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-snowflake.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-snowflake.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "c3cbe9e2ee4591a1354ecdc568ab8ae35be8be4b631041b9c22f436f88824d08"
+ },
+ {
+  "title": "Manage the Spark SQL Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-sparksql.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-sparksql.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "e0c0a3ddccf1e61c163ab4f27c282910014a749ab47e153df2c9dc1b100b1139"
+ },
+ {
+  "title": "Manage the Microsoft SQL Server Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-sql-server.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-sql-server.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "c8c209d5226248d9480630a91f6b483d615a24606191bf3d82385af690b96469"
+ },
+ {
+  "title": "Manage the Teradata Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-teradata.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-teradata.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "d8fc776c019257e13a68d14f17b2cfd65fbfd8233653d9aa19d7eaa75c3abe97"
+ },
+ {
+  "title": "Manage the TIBCO Data Virtualization (TDV) Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/tibcodv.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/tibcodv.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "fdc0daeda5c89fbe49dea34e826678f726ecf802831cb27a2e6e96ee0b0c1227"
+ },
+ {
+  "title": "Manage the Trino Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-trino.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-trino.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "f1d980e9c1c22f8d34c0ac5d3265bf726063d0ac8ec94cf14567f6a7e082015f"
+ },
+ {
+  "title": "Manage the Vertica Connector",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-vertica.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/connecting-to-vertica.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "86a737ba4302563a578473375c1349bfec5fcb3416a6f796fcd8ab7df9007f4e"
+ },
+ {
+  "title": "Manage File Uploads",
+  "section": "connect-to-data/connectors",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/uploading-a-flat-file.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/connectors/uploading-a-flat-file.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "c9915a27d655a62b71540f185e9e91f4994e32542ac9e058f777e7563f99c46a"
+ },
+ {
+  "title": "Create and Manage Data Sources",
+  "section": "connect-to-data/sources",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/data-source-config-overview.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/data-source-config-overview.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "849fda80e60334eda321a1527eb38f051e7c5f952724cd8a9940602eed289850"
+ },
+ {
+  "title": "About Source Permissions",
+  "section": "connect-to-data/sources",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/ds-permissions.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/ds-permissions.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "e6c9e3df25724c080935217c0e3ae9ee0d9dc0fbbb301f6ece61e40c38809ae3"
+ },
+ {
+  "title": "Control How Users Interact With a Visual",
+  "section": "analyze-data/visuals",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/visual-interactivity.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/visual-interactivity.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "57363ac7f6001594217b245aba4ed0037f2ae24616229100634fd154f553a87d"
+ },
+ {
+  "title": "Source Creation Work Areas",
+  "section": "connect-to-data/sources",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/data-source-config-source-creation-tab.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/data-source-config-source-creation-tab.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "7e8b72cf5aca982ac7373a95ea27d23d7176e8f14e40aaf13f170813be947028"
+ },
+ {
+  "title": "Manage the Fields Work Areas",
+  "section": "connect-to-data/sources",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/data-source-config-fields-tab.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/data-source-config-fields-tab.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "017af3e1e3f2b96cb608a6fdac9410908eeee1f142663aff53dabf5fc0d5fae2"
+ },
+ {
+  "title": "Global Settings Work Areas",
+  "section": "connect-to-data/sources",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/data-source-config-global-settings-tab.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/data-source-config-global-settings-tab.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "eaa86759b4d037071d74e25c789cc9de19bf9ade300a5d4bd65347daea3d1bf3"
+ },
+ {
+  "title": "Restrict Access to Data Using Row and Column Security",
+  "section": "connect-to-data/sources",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/ds-security-row.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/ds-security-row.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "3ebe1a41638f7be144462b7d068db9a9e44a1f2267fede3d110fa6d6b145698f"
+ },
+ {
+  "title": "Review Refresh Jobs",
+  "section": "connect-to-data/sources",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/console.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/console.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "0cebc2e1b0ff73c33aebecc04fe090554a4368b43c90fd93061a600c824abf9e"
+ },
+ {
+  "title": "Import or Export Sources",
+  "section": "connect-to-data/sources",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/import-export-data-source.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/import-export-data-source.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "424210f59e4a135af12d1ddc692b6715aa1935e14f8f4036dd14414afa4bf226"
+ },
+ {
+  "title": "Fuse Data Sources",
+  "section": "connect-to-data/sources",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/data-fusion-overview.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/data-fusion-overview.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "dd480e475535a2ad1ab8227a5c866759663083dda89e809324962501d2baef67"
+ },
+ {
+  "title": "Configure Number Formatting - Data Sources",
+  "section": "connect-to-data/data",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/data/data-number-formatting.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/data/data-number-formatting.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "14c17eea64f3b6ea0c0462dedb39f1c40b06addc90e05330cd6441e2104afdb1"
+ },
+ {
+  "title": "Manage Visuals",
+  "section": "analyze-data/visuals",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/visual-add-dash.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/visual-add-dash.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "0fe9b91cabbb63f9cdbdc786c771ad50493acfed92706670782d5740c327760c"
+ },
+ {
+  "title": "About Visual Permissions",
+  "section": "analyze-data/visuals",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/visual-auth.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/visual-auth.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "a6cf30741b795b3bc53a3dd53fa971b96222ba1d779e590c3ef983614ea56ecd"
+ },
+ {
+  "title": "Use the Visual Gallery",
+  "section": "analyze-data/visuals",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/visual-gallery.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/visual-gallery.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "10edbb5f54bbe05381ee92bc588b9d64ad974e902f845e067afd228a8efae61e"
+ },
+ {
+  "title": "Available Visual Types",
+  "section": "analyze-data/visuals",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/available-visual-types.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/available-visual-types.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "8da5bbec46a7490d3cea1d15087c03db3685e5f83e6c1d8043bd9ad800c2ed21"
+ },
+ {
+  "title": "Single Metric Visuals",
+  "section": "analyze-data/visuals",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/arc.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/arc.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "d376c418a12ba770a3f44823bdef90ced00c16fade1f199face0db3140e6562c"
+ },
+ {
+  "title": "Bar, Line, and Combo Charts",
+  "section": "analyze-data/visuals",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/bar-standard.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/bar-standard.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "fd4065c5e78e4e09e611526f8823346b4f1bcc7113eff390b9bf8c4712cee18b"
+ },
+ {
+  "title": "Circular, Tree, and Cloud Visuals",
+  "section": "analyze-data/visuals",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/pie.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/pie.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "0b5064b754d0c278fa2d7c100c671d8dab54b41e99ef120355f7d1c27a61625a"
+ },
+ {
+  "title": "Comparison and Relationship Charts",
+  "section": "analyze-data/visuals",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/scatter-plot.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/scatter-plot.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "c2ff9c58be0c92b7cc3ca17da8056ffad91dfe306d86eb0450dce8bfbf008ec4"
+ },
+ {
+  "title": "List Filter Visuals",
+  "section": "analyze-data/visuals",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/list-filter-widget.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/list-filter-widget.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "87b76cc5945d1418f573021c9d986b1883aaadb9c541a5023e778a448d55df3f"
+ },
+ {
+  "title": "Map Visuals",
+  "section": "analyze-data/visuals",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/map-chart-styles.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/map-chart-styles.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "de20cff13a9798137f0fd06525d2a98699ca19212a7a842fdb3531eeef744eb6"
+ },
+ {
+  "title": "Pivot Tables",
+  "section": "analyze-data/visuals",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/pivot-tables.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/pivot-tables.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "c95c83027c369b01cc77225348707668c0261506a5557ae38c5b3abfeaf8a5b6"
+ },
+ {
+  "title": "Tables",
+  "section": "analyze-data/visuals",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/rdt.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/rdt.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "6ee8877c34c2101011124adaa5c81d32a3b6821b79d7d4f924bc68ac6de6c879"
+ },
+ {
+  "title": "Visuals Work Areas",
+  "section": "analyze-data/visuals",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/visual-setup.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/visual-setup.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "ac0e658e65d31279f6e0c63b61c8fb9041ea7b92e33e1e3fa7c16630e72cfb4b"
+ },
+ {
+  "title": "Export Visuals",
+  "section": "analyze-data/visuals",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/visual-export-23.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/visual-export-23.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "bfc1b5a42f5e999029be7f886e62b8208437c6aba303b5d73a5f82e75cd67e3b"
+ },
+ {
+  "title": "Generate Visuals",
+  "section": "analyze-data/visuals",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/generate-visuals.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/generate-visuals.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "8e9c0774294ecd4d39d968bc079eb223d7d34e3d3ce6e284ec3cff3e4332f363"
+ },
+ {
+  "title": "Change Color Schemes",
+  "section": "analyze-data/visuals/colors-and-axes",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/colors-and-axes/colors.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/colors-and-axes/colors.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "46bf6bd203119f7426f15f8b9879fa9e11f15d126696901b78e0769900d22b21"
+ },
+ {
+  "title": "Specify Colors",
+  "section": "analyze-data/visuals/colors-and-axes",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/colors-and-axes/specifying-colors.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/colors-and-axes/specifying-colors.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "3f528c0b69d9d912f67ab1d2e67a553882759dd276778dba22f58964952b9ca4"
+ },
+ {
+  "title": "Configure Visual Names, Descriptions, and Properties",
+  "section": "analyze-data/visuals",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/visual-save.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/visual-save.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "6102d0d5d9c66799d31bcaed0a2a220352d7f72b230f857c4d9571eec80eda40"
+ },
+ {
+  "title": "Number and Date Formatting for Visuals",
+  "section": "analyze-data/visuals",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/vis-number-formatting.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/vis-number-formatting.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "af4f1efc48c4bd890a55ad1f60d791b02c283b85382940c00e6ebece140b1a58"
+ },
+ {
+  "title": "Rulers and Reference Lines",
+  "section": "analyze-data/visuals",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/rulers.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/rulers.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "a491a0950e37a985ea2fa0e6aec28b573c045ac5420dad14ee42d804eea31e2f"
+ },
+ {
+  "title": "Dashboards",
+  "section": "analyze-data/dashboards",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/dashboards/dash-manage.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/dashboards/dash-manage.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "75aa3501b1f337f4cf90ed2d04c36ac6f2e28fd86f9f99e8e2c2634075846bb2"
+ },
+ {
+  "title": "Rich Text Snippets",
+  "section": "analyze-data/widgets",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/widgets/rts-ov.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/widgets/rts-ov.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "05cb12d732c138f69e7b81a55546d54778d1313decbfb4fbc2248d0002a510aa"
+ },
+ {
+  "title": "Self Service Reports",
+  "section": "analyze-data",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/ssr-manage.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/ssr-manage.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "0a8ff44916985059ca37b257b94c33c21b647fc6d888e3345287a44d41fa9d7a"
+ },
+ {
+  "title": "How Dashboard and Self Service Report Permissions Are Determined",
+  "section": "analyze-data/dashboards",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/dashboards/dash-auth-permissions.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/dashboards/dash-auth-permissions.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "740e6848ab14cc0a376ee8b9bf40fabfd263eadcfe6a24e022e8189be6fde70c"
+ },
+ {
+  "title": "Control How Users Interact With a Dashboard",
+  "section": "analyze-data/dashboards",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/dashboards/dash-interactivity.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/dashboards/dash-interactivity.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "cb9e57cded2c866d335e1d38083173abbe6dd7226fbaf66300524a71e7daa544"
+ },
+ {
+  "title": "About Scheduled Reports",
+  "section": "analyze-data/dashboards",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/dashboards/dash-schedule.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/dashboards/dash-schedule.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "ba1dacc7c6455dbc9072d8248b8c92ac129ab83ebd97b8251c0e334480aa0dc6"
+ },
+ {
+  "title": "Dashboard Layouts",
+  "section": "analyze-data/dashboards",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/dashboards/dash-layout.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/dashboards/dash-layout.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "ec48e5ba1405cab5b8120053d149d5ca0338ee10892e4f910b1fcfcae1f36f85"
+ },
+ {
+  "title": "Share a Dashboard or Self Service Report with Users",
+  "section": "analyze-data/dashboards",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/dashboards/dash-share-withinacct.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/dashboards/dash-share-withinacct.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "601cda3a25a96682623b0d8e56a2104abe7880b3f347b09bec8ed5c0ef28ec5e"
+ },
+ {
+  "title": "Even Time Intervals",
+  "section": "analyze-data/dashboards",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/dashboards/even-time-interval.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/dashboards/even-time-interval.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "0aff8b2d846bace0c53396f34051eaf8024701cbd46d0da01a03ba9aad127e61"
+ },
+ {
+  "title": "Import Dashboards",
+  "section": "analyze-data/dashboards",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/dashboards/dash-import.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/dashboards/dash-import.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "38ab5cec4fe0907a8c5060234603b02fae18c05b0fbc5be8decff52b40eaf8dd"
+ },
+ {
+  "title": "Use Tags to Group and Categorize Content",
+  "section": "analyze-data/widgets",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/widgets/tags-ov.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/widgets/tags-ov.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "2c8953bb5a13ac13d22fd21f4e785efe25c42a47f21402110e4629f9a7ab94be"
+ },
+ {
+  "title": "Widget Comments",
+  "section": "analyze-data/widgets",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/widgets/widget-cmts-ov.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/widgets/widget-cmts-ov.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "623569b4d7b050ebb1d1ff65a245f99aadec259d2ce9e94586373f89013b4806"
+ },
+ {
+  "title": "Manipulate Data in the Data Store",
+  "section": "connect-to-data/data",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/data/manipulate-data.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/data/manipulate-data.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "ce3dbca0db378fa95be715ba19e56807c04d505928347ec62cffbeb149cc8aae"
+ },
+ {
+  "title": "Filter Data",
+  "section": "analyze-data/filters",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/filters.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/filters.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "11e18c2019598f7b64286c71effeb24df31bb3d2564529bc19757d80529fcd62"
+ },
+ {
+  "title": "Use Cross-Source Links",
+  "section": "analyze-data/filters",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/using-cross-source-links.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/using-cross-source-links.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "b7ac878fd58381f04a4770561415ab23be457032eea7f898d80b8aad5d1da988"
+ },
+ {
+  "title": "Control How Cross-Visual Filters Interact in a Dashboard",
+  "section": "analyze-data/filters",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/pubsub-ov.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/pubsub-ov.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "978e16df87f3fbf1fb635199c4f04e5c61f18c12c934bac086e853fbc64f7d5c"
+ },
+ {
+  "title": "Publish a Link",
+  "section": "analyze-data/filters",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/published-enable.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/published-enable.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "c6f1eacaf6bb62e388a031094ef65d17f76a0dce8cd1aa2a8493fcf15018fc8e"
+ },
+ {
+  "title": "Auto Data Refresh",
+  "section": "analyze-data/filters",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/auto-refresh-filters.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/auto-refresh-filters.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "9370d0ca065dab6de7740684655991c6544c947732d1c923e586a148162cb531"
+ },
+ {
+  "title": "Use Keysets",
+  "section": "analyze-data/filters",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/keysets-overview.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/keysets-overview.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "5620f3ec007942703dcb058bfed96700ef2b896f037c77e8514dc489bf949344"
+ },
+ {
+  "title": "Group Filters",
+  "section": "analyze-data/filters",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/group-filters.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/group-filters.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "2071596c3e00982decd4f761ee163a7702f81827af3e2e3699c8b3af26762ace"
+ },
+ {
+  "title": "Attribute Filters",
+  "section": "analyze-data/filters",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/filters-attr.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/filters-attr.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "6d3a1427547c7a7c9bf6a26d767312dda60fbd6788d270513e653ee877f7eae0"
+ },
+ {
+  "title": "Save and Maintain Filters",
+  "section": "analyze-data/filters",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/saved-filters-maintaining.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/filters/saved-filters-maintaining.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "6d54f79d782e1786f85d55c2a1c84caceb8794c16c70f9fc2f0f00e5b23786e1"
+ },
+ {
+  "title": "Filter Snippets",
+  "section": "analyze-data/widgets",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/widgets/fltrsnp-ov.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/widgets/fltrsnp-ov.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "de2e44171506f7edfc3ed4883475e604b30755dcbd3d6aa92bad502ad4aa6564"
+ },
+ {
+  "title": "Admin-Defined Functions",
+  "section": "connect-to-data/data",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/data/admin-fx-ov.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/data/admin-fx-ov.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "aa645e4d9bb83daf53113d4b42729cb049817e23c89ec533b37a0a53aebc3780"
+ },
+ {
+  "title": "Hierarchical Fields and Structures",
+  "section": "connect-to-data/sources",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/hierarchical-fields-ov.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/hierarchical-fields-ov.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "2864084c29d125019cc9d3fa8f73574182f87e94f3f2da626fed57a19cc851a8"
+ },
+ {
+  "title": "Maintain Custom Metrics",
+  "section": "connect-to-data/data",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/data/custom-metrics.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/data/custom-metrics.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "14e1818f640a19f7aa4000efcbf28da40e0ca161b9899c7d600cb7b9669a5d0d"
+ },
+ {
+  "title": "Maintain Derived Fields",
+  "section": "connect-to-data/data",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/data/derived-fields.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/data/derived-fields.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "b557cb6721336c2468c49b95dcd14065009ab56cc20477253a17940590852204"
+ },
+ {
+  "title": "Supported Aggregation Functions",
+  "section": "connect-to-data/data",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/data/fx-aggregate.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/data/fx-aggregate.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "7bda44fa9dd73a2252254b3a282292d91e92213898cd3b8c5c3d29e8253b1639"
+ },
+ {
+  "title": "Interpolation for User Attributes in Expressions",
+  "section": "connect-to-data/data",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/data/interpolation-ov.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/data/interpolation-ov.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "806cb7b600c8835d4d405600df9dadf558e22ae5731536e6dbd51e54f46c6433"
+ },
+ {
+  "title": "Support of Nested Data Structures in Self-Service Analytics",
+  "section": "connect-to-data/data",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/data/nested-data-structures.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/data/nested-data-structures.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "6291623b172217aef78bb6b10d6a958a1ebc75170138c38a4253a1852645033e"
+ },
+ {
+  "title": "Sort and Limit Visual Data",
+  "section": "analyze-data/visuals",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/sortlimit-composer.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/sortlimit-composer.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "096392dd4555774bac8377bfb8f7b71a01c2ccee91c8bfe1725b1d2912e7f62e"
+ },
+ {
+  "title": "Use the Time Bar",
+  "section": "analyze-data",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/time-bar.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/time-bar.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "033d2a4ce4cb5f5979840fd3477eca45d24e5f5277fa71ebfeb08afe58a89a63"
+ },
+ {
+  "title": "Use the Conditional Formatting Sidebar",
+  "section": "analyze-data/visuals",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/rdt-condt-format-using.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/analyze-data/visuals/rdt-condt-format-using.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "456c6adee6db1c595ce772297e40348a6c33422af7b379e7af7d3ac3bab97a08"
+ },
+ {
+  "title": "Use Data Sharpening",
+  "section": "connect-to-data/sources",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/data-sharpening-ov.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/connect-to-data/sources/data-sharpening-ov.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "a3424c1c9baa71788fee593c95b82eb339efccd445962b0ea418992a254487f2"
+ },
+ {
+  "title": "Embed Components Into Your Application",
+  "section": "embed-and-extend/embed/dash-embed",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/dash-embed/dash-embed.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/dash-embed/dash-embed.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "e9d29ee088ae2312196dbb1a6ef9236746ea5647d5975a629dbe2b7d5d486434"
+ },
+ {
+  "title": "Embedded Self-Service Analytics Component Controls",
+  "section": "embed-and-extend",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed-controls.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed-controls.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "1c0afa23cbdea29dace36d1a54c358ea412dffa87883271d22fd387281164143"
+ },
+ {
+  "title": "Embed Components Using JavaScript and Trusted Access",
+  "section": "embed-and-extend/embed",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/embed-javascript.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/embed-javascript.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "ab295052740ae8ea30bd52acecc395f48f51c8bf887a381a10abcbf31858aa26"
+ },
+ {
+  "title": "Embeddable Component Snippets",
+  "section": "embed-and-extend/embed",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/dash-embed-gencode-dashboard.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/dash-embed-gencode-dashboard.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "0259d119045d20e3ef15609b10983ed8e7a14e8cfeb6e40db0ef2ae56806ae5e"
+ },
+ {
+  "title": "Embedded Source Editor",
+  "section": "embed-and-extend/embed",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/embed-source-editor.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/embed-source-editor.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "9c57ca0ff048b5970ec63e64e559d5768e74069720580884ed894d1b124550b2"
+ },
+ {
+  "title": "Embed Dashboards",
+  "section": "embed-and-extend/embed/dash-embed",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/dash-embed/dash-embed-steps.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/dash-embed/dash-embed-steps.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "baedcc2d44981a924a8e2c610ea5b1a8285a2eff15dd0997a13f6760e8c84054"
+ },
+ {
+  "title": "EmbedManager Methods",
+  "section": "embed-and-extend/embed",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/embed-javascript-embedmanager-methods.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/embed-javascript-embedmanager-methods.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "350d4e733e3760363ace54eb6d900d652cf7b0621475ce920d265a1c43a10729"
+ },
+ {
+  "title": "Embedded Events",
+  "section": "embed-and-extend/embed",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/embed-javascript-eventlisteners.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/embed-javascript-eventlisteners.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "6dfb74ed133737e35792ed48e9cc888d1109fe2407b903de34b091304b9f434f"
+ },
+ {
+  "title": "Embed Cross-Visual Link Publish and Subscribe Settings Using JavaScript",
+  "section": "embed-and-extend/embed",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/pubsub-embed.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/pubsub-embed.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "f5478123118ea62504fda6ec8a942c6274a620df3aedfb1aeea84f56967d6b9e"
+ },
+ {
+  "title": "Interactivity Properties",
+  "section": "embed-and-extend/embed",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/embed-javascript-embedmanager-interactivityprop.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/embed/embed-javascript-embedmanager-interactivityprop.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "db4462b9179d014ce7a1ac1d3204ccc942174d1b7867129a980aacff496a9aa9"
+ },
+ {
+  "title": "Manage Custom Charts",
+  "section": "embed-and-extend/custom-charts",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/custom-charts/custom-chart-managing.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/custom-charts/custom-chart-managing.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "3dbb1c5234abef28c8fe04123c129e1e2a8a3af8dc77fa20cfa320d32fb65c8d"
+ },
+ {
+  "title": "Maintain Custom Charts Using the Custom Chart CLI",
+  "section": "embed-and-extend/custom-charts",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/custom-charts/custom-chart-maint-cli.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/custom-charts/custom-chart-maint-cli.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "40ee7614faa3be2a8b6de385e2842f024bb8cec17da0c4fb82e1c894bbe22c6b"
+ },
+ {
+  "title": "Visual Type Configuration Properties",
+  "section": "embed-and-extend/custom-charts",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/custom-charts/custom-chart-config.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/custom-charts/custom-chart-config.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "12c673597faabf65cab0429e8bde00215b444621cbdfaf81d6d89c0b84c0ebf5"
+ },
+ {
+  "title": "A Custom Chart Tutorial",
+  "section": "embed-and-extend/custom-charts",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/custom-charts/custom-chart-tut-ov.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/custom-charts/custom-chart-tut-ov.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "b1f0190b098d0d36294504c2bb154b1f960b4dcc02a8cafc6d055338e482b9d7"
+ },
+ {
+  "title": "Part 2: Query Variables, Chart Defaults, Data Preview, and Data Accessors",
+  "section": "embed-and-extend/custom-charts",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/custom-charts/custom-chart-tut-ov-pt2.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/custom-charts/custom-chart-tut-ov-pt2.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "24bfae90473d880f065632ad55cc6ac384c4961e004ecebcb5fbe684df8cceb0"
+ },
+ {
+  "title": "Part 3: Third-Party Charting Library Integration",
+  "section": "embed-and-extend/custom-charts",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/custom-charts/custom-chart-tut-ov-pt3.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/custom-charts/custom-chart-tut-ov-pt3.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "26d8078083a946ea480e0007933733849d748a341daecfee05fdf02576bf346e"
+ },
+ {
+  "title": "Part 4: Custom Chart Controls",
+  "section": "embed-and-extend/custom-charts",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/custom-charts/custom-chart-tut-ov-pt4.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/custom-charts/custom-chart-tut-ov-pt4.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "e65954b07914602581d687f8dea1da601eca5179b97f5200876282e1f96223f6"
+ },
+ {
+  "title": "Custom Chart API",
+  "section": "embed-and-extend/custom-charts",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/custom-charts/custom-chart-api-docs.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/custom-charts/custom-chart-api-docs.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "ee598ed5257b2695f7e106c16536e2a174c496628306a61a5de6808c70cc91fb"
+ },
+ {
+  "title": "Integrate Visual Data Into Your Applications",
+  "section": "embed-and-extend",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/actions-overview.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/actions-overview.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "8e97243dff94cf795e745311f047a2ac1d373b1c6c84f5632ccb21ef1b7e2d7b"
+ },
+ {
+  "title": "Get Started with the Self-Service Analytics Application Framework",
+  "section": "embed-and-extend/api/application-framework",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/api/application-framework/getting-started-with-the-application-framework.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/api/application-framework/getting-started-with-the-application-framework.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "e95cf5c890ce963c0a518a8082394841af8b0fbdd6b2a984131c88dc6bc132b8"
+ },
+ {
+  "title": "Configure Visuals Using Visualization Variables",
+  "section": "embed-and-extend/api/application-framework",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/api/application-framework/config-visuals-vis-var.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/api/application-framework/config-visuals-vis-var.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "db67c75d46edbdd9c78955b2ce64ded7bbfe9595c76fe074e128b4f61e4656b0"
+ },
+ {
+  "title": "Identify a Visual's visualizationID",
+  "section": "embed-and-extend/api/application-framework",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/api/application-framework/identifying-the-visid-of-a-visual.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/api/application-framework/identifying-the-visid-of-a-visual.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "ac453568220aae11e47c68c1dd71b0eeb122880dc158f0765c89e8bcb9914460"
+ },
+ {
+  "title": "Identify a Visual's sourceID",
+  "section": "embed-and-extend/api/application-framework",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/api/application-framework/identifying-the-sourceid-of-a-visuals-source.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/api/application-framework/identifying-the-sourceid-of-a-visuals-source.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "852f68df911d88c23765230a1e9a78e33b8d4364fcb9a582723066019ed25262"
+ },
+ {
+  "title": "Manage User Interface Themes",
+  "section": "embed-and-extend/themes",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/themes/themes-ov.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/themes/themes-ov.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "e37e084832af668ef8a844b7bb93cf6771ccab9b2297cfb978000982b878dee4"
+ },
+ {
+  "title": "Themes JSON File",
+  "section": "embed-and-extend/themes",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/themes/themes-json.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/themes/themes-json.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "51244bd94718e850a1ff5b22be96ee34679cf8dfd43da9850b1e8a5d9f94be09"
+ },
+ {
+  "title": "REST API Overview",
+  "section": "embed-and-extend/api/rest-api",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/api/rest-api/restapi-overview2.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/api/rest-api/restapi-overview2.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "051bcf844feb9e12a331c49534adc16d4df274495bb4ad588d621ee4fcaf22a8"
+ },
+ {
+  "title": "Manage Connectors with REST APIs",
+  "section": "embed-and-extend/api/rest-api",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/api/rest-api/managing-connectors-with-rest-apis.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/api/rest-api/managing-connectors-with-rest-apis.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "2f0f9e2be742d331aba68681134f57ea32672a98973339ecffc49ba59b47ac78"
+ },
+ {
+  "title": "Manage the Upload API Source",
+  "section": "embed-and-extend/api/rest-api",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/api/rest-api/enabling-streaming-sources-upload-api.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/embed-and-extend/api/rest-api/enabling-streaming-sources-upload-api.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "7103f2dc130e12b6dd1d8fcf24dc3b8822eefc64eec8f94b86909e34a350ca0a"
+ },
+ {
+  "title": "Errors and Exceptions",
+  "section": "reference",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/reference/errors-and-exceptions.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/reference/errors-and-exceptions.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "5f39c4bc35668bb5f40bd4583d9ea65d351d4f0986962ddcca2fdc84e6376c5f"
+ },
+ {
+  "title": "Country Name Reference",
+  "section": "reference",
+  "product": "Self-Service Analytics 26.3",
+  "url": "https://insightsoftware.mintlify.app/simba-embedded-analytics/docs/self-service-analytics/26.3/reference/country-name-reference.md",
+  "path": "pages/simba-embedded-analytics/docs/self-service-analytics/26.3/reference/country-name-reference.md",
+  "fetched_at": "2026-10-02T12:10:27Z",
+  "sha256": "4c79246edf88d28d8278b46c672a244507e21d1b80b9f043c29871595b911b88"
+ }
+]
