@@ -881,3 +881,4 @@
 43701196127757	Composer 26 Troubleshooting	The Cross-Origin Request Blocked Error	https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701196127757-The-Cross-Origin-Request-Blocked-Error
 43701177729165	Composer 26 Troubleshooting	What’s the Difference between the Composer REST API and the ComposerJavaScript SDK?	https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701177729165-What-s-the-Difference-between-the-Composer-REST-API-and-the-ComposerJavaScript-SDK
 43701164719501	Composer 26 Troubleshooting	Why do not SDK-Embedded Visuals Display Properly Unless a User is Logged In?	https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/43701164719501-Why-do-not-SDK-Embedded-Visuals-Display-Properly-Unless-a-User-is-Logged-In
+46598739387405	Symphony Users	Product Transition for Symphony Users	https://logi-composer-v26.insightsoftware.com/hc/en-us/articles/46598739387405-Product-Transition-for-Symphony-Users
